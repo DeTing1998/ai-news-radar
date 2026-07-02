@@ -9,7 +9,9 @@ on:
         default: false
         type: boolean
   schedule:
-    - cron: "*/30 * * * *"
+    # Avoid GitHub Actions top-of-hour congestion, where scheduled jobs can be
+    # delayed or dropped. Hourly is enough for a personal news radar.
+    - cron: "17 * * * *"
 
 concurrency:
   group: update-ai-news-${{ github.ref }}
