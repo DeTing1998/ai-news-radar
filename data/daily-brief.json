@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T12:37:29.946907Z",
+  "generated_at": "2026-07-05T13:37:32.067847Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7806,
-      "importance": 0.7806,
-      "importance_score": 0.7806,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9332,
+        "recency": 0.9198,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -191,15 +191,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.651,
-      "importance": 0.651,
-      "importance_score": 0.651,
+      "score": 0.649,
+      "importance": 0.649,
+      "importance_score": 0.649,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.76,
+        "recency": 0.7491,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -214,6 +214,84 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-04",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_5b56c05ebbd2",
+      "title": "2026 中国互联网大会将举办 聚焦 AI 产业化落地、算力互联互通、数据要素市场化等核心议题",
+      "url": "https://www.gelonghui.com/live/2537326",
+      "primary_url": "https://www.gelonghui.com/live/2537326",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "11baf58cd01aa2d1e211a8d6082424f1296224ac",
+          "title": "2026 中国互联网大会将举办 聚焦 AI 产业化落地、算力互联互通、数据要素市场化等核心议题",
+          "url": "https://www.gelonghui.com/live/2537326",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d3a2daf5b1e0a70e6b2834d688e435f2565ae894",
+          "title": "2026 中国互联网大会将举办，聚焦 AI 产业化落地、算力互联互通等核心议题",
+          "url": "https://wallstreetcn.com/livenews/3129011",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "11baf58cd01aa2d1e211a8d6082424f1296224ac",
+          "title": "2026 中国互联网大会将举办 聚焦 AI 产业化落地、算力互联互通、数据要素市场化等核心议题",
+          "url": "https://www.gelonghui.com/live/2537326",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d3a2daf5b1e0a70e6b2834d688e435f2565ae894",
+          "title": "2026 中国互联网大会将举办，聚焦 AI 产业化落地、算力互联互通等核心议题",
+          "url": "https://wallstreetcn.com/livenews/3129011",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T13:37:32.067847Z",
+      "latest_at": "2026-07-05T13:37:32.067847Z",
+      "primary_item": {
+        "id": "11baf58cd01aa2d1e211a8d6082424f1296224ac",
+        "title": "2026 中国互联网大会将举办 聚焦 AI 产业化落地、算力互联互通、数据要素市场化等核心议题",
+        "url": "https://www.gelonghui.com/live/2537326",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -270,15 +348,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9946,
+        "recency": 0.9803,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -293,85 +371,6 @@
         "url": "https://news.ycombinator.com/item?id=48792399",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_e12374b34600",
-      "title": "OpenAI，IPO 大消息",
-      "url": "https://www.huxiu.com/article/4872764.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872764.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
-          "title": "OpenAI，IPO 大消息",
-          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "58ff0b5aedb9e839fe395f9ea222b3333d5b9848",
-          "title": "OpenAI，IPO大消息",
-          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T10:54:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
-          "title": "OpenAI，IPO 大消息",
-          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "58ff0b5aedb9e839fe395f9ea222b3333d5b9848",
-          "title": "OpenAI，IPO大消息",
-          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T10:54:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9857,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T10:54:30Z",
-      "latest_at": "2026-07-05T11:37:32.674876Z",
-      "primary_item": {
-        "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
-        "title": "OpenAI，IPO 大消息",
-        "url": "https://www.huxiu.com/article/4872764.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -428,15 +427,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -507,15 +506,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9814,
+        "recency": 0.9674,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -605,15 +604,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8316,
+        "recency": 0.8197,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -683,15 +682,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5259,
-      "importance": 0.5259,
-      "importance_score": 0.5259,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8894,
+        "recency": 0.8767,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -706,6 +705,85 @@
         "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_e12374b34600",
+      "title": "OpenAI，IPO 大消息",
+      "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872764.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
+          "title": "OpenAI，IPO 大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "58ff0b5aedb9e839fe395f9ea222b3333d5b9848",
+          "title": "OpenAI，IPO大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T10:54:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
+          "title": "OpenAI，IPO 大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "58ff0b5aedb9e839fe395f9ea222b3333d5b9848",
+          "title": "OpenAI，IPO大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T10:54:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9715,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T10:54:30Z",
+      "latest_at": "2026-07-05T11:37:32.674876Z",
+      "primary_item": {
+        "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
+        "title": "OpenAI，IPO 大消息",
+        "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -762,85 +840,6 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9857,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T11:25:32.035000Z",
-      "latest_at": "2026-07-05T11:37:32.674876Z",
-      "primary_item": {
-        "id": "d3a16d4e2417b53d3e377f4664a9bf06c86ad32b",
-        "title": "斯泰皮特 / CodexBar / steipete / CodexBar",
-        "url": "https://github.com/steipete/CodexBar",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6927f6ac0b83",
-      "title": "复旦大学一课程考试改为「人考 AI」，4 名大学生出题让 AI 拿 0 分",
-      "url": "https://www.ithome.com/0/972/809.htm",
-      "primary_url": "https://www.ithome.com/0/972/809.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "c47775fc98e23196c7399bedab6d2fd982a7ede7",
-          "title": "复旦大学一课程考试改为「人考 AI」，4 名大学生出题让 AI 拿 0 分",
-          "url": "https://www.ithome.com/0/972/809.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0a3658abe726a814966a14bc8dc7d66ead6f6dfd",
-          "title": "复旦大学一课程考试改为“人考 AI”，4 名大学生出题让 AI 拿 0 分",
-          "url": "https://www.ithome.com/0/972/809.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T09:42:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c47775fc98e23196c7399bedab6d2fd982a7ede7",
-          "title": "复旦大学一课程考试改为「人考 AI」，4 名大学生出题让 AI 拿 0 分",
-          "url": "https://www.ithome.com/0/972/809.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0a3658abe726a814966a14bc8dc7d66ead6f6dfd",
-          "title": "复旦大学一课程考试改为“人考 AI”，4 名大学生出题让 AI 拿 0 分",
-          "url": "https://www.ithome.com/0/972/809.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T09:42:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
       "score": 0.5407,
       "importance": 0.5407,
       "importance_score": 0.5407,
@@ -856,13 +855,13 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T09:42:03Z",
-      "latest_at": "2026-07-05T10:37:33.044993Z",
+      "earliest_at": "2026-07-05T11:25:32.035000Z",
+      "latest_at": "2026-07-05T11:37:32.674876Z",
       "primary_item": {
-        "id": "c47775fc98e23196c7399bedab6d2fd982a7ede7",
-        "title": "复旦大学一课程考试改为「人考 AI」，4 名大学生出题让 AI 拿 0 分",
-        "url": "https://www.ithome.com/0/972/809.htm",
-        "source": "Readhub · AI",
+        "id": "d3a16d4e2417b53d3e377f4664a9bf06c86ad32b",
+        "title": "斯泰皮特 / CodexBar / steipete / CodexBar",
+        "url": "https://github.com/steipete/CodexBar",
+        "source": "GitHub · Trending Today",
         "source_name": "TopHub"
       }
     },
@@ -920,15 +919,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9517,
+        "recency": 0.938,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -998,15 +997,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5044,
-      "importance": 0.5044,
-      "importance_score": 0.5044,
+      "score": 0.5024,
+      "importance": 0.5024,
+      "importance_score": 0.5024,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7698,
+        "recency": 0.7587,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1076,15 +1075,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5027,
-      "importance": 0.5027,
-      "importance_score": 0.5027,
+      "score": 0.5007,
+      "importance": 0.5007,
+      "importance_score": 0.5007,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7605,
+        "recency": 0.7496,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1155,15 +1154,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9141,
+        "recency": 0.901,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1233,15 +1232,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5149,
-      "importance": 0.5149,
-      "importance_score": 0.5149,
+      "score": 0.5128,
+      "importance": 0.5128,
+      "importance_score": 0.5128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8286,
+        "recency": 0.8167,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1259,55 +1258,55 @@
       }
     },
     {
-      "story_id": "story_4a7960e33ae9",
-      "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
-      "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872728.html?f=rss",
+      "story_id": "story_6927f6ac0b83",
+      "title": "复旦大学一课程考试改为「人考 AI」，4 名大学生出题让 AI 拿 0 分",
+      "url": "https://www.ithome.com/0/972/809.htm",
+      "primary_url": "https://www.ithome.com/0/972/809.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "548d718e33849fa94c0a33bfa849ec44290758c7",
-          "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
-          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
+          "id": "c47775fc98e23196c7399bedab6d2fd982a7ede7",
+          "title": "复旦大学一课程考试改为「人考 AI」，4 名大学生出题让 AI 拿 0 分",
+          "url": "https://www.ithome.com/0/972/809.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "388e8d9290d7233318daa76ca327b7a0970bfaa6",
-          "title": "别问AI像不像人了，先问它在灾难里能不能逃命",
-          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "0a3658abe726a814966a14bc8dc7d66ead6f6dfd",
+          "title": "复旦大学一课程考试改为“人考 AI”，4 名大学生出题让 AI 拿 0 分",
+          "url": "https://www.ithome.com/0/972/809.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-05T07:53:38Z"
+          "published_at": "2026-07-05T09:42:03Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "548d718e33849fa94c0a33bfa849ec44290758c7",
-          "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
-          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
+          "id": "c47775fc98e23196c7399bedab6d2fd982a7ede7",
+          "title": "复旦大学一课程考试改为「人考 AI」，4 名大学生出题让 AI 拿 0 分",
+          "url": "https://www.ithome.com/0/972/809.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "388e8d9290d7233318daa76ca327b7a0970bfaa6",
-          "title": "别问AI像不像人了，先问它在灾难里能不能逃命",
-          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "0a3658abe726a814966a14bc8dc7d66ead6f6dfd",
+          "title": "复旦大学一课程考试改为“人考 AI”，4 名大学生出题让 AI 拿 0 分",
+          "url": "https://www.ithome.com/0/972/809.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-05T07:53:38Z"
+          "published_at": "2026-07-05T09:42:03Z"
         }
       ],
       "item_count": 2,
@@ -1327,12 +1326,12 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T07:53:38Z",
-      "latest_at": "2026-07-05T09:37:29.154728Z",
+      "earliest_at": "2026-07-05T09:42:03Z",
+      "latest_at": "2026-07-05T10:37:33.044993Z",
       "primary_item": {
-        "id": "548d718e33849fa94c0a33bfa849ec44290758c7",
-        "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
-        "url": "https://www.huxiu.com/article/4872728.html?f=rss",
+        "id": "c47775fc98e23196c7399bedab6d2fd982a7ede7",
+        "title": "复旦大学一课程考试改为「人考 AI」，4 名大学生出题让 AI 拿 0 分",
+        "url": "https://www.ithome.com/0/972/809.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1391,15 +1390,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5364,
-      "importance": 0.5364,
-      "importance_score": 0.5364,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.948,
+        "recency": 0.9344,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1469,15 +1468,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5001,
-      "importance": 0.5001,
-      "importance_score": 0.5001,
+      "score": 0.4981,
+      "importance": 0.4981,
+      "importance_score": 0.4981,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7459,
+        "recency": 0.7352,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1548,15 +1547,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5207,
-      "importance": 0.5207,
-      "importance_score": 0.5207,
+      "score": 0.5184,
+      "importance": 0.5184,
+      "importance_score": 0.5184,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8603,
+        "recency": 0.848,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1626,15 +1625,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5144,
-      "importance": 0.5144,
-      "importance_score": 0.5144,
+      "score": 0.5123,
+      "importance": 0.5123,
+      "importance_score": 0.5123,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8258,
+        "recency": 0.814,
         "story_heat": 0.25
       },
       "category": "watch",
