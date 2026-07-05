@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T02:37:29.106342Z",
+  "generated_at": "2026-07-05T03:37:27.733583Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7769,
+        "recency": 0.7658,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7254,
-      "importance": 0.7254,
-      "importance_score": 0.7254,
+      "score": 0.7235,
+      "importance": 0.7235,
+      "importance_score": 0.7235,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.732,
+        "recency": 0.7215,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -251,15 +251,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6722,
-      "importance": 0.6722,
-      "importance_score": 0.6722,
+      "score": 0.67,
+      "importance": 0.67,
+      "importance_score": 0.67,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.8781,
+        "recency": 0.8655,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -349,15 +349,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5638,
-      "importance": 0.5638,
-      "importance_score": 0.5638,
+      "score": 0.5613,
+      "importance": 0.5613,
+      "importance_score": 0.5613,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9608,
+        "recency": 0.9471,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -372,6 +372,85 @@
         "url": "https://github.com/openai/codex/issues/30364",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e82c5ca69fab",
+      "title": "AI 后半场，该关注什么？",
+      "url": "https://www.huxiu.com/article/4872721.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872721.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "8c9049593e936db27e2c8c6ba774f1fd37b1f702",
+          "title": "AI 后半场，该关注什么？",
+          "url": "https://www.huxiu.com/article/4872721.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d65e310f7bd8868cbe14986231e36e281e3cf36e",
+          "title": "AI后半场，该关注什么？",
+          "url": "https://www.huxiu.com/article/4872721.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T02:08:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "8c9049593e936db27e2c8c6ba774f1fd37b1f702",
+          "title": "AI 后半场，该关注什么？",
+          "url": "https://www.huxiu.com/article/4872721.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d65e310f7bd8868cbe14986231e36e281e3cf36e",
+          "title": "AI后半场，该关注什么？",
+          "url": "https://www.huxiu.com/article/4872721.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T02:08:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T02:08:26Z",
+      "latest_at": "2026-07-05T03:37:27.733583Z",
+      "primary_item": {
+        "id": "8c9049593e936db27e2c8c6ba774f1fd37b1f702",
+        "title": "AI 后半场，该关注什么？",
+        "url": "https://www.huxiu.com/article/4872721.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -428,15 +507,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.994,
+        "recency": 0.9797,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -454,82 +533,81 @@
       }
     },
     {
-      "story_id": "story_0e0ad99c6388",
-      "title": "英国「星际之门」项目被曝为「空头支票」，OpenAI 从未实地考察核心选址",
-      "url": "https://www.ithome.com/0/972/685.htm",
-      "primary_url": "https://www.ithome.com/0/972/685.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_53b7a4657994",
+      "title": "对断头台的思考 / Reflections on the Guillotine",
+      "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+      "primary_url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "9f697b2a52fa3dc7911c7ff7cdbf8dfb9e0308a4",
-          "title": "英国「星际之门」项目被曝为「空头支票」，OpenAI 从未实地考察核心选址",
-          "url": "https://www.ithome.com/0/972/685.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "97be2472a7e881b7ddf8c37437c78fc6518eb285",
+          "title": "对断头台的思考 / Reflections on the Guillotine",
+          "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T23:36:11Z"
         },
         {
-          "id": "7a68b683acf1ae87a92d2b562b9948637e50b89f",
-          "title": "英国“星际之门”项目被曝为“空头支票”，OpenAI 从未实地考察核心选址",
-          "url": "https://www.ithome.com/0/972/685.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T23:32:43Z"
+          "id": "a28c3c0a77226b70c070de7bd93bb2975b369767",
+          "title": "对断头台的反思 (1957) / Reflections on the Guillotine (1957)",
+          "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T23:36:11Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "9f697b2a52fa3dc7911c7ff7cdbf8dfb9e0308a4",
-          "title": "英国「星际之门」项目被曝为「空头支票」，OpenAI 从未实地考察核心选址",
-          "url": "https://www.ithome.com/0/972/685.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "97be2472a7e881b7ddf8c37437c78fc6518eb285",
+          "title": "对断头台的思考 / Reflections on the Guillotine",
+          "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T23:36:11Z"
         },
         {
-          "id": "7a68b683acf1ae87a92d2b562b9948637e50b89f",
-          "title": "英国“星际之门”项目被曝为“空头支票”，OpenAI 从未实地考察核心选址",
-          "url": "https://www.ithome.com/0/972/685.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T23:32:43Z"
+          "id": "a28c3c0a77226b70c070de7bd93bb2975b369767",
+          "title": "对断头台的反思 (1957) / Reflections on the Guillotine (1957)",
+          "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T23:36:11Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9715,
+        "recency": 0.9436,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T23:32:43Z",
-      "latest_at": "2026-07-05T00:37:28.230101Z",
+      "earliest_at": "2026-07-04T23:36:11Z",
+      "latest_at": "2026-07-04T23:36:11Z",
       "primary_item": {
-        "id": "9f697b2a52fa3dc7911c7ff7cdbf8dfb9e0308a4",
-        "title": "英国「星际之门」项目被曝为「空头支票」，OpenAI 从未实地考察核心选址",
-        "url": "https://www.ithome.com/0/972/685.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "97be2472a7e881b7ddf8c37437c78fc6518eb285",
+        "title": "对断头台的思考 / Reflections on the Guillotine",
+        "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -585,15 +663,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5259,
-      "importance": 0.5259,
-      "importance_score": 0.5259,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8894,
+        "recency": 0.8766,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -663,15 +741,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.524,
-      "importance": 0.524,
-      "importance_score": 0.524,
+      "score": 0.5217,
+      "importance": 0.5217,
+      "importance_score": 0.5217,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8787,
+        "recency": 0.8661,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -742,15 +820,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
+      "score": 0.5087,
+      "importance": 0.5087,
+      "importance_score": 0.5087,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8052,
+        "recency": 0.7937,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -764,6 +842,85 @@
         "title": "CoplayDev / unity-mcp",
         "url": "https://github.com/CoplayDev/unity-mcp",
         "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_0e0ad99c6388",
+      "title": "英国「星际之门」项目被曝为「空头支票」，OpenAI 从未实地考察核心选址",
+      "url": "https://www.ithome.com/0/972/685.htm",
+      "primary_url": "https://www.ithome.com/0/972/685.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "9f697b2a52fa3dc7911c7ff7cdbf8dfb9e0308a4",
+          "title": "英国「星际之门」项目被曝为「空头支票」，OpenAI 从未实地考察核心选址",
+          "url": "https://www.ithome.com/0/972/685.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7a68b683acf1ae87a92d2b562b9948637e50b89f",
+          "title": "英国“星际之门”项目被曝为“空头支票”，OpenAI 从未实地考察核心选址",
+          "url": "https://www.ithome.com/0/972/685.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T23:32:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "9f697b2a52fa3dc7911c7ff7cdbf8dfb9e0308a4",
+          "title": "英国「星际之门」项目被曝为「空头支票」，OpenAI 从未实地考察核心选址",
+          "url": "https://www.ithome.com/0/972/685.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7a68b683acf1ae87a92d2b562b9948637e50b89f",
+          "title": "英国“星际之门”项目被曝为“空头支票”，OpenAI 从未实地考察核心选址",
+          "url": "https://www.ithome.com/0/972/685.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T23:32:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9576,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T23:32:43Z",
+      "latest_at": "2026-07-05T00:37:28.230101Z",
+      "primary_item": {
+        "id": "9f697b2a52fa3dc7911c7ff7cdbf8dfb9e0308a4",
+        "title": "英国「星际之门」项目被曝为「空头支票」，OpenAI 从未实地考察核心选址",
+        "url": "https://www.ithome.com/0/972/685.htm",
+        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
@@ -821,15 +978,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5398,
-      "importance": 0.5398,
-      "importance_score": 0.5398,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9667,
+        "recency": 0.9528,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -900,15 +1057,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5074,
-      "importance": 0.5074,
-      "importance_score": 0.5074,
+      "score": 0.5053,
+      "importance": 0.5053,
+      "importance_score": 0.5053,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7865,
+        "recency": 0.7752,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -979,15 +1136,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4996,
-      "importance": 0.4996,
-      "importance_score": 0.4996,
+      "score": 0.4977,
+      "importance": 0.4977,
+      "importance_score": 0.4977,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7432,
+        "recency": 0.7325,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1005,82 +1162,81 @@
       }
     },
     {
-      "story_id": "story_abc36e33f856",
-      "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-      "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872701.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_5f09d23ce6db",
+      "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
+      "url": "https://www.eso.org/public/news/eso2607",
+      "primary_url": "https://www.eso.org/public/news/eso2607",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
-          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
+          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
+          "url": "https://www.eso.org/public/news/eso2607",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T17:17:28Z"
         },
         {
-          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
-          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T15:19:14Z"
+          "id": "d5b0cd59fb184fc83d97261880c8b27d944c8553",
+          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / No more than 100 000 faint satellites should orbit Earth",
+          "url": "https://www.eso.org/public/news/eso2607",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T17:17:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
-          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
+          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
+          "url": "https://www.eso.org/public/news/eso2607",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T17:17:28Z"
         },
         {
-          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
-          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T15:19:14Z"
+          "id": "d5b0cd59fb184fc83d97261880c8b27d944c8553",
+          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / No more than 100 000 faint satellites should orbit Earth",
+          "url": "https://www.eso.org/public/news/eso2607",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T17:17:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
+      "score": 0.5208,
+      "importance": 0.5208,
+      "importance_score": 0.5208,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8655,
+        "recency": 0.8614,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T15:19:14Z",
-      "latest_at": "2026-07-04T16:37:32.707791Z",
+      "earliest_at": "2026-07-04T17:17:28Z",
+      "latest_at": "2026-07-04T17:17:28Z",
       "primary_item": {
-        "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
-        "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-        "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
+        "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
+        "url": "https://www.eso.org/public/news/eso2607",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1136,15 +1292,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5209,
-      "importance": 0.5209,
-      "importance_score": 0.5209,
+      "score": 0.5187,
+      "importance": 0.5187,
+      "importance_score": 0.5187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8618,
+        "recency": 0.8494,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1215,15 +1371,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
+      "score": 0.5087,
+      "importance": 0.5087,
+      "importance_score": 0.5087,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8052,
+        "recency": 0.7937,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1294,15 +1450,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5063,
-      "importance": 0.5063,
-      "importance_score": 0.5063,
+      "score": 0.5043,
+      "importance": 0.5043,
+      "importance_score": 0.5043,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7805,
+        "recency": 0.7693,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1373,15 +1529,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.5277,
+      "importance": 0.5277,
+      "importance_score": 0.5277,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9124,
+        "recency": 0.8993,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1399,238 +1555,81 @@
       }
     },
     {
-      "story_id": "story_96aeaf10e3fa",
-      "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-      "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
-      "primary_url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+      "story_id": "story_abc36e33f856",
+      "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+      "url": "https://www.huxiu.com/article/4872701.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872701.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
+          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
-          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
+          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T15:19:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
+          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
-          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
+          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T15:19:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.515,
-      "importance": 0.515,
-      "importance_score": 0.515,
+      "score": 0.5194,
+      "importance": 0.5194,
+      "importance_score": 0.5194,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8288,
+        "recency": 0.8531,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T11:37:27.460882Z",
-      "latest_at": "2026-07-04T13:37:31.190755Z",
+      "earliest_at": "2026-07-04T15:19:14Z",
+      "latest_at": "2026-07-04T16:37:32.707791Z",
       "primary_item": {
-        "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
-        "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-        "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+        "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
+        "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+        "url": "https://www.huxiu.com/article/4872701.html?f=rss",
         "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_a699cca17620",
-      "title": "asgeirtj / system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "primary_url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "2fa4d188d72c83942d8eda61541a4bf7f9cd6c7d",
-          "title": "asgeirtj / system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "baa9d03b16ed38aed33577d7ed876031205e6795",
-          "title": "asgeirtj /      system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T11:16:55.991000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "2fa4d188d72c83942d8eda61541a4bf7f9cd6c7d",
-          "title": "asgeirtj / system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "baa9d03b16ed38aed33577d7ed876031205e6795",
-          "title": "asgeirtj /      system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T11:16:55.991000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8052,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T11:16:55.991000Z",
-      "latest_at": "2026-07-04T11:37:27.460882Z",
-      "primary_item": {
-        "id": "2fa4d188d72c83942d8eda61541a4bf7f9cd6c7d",
-        "title": "asgeirtj / system_prompts_leaks",
-        "url": "https://github.com/asgeirtj/system_prompts_leaks",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_2bf550ae2d7d",
-      "title": "crynta / terax-ai",
-      "url": "https://github.com/crynta/terax-ai",
-      "primary_url": "https://github.com/crynta/terax-ai",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "8332e98da8be230e184e0c6227dc035e0d330367",
-          "title": "crynta / terax-ai",
-          "url": "https://github.com/crynta/terax-ai",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "56becdfdfdbf6893e797561284c64f592dff735d",
-          "title": "crynta /      terax-ai",
-          "url": "https://github.com/crynta/terax-ai",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T11:16:55.991000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "8332e98da8be230e184e0c6227dc035e0d330367",
-          "title": "crynta / terax-ai",
-          "url": "https://github.com/crynta/terax-ai",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "56becdfdfdbf6893e797561284c64f592dff735d",
-          "title": "crynta /      terax-ai",
-          "url": "https://github.com/crynta/terax-ai",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T11:16:55.991000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8052,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T11:16:55.991000Z",
-      "latest_at": "2026-07-04T11:37:27.460882Z",
-      "primary_item": {
-        "id": "8332e98da8be230e184e0c6227dc035e0d330367",
-        "title": "crynta / terax-ai",
-        "url": "https://github.com/crynta/terax-ai",
-        "source": "GitHub · Trending Today",
         "source_name": "TopHub"
       }
     }
