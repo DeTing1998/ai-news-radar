@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T23:37:32.417402Z",
+  "generated_at": "2026-07-05T00:37:28.230101Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8113,
+        "recency": 0.7997,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7644,
+        "recency": 0.7534,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,15 +179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7223,
-      "importance": 0.7223,
-      "importance_score": 0.7223,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7814,
+        "recency": 0.7702,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -311,15 +311,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6792,
-      "importance": 0.6792,
-      "importance_score": 0.6792,
+      "score": 0.6769,
+      "importance": 0.6769,
+      "importance_score": 0.6769,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -338,12 +338,21 @@
     },
     {
       "story_id": "story_7e9ffc3a6038",
-      "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://news.ycombinator.com/item?id=48789428",
-      "primary_url": "https://news.ycombinator.com/item?id=48789428",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "primary_url": "https://github.com/openai/codex/issues/30364",
+      "source": "github.com",
+      "source_name": "Buzzing",
       "sources": [
+        {
+          "id": "1491dceae844e236964ec16492437e204db4290b",
+          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
+          "url": "https://github.com/openai/codex/issues/30364",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T23:51:31.657000Z"
+        },
         {
           "id": "b7019ca39a3312db824536e584e62b72a0cdd691",
           "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
@@ -355,12 +364,180 @@
         },
         {
           "id": "92cc93d4ff527a25a903102003082aff4adc32fa",
-          "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
           "url": "https://github.com/openai/codex/issues/30364",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-07-04T21:51:09Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1491dceae844e236964ec16492437e204db4290b",
+          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
+          "url": "https://github.com/openai/codex/issues/30364",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T23:51:31.657000Z"
+        },
+        {
+          "id": "b7019ca39a3312db824536e584e62b72a0cdd691",
+          "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+          "url": "https://news.ycombinator.com/item?id=48789428",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-04T22:16:36.431000Z"
+        },
+        {
+          "id": "92cc93d4ff527a25a903102003082aff4adc32fa",
+          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+          "url": "https://github.com/openai/codex/issues/30364",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T21:51:09Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5688,
+      "importance": 0.5688,
+      "importance_score": 0.5688,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.989,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T21:51:09Z",
+      "latest_at": "2026-07-04T23:51:31.657000Z",
+      "primary_item": {
+        "id": "1491dceae844e236964ec16492437e204db4290b",
+        "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
+        "url": "https://github.com/openai/codex/issues/30364",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0e0ad99c6388",
+      "title": "英国「星际之门」项目被曝为「空头支票」，OpenAI 从未实地考察核心选址",
+      "url": "https://www.ithome.com/0/972/685.htm",
+      "primary_url": "https://www.ithome.com/0/972/685.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "9f697b2a52fa3dc7911c7ff7cdbf8dfb9e0308a4",
+          "title": "英国「星际之门」项目被曝为「空头支票」，OpenAI 从未实地考察核心选址",
+          "url": "https://www.ithome.com/0/972/685.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7a68b683acf1ae87a92d2b562b9948637e50b89f",
+          "title": "英国“星际之门”项目被曝为“空头支票”，OpenAI 从未实地考察核心选址",
+          "url": "https://www.ithome.com/0/972/685.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T23:32:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "9f697b2a52fa3dc7911c7ff7cdbf8dfb9e0308a4",
+          "title": "英国「星际之门」项目被曝为「空头支票」，OpenAI 从未实地考察核心选址",
+          "url": "https://www.ithome.com/0/972/685.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7a68b683acf1ae87a92d2b562b9948637e50b89f",
+          "title": "英国“星际之门”项目被曝为“空头支票”，OpenAI 从未实地考察核心选址",
+          "url": "https://www.ithome.com/0/972/685.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T23:32:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T23:32:43Z",
+      "latest_at": "2026-07-05T00:37:28.230101Z",
+      "primary_item": {
+        "id": "9f697b2a52fa3dc7911c7ff7cdbf8dfb9e0308a4",
+        "title": "英国「星际之门」项目被曝为「空头支票」，OpenAI 从未实地考察核心选址",
+        "url": "https://www.ithome.com/0/972/685.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_9e78dadfe763",
+      "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+      "url": "https://news.ycombinator.com/item?id=48789325",
+      "primary_url": "https://news.ycombinator.com/item?id=48789325",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://news.ycombinator.com/item?id=48789325",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T00:16:40.774000Z"
+        },
+        {
+          "id": "8a9efd5a603fa218be1cfe29d8a4e4df97a03a70",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T21:35:30Z"
         }
       ],
       "source_count": 2,
@@ -370,47 +547,47 @@
       ],
       "items": [
         {
-          "id": "b7019ca39a3312db824536e584e62b72a0cdd691",
-          "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-          "url": "https://news.ycombinator.com/item?id=48789428",
+          "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://news.ycombinator.com/item?id=48789325",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-04T22:16:36.431000Z"
+          "published_at": "2026-07-05T00:16:40.774000Z"
         },
         {
-          "id": "92cc93d4ff527a25a903102003082aff4adc32fa",
-          "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-          "url": "https://github.com/openai/codex/issues/30364",
+          "id": "8a9efd5a603fa218be1cfe29d8a4e4df97a03a70",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-04T21:51:09Z"
+          "published_at": "2026-07-04T21:35:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5423,
-      "importance": 0.5423,
-      "importance_score": 0.5423,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9807,
+        "recency": 0.995,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T21:51:09Z",
-      "latest_at": "2026-07-04T22:16:36.431000Z",
+      "earliest_at": "2026-07-04T21:35:30Z",
+      "latest_at": "2026-07-05T00:16:40.774000Z",
       "primary_item": {
-        "id": "b7019ca39a3312db824536e584e62b72a0cdd691",
-        "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-        "url": "https://news.ycombinator.com/item?id=48789428",
+        "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
+        "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+        "url": "https://news.ycombinator.com/item?id=48789325",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -468,15 +645,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.533,
-      "importance": 0.533,
-      "importance_score": 0.533,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9287,
+        "recency": 0.9154,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -491,85 +668,6 @@
         "url": "https://rakyll.org/coding-agents",
         "source": "Lobsters (技术社区)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_abc36e33f856",
-      "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-      "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872701.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
-          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
-          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T15:19:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
-          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
-          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T15:19:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9039,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T15:19:14Z",
-      "latest_at": "2026-07-04T16:37:32.707791Z",
-      "primary_item": {
-        "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
-        "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-        "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -626,15 +724,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
+      "score": 0.515,
+      "importance": 0.515,
+      "importance_score": 0.515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8409,
+        "recency": 0.8288,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -705,15 +803,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5136,
-      "importance": 0.5136,
-      "importance_score": 0.5136,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8213,
+        "recency": 0.8095,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -784,15 +882,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5373,
-      "importance": 0.5373,
-      "importance_score": 0.5373,
+      "score": 0.5348,
+      "importance": 0.5348,
+      "importance_score": 0.5348,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9527,
+        "recency": 0.9391,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -863,15 +961,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5055,
-      "importance": 0.5055,
-      "importance_score": 0.5055,
+      "score": 0.5035,
+      "importance": 0.5035,
+      "importance_score": 0.5035,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7761,
+        "recency": 0.765,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -942,15 +1040,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5026,
-      "importance": 0.5026,
-      "importance_score": 0.5026,
+      "score": 0.5006,
+      "importance": 0.5006,
+      "importance_score": 0.5006,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.76,
+        "recency": 0.7492,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -968,79 +1066,80 @@
       }
     },
     {
-      "story_id": "story_96aeaf10e3fa",
-      "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-      "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
-      "primary_url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+      "story_id": "story_abc36e33f856",
+      "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+      "url": "https://www.huxiu.com/article/4872701.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872701.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
+          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
-          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
+          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T15:19:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
+          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
-          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
+          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T15:19:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8655,
+        "recency": 0.8909,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T11:37:27.460882Z",
-      "latest_at": "2026-07-04T13:37:31.190755Z",
+      "earliest_at": "2026-07-04T15:19:14Z",
+      "latest_at": "2026-07-04T16:37:32.707791Z",
       "primary_item": {
-        "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
-        "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-        "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+        "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
+        "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+        "url": "https://www.huxiu.com/article/4872701.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1099,15 +1198,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
+      "score": 0.515,
+      "importance": 0.515,
+      "importance_score": 0.515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8409,
+        "recency": 0.8288,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1178,15 +1277,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5125,
-      "importance": 0.5125,
-      "importance_score": 0.5125,
+      "score": 0.5104,
+      "importance": 0.5104,
+      "importance_score": 0.5104,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.815,
+        "recency": 0.8033,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1201,6 +1300,84 @@
         "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_96aeaf10e3fa",
+      "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+      "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+      "primary_url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
+          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+          "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
+          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
+          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
+          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+          "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
+          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
+          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5194,
+      "importance": 0.5194,
+      "importance_score": 0.5194,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8531,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T11:37:27.460882Z",
+      "latest_at": "2026-07-04T13:37:31.190755Z",
+      "primary_item": {
+        "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
+        "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+        "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1257,85 +1434,6 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8409,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T11:16:55.991000Z",
-      "latest_at": "2026-07-04T11:37:27.460882Z",
-      "primary_item": {
-        "id": "2fa4d188d72c83942d8eda61541a4bf7f9cd6c7d",
-        "title": "asgeirtj / system_prompts_leaks",
-        "url": "https://github.com/asgeirtj/system_prompts_leaks",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_cec279eb3744",
-      "title": "都有 AI 了，还要读书博主干吗？",
-      "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872670.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
-          "title": "都有 AI 了，还要读书博主干吗？",
-          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "5eec2cc1156caeb142ac8f9342c6ecdc043fd564",
-          "title": "都有AI了，还要读书博主干吗？",
-          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T09:35:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
-          "title": "都有 AI 了，还要读书博主干吗？",
-          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "5eec2cc1156caeb142ac8f9342c6ecdc043fd564",
-          "title": "都有AI了，还要读书博主干吗？",
-          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T09:35:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
       "score": 0.515,
       "importance": 0.515,
       "importance_score": 0.515,
@@ -1351,13 +1449,13 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T09:35:34Z",
-      "latest_at": "2026-07-04T10:37:33.463643Z",
+      "earliest_at": "2026-07-04T11:16:55.991000Z",
+      "latest_at": "2026-07-04T11:37:27.460882Z",
       "primary_item": {
-        "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
-        "title": "都有 AI 了，还要读书博主干吗？",
-        "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-        "source": "Readhub · AI",
+        "id": "2fa4d188d72c83942d8eda61541a4bf7f9cd6c7d",
+        "title": "asgeirtj / system_prompts_leaks",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks",
+        "source": "GitHub · Trending Today",
         "source_name": "TopHub"
       }
     },
@@ -1415,15 +1513,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.508,
-      "importance": 0.508,
-      "importance_score": 0.508,
+      "score": 0.506,
+      "importance": 0.506,
+      "importance_score": 0.506,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7899,
+        "recency": 0.7786,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1494,15 +1592,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
+      "score": 0.515,
+      "importance": 0.515,
+      "importance_score": 0.515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8409,
+        "recency": 0.8288,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1516,85 +1614,6 @@
         "title": "crynta / terax-ai",
         "url": "https://github.com/crynta/terax-ai",
         "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_ddc5ffe6c280",
-      "title": "OpenAI 拟向美国政府出让股份：AI 创造的财富应当由谁享有？",
-      "url": "https://www.huxiu.com/article/4872642.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872642.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "b984d184b92304eb46955d4025cf1bd3e1e5b9e3",
-          "title": "OpenAI 拟向美国政府出让股份：AI 创造的财富应当由谁享有？",
-          "url": "https://www.huxiu.com/article/4872642.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1d707d2ab6b7c2067667020c3b1e94b423f7c93c",
-          "title": "OpenAI拟向美国政府出让股份：AI创造的财富应当由谁享有？",
-          "url": "https://www.huxiu.com/article/4872642.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T06:44:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "b984d184b92304eb46955d4025cf1bd3e1e5b9e3",
-          "title": "OpenAI 拟向美国政府出让股份：AI 创造的财富应当由谁享有？",
-          "url": "https://www.huxiu.com/article/4872642.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1d707d2ab6b7c2067667020c3b1e94b423f7c93c",
-          "title": "OpenAI拟向美国政府出让股份：AI创造的财富应当由谁享有？",
-          "url": "https://www.huxiu.com/article/4872642.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T06:44:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5087,
-      "importance": 0.5087,
-      "importance_score": 0.5087,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7937,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T06:44:56Z",
-      "latest_at": "2026-07-04T07:37:31.455680Z",
-      "primary_item": {
-        "id": "b984d184b92304eb46955d4025cf1bd3e1e5b9e3",
-        "title": "OpenAI 拟向美国政府出让股份：AI 创造的财富应当由谁享有？",
-        "url": "https://www.huxiu.com/article/4872642.html?f=rss",
-        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     }
