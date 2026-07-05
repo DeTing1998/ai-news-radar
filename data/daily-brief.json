@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T05:37:33.167663Z",
+  "generated_at": "2026-07-05T06:37:28.334169Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.744,
+        "recency": 0.7333,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -190,15 +190,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6655,
-      "importance": 0.6655,
-      "importance_score": 0.6655,
+      "score": 0.6634,
+      "importance": 0.6634,
+      "importance_score": 0.6634,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.8409,
+        "recency": 0.8288,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -242,18 +242,18 @@
           "published_at": "2026-07-04T22:16:36.431000Z"
         },
         {
-          "id": "92cc93d4ff527a25a903102003082aff4adc32fa",
+          "id": "7b4a6b1409a98ae31ab1e07d3eb5740ae4e620b6",
           "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
           "url": "https://github.com/openai/codex/issues/30364",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-04T21:51:09Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "github.com",
         "hackernews"
       ],
@@ -277,26 +277,26 @@
           "published_at": "2026-07-04T22:16:36.431000Z"
         },
         {
-          "id": "92cc93d4ff527a25a903102003082aff4adc32fa",
+          "id": "7b4a6b1409a98ae31ab1e07d3eb5740ae4e620b6",
           "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
           "url": "https://github.com/openai/codex/issues/30364",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-04T21:51:09Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5564,
-      "importance": 0.5564,
-      "importance_score": 0.5564,
+      "score": 0.554,
+      "importance": 0.554,
+      "importance_score": 0.554,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9201,
+        "recency": 0.9069,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -311,6 +311,85 @@
         "url": "https://github.com/openai/codex/issues/30364",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_854a38c44b10",
+      "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+      "url": "https://news.ycombinator.com/item?id=48791380",
+      "primary_url": "https://news.ycombinator.com/item?id=48791380",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://news.ycombinator.com/item?id=48791380",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T06:24:24.629000Z"
+        },
+        {
+          "id": "2b50de80768f93edab6e7fb3c7b3cbed7e8d16b6",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://hic-ai.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T05:01:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://news.ycombinator.com/item?id=48791380",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T06:24:24.629000Z"
+        },
+        {
+          "id": "2b50de80768f93edab6e7fb3c7b3cbed7e8d16b6",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://hic-ai.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T05:01:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9969,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T05:01:14Z",
+      "latest_at": "2026-07-05T06:24:24.629000Z",
+      "primary_item": {
+        "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+        "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+        "url": "https://news.ycombinator.com/item?id=48791380",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -367,15 +446,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -390,85 +469,6 @@
         "url": "https://www.huxiu.com/article/4872739.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_85705186a84e",
-      "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-      "url": "https://news.ycombinator.com/item?id=48789986",
-      "primary_url": "https://news.ycombinator.com/item?id=48789986",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://news.ycombinator.com/item?id=48789986",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T02:12:16.432000Z"
-        },
-        {
-          "id": "842a41ee41e25e7c49bce7afcc949483e9dac42b",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T23:25:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://news.ycombinator.com/item?id=48789986",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T02:12:16.432000Z"
-        },
-        {
-          "id": "842a41ee41e25e7c49bce7afcc949483e9dac42b",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T23:25:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9518,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T23:25:53Z",
-      "latest_at": "2026-07-05T02:12:16.432000Z",
-      "primary_item": {
-        "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
-        "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-        "url": "https://news.ycombinator.com/item?id=48789986",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -524,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9167,
+        "recency": 0.9036,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -602,15 +602,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5191,
-      "importance": 0.5191,
-      "importance_score": 0.5191,
+      "score": 0.5169,
+      "importance": 0.5169,
+      "importance_score": 0.5169,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8516,
+        "recency": 0.8394,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -680,15 +680,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5173,
-      "importance": 0.5173,
-      "importance_score": 0.5173,
+      "score": 0.5151,
+      "importance": 0.5151,
+      "importance_score": 0.5151,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8414,
+        "recency": 0.8294,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -759,15 +759,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -782,6 +782,85 @@
         "url": "https://www.huxiu.com/article/4872740.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_85705186a84e",
+      "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://news.ycombinator.com/item?id=48789986",
+      "primary_url": "https://news.ycombinator.com/item?id=48789986",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://news.ycombinator.com/item?id=48789986",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T02:12:16.432000Z"
+        },
+        {
+          "id": "eff59fa40eb08e6447cb33bc242ff5cfd7d1d718",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T23:25:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://news.ycombinator.com/item?id=48789986",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T02:12:16.432000Z"
+        },
+        {
+          "id": "eff59fa40eb08e6447cb33bc242ff5cfd7d1d718",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T23:25:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9382,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T23:25:53Z",
+      "latest_at": "2026-07-05T02:12:16.432000Z",
+      "primary_item": {
+        "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+        "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+        "url": "https://news.ycombinator.com/item?id=48789986",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -838,15 +917,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5046,
-      "importance": 0.5046,
-      "importance_score": 0.5046,
+      "score": 0.5026,
+      "importance": 0.5026,
+      "importance_score": 0.5026,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7711,
+        "recency": 0.76,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -861,85 +940,6 @@
         "url": "https://github.com/CoplayDev/unity-mcp",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9e78dadfe763",
-      "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-      "url": "https://news.ycombinator.com/item?id=48789325",
-      "primary_url": "https://news.ycombinator.com/item?id=48789325",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
-          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-          "url": "https://news.ycombinator.com/item?id=48789325",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T00:16:40.774000Z"
-        },
-        {
-          "id": "8a9efd5a603fa218be1cfe29d8a4e4df97a03a70",
-          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T21:35:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
-          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-          "url": "https://news.ycombinator.com/item?id=48789325",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T00:16:40.774000Z"
-        },
-        {
-          "id": "8a9efd5a603fa218be1cfe29d8a4e4df97a03a70",
-          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T21:35:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5324,
-      "importance": 0.5324,
-      "importance_score": 0.5324,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9257,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T21:35:30Z",
-      "latest_at": "2026-07-05T00:16:40.774000Z",
-      "primary_item": {
-        "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
-        "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-        "url": "https://news.ycombinator.com/item?id=48789325",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -996,15 +996,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5014,
-      "importance": 0.5014,
-      "importance_score": 0.5014,
+      "score": 0.4994,
+      "importance": 0.4994,
+      "importance_score": 0.4994,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7531,
+        "recency": 0.7423,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1074,15 +1074,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5164,
-      "importance": 0.5164,
-      "importance_score": 0.5164,
+      "score": 0.5143,
+      "importance": 0.5143,
+      "importance_score": 0.5143,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8368,
+        "recency": 0.8249,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1153,15 +1153,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1231,15 +1231,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5143,
-      "importance": 0.5143,
-      "importance_score": 0.5143,
+      "score": 0.5122,
+      "importance": 0.5122,
+      "importance_score": 0.5122,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8252,
+        "recency": 0.8134,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1310,15 +1310,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5046,
-      "importance": 0.5046,
-      "importance_score": 0.5046,
+      "score": 0.5026,
+      "importance": 0.5026,
+      "importance_score": 0.5026,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7711,
+        "recency": 0.76,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1333,6 +1333,85 @@
         "url": "https://github.com/alirezarezvani/claude-skills",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_9e78dadfe763",
+      "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+      "url": "https://news.ycombinator.com/item?id=48789325",
+      "primary_url": "https://news.ycombinator.com/item?id=48789325",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://news.ycombinator.com/item?id=48789325",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T00:16:40.774000Z"
+        },
+        {
+          "id": "d42df26464b2a7805bcbe1ab12eaec8a04a8aa2e",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T21:35:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://news.ycombinator.com/item?id=48789325",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T00:16:40.774000Z"
+        },
+        {
+          "id": "d42df26464b2a7805bcbe1ab12eaec8a04a8aa2e",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T21:35:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.53,
+      "importance": 0.53,
+      "importance_score": 0.53,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9124,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T21:35:30Z",
+      "latest_at": "2026-07-05T00:16:40.774000Z",
+      "primary_item": {
+        "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
+        "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+        "url": "https://news.ycombinator.com/item?id=48789325",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1389,15 +1468,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5003,
-      "importance": 0.5003,
-      "importance_score": 0.5003,
+      "score": 0.4984,
+      "importance": 0.4984,
+      "importance_score": 0.4984,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7474,
+        "recency": 0.7367,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1412,85 +1491,6 @@
         "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_944998d16f3d",
-      "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-      "url": "https://news.ycombinator.com/item?id=48788361",
-      "primary_url": "https://news.ycombinator.com/item?id=48788361",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://news.ycombinator.com/item?id=48788361",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T20:16:23.619000Z"
-        },
-        {
-          "id": "48ddc0b33f4d9a1c69fdd49dbfe302541fc40fb9",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T19:50:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://news.ycombinator.com/item?id=48788361",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T20:16:23.619000Z"
-        },
-        {
-          "id": "48ddc0b33f4d9a1c69fdd49dbfe302541fc40fb9",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T19:50:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5231,
-      "importance": 0.5231,
-      "importance_score": 0.5231,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8737,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T19:50:08Z",
-      "latest_at": "2026-07-04T20:16:23.619000Z",
-      "primary_item": {
-        "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
-        "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-        "url": "https://news.ycombinator.com/item?id=48788361",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1547,15 +1547,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1626,15 +1626,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5046,
-      "importance": 0.5046,
-      "importance_score": 0.5046,
+      "score": 0.5026,
+      "importance": 0.5026,
+      "importance_score": 0.5026,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7711,
+        "recency": 0.76,
         "story_heat": 0.25
       },
       "category": "watch",
