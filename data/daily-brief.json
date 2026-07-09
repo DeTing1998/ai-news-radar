@@ -1,109 +1,8 @@
 {
-  "generated_at": "2026-07-09T12:47:20.393417Z",
+  "generated_at": "2026-07-09T13:37:31.146430Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_eaad4cbcfa7f",
-      "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "primary_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5237c2d47f7e1265bb14c03a806f22d9d78e9b1e",
-          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / Separating signal from noise in coding evaluations",
-          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T13:00:00Z"
-        },
-        {
-          "id": "3952d15a35a38f3fd6065379cb0a0cf517084d5e",
-          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷",
-          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T13:00:00Z"
-        },
-        {
-          "id": "888663806c2cbc353d34c6020c85a0ae760bc7f5",
-          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / OpenAI no longer recommends SWE-Bench Pro",
-          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-08T21:03:51Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "5237c2d47f7e1265bb14c03a806f22d9d78e9b1e",
-          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / Separating signal from noise in coding evaluations",
-          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T13:00:00Z"
-        },
-        {
-          "id": "3952d15a35a38f3fd6065379cb0a0cf517084d5e",
-          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷",
-          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T13:00:00Z"
-        },
-        {
-          "id": "888663806c2cbc353d34c6020c85a0ae760bc7f5",
-          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / OpenAI no longer recommends SWE-Bench Pro",
-          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-08T21:03:51Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8617,
-      "importance": 0.8617,
-      "importance_score": 0.8617,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.97,
-        "recency": 0.7093,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T13:00:00Z",
-      "latest_at": "2026-07-08T21:03:51Z",
-      "primary_item": {
-        "id": "5237c2d47f7e1265bb14c03a806f22d9d78e9b1e",
-        "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / Separating signal from noise in coding evaluations",
-        "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
     {
       "story_id": "story_5535aeb9eb9d",
       "title": "代理商数据 / Data for Agents",
@@ -139,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7544,
+        "recency": 0.7453,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7921,
+        "recency": 0.7826,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7984,
+        "recency": 0.7888,
         "story_heat": 0.0
       },
       "category": "official",
@@ -344,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9184,
+        "recency": 0.9074,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -406,15 +305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8101,
-      "importance": 0.8101,
-      "importance_score": 0.8101,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.767,
+        "recency": 0.7577,
         "story_heat": 0.0
       },
       "category": "official",
@@ -487,15 +386,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9293,
+        "recency": 0.9182,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -568,15 +467,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9326,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -630,15 +529,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7407,
+        "recency": 0.7318,
         "story_heat": 0.0
       },
       "category": "official",
@@ -654,68 +553,6 @@
         "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_41b85c9cdb7a",
-      "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "primary_url": "https://openai.com/index/government-national-security-partnerships",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
-          "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
-          "url": "https://openai.com/index/government-national-security-partnerships",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T13:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
-          "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
-          "url": "https://openai.com/index/government-national-security-partnerships",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T13:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7144,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T13:30:00Z",
-      "latest_at": "2026-07-08T13:30:00Z",
-      "primary_item": {
-        "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
-        "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
-        "url": "https://openai.com/index/government-national-security-partnerships",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -754,15 +591,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.802,
+        "recency": 0.7924,
         "story_heat": 0.0
       },
       "category": "official",
@@ -835,15 +672,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9211,
+        "recency": 0.9101,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -916,15 +753,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.876,
+        "recency": 0.8655,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -978,15 +815,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7841,
+        "recency": 0.7747,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1057,15 +894,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8406,
+        "recency": 0.8305,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1119,15 +956,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
+      "score": 0.723,
+      "importance": 0.723,
+      "importance_score": 0.723,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8119,
+        "recency": 0.8022,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1179,15 +1016,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7241,
-      "importance": 0.7241,
-      "importance_score": 0.7241,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8248,
+        "recency": 0.8149,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1239,15 +1076,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
+      "score": 0.8052,
+      "importance": 0.8052,
+      "importance_score": 0.8052,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7942,
+        "recency": 0.7847,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1320,15 +1157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.8532,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1348,68 +1185,191 @@
       }
     },
     {
-      "story_id": "story_b5e863e8173e",
-      "title": "利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO",
-      "url": "https://www.ithome.com/0/974/275.htm",
-      "primary_url": "https://www.ithome.com/0/974/275.htm",
+      "story_id": "story_d296c213b987",
+      "title": "法国对英伟达反垄断调查接近尾声，聚焦 CUDA 生态和产业投资",
+      "url": "https://www.ithome.com/0/974/744.htm",
+      "primary_url": "https://www.ithome.com/0/974/744.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1474b3b29bdec555836421da2a3061e13c73b9f5",
-          "title": "利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO",
-          "url": "https://www.ithome.com/0/974/275.htm",
+          "id": "ecead2417a84261a5320a2127de452e7a1df9490",
+          "title": "法国对英伟达反垄断调查接近尾声，聚焦 CUDA 生态和产业投资",
+          "url": "https://www.ithome.com/0/974/744.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T22:30:38Z"
-        },
-        {
-          "id": "0d25e77df6ff4ac33bfe310a50eb51b99cb77370",
-          "title": "利润超 10 亿美元、ARR 剑指千亿，Anthropic 抢先 OpenAI 冲击 IPO",
-          "url": "https://www.ithome.com/0/974/275.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T22:30:38Z"
+          "published_at": "2026-07-09T13:01:09Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "IT之家 (ITHome)",
         "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "1474b3b29bdec555836421da2a3061e13c73b9f5",
-          "title": "利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO",
-          "url": "https://www.ithome.com/0/974/275.htm",
+          "id": "ecead2417a84261a5320a2127de452e7a1df9490",
+          "title": "法国对英伟达反垄断调查接近尾声，聚焦 CUDA 生态和产业投资",
+          "url": "https://www.ithome.com/0/974/744.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T22:30:38Z"
+          "published_at": "2026-07-09T13:01:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9913,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T13:01:09Z",
+      "latest_at": "2026-07-09T13:01:09Z",
+      "primary_item": {
+        "id": "ecead2417a84261a5320a2127de452e7a1df9490",
+        "title": "法国对英伟达反垄断调查接近尾声，聚焦 CUDA 生态和产业投资",
+        "url": "https://www.ithome.com/0/974/744.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9f01a69db3b0",
+      "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
+      "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
+      "primary_url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "01f5f39b2f7bcd3fbf2344a0feccff60cd006aad",
+          "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
+          "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T17:05:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "01f5f39b2f7bcd3fbf2344a0feccff60cd006aad",
+          "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
+          "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T17:05:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7978,
+      "importance": 0.7978,
+      "importance_score": 0.7978,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7433,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T17:05:06Z",
+      "latest_at": "2026-07-08T17:05:06Z",
+      "primary_item": {
+        "id": "01f5f39b2f7bcd3fbf2344a0feccff60cd006aad",
+        "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
+        "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ace290e598a1",
+      "title": "全双工实时语音上线，ChatGPT彻底告别“对讲机”时代",
+      "url": "https://www.aibase.com/news/29474",
+      "primary_url": "https://www.aibase.com/news/29474",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "de84d7e4b5a47a450011fe319d984172258dd63a",
+          "title": "全双工实时语音上线，ChatGPT彻底告别“对讲机”时代",
+          "url": "https://www.aibase.com/news/29474",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-09T01:37:34.555340Z"
         },
         {
-          "id": "0d25e77df6ff4ac33bfe310a50eb51b99cb77370",
-          "title": "利润超 10 亿美元、ARR 剑指千亿，Anthropic 抢先 OpenAI 冲击 IPO",
-          "url": "https://www.ithome.com/0/974/275.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T22:30:38Z"
+          "id": "4cd85791c3261f7eefa07610bc027f787925eb37",
+          "title": "全双工实时语音上线，ChatGPT 彻底告别「对讲机」时代",
+          "url": "https://www.aibase.com/zh/news/29474",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "de84d7e4b5a47a450011fe319d984172258dd63a",
+          "title": "全双工实时语音上线，ChatGPT彻底告别“对讲机”时代",
+          "url": "https://www.aibase.com/news/29474",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-09T01:37:34.555340Z"
+        },
+        {
+          "id": "4cd85791c3261f7eefa07610bc027f787925eb37",
+          "title": "全双工实时语音上线，ChatGPT 彻底告别「对讲机」时代",
+          "url": "https://www.aibase.com/zh/news/29474",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8137,
+        "recency": 0.8409,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1418,14 +1378,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T22:30:38Z",
-      "latest_at": "2026-07-08T22:30:38Z",
+      "earliest_at": "2026-07-09T01:37:34.555340Z",
+      "latest_at": "2026-07-09T01:37:34.555340Z",
       "primary_item": {
-        "id": "1474b3b29bdec555836421da2a3061e13c73b9f5",
-        "title": "利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO",
-        "url": "https://www.ithome.com/0/974/275.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "de84d7e4b5a47a450011fe319d984172258dd63a",
+        "title": "全双工实时语音上线，ChatGPT彻底告别“对讲机”时代",
+        "url": "https://www.aibase.com/news/29474",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
