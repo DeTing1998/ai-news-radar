@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T15:37:31.145524Z",
+  "generated_at": "2026-07-09T16:37:31.182378Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8489,
-      "importance": 0.8489,
-      "importance_score": 0.8489,
+      "score": 0.8464,
+      "importance": 0.8464,
+      "importance_score": 0.8464,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9828,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7241,
+        "recency": 0.7137,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,15 +200,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9722,
+        "recency": 0.9583,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -225,6 +225,68 @@
         "url": "https://www.anthropic.com/news/reflect-with-claude",
         "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_76bc3afbe01a",
+      "title": "GitHub 代码质量的组织级目标 / Organization-level targeting for GitHub Code Quality",
+      "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
+      "primary_url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6336487e95335ac0c06fab5a2323f3a386d5b017",
+          "title": "GitHub 代码质量的组织级目标 / Organization-level targeting for GitHub Code Quality",
+          "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T15:54:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6336487e95335ac0c06fab5a2323f3a386d5b017",
+          "title": "GitHub 代码质量的组织级目标 / Organization-level targeting for GitHub Code Quality",
+          "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T15:54:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8421,
+      "importance": 0.8421,
+      "importance_score": 0.8421,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9896,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T15:54:01Z",
+      "latest_at": "2026-07-09T15:54:01Z",
+      "primary_item": {
+        "id": "6336487e95335ac0c06fab5a2323f3a386d5b017",
+        "title": "GitHub 代码质量的组织级目标 / Organization-level targeting for GitHub Code Quality",
+        "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -262,15 +324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7664,
+        "recency": 0.7554,
         "story_heat": 0.0
       },
       "category": "official",
@@ -286,68 +348,6 @@
         "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
         "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_702ce39ddd2e",
-      "title": "通过 VS Code 和 CLI 中的 MDM 部署托管 Copilot 设置 / Deploy managed Copilot settings via MDM in VS Code and CLI",
-      "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
-      "primary_url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b1c22ddc68b9d1d390d4b2c798a61fc06f567154",
-          "title": "通过 VS Code 和 CLI 中的 MDM 部署托管 Copilot 设置 / Deploy managed Copilot settings via MDM in VS Code and CLI",
-          "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T20:38:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b1c22ddc68b9d1d390d4b2c798a61fc06f567154",
-          "title": "通过 VS Code 和 CLI 中的 MDM 部署托管 Copilot 设置 / Deploy managed Copilot settings via MDM in VS Code and CLI",
-          "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T20:38:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7603,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T20:38:56Z",
-      "latest_at": "2026-07-08T20:38:56Z",
-      "primary_item": {
-        "id": "b1c22ddc68b9d1d390d4b2c798a61fc06f567154",
-        "title": "通过 VS Code 和 CLI 中的 MDM 部署托管 Copilot 设置 / Deploy managed Copilot settings via MDM in VS Code and CLI",
-        "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -405,15 +405,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7743,
-      "importance": 0.7743,
-      "importance_score": 0.7743,
+      "score": 0.772,
+      "importance": 0.772,
+      "importance_score": 0.772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8815,
+        "recency": 0.8689,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -486,15 +486,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.892,
+        "recency": 0.8793,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -511,68 +511,6 @@
         "url": "https://www.aibase.com/news/29497",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c2a416d6e7fa",
-      "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ac55f22041029dcf20ceb60fd8acc953ff799fcb",
-          "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "ac55f22041029dcf20ceb60fd8acc953ff799fcb",
-          "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7109,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T16:00:00Z",
-      "latest_at": "2026-07-08T16:00:00Z",
-      "primary_item": {
-        "id": "ac55f22041029dcf20ceb60fd8acc953ff799fcb",
-        "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -629,15 +567,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.8931,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -691,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.977,
+        "recency": 0.963,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -718,21 +656,21 @@
       }
     },
     {
-      "story_id": "story_2f563a485d38",
-      "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
-      "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
-      "primary_url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+      "story_id": "story_702ce39ddd2e",
+      "title": "通过 VS Code 和 CLI 中的 MDM 部署托管 Copilot 设置 / Deploy managed Copilot settings via MDM in VS Code and CLI",
+      "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
+      "primary_url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
-          "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
-          "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+          "id": "b1c22ddc68b9d1d390d4b2c798a61fc06f567154",
+          "title": "通过 VS Code 和 CLI 中的 MDM 部署托管 Copilot 设置 / Deploy managed Copilot settings via MDM in VS Code and CLI",
+          "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T18:24:55Z"
+          "published_at": "2026-07-08T20:38:56Z"
         }
       ],
       "source_count": 1,
@@ -741,26 +679,26 @@
       ],
       "items": [
         {
-          "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
-          "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
-          "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+          "id": "b1c22ddc68b9d1d390d4b2c798a61fc06f567154",
+          "title": "通过 VS Code 和 CLI 中的 MDM 部署托管 Copilot 设置 / Deploy managed Copilot settings via MDM in VS Code and CLI",
+          "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T18:24:55Z"
+          "published_at": "2026-07-08T20:38:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8045,
-      "importance": 0.8045,
-      "importance_score": 0.8045,
+      "score": 0.8069,
+      "importance": 0.8069,
+      "importance_score": 0.8069,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7362,
+        "recency": 0.7494,
         "story_heat": 0.0
       },
       "category": "official",
@@ -769,12 +707,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T18:24:55Z",
-      "latest_at": "2026-07-08T18:24:55Z",
+      "earliest_at": "2026-07-08T20:38:56Z",
+      "latest_at": "2026-07-08T20:38:56Z",
       "primary_item": {
-        "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
-        "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
-        "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+        "id": "b1c22ddc68b9d1d390d4b2c798a61fc06f567154",
+        "title": "通过 VS Code 和 CLI 中的 MDM 部署托管 Copilot 设置 / Deploy managed Copilot settings via MDM in VS Code and CLI",
+        "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -814,15 +752,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.977,
+        "recency": 0.963,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -893,15 +831,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8842,
+        "recency": 0.8715,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -974,15 +912,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8288,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1036,15 +974,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7231,
-      "importance": 0.7231,
-      "importance_score": 0.7231,
+      "score": 0.7211,
+      "importance": 0.7211,
+      "importance_score": 0.7211,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7526,
+        "recency": 0.7418,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1115,22 +1053,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8068,
+        "recency": 0.7953,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-09T00:45:39Z",
       "latest_at": "2026-07-09T00:45:39Z",
@@ -1143,21 +1080,21 @@
       }
     },
     {
-      "story_id": "story_018ea2c4b8d0",
-      "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
-      "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+      "story_id": "story_2f563a485d38",
+      "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
+      "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+      "primary_url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
-          "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
-          "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+          "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
+          "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
+          "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T21:30:35Z"
+          "published_at": "2026-07-08T18:24:55Z"
         }
       ],
       "source_count": 1,
@@ -1166,13 +1103,13 @@
       ],
       "items": [
         {
-          "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
-          "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
-          "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+          "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
+          "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
+          "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T21:30:35Z"
+          "published_at": "2026-07-08T18:24:55Z"
         }
       ],
       "item_count": 1,
@@ -1184,8 +1121,8 @@
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7698,
+        "ai_relevance": 0.91,
+        "recency": 0.7256,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1194,14 +1131,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T21:30:35Z",
-      "latest_at": "2026-07-08T21:30:35Z",
+      "earliest_at": "2026-07-08T18:24:55Z",
+      "latest_at": "2026-07-08T18:24:55Z",
       "primary_item": {
-        "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
-        "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
-        "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+        "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
+        "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
+        "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3f81b56cdd53",
+      "title": "消息称特斯拉三代擎天柱人形机器人初步定型，马斯克放话达不成产能目标就开掉整个采购团队",
+      "url": "https://www.ithome.com/0/974/782.htm",
+      "primary_url": "https://www.ithome.com/0/974/782.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a48dca9f598ddfac5872521bd5fc074d093a1d61",
+          "title": "消息称特斯拉三代擎天柱人形机器人初步定型，马斯克放话达不成产能目标就开掉整个采购团队",
+          "url": "https://www.ithome.com/0/974/782.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T15:48:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a48dca9f598ddfac5872521bd5fc074d093a1d61",
+          "title": "消息称特斯拉三代擎天柱人形机器人初步定型，马斯克放话达不成产能目标就开掉整个采购团队",
+          "url": "https://www.ithome.com/0/974/782.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T15:48:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9883,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T15:48:31Z",
+      "latest_at": "2026-07-09T15:48:31Z",
+      "primary_item": {
+        "id": "a48dca9f598ddfac5872521bd5fc074d093a1d61",
+        "title": "消息称特斯拉三代擎天柱人形机器人初步定型，马斯克放话达不成产能目标就开掉整个采购团队",
+        "url": "https://www.ithome.com/0/974/782.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1258,15 +1256,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8289,
+        "recency": 0.817,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1286,82 +1284,21 @@
       }
     },
     {
-      "story_id": "story_d296c213b987",
-      "title": "法国对英伟达反垄断调查接近尾声，聚焦 CUDA 生态和产业投资",
-      "url": "https://www.ithome.com/0/974/744.htm",
-      "primary_url": "https://www.ithome.com/0/974/744.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ecead2417a84261a5320a2127de452e7a1df9490",
-          "title": "法国对英伟达反垄断调查接近尾声，聚焦 CUDA 生态和产业投资",
-          "url": "https://www.ithome.com/0/974/744.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T13:01:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ecead2417a84261a5320a2127de452e7a1df9490",
-          "title": "法国对英伟达反垄断调查接近尾声，聚焦 CUDA 生态和产业投资",
-          "url": "https://www.ithome.com/0/974/744.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T13:01:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9631,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T13:01:09Z",
-      "latest_at": "2026-07-09T13:01:09Z",
-      "primary_item": {
-        "id": "ecead2417a84261a5320a2127de452e7a1df9490",
-        "title": "法国对英伟达反垄断调查接近尾声，聚焦 CUDA 生态和产业投资",
-        "url": "https://www.ithome.com/0/974/744.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ce2436329e7b",
-      "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
-      "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
-      "primary_url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+      "story_id": "story_018ea2c4b8d0",
+      "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
+      "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
-          "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
-          "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+          "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
+          "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
+          "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T20:50:07Z"
+          "published_at": "2026-07-08T21:30:35Z"
         }
       ],
       "source_count": 1,
@@ -1370,26 +1307,26 @@
       ],
       "items": [
         {
-          "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
-          "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
-          "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+          "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
+          "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
+          "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T20:50:07Z"
+          "published_at": "2026-07-08T21:30:35Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7624,
+        "recency": 0.7588,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1398,14 +1335,183 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T20:50:07Z",
-      "latest_at": "2026-07-08T20:50:07Z",
+      "earliest_at": "2026-07-08T21:30:35Z",
+      "latest_at": "2026-07-08T21:30:35Z",
       "primary_item": {
-        "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
-        "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
-        "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+        "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
+        "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
+        "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "OpenAI 于 2026 年7月8日发布新一代语音模型 GPT-Live，并把它作为 ChatGPT Voice 的新一代底层模型，今天起面向全球用户上线。本文是 OpenAI 官方发布博客的解读。文中的评测结果、偏好数据和安全测试结论均为 OpenAI 自评与内部测试口径，尚无第三方独立验证。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-07-09",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "6e8dc0245864e03d9d7c1ab0a4ae5cb2714124d8",
+          "title": "OpenAI 于 2026 年7月8日发布新一代语音模型 GPT-Live，并把它作为 ChatGPT Voice 的新一代底层模型，今天起面向全球用户上线。本文是 OpenAI 官方发布博客的解读。文中的评测结果、偏好数据和安全测试结论均为 OpenAI 自评与内部测试口径，尚无第三方独立验证。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-09T16:37:31.182378Z"
+        },
+        {
+          "id": "3b2c5a9873ce19efc252591d0e14d353e4f1fe6d",
+          "title": "Loop 这个东西，最近经常被提到。本文是大聪明结合Claude的文档做了详细拆解。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-09T01:37:34.555340Z"
+        },
+        {
+          "id": "b9b6843231d2cd0ffffa2186c40c3def5cb87662",
+          "title": "作者整理了 12种运镜 + 8种转场 + 4套组合连招 + 5条心法 ，每种都配了通用模板和具体示例，可以直接套用到你自己的AI视频提示词里。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-09T01:37:34.555340Z"
+        },
+        {
+          "id": "7b23ee47693ff9b12a2a4ac120bfd77ba5c6cd5c",
+          "title": "多模态 图像创作模型——Seedream 5.0 Pro今天正式发布，全方位补齐了图像创作的各类短板。模型在图文匹配、结构合理性、文字渲染与画面美感等基础能力上都有全面提升，既能把密集文字、复杂数据转化为规整专业的可视化图纸，也支持圈选、图层拆分、多图融合等精细化交互式修改，同时还可以高度还原真实人像的光影肌理，一站式满足高密度图文、写实人像、多语言创作需求。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-09T01:37:34.555340Z"
+        },
+        {
+          "id": "e5d59316567dc8aa335b9b14b6cd460061babb1c",
+          "title": "本周AI音乐周报覆盖版权博弈、大厂整合、轻量化创作工具与前沿学术论文四大核心动态。大厂正加速生态洗牌：谷歌关停实验项目，转向一站式全链路音乐平台Flow Music；音频名厂iZotope并入视觉巨头Boris FX，打造音画一体流。Suno内测移动端声音克隆并探索API，ElevenMusic推出短视频工具包。还有六篇关于歌声编辑、音乐生成、音频评估方向的学术论文带来全新研究进展！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-09T01:37:34.555340Z"
+        },
+        {
+          "id": "95d0fc68a7e082679c53a1f0b23fb49a3dec3f3d",
+          "title": "藏师傅这款开源绘图 Skill 可以一次性解决 AI 配图信息模糊、文字错乱、图表粗糙等高频问题。而且它还自带高级的3D 材质视觉体系，可以自动区分流程图、数据图表、教学原理图等场景；遇到小众专业概念会先检索参考素材，重构图表时会提取语义进行重绘。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-09T01:37:34.555340Z"
+        },
+        {
+          "id": "4045ced08beed4aad753ba95c7fef5217269b0dc",
+          "title": "这篇文章要解决的就是一件事： 让 AI 拿到你的上下文，开始基于你的资料干活。看完之后，你可以获得：一个最小知识库目录结构，一套从安全任务开始跑通的流程，两段可以复制的提示词，以及一个选工具的判断标准。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-09T01:37:34.555340Z"
+        }
+      ],
+      "source_count": 7,
+      "source_names": [
+        "社区更新 · 2026-07-08",
+        "社区更新 · 2026-07-09"
+      ],
+      "items": [
+        {
+          "id": "6e8dc0245864e03d9d7c1ab0a4ae5cb2714124d8",
+          "title": "OpenAI 于 2026 年7月8日发布新一代语音模型 GPT-Live，并把它作为 ChatGPT Voice 的新一代底层模型，今天起面向全球用户上线。本文是 OpenAI 官方发布博客的解读。文中的评测结果、偏好数据和安全测试结论均为 OpenAI 自评与内部测试口径，尚无第三方独立验证。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-09",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-09T16:37:31.182378Z"
+        },
+        {
+          "id": "3b2c5a9873ce19efc252591d0e14d353e4f1fe6d",
+          "title": "Loop 这个东西，最近经常被提到。本文是大聪明结合Claude的文档做了详细拆解。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-09T01:37:34.555340Z"
+        },
+        {
+          "id": "b9b6843231d2cd0ffffa2186c40c3def5cb87662",
+          "title": "作者整理了 12种运镜 + 8种转场 + 4套组合连招 + 5条心法 ，每种都配了通用模板和具体示例，可以直接套用到你自己的AI视频提示词里。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-09T01:37:34.555340Z"
+        },
+        {
+          "id": "7b23ee47693ff9b12a2a4ac120bfd77ba5c6cd5c",
+          "title": "多模态 图像创作模型——Seedream 5.0 Pro今天正式发布，全方位补齐了图像创作的各类短板。模型在图文匹配、结构合理性、文字渲染与画面美感等基础能力上都有全面提升，既能把密集文字、复杂数据转化为规整专业的可视化图纸，也支持圈选、图层拆分、多图融合等精细化交互式修改，同时还可以高度还原真实人像的光影肌理，一站式满足高密度图文、写实人像、多语言创作需求。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-09T01:37:34.555340Z"
+        },
+        {
+          "id": "e5d59316567dc8aa335b9b14b6cd460061babb1c",
+          "title": "本周AI音乐周报覆盖版权博弈、大厂整合、轻量化创作工具与前沿学术论文四大核心动态。大厂正加速生态洗牌：谷歌关停实验项目，转向一站式全链路音乐平台Flow Music；音频名厂iZotope并入视觉巨头Boris FX，打造音画一体流。Suno内测移动端声音克隆并探索API，ElevenMusic推出短视频工具包。还有六篇关于歌声编辑、音乐生成、音频评估方向的学术论文带来全新研究进展！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-09T01:37:34.555340Z"
+        },
+        {
+          "id": "95d0fc68a7e082679c53a1f0b23fb49a3dec3f3d",
+          "title": "藏师傅这款开源绘图 Skill 可以一次性解决 AI 配图信息模糊、文字错乱、图表粗糙等高频问题。而且它还自带高级的3D 材质视觉体系，可以自动区分流程图、数据图表、教学原理图等场景；遇到小众专业概念会先检索参考素材，重构图表时会提取语义进行重绘。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-09T01:37:34.555340Z"
+        },
+        {
+          "id": "4045ced08beed4aad753ba95c7fef5217269b0dc",
+          "title": "这篇文章要解决的就是一件事： 让 AI 拿到你的上下文，开始基于你的资料干活。看完之后，你可以获得：一个最小知识库目录结构，一套从安全任务开始跑通的流程，两段可以复制的提示词，以及一个选工具的判断标准。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-09T01:37:34.555340Z"
+        }
+      ],
+      "item_count": 7,
+      "duplicate_count": 7,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-09T01:37:34.555340Z",
+      "latest_at": "2026-07-09T16:37:31.182378Z",
+      "primary_item": {
+        "id": "6e8dc0245864e03d9d7c1ab0a4ae5cb2714124d8",
+        "title": "OpenAI 于 2026 年7月8日发布新一代语音模型 GPT-Live，并把它作为 ChatGPT Voice 的新一代底层模型，今天起面向全球用户上线。本文是 OpenAI 官方发布博客的解读。文中的评测结果、偏好数据和安全测试结论均为 OpenAI 自评与内部测试口径，尚无第三方独立验证。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-07-09",
+        "source_name": "WaytoAGI"
       }
     }
   ]
