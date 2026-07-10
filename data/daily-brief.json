@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T15:37:31.927904Z",
+  "generated_at": "2026-07-10T16:37:37.056892Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -112,15 +112,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8627,
-      "importance": 0.8627,
-      "importance_score": 0.8627,
+      "score": 0.8607,
+      "importance": 0.8607,
+      "importance_score": 0.8607,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7728,
+        "recency": 0.7617,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -137,6 +137,68 @@
         "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6e4b204fac83",
+      "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
+          "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+          "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T15:57:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
+          "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+          "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T15:57:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8503,
+      "importance": 0.8503,
+      "importance_score": 0.8503,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9905,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T15:57:47Z",
+      "latest_at": "2026-07-10T15:57:47Z",
+      "primary_item": {
+        "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
+        "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+        "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -174,15 +236,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9188,
+        "recency": 0.9056,
         "story_heat": 0.0
       },
       "category": "official",
@@ -236,15 +298,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8829,
+        "recency": 0.8702,
         "story_heat": 0.0
       },
       "category": "official",
@@ -298,15 +360,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.798,
+        "recency": 0.7865,
         "story_heat": 0.0
       },
       "category": "official",
@@ -360,15 +422,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.8173,
-      "importance_score": 0.8173,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7181,
+        "recency": 0.7078,
         "story_heat": 0.0
       },
       "category": "official",
@@ -441,15 +503,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8885,
+        "recency": 0.8757,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -522,15 +584,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.91,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7728,
+        "recency": 0.7617,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -603,15 +665,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.771,
-      "importance": 0.771,
-      "importance_score": 0.771,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7799,
+        "recency": 0.7687,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -665,15 +727,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.9623,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -726,15 +788,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8873,
+        "recency": 0.8746,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -787,15 +849,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -848,15 +910,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9218,
+        "recency": 0.9085,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -908,15 +970,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7764,
+        "recency": 0.7652,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -934,121 +996,62 @@
       }
     },
     {
-      "story_id": "story_85dcb3893dbd",
-      "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
-      "url": "https://www.pangram.com/blog/ai-in-your-feed",
-      "primary_url": "https://www.pangram.com/blog/ai-in-your-feed",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_bd0e80076c59",
+      "title": "Perplexity 推出跨模型信用额度分析功能",
+      "url": "https://x.com/perplexity_ai/status/2075599540640714863",
+      "primary_url": "https://x.com/perplexity_ai/status/2075599540640714863",
+      "source": "X：Perplexity (@perplexity_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "def3d15bc2e0372670e0a0a59f467878d6305648",
-          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "9875efa23f5875c362188fa81001858ac4b75317",
+          "title": "Perplexity 推出跨模型信用额度分析功能",
+          "url": "https://x.com/perplexity_ai/status/2075599540640714863",
+          "source": "X：Perplexity (@perplexity_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:29.789000Z"
-        },
-        {
-          "id": "7c4224b2bf3d3481d8a9199883b1d125e5208293",
-          "title": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "www.pangram.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-09T21:46:29.789000Z"
-        },
-        {
-          "id": "a45e5f56df548b7bcc13bd7d47a4c40bda1712cd",
-          "title": "社交媒体上人工智能内容无处不在，尤其是 LinkedIn / AI content is everywhere on social media, especially LinkedIn",
-          "url": "https://news.ycombinator.com/item?id=48847940",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-09T16:40:01.331000Z"
-        },
-        {
-          "id": "be50040874e3147f6f0b58b2d60cf5a7a12d358b",
-          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作 / AI Content Is Everywhere on Social Media, Especially LinkedIn",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-09T15:50:09Z"
+          "published_at": "2026-07-10T15:14:27Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.pangram.com"
+        "X：Perplexity (@perplexity_ai)"
       ],
       "items": [
         {
-          "id": "def3d15bc2e0372670e0a0a59f467878d6305648",
-          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "9875efa23f5875c362188fa81001858ac4b75317",
+          "title": "Perplexity 推出跨模型信用额度分析功能",
+          "url": "https://x.com/perplexity_ai/status/2075599540640714863",
+          "source": "X：Perplexity (@perplexity_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:29.789000Z"
-        },
-        {
-          "id": "7c4224b2bf3d3481d8a9199883b1d125e5208293",
-          "title": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "www.pangram.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-09T21:46:29.789000Z"
-        },
-        {
-          "id": "a45e5f56df548b7bcc13bd7d47a4c40bda1712cd",
-          "title": "社交媒体上人工智能内容无处不在，尤其是 LinkedIn / AI content is everywhere on social media, especially LinkedIn",
-          "url": "https://news.ycombinator.com/item?id=48847940",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-09T16:40:01.331000Z"
-        },
-        {
-          "id": "be50040874e3147f6f0b58b2d60cf5a7a12d358b",
-          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作 / AI Content Is Everywhere on Social Media, Especially LinkedIn",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-09T15:50:09Z"
+          "published_at": "2026-07-10T15:14:27Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7728,
-        "story_heat": 0.75
+        "recency": 0.9802,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-09T15:50:09Z",
-      "latest_at": "2026-07-09T21:46:29.789000Z",
+      "earliest_at": "2026-07-10T15:14:27Z",
+      "latest_at": "2026-07-10T15:14:27Z",
       "primary_item": {
-        "id": "def3d15bc2e0372670e0a0a59f467878d6305648",
-        "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
-        "url": "https://www.pangram.com/blog/ai-in-your-feed",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "9875efa23f5875c362188fa81001858ac4b75317",
+        "title": "Perplexity 推出跨模型信用额度分析功能",
+        "url": "https://x.com/perplexity_ai/status/2075599540640714863",
+        "source": "X：Perplexity (@perplexity_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -1087,15 +1090,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
+      "score": 0.7992,
+      "importance": 0.7992,
+      "importance_score": 0.7992,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7621,
+        "recency": 0.7511,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1149,15 +1152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.886,
+        "recency": 0.8733,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1228,15 +1231,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7299,
-      "importance": 0.7299,
-      "importance_score": 0.7299,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8185,
+        "recency": 0.8068,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1289,15 +1292,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
+      "score": 0.7239,
+      "importance": 0.7239,
+      "importance_score": 0.7239,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8019,
+        "recency": 0.7904,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1368,15 +1371,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7749,
+        "recency": 0.7637,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1393,67 +1396,6 @@
         "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b1be13fe5108",
-      "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
-      "url": "https://www.aibase.com/news/29526",
-      "primary_url": "https://www.aibase.com/news/29526",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4a39cb680452f4ea48c05a1d6b973a19efe1cc93",
-          "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
-          "url": "https://www.aibase.com/news/29526",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T09:37:38.442489Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4a39cb680452f4ea48c05a1d6b973a19efe1cc93",
-          "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
-          "url": "https://www.aibase.com/news/29526",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T09:37:38.442489Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.917,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T09:37:38.442489Z",
-      "latest_at": "2026-07-10T09:37:38.442489Z",
-      "primary_item": {
-        "id": "4a39cb680452f4ea48c05a1d6b973a19efe1cc93",
-        "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
-        "url": "https://www.aibase.com/news/29526",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
