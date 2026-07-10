@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T23:37:36.415043Z",
+  "generated_at": "2026-07-10T00:37:35.107694Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9028,
-      "importance": 0.9028,
-      "importance_score": 0.9028,
+      "score": 0.9007,
+      "importance": 0.9007,
+      "importance_score": 0.9007,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8214,
+        "recency": 0.8096,
         "story_heat": 0.75
       },
       "category": "official",
@@ -158,15 +158,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8508,
-      "importance": 0.8508,
-      "importance_score": 0.8508,
+      "score": 0.8485,
+      "importance": 0.8485,
+      "importance_score": 0.8485,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9047,
+        "recency": 0.8917,
         "story_heat": 0.0
       },
       "category": "official",
@@ -258,15 +258,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8778,
-      "importance": 0.8778,
-      "importance_score": 0.8778,
+      "score": 0.8757,
+      "importance": 0.8757,
+      "importance_score": 0.8757,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8214,
+        "recency": 0.8096,
         "story_heat": 0.5
       },
       "category": "official",
@@ -283,87 +283,6 @@
         "title": "GPT-5.6 系列模型发布 / GPT-5.6: Frontier intelligence that scales with your ambition",
         "url": "https://openai.com/index/gpt-5-6",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex 加入 ChatGPT 桌面应用程序 / Codex joins the ChatGPT desktop app",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b7d60fb3018aa90bbfe995c47ffe695ecee22d36",
-          "title": "法典 CLI 0.144.0 / Codex CLI 0.144.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T00:00:00Z"
-        },
-        {
-          "id": "ca2f503518b74f846da513865f932f4d44ff21e6",
-          "title": "Codex 加入 ChatGPT 桌面应用程序 / Codex joins the ChatGPT desktop app",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "b7d60fb3018aa90bbfe995c47ffe695ecee22d36",
-          "title": "法典 CLI 0.144.0 / Codex CLI 0.144.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T00:00:00Z"
-        },
-        {
-          "id": "ca2f503518b74f846da513865f932f4d44ff21e6",
-          "title": "Codex 加入 ChatGPT 桌面应用程序 / Codex joins the ChatGPT desktop app",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.843,
-      "importance": 0.843,
-      "importance_score": 0.843,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7109,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T00:00:00Z",
-      "latest_at": "2026-07-09T00:00:00Z",
-      "primary_item": {
-        "id": "ca2f503518b74f846da513865f932f4d44ff21e6",
-        "title": "Codex 加入 ChatGPT 桌面应用程序 / Codex joins the ChatGPT desktop app",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -459,15 +378,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.8353,
+      "importance": 0.8353,
+      "importance_score": 0.8353,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9736,
+        "recency": 0.9597,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -540,15 +459,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
+      "score": 0.8049,
+      "importance": 0.8049,
+      "importance_score": 0.8049,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9825,
+        "recency": 0.9685,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -565,150 +484,6 @@
         "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e799563c0958",
-      "title": "GPT-5.6 成为 Microsoft 365 Copilot 首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "primary_url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1bc0a9412f7f84df0833d4589590442445fcda5c",
-          "title": "GPT-5.6 成为 Microsoft 365 Copilot 首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T13:00:00Z"
-        },
-        {
-          "id": "869bf65b463ac7d4dc97168be2d630eaa641a6d0",
-          "title": "GPT-5.6 成为 Microsoft 365 Copilot 首选模型",
-          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "1bc0a9412f7f84df0833d4589590442445fcda5c",
-          "title": "GPT-5.6 成为 Microsoft 365 Copilot 首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T13:00:00Z"
-        },
-        {
-          "id": "869bf65b463ac7d4dc97168be2d630eaa641a6d0",
-          "title": "GPT-5.6 成为 Microsoft 365 Copilot 首选模型",
-          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8674,
-      "importance": 0.8674,
-      "importance_score": 0.8674,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.8577,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T00:00:00Z",
-      "latest_at": "2026-07-09T13:00:00Z",
-      "primary_item": {
-        "id": "1bc0a9412f7f84df0833d4589590442445fcda5c",
-        "title": "GPT-5.6 成为 Microsoft 365 Copilot 首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-        "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5e689a649359",
-      "title": "提出尖锐的问题 / Inviting hard questions",
-      "url": "https://www.anthropic.com/news/hard-questions",
-      "primary_url": "https://www.anthropic.com/news/hard-questions",
-      "source": "Anthropic News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "481fc63441990c45c5c1acaf92db3a2f8b247724",
-          "title": "提出尖锐的问题 / Inviting hard questions",
-          "url": "https://www.anthropic.com/news/hard-questions",
-          "source": "Anthropic News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic News"
-      ],
-      "items": [
-        {
-          "id": "481fc63441990c45c5c1acaf92db3a2f8b247724",
-          "title": "提出尖锐的问题 / Inviting hard questions",
-          "url": "https://www.anthropic.com/news/hard-questions",
-          "source": "Anthropic News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7109,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T00:00:00Z",
-      "latest_at": "2026-07-09T00:00:00Z",
-      "primary_item": {
-        "id": "481fc63441990c45c5c1acaf92db3a2f8b247724",
-        "title": "提出尖锐的问题 / Inviting hard questions",
-        "url": "https://www.anthropic.com/news/hard-questions",
-        "source": "Anthropic News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -746,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8756,
+        "recency": 0.863,
         "story_heat": 0.0
       },
       "category": "official",
@@ -846,15 +621,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8661,
+        "recency": 0.8537,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -871,6 +646,68 @@
         "url": "https://www.anthropic.com/news/reflect-with-claude",
         "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e799563c0958",
+      "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "primary_url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1bc0a9412f7f84df0833d4589590442445fcda5c",
+          "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1bc0a9412f7f84df0833d4589590442445fcda5c",
+          "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8402,
+      "importance": 0.8402,
+      "importance_score": 0.8402,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.8454,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T13:00:00Z",
+      "latest_at": "2026-07-09T13:00:00Z",
+      "primary_item": {
+        "id": "1bc0a9412f7f84df0833d4589590442445fcda5c",
+        "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+        "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -908,15 +745,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7817,
-      "importance": 0.7817,
-      "importance_score": 0.7817,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9781,
+        "recency": 0.9641,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -969,15 +806,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9736,
+        "recency": 0.9596,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1030,15 +867,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8944,
+        "recency": 0.8816,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1055,6 +892,67 @@
         "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ff9f8581ffa8",
+      "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+      "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+      "primary_url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+      "source": "Google Research：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b36e620ca8e006a1ebf8069cf9c8c409586b02c0",
+          "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+          "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T00:20:20.110000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Research：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "b36e620ca8e006a1ebf8069cf9c8c409586b02c0",
+          "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+          "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T00:20:20.110000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9959,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T00:20:20.110000Z",
+      "latest_at": "2026-07-10T00:20:20.110000Z",
+      "primary_item": {
+        "id": "b36e620ca8e006a1ebf8069cf9c8c409586b02c0",
+        "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+        "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+        "source": "Google Research：Blog（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1111,15 +1009,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7888,
+      "importance": 0.7888,
+      "importance_score": 0.7888,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9762,
+        "recency": 0.9623,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1192,15 +1090,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7854,
+        "recency": 0.7741,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1273,15 +1171,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7947,
+        "recency": 0.7833,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1354,22 +1252,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8072,
+        "recency": 0.7956,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-09T08:47:37Z",
       "latest_at": "2026-07-09T08:47:37Z",
@@ -1416,21 +1313,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9111,
+        "recency": 0.8981,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-09T17:10:58Z",
       "latest_at": "2026-07-09T17:10:58Z",
@@ -1477,21 +1373,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9692,
+        "recency": 0.9553,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-09T21:27:27Z",
       "latest_at": "2026-07-09T21:27:27Z",
@@ -1538,15 +1433,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8704,
+        "recency": 0.858,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1561,6 +1456,68 @@
         "url": "https://x.com/OpenBMB/status/2075218678027850154",
         "source": "X：面壁智能 OpenBMB (@OpenBMB)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8fd74bd3f519",
+      "title": "GPT-5.5 生物错误赏金 / GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "primary_url": "https://openai.com/index/bio-bug-bounty",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "323fed3068294dd29acf4724d07d4b131b3fb21c",
+          "title": "GPT-5.5 生物错误赏金 / GPT-5.5 Bio Bug Bounty",
+          "url": "https://openai.com/index/bio-bug-bounty",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "323fed3068294dd29acf4724d07d4b131b3fb21c",
+          "title": "GPT-5.5 生物错误赏金 / GPT-5.5 Bio Bug Bounty",
+          "url": "https://openai.com/index/bio-bug-bounty",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8096,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T10:00:00Z",
+      "latest_at": "2026-07-09T10:00:00Z",
+      "primary_item": {
+        "id": "323fed3068294dd29acf4724d07d4b131b3fb21c",
+        "title": "GPT-5.5 生物错误赏金 / GPT-5.5 Bio Bug Bounty",
+        "url": "https://openai.com/index/bio-bug-bounty",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     }
   ]
