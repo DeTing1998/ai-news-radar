@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T22:37:29.312141Z",
+  "generated_at": "2026-07-11T23:37:36.552687Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8364,
-      "importance": 0.8364,
-      "importance_score": 0.8364,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9156,
+        "recency": 0.9025,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -119,6 +119,87 @@
         "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
         "url": "https://www.mixfont.com/ghost-font",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_516fc0ac5d68",
+      "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+      "url": "https://www.ithome.com/0/975/634.htm",
+      "primary_url": "https://www.ithome.com/0/975/634.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "df2ac398e345fc03cbcf8fe07a6c8e5611bac796",
+          "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+          "url": "https://www.ithome.com/0/975/634.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T23:21:57Z"
+        },
+        {
+          "id": "541642064efe9509bb57610ceaf13efd86eff2c5",
+          "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键",
+          "url": "https://www.ithome.com/0/975/634.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T23:21:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "df2ac398e345fc03cbcf8fe07a6c8e5611bac796",
+          "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+          "url": "https://www.ithome.com/0/975/634.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T23:21:57Z"
+        },
+        {
+          "id": "541642064efe9509bb57610ceaf13efd86eff2c5",
+          "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键",
+          "url": "https://www.ithome.com/0/975/634.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T23:21:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7859,
+      "importance": 0.7859,
+      "importance_score": 0.7859,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9962,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T23:21:57Z",
+      "latest_at": "2026-07-11T23:21:57Z",
+      "primary_item": {
+        "id": "df2ac398e345fc03cbcf8fe07a6c8e5611bac796",
+        "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+        "url": "https://www.ithome.com/0/975/634.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -176,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7817,
-      "importance": 0.7817,
-      "importance_score": 0.7817,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.923,
+        "recency": 0.9097,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,15 +338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8089,
+        "recency": 0.7973,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,87 +362,6 @@
         "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
         "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
         "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6d7dc2911118",
-      "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
-      "url": "https://www.ithome.com/0/975/469.htm",
-      "primary_url": "https://www.ithome.com/0/975/469.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
-          "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
-          "url": "https://www.ithome.com/0/975/469.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T07:33:08Z"
-        },
-        {
-          "id": "48ab288af4e443d20b63901488425e4a96338a61",
-          "title": "11 天 Claude Fable 5 狂写超 100 万行代码：Rust 重构 JavaScript 运行时 Bun",
-          "url": "https://www.ithome.com/0/975/469.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T07:33:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
-          "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
-          "url": "https://www.ithome.com/0/975/469.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T07:33:08Z"
-        },
-        {
-          "id": "48ab288af4e443d20b63901488425e4a96338a61",
-          "title": "11 天 Claude Fable 5 狂写超 100 万行代码：Rust 重构 JavaScript 运行时 Bun",
-          "url": "https://www.ithome.com/0/975/469.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T07:33:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8044,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-11T07:33:08Z",
-      "latest_at": "2026-07-11T07:33:08Z",
-      "primary_item": {
-        "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
-        "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
-        "url": "https://www.ithome.com/0/975/469.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -419,15 +419,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7195,
+        "recency": 0.7092,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,67 +443,6 @@
         "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
         "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
         "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1f16fd4d5a46",
-      "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
-      "url": "https://x.com/dotey/status/2075712647723397452",
-      "primary_url": "https://x.com/dotey/status/2075712647723397452",
-      "source": "X：宝玉 (@dotey)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2307252350cc21c98542f24bced584562a8206da",
-          "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
-          "url": "https://x.com/dotey/status/2075712647723397452",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T22:43:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：宝玉 (@dotey)"
-      ],
-      "items": [
-        {
-          "id": "2307252350cc21c98542f24bced584562a8206da",
-          "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
-          "url": "https://x.com/dotey/status/2075712647723397452",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T22:43:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7082,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T22:43:54Z",
-      "latest_at": "2026-07-10T22:43:54Z",
-      "primary_item": {
-        "id": "2307252350cc21c98542f24bced584562a8206da",
-        "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
-        "url": "https://x.com/dotey/status/2075712647723397452",
-        "source": "X：宝玉 (@dotey)",
         "source_name": "AI HOT"
       }
     },
@@ -542,15 +481,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.741,
-      "importance": 0.741,
-      "importance_score": 0.741,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.919,
+        "recency": 0.9058,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -602,15 +541,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7419,
+        "recency": 0.7312,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -628,30 +567,30 @@
       }
     },
     {
-      "story_id": "story_6d70b2c6c5c3",
-      "title": "OpenAI 回应苹果起诉：对商业机密毫无兴趣",
-      "url": "https://www.ithome.com/0/975/372.htm",
-      "primary_url": "https://www.ithome.com/0/975/372.htm",
+      "story_id": "story_6d7dc2911118",
+      "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
+      "url": "https://www.ithome.com/0/975/469.htm",
+      "primary_url": "https://www.ithome.com/0/975/469.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0a1ab5a064027c1224306bc4c260e99c77159dc5",
-          "title": "OpenAI 回应苹果起诉：对商业机密毫无兴趣",
-          "url": "https://www.ithome.com/0/975/372.htm",
+          "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
+          "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
+          "url": "https://www.ithome.com/0/975/469.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-10T23:08:47Z"
+          "published_at": "2026-07-11T07:33:08Z"
         },
         {
-          "id": "7ddc9496429a845576ed2e3df86a4a723b29eaa5",
-          "title": "OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣",
-          "url": "https://www.ithome.com/0/975/372.htm",
+          "id": "48ab288af4e443d20b63901488425e4a96338a61",
+          "title": "11 天 Claude Fable 5 狂写超 100 万行代码：Rust 重构 JavaScript 运行时 Bun",
+          "url": "https://www.ithome.com/0/975/469.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-10T23:08:47Z"
+          "published_at": "2026-07-11T07:33:08Z"
         }
       ],
       "source_count": 2,
@@ -661,128 +600,49 @@
       ],
       "items": [
         {
-          "id": "0a1ab5a064027c1224306bc4c260e99c77159dc5",
-          "title": "OpenAI 回应苹果起诉：对商业机密毫无兴趣",
-          "url": "https://www.ithome.com/0/975/372.htm",
+          "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
+          "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
+          "url": "https://www.ithome.com/0/975/469.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-10T23:08:47Z"
+          "published_at": "2026-07-11T07:33:08Z"
         },
         {
-          "id": "7ddc9496429a845576ed2e3df86a4a723b29eaa5",
-          "title": "OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣",
-          "url": "https://www.ithome.com/0/975/372.htm",
+          "id": "48ab288af4e443d20b63901488425e4a96338a61",
+          "title": "11 天 Claude Fable 5 狂写超 100 万行代码：Rust 重构 JavaScript 运行时 Bun",
+          "url": "https://www.ithome.com/0/975/469.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-10T23:08:47Z"
+          "published_at": "2026-07-11T07:33:08Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7125,
+        "recency": 0.7928,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-10T23:08:47Z",
-      "latest_at": "2026-07-10T23:08:47Z",
+      "earliest_at": "2026-07-11T07:33:08Z",
+      "latest_at": "2026-07-11T07:33:08Z",
       "primary_item": {
-        "id": "0a1ab5a064027c1224306bc4c260e99c77159dc5",
-        "title": "OpenAI 回应苹果起诉：对商业机密毫无兴趣",
-        "url": "https://www.ithome.com/0/975/372.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7bdf28b0fb8c",
-      "title": "苹果起诉 OpenAI，指控其挖角前员工窃取未发布产品及供应链资料",
-      "url": "https://www.ithome.com/0/975/370.htm",
-      "primary_url": "https://www.ithome.com/0/975/370.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "de2a431bc7f96986cf92468fe2bd3e698c3eae64",
-          "title": "苹果起诉 OpenAI，指控其挖角前员工窃取未发布产品及供应链资料",
-          "url": "https://www.ithome.com/0/975/370.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T22:57:30Z"
-        },
-        {
-          "id": "b8e13519c5e882c0552ff7a5d702abbc6aa236f4",
-          "title": "苹果起诉 OpenAI，指控其挖角前员工窃取未发布产品、供应链资料等商业机密",
-          "url": "https://www.ithome.com/0/975/370.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T22:57:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "de2a431bc7f96986cf92468fe2bd3e698c3eae64",
-          "title": "苹果起诉 OpenAI，指控其挖角前员工窃取未发布产品及供应链资料",
-          "url": "https://www.ithome.com/0/975/370.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T22:57:30Z"
-        },
-        {
-          "id": "b8e13519c5e882c0552ff7a5d702abbc6aa236f4",
-          "title": "苹果起诉 OpenAI，指控其挖角前员工窃取未发布产品、供应链资料等商业机密",
-          "url": "https://www.ithome.com/0/975/370.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T22:57:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7105,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T22:57:30Z",
-      "latest_at": "2026-07-10T22:57:30Z",
-      "primary_item": {
-        "id": "de2a431bc7f96986cf92468fe2bd3e698c3eae64",
-        "title": "苹果起诉 OpenAI，指控其挖角前员工窃取未发布产品及供应链资料",
-        "url": "https://www.ithome.com/0/975/370.htm",
+        "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
+        "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
+        "url": "https://www.ithome.com/0/975/469.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
@@ -876,15 +736,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6441,
-      "importance": 0.6441,
-      "importance_score": 0.6441,
+      "score": 0.6417,
+      "importance": 0.6417,
+      "importance_score": 0.6417,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.9304,
+        "recency": 0.917,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -974,15 +834,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5627,
-      "importance": 0.5627,
-      "importance_score": 0.5627,
+      "score": 0.5603,
+      "importance": 0.5603,
+      "importance_score": 0.5603,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9552,
+        "recency": 0.9415,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1072,15 +932,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5596,
-      "importance": 0.5596,
-      "importance_score": 0.5596,
+      "score": 0.5572,
+      "importance": 0.5572,
+      "importance_score": 0.5572,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9378,
+        "recency": 0.9243,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1151,15 +1011,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5411,
-      "importance": 0.5411,
-      "importance_score": 0.5411,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9738,
+        "recency": 0.9598,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1229,15 +1089,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.5276,
+      "importance": 0.5276,
+      "importance_score": 0.5276,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9121,
+        "recency": 0.899,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1326,15 +1186,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
+      "score": 0.5217,
+      "importance": 0.5217,
+      "importance_score": 0.5217,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.738,
+        "recency": 0.7274,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1424,15 +1284,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5219,
-      "importance": 0.5219,
-      "importance_score": 0.5219,
+      "score": 0.52,
+      "importance": 0.52,
+      "importance_score": 0.52,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7284,
+        "recency": 0.7179,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1502,15 +1362,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5213,
-      "importance": 0.5213,
-      "importance_score": 0.5213,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8641,
+        "recency": 0.8517,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1581,15 +1441,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5194,
-      "importance": 0.5194,
-      "importance_score": 0.5194,
+      "score": 0.5172,
+      "importance": 0.5172,
+      "importance_score": 0.5172,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8531,
+        "recency": 0.8409,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1660,15 +1520,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5194,
-      "importance": 0.5194,
-      "importance_score": 0.5194,
+      "score": 0.5172,
+      "importance": 0.5172,
+      "importance_score": 0.5172,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8531,
+        "recency": 0.8409,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1683,6 +1543,164 @@
         "url": "https://www.qbitai.com/2026/07/447902.html",
         "source": "量子位 · 每日最新",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_0a7e85008191",
+      "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
+      "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4874519.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "4a160e187edde4df54204d98b5d103546dbdac2f",
+          "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
+          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "53bd41ce08b667aee69742d6c135f7803d7da97c",
+          "title": "OpenAI48小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
+          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T09:23:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "4a160e187edde4df54204d98b5d103546dbdac2f",
+          "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
+          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "53bd41ce08b667aee69742d6c135f7803d7da97c",
+          "title": "OpenAI48小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
+          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T09:23:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.515,
+      "importance": 0.515,
+      "importance_score": 0.515,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8288,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T09:23:45Z",
+      "latest_at": "2026-07-11T10:37:32.656172Z",
+      "primary_item": {
+        "id": "4a160e187edde4df54204d98b5d103546dbdac2f",
+        "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
+        "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_3822e0e0e383",
+      "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+      "url": "https://news.ycombinator.com/item?id=48876505",
+      "primary_url": "https://news.ycombinator.com/item?id=48876505",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
+          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+          "url": "https://news.ycombinator.com/item?id=48876505",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T23:11:32.847000Z"
+        },
+        {
+          "id": "8e05c5de6932301ae68f8674d66b4ca481bad391",
+          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T22:38:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
+          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+          "url": "https://news.ycombinator.com/item?id=48876505",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T23:11:32.847000Z"
+        },
+        {
+          "id": "8e05c5de6932301ae68f8674d66b4ca481bad391",
+          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T22:38:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9937,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T22:38:57Z",
+      "latest_at": "2026-07-11T23:11:32.847000Z",
+      "primary_item": {
+        "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
+        "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+        "url": "https://news.ycombinator.com/item?id=48876505",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
