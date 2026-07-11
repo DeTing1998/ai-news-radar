@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T07:37:30.098161Z",
+  "generated_at": "2026-07-11T08:37:35.589385Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8345,
-      "importance": 0.8345,
-      "importance_score": 0.8345,
+      "score": 0.8323,
+      "importance": 0.8323,
+      "importance_score": 0.8323,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8718,
+        "recency": 0.8593,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8538,
+        "recency": 0.8416,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8135,
+      "importance": 0.8135,
+      "importance_score": 0.8135,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7976,
+        "recency": 0.7861,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,6 +244,87 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8eeb4fee86b5",
+      "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+      "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+      "primary_url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T07:56:11Z"
+        },
+        {
+          "id": "dbf509acc7aa394d320e8dd9e3e3ca213ff65843",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-11T07:56:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T07:56:11Z"
+        },
+        {
+          "id": "dbf509acc7aa394d320e8dd9e3e3ca213ff65843",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-11T07:56:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7968,
+      "importance": 0.7968,
+      "importance_score": 0.7968,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9901,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T07:56:11Z",
+      "latest_at": "2026-07-11T07:56:11Z",
+      "primary_item": {
+        "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
+        "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+        "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -300,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.852,
+        "recency": 0.8398,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -362,15 +443,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8164,
-      "importance": 0.8164,
-      "importance_score": 0.8164,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8467,
+        "recency": 0.8346,
         "story_heat": 0.0
       },
       "category": "official",
@@ -443,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7689,
-      "importance": 0.7689,
-      "importance_score": 0.7689,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8848,
+        "recency": 0.8721,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -505,15 +586,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9213,
+        "recency": 0.9081,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -566,15 +647,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8206,
+        "recency": 0.8088,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -627,15 +708,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.788,
+        "recency": 0.7767,
         "story_heat": 0.0
       },
       "category": "official",
@@ -689,15 +770,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8577,
+        "recency": 0.8454,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -768,15 +849,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8824,
+        "recency": 0.8697,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -830,15 +911,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7286,
-      "importance": 0.7286,
-      "importance_score": 0.7286,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8168,
+        "recency": 0.805,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -890,15 +971,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7241,
-      "importance": 0.7241,
-      "importance_score": 0.7241,
+      "score": 0.7221,
+      "importance": 0.7221,
+      "importance_score": 0.7221,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7749,
+        "recency": 0.7638,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -950,15 +1031,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7292,
+        "recency": 0.7188,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1066,15 +1147,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6113,
-      "importance": 0.6113,
-      "importance_score": 0.6113,
+      "score": 0.6091,
+      "importance": 0.6091,
+      "importance_score": 0.6091,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.817,
+        "recency": 0.8052,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1145,15 +1226,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6037,
-      "importance": 0.6037,
-      "importance_score": 0.6037,
+      "score": 0.6015,
+      "importance": 0.6015,
+      "importance_score": 0.6015,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8654,
+        "recency": 0.853,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1262,15 +1343,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5764,
-      "importance": 0.5764,
-      "importance_score": 0.5764,
+      "score": 0.5741,
+      "importance": 0.5741,
+      "importance_score": 0.5741,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8922,
+        "recency": 0.8794,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1359,15 +1440,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5558,
-      "importance": 0.5558,
-      "importance_score": 0.5558,
+      "score": 0.5534,
+      "importance": 0.5534,
+      "importance_score": 0.5534,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9165,
+        "recency": 0.9033,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1457,15 +1538,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5536,
-      "importance": 0.5536,
-      "importance_score": 0.5536,
+      "score": 0.5513,
+      "importance": 0.5513,
+      "importance_score": 0.5513,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9045,
+        "recency": 0.8915,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1480,104 +1561,6 @@
         "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_be1720d248f4",
-      "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://news.ycombinator.com/item?id=48865019",
-      "primary_url": "https://news.ycombinator.com/item?id=48865019",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "6f0abfaa01d6de5c38b4b10e8770e9838c11ff43",
-          "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://news.ycombinator.com/item?id=48865019",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T23:17:22.747000Z"
-        },
-        {
-          "id": "2e4fae73d6e65a31d6b11518881ef7406520ddeb",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "9to5mac.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T23:11:12.310000Z"
-        },
-        {
-          "id": "e01e7f5e5d50b2f6f0194ad2d9b33f5f021af3b6",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-10T20:47:09Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "9to5mac.com",
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6f0abfaa01d6de5c38b4b10e8770e9838c11ff43",
-          "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://news.ycombinator.com/item?id=48865019",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T23:17:22.747000Z"
-        },
-        {
-          "id": "2e4fae73d6e65a31d6b11518881ef7406520ddeb",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "9to5mac.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T23:11:12.310000Z"
-        },
-        {
-          "id": "e01e7f5e5d50b2f6f0194ad2d9b33f5f021af3b6",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-10T20:47:09Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5504,
-      "importance": 0.5504,
-      "importance_score": 0.5504,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8866,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-10T20:47:09Z",
-      "latest_at": "2026-07-10T23:17:22.747000Z",
-      "primary_item": {
-        "id": "6f0abfaa01d6de5c38b4b10e8770e9838c11ff43",
-        "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-        "url": "https://news.ycombinator.com/item?id=48865019",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
