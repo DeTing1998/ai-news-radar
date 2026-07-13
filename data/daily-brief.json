@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T05:37:30.853842Z",
+  "generated_at": "2026-07-13T07:37:29.950033Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -19,9 +19,18 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-07-13T00:00:00Z"
+        },
+        {
+          "id": "9e799f0c9dbb9b3047013f8b08d426b3e5fe7894",
+          "title": "法典 CLI 0.144.3 / Codex CLI 0.144.3",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T00:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
         "OpenAI Codex Changelog"
       ],
@@ -34,24 +43,34 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-07-13T00:00:00Z"
+        },
+        {
+          "id": "9e799f0c9dbb9b3047013f8b08d426b3e5fe7894",
+          "title": "法典 CLI 0.144.3 / Codex CLI 0.144.3",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T00:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.852,
-      "importance": 0.852,
-      "importance_score": 0.852,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8722,
+      "importance": 0.8722,
+      "importance_score": 0.8722,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.922,
-        "story_heat": 0.0
+        "recency": 0.8957,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
@@ -157,15 +176,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8218,
-      "importance": 0.8218,
-      "importance_score": 0.8218,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9178,
+        "recency": 0.8917,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -219,15 +238,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7958,
-      "importance": 0.7958,
-      "importance_score": 0.7958,
+      "score": 0.791,
+      "importance": 0.791,
+      "importance_score": 0.791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.8968,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -299,15 +318,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -361,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9344,
+        "recency": 0.9078,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -441,15 +460,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9716,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -503,15 +522,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8509,
+        "recency": 0.8267,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -564,21 +583,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8454,
+        "recency": 0.8214,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-12T17:59:57Z",
       "latest_at": "2026-07-12T17:59:57Z",
@@ -625,15 +643,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8263,
+        "recency": 0.8027,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -704,15 +722,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7453,
+        "recency": 0.724,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -765,15 +783,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8116,
+        "recency": 0.7885,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -787,87 +805,6 @@
         "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
         "url": "https://x.com/satyanadella/status/2076323181154230284",
         "source": "X：Satya Nadella (@satyanadella)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4da51d31a85f",
-      "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "primary_url": "https://github.com/cosmtrek/mindwalk",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
-          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-          "url": "https://github.com/cosmtrek/mindwalk",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T13:51:05.035000Z"
-        },
-        {
-          "id": "8ae43e3e6e516ec40634c1eb5556f6a09222b8b2",
-          "title": "Show HN: Mindwalk——在代码库的 3D 地图上重放编码代理会话 / Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-          "url": "https://github.com/cosmtrek/mindwalk",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T05:51:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
-          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-          "url": "https://github.com/cosmtrek/mindwalk",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T13:51:05.035000Z"
-        },
-        {
-          "id": "8ae43e3e6e516ec40634c1eb5556f6a09222b8b2",
-          "title": "Show HN: Mindwalk——在代码库的 3D 地图上重放编码代理会话 / Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-          "url": "https://github.com/cosmtrek/mindwalk",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T05:51:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7963,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T05:51:32Z",
-      "latest_at": "2026-07-12T13:51:05.035000Z",
-      "primary_item": {
-        "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
-        "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-        "url": "https://github.com/cosmtrek/mindwalk",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -925,15 +862,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -953,21 +890,81 @@
       }
     },
     {
-      "story_id": "story_3b8abf3cb07f",
-      "title": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
-      "url": "https://www.aibase.com/news/29540",
-      "primary_url": "https://www.aibase.com/news/29540",
+      "story_id": "story_4da51d31a85f",
+      "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "primary_url": "https://github.com/cosmtrek/mindwalk",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
+          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+          "url": "https://github.com/cosmtrek/mindwalk",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T13:51:05.035000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
+          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+          "url": "https://github.com/cosmtrek/mindwalk",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T13:51:05.035000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7736,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-12T13:51:05.035000Z",
+      "latest_at": "2026-07-12T13:51:05.035000Z",
+      "primary_item": {
+        "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
+        "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+        "url": "https://github.com/cosmtrek/mindwalk",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_86c792186562",
+      "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
+      "url": "https://www.aibase.com/news/29544",
+      "primary_url": "https://www.aibase.com/news/29544",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7d3139bebf1808f8739e165b51d03bebe3c410a1",
-          "title": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
-          "url": "https://www.aibase.com/news/29540",
+          "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
+          "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
+          "url": "https://www.aibase.com/news/29544",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T03:37:36.321845Z"
+          "published_at": "2026-07-13T07:37:29.950033Z"
         }
       ],
       "source_count": 1,
@@ -976,26 +973,26 @@
       ],
       "items": [
         {
-          "id": "7d3139bebf1808f8739e165b51d03bebe3c410a1",
-          "title": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
-          "url": "https://www.aibase.com/news/29540",
+          "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
+          "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
+          "url": "https://www.aibase.com/news/29544",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T03:37:36.321845Z"
+          "published_at": "2026-07-13T07:37:29.950033Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9716,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1003,12 +1000,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T03:37:36.321845Z",
-      "latest_at": "2026-07-13T03:37:36.321845Z",
+      "earliest_at": "2026-07-13T07:37:29.950033Z",
+      "latest_at": "2026-07-13T07:37:29.950033Z",
       "primary_item": {
-        "id": "7d3139bebf1808f8739e165b51d03bebe3c410a1",
-        "title": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
-        "url": "https://www.aibase.com/news/29540",
+        "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
+        "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
+        "url": "https://www.aibase.com/news/29544",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1175,15 +1172,15 @@
       ],
       "item_count": 8,
       "duplicate_count": 8,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6641,
+      "importance": 0.6641,
+      "importance_score": 0.6641,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9715,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1201,21 +1198,21 @@
       }
     },
     {
-      "story_id": "story_4a682d8ae5ae",
-      "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
-      "url": "https://www.aibase.com/news/29538",
-      "primary_url": "https://www.aibase.com/news/29538",
+      "story_id": "story_62ff3681c8ca",
+      "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
+      "url": "https://www.aibase.com/news/29543",
+      "primary_url": "https://www.aibase.com/news/29543",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "585a52f3593588d072e461f1b0389b6c6ba7dc2d",
-          "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
-          "url": "https://www.aibase.com/news/29538",
+          "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
+          "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
+          "url": "https://www.aibase.com/news/29543",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T03:37:36.321845Z"
+          "published_at": "2026-07-13T07:37:29.950033Z"
         }
       ],
       "source_count": 1,
@@ -1224,26 +1221,26 @@
       ],
       "items": [
         {
-          "id": "585a52f3593588d072e461f1b0389b6c6ba7dc2d",
-          "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
-          "url": "https://www.aibase.com/news/29538",
+          "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
+          "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
+          "url": "https://www.aibase.com/news/29543",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T03:37:36.321845Z"
+          "published_at": "2026-07-13T07:37:29.950033Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9716,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1251,32 +1248,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T03:37:36.321845Z",
-      "latest_at": "2026-07-13T03:37:36.321845Z",
+      "earliest_at": "2026-07-13T07:37:29.950033Z",
+      "latest_at": "2026-07-13T07:37:29.950033Z",
       "primary_item": {
-        "id": "585a52f3593588d072e461f1b0389b6c6ba7dc2d",
-        "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
-        "url": "https://www.aibase.com/news/29538",
+        "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
+        "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
+        "url": "https://www.aibase.com/news/29543",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_2849b2dfcc73",
-      "title": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
-      "url": "https://www.aibase.com/news/29537",
-      "primary_url": "https://www.aibase.com/news/29537",
+      "story_id": "story_ec77dce64ece",
+      "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
+      "url": "https://www.aibase.com/news/29542",
+      "primary_url": "https://www.aibase.com/news/29542",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "18022608f3c5c8bcf224ae54797a20ec3a6e8c7e",
-          "title": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
-          "url": "https://www.aibase.com/news/29537",
+          "id": "85d644286a16b7ffdd66482d7cb598e7f15c2cc6",
+          "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
+          "url": "https://www.aibase.com/news/29542",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T03:37:36.321845Z"
+          "published_at": "2026-07-13T07:37:29.950033Z"
         }
       ],
       "source_count": 1,
@@ -1285,26 +1282,26 @@
       ],
       "items": [
         {
-          "id": "18022608f3c5c8bcf224ae54797a20ec3a6e8c7e",
-          "title": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
-          "url": "https://www.aibase.com/news/29537",
+          "id": "85d644286a16b7ffdd66482d7cb598e7f15c2cc6",
+          "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
+          "url": "https://www.aibase.com/news/29542",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T03:37:36.321845Z"
+          "published_at": "2026-07-13T07:37:29.950033Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9716,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1312,12 +1309,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T03:37:36.321845Z",
-      "latest_at": "2026-07-13T03:37:36.321845Z",
+      "earliest_at": "2026-07-13T07:37:29.950033Z",
+      "latest_at": "2026-07-13T07:37:29.950033Z",
       "primary_item": {
-        "id": "18022608f3c5c8bcf224ae54797a20ec3a6e8c7e",
-        "title": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
-        "url": "https://www.aibase.com/news/29537",
+        "id": "85d644286a16b7ffdd66482d7cb598e7f15c2cc6",
+        "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
+        "url": "https://www.aibase.com/news/29542",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1432,15 +1429,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5961,
-      "importance": 0.5961,
-      "importance_score": 0.5961,
+      "score": 0.5917,
+      "importance": 0.5917,
+      "importance_score": 0.5917,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8628,
+        "recency": 0.8382,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1458,21 +1455,21 @@
       }
     },
     {
-      "story_id": "story_41ff5dcf5fcf",
-      "title": "用“@”就能让 AI 改你照片?Meta 刚上线的新功能被骂到连夜下架",
-      "url": "https://www.aibase.com/news/29535",
-      "primary_url": "https://www.aibase.com/news/29535",
+      "story_id": "story_0758182240a0",
+      "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
+      "url": "https://www.aibase.com/news/29548",
+      "primary_url": "https://www.aibase.com/news/29548",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "01ad5f56c3902a903ee0f0cd81816a0733b5f9de",
-          "title": "用“@”就能让 AI 改你照片?Meta 刚上线的新功能被骂到连夜下架",
-          "url": "https://www.aibase.com/news/29535",
+          "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
+          "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
+          "url": "https://www.aibase.com/news/29548",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T03:37:36.321845Z"
+          "published_at": "2026-07-13T07:37:29.950033Z"
         }
       ],
       "source_count": 1,
@@ -1481,26 +1478,26 @@
       ],
       "items": [
         {
-          "id": "01ad5f56c3902a903ee0f0cd81816a0733b5f9de",
-          "title": "用“@”就能让 AI 改你照片?Meta 刚上线的新功能被骂到连夜下架",
-          "url": "https://www.aibase.com/news/29535",
+          "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
+          "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
+          "url": "https://www.aibase.com/news/29548",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T03:37:36.321845Z"
+          "published_at": "2026-07-13T07:37:29.950033Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9716,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1508,32 +1505,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T03:37:36.321845Z",
-      "latest_at": "2026-07-13T03:37:36.321845Z",
+      "earliest_at": "2026-07-13T07:37:29.950033Z",
+      "latest_at": "2026-07-13T07:37:29.950033Z",
       "primary_item": {
-        "id": "01ad5f56c3902a903ee0f0cd81816a0733b5f9de",
-        "title": "用“@”就能让 AI 改你照片?Meta 刚上线的新功能被骂到连夜下架",
-        "url": "https://www.aibase.com/news/29535",
+        "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
+        "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
+        "url": "https://www.aibase.com/news/29548",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_0ab7a090c793",
-      "title": "被寄予厚望的AI浏览器夭折，OpenAI正式宣布关停Atlas",
-      "url": "https://www.aibase.com/news/29536",
-      "primary_url": "https://www.aibase.com/news/29536",
+      "story_id": "story_3a63a9545188",
+      "title": "职场社交变“AI重灾区”?研究显示LinkedIn长篇垃圾内容占比高达41%",
+      "url": "https://www.aibase.com/news/29545",
+      "primary_url": "https://www.aibase.com/news/29545",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7bd0d0430adfd3c40de51875d6feb098422c7262",
-          "title": "被寄予厚望的AI浏览器夭折，OpenAI正式宣布关停Atlas",
-          "url": "https://www.aibase.com/news/29536",
+          "id": "c69dbbd164a061a59da53969815929762752e5e6",
+          "title": "职场社交变“AI重灾区”?研究显示LinkedIn长篇垃圾内容占比高达41%",
+          "url": "https://www.aibase.com/news/29545",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T03:37:36.321845Z"
+          "published_at": "2026-07-13T07:37:29.950033Z"
         }
       ],
       "source_count": 1,
@@ -1542,26 +1539,26 @@
       ],
       "items": [
         {
-          "id": "7bd0d0430adfd3c40de51875d6feb098422c7262",
-          "title": "被寄予厚望的AI浏览器夭折，OpenAI正式宣布关停Atlas",
-          "url": "https://www.aibase.com/news/29536",
+          "id": "c69dbbd164a061a59da53969815929762752e5e6",
+          "title": "职场社交变“AI重灾区”?研究显示LinkedIn长篇垃圾内容占比高达41%",
+          "url": "https://www.aibase.com/news/29545",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T03:37:36.321845Z"
+          "published_at": "2026-07-13T07:37:29.950033Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9716,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1569,12 +1566,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T03:37:36.321845Z",
-      "latest_at": "2026-07-13T03:37:36.321845Z",
+      "earliest_at": "2026-07-13T07:37:29.950033Z",
+      "latest_at": "2026-07-13T07:37:29.950033Z",
       "primary_item": {
-        "id": "7bd0d0430adfd3c40de51875d6feb098422c7262",
-        "title": "被寄予厚望的AI浏览器夭折，OpenAI正式宣布关停Atlas",
-        "url": "https://www.aibase.com/news/29536",
+        "id": "c69dbbd164a061a59da53969815929762752e5e6",
+        "title": "职场社交变“AI重灾区”?研究显示LinkedIn长篇垃圾内容占比高达41%",
+        "url": "https://www.aibase.com/news/29545",
         "source": "AIbase",
         "source_name": "AIbase"
       }
