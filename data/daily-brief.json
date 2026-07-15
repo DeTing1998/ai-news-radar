@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T20:37:34.748381Z",
+  "generated_at": "2026-07-15T21:37:33.496297Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.852,
-      "importance": 0.852,
-      "importance_score": 0.852,
+      "score": 0.8496,
+      "importance": 0.8496,
+      "importance_score": 0.8496,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9558,
+        "recency": 0.9421,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8577,
+        "recency": 0.8455,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,124 +125,6 @@
         "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9bca5dae0eb3",
-      "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "primary_url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ea915c5c6c95883a37fe10b4f2fe0b1172f2a29",
-          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T21:27:11.693000Z"
-        },
-        {
-          "id": "3866feccb17eb0d861be30029f299f0a295e8d84",
-          "title": "完全披露：Cursor 中存在任意代码执行漏洞",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "mindgard.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T04:55:21.542000Z"
-        },
-        {
-          "id": "39de46bc3c39610026b5943df3ef0a3a20f15444",
-          "title": "Cursor 0day：当全面披露成为唯一的防护手段时 / Full disclosure: Arbitrary code execution in Cursor",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T02:02:02Z"
-        },
-        {
-          "id": "b247e0d454e1e52c0b5dcde8c59b706571854a3d",
-          "title": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "mindgard.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-14T21:27:11.693000Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Lobsters (技术社区)",
-        "mindgard.ai"
-      ],
-      "items": [
-        {
-          "id": "6ea915c5c6c95883a37fe10b4f2fe0b1172f2a29",
-          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T21:27:11.693000Z"
-        },
-        {
-          "id": "3866feccb17eb0d861be30029f299f0a295e8d84",
-          "title": "完全披露：Cursor 中存在任意代码执行漏洞",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "mindgard.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T04:55:21.542000Z"
-        },
-        {
-          "id": "39de46bc3c39610026b5943df3ef0a3a20f15444",
-          "title": "Cursor 0day：当全面披露成为唯一的防护手段时 / Full disclosure: Arbitrary code execution in Cursor",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T02:02:02Z"
-        },
-        {
-          "id": "b247e0d454e1e52c0b5dcde8c59b706571854a3d",
-          "title": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "mindgard.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-14T21:27:11.693000Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7156,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T21:27:11.693000Z",
-      "latest_at": "2026-07-15T04:55:21.542000Z",
-      "primary_item": {
-        "id": "6ea915c5c6c95883a37fe10b4f2fe0b1172f2a29",
-        "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-        "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -280,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8519,
-      "importance": 0.8519,
-      "importance_score": 0.8519,
+      "score": 0.8495,
+      "importance": 0.8495,
+      "importance_score": 0.8495,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9552,
+        "recency": 0.9415,
         "story_heat": 0.0
       },
       "category": "official",
@@ -342,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8057,
-      "importance": 0.8057,
-      "importance_score": 0.8057,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7427,
+        "recency": 0.732,
         "story_heat": 0.0
       },
       "category": "official",
@@ -404,15 +286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8829,
+        "recency": 0.8702,
         "story_heat": 0.0
       },
       "category": "official",
@@ -429,6 +311,87 @@
         "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e21c965e6aed",
+      "title": "Telegram 无服务器架构",
+      "url": "https://core.telegram.org/bots/serverless",
+      "primary_url": "https://core.telegram.org/bots/serverless",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
+          "title": "Telegram 无服务器架构",
+          "url": "https://core.telegram.org/bots/serverless",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T15:37:19.450000Z"
+        },
+        {
+          "id": "896aa7903770e1ec702edbf7b8920e29b26a2232",
+          "title": "Telegram 无服务器架构 / Telegram Serverless",
+          "url": "https://core.telegram.org/bots/serverless",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T10:06:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
+          "title": "Telegram 无服务器架构",
+          "url": "https://core.telegram.org/bots/serverless",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T15:37:19.450000Z"
+        },
+        {
+          "id": "896aa7903770e1ec702edbf7b8920e29b26a2232",
+          "title": "Telegram 无服务器架构 / Telegram Serverless",
+          "url": "https://core.telegram.org/bots/serverless",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T10:06:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T10:06:39Z",
+      "latest_at": "2026-07-15T15:37:19.450000Z",
+      "primary_item": {
+        "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
+        "title": "Telegram 无服务器架构",
+        "url": "https://core.telegram.org/bots/serverless",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -485,15 +448,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7941,
-      "importance": 0.7941,
-      "importance_score": 0.7941,
+      "score": 0.7919,
+      "importance": 0.7919,
+      "importance_score": 0.7919,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8417,
+        "recency": 0.8296,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -547,15 +510,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7384,
+        "recency": 0.7278,
         "story_heat": 0.0
       },
       "category": "official",
@@ -628,15 +591,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.867,
+        "recency": 0.8546,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -653,87 +616,6 @@
         "url": "https://www.aibase.com/news/29625",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e21c965e6aed",
-      "title": "Telegram 无服务器架构",
-      "url": "https://core.telegram.org/bots/serverless",
-      "primary_url": "https://core.telegram.org/bots/serverless",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
-          "title": "Telegram 无服务器架构",
-          "url": "https://core.telegram.org/bots/serverless",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T15:37:19.450000Z"
-        },
-        {
-          "id": "896aa7903770e1ec702edbf7b8920e29b26a2232",
-          "title": "Telegram 无服务器架构 / Telegram Serverless",
-          "url": "https://core.telegram.org/bots/serverless",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T10:06:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
-          "title": "Telegram 无服务器架构",
-          "url": "https://core.telegram.org/bots/serverless",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T15:37:19.450000Z"
-        },
-        {
-          "id": "896aa7903770e1ec702edbf7b8920e29b26a2232",
-          "title": "Telegram 无服务器架构 / Telegram Serverless",
-          "url": "https://core.telegram.org/bots/serverless",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T10:06:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7951,
-      "importance": 0.7951,
-      "importance_score": 0.7951,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9303,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T10:06:39Z",
-      "latest_at": "2026-07-15T15:37:19.450000Z",
-      "primary_item": {
-        "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
-        "title": "Telegram 无服务器架构",
-        "url": "https://core.telegram.org/bots/serverless",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -771,15 +653,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8696,
+        "recency": 0.8572,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -851,15 +733,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7196,
+        "recency": 0.7093,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -913,15 +795,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
+      "score": 0.8117,
+      "importance": 0.8117,
+      "importance_score": 0.8117,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7424,
+        "recency": 0.7318,
         "story_heat": 0.0
       },
       "category": "official",
@@ -975,15 +857,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7684,
+        "recency": 0.7574,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1054,15 +936,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.817,
+        "recency": 0.8053,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1116,15 +998,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7698,
+        "recency": 0.7587,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1195,15 +1077,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8414,
+        "recency": 0.8293,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1257,15 +1139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7254,
-      "importance": 0.7254,
-      "importance_score": 0.7254,
+      "score": 0.7235,
+      "importance": 0.7235,
+      "importance_score": 0.7235,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.732,
+        "recency": 0.7215,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1279,6 +1161,87 @@
         "title": "Codex 周活超700万，两月更新150+项",
         "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
         "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_eb9b80fadbba",
+      "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
+      "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
+      "primary_url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7780ac5867d8905bd2b741d4f72a57d47bde334a",
+          "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
+          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T03:51:16.524000Z"
+        },
+        {
+          "id": "1c2aadf61cc7aa7e0b8fcfe152ee25bea2f95ac3",
+          "title": "数据中心已使公众的电费增加了230亿美元 / Data centers have hiked electricity prices on the public by $23B",
+          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T00:20:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "7780ac5867d8905bd2b741d4f72a57d47bde334a",
+          "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
+          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T03:51:16.524000Z"
+        },
+        {
+          "id": "1c2aadf61cc7aa7e0b8fcfe152ee25bea2f95ac3",
+          "title": "数据中心已使公众的电费增加了230亿美元 / Data centers have hiked electricity prices on the public by $23B",
+          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T00:20:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7737,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T00:20:31Z",
+      "latest_at": "2026-07-15T03:51:16.524000Z",
+      "primary_item": {
+        "id": "7780ac5867d8905bd2b741d4f72a57d47bde334a",
+        "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
+        "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1317,15 +1280,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
+      "score": 0.8117,
+      "importance": 0.8117,
+      "importance_score": 0.8117,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7424,
+        "recency": 0.7318,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1345,63 +1308,84 @@
       }
     },
     {
-      "story_id": "story_d17ac7f43b0d",
-      "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-      "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
-      "primary_url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
-      "source": "公众号：卡尔的AI沃茨",
-      "source_name": "AI HOT",
+      "story_id": "story_f3ffbc90e83e",
+      "title": "GPT-5. 6 上线引爆需求：奥尔特曼称上周OpenAI智能体产品用量增长2. 5 倍",
+      "url": "https://www.aibase.com/news/29611",
+      "primary_url": "https://www.aibase.com/news/29611",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "7f407e817b9c352b467b7b2a1ec7646d359e4007",
-          "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-          "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T01:52:00Z"
+          "id": "536561be6a1432f8d063aa5eea53d8f9ec34ff08",
+          "title": "GPT-5. 6 上线引爆需求：奥尔特曼称上周OpenAI智能体产品用量增长2. 5 倍",
+          "url": "https://www.aibase.com/news/29611",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T06:37:37.717026Z"
+        },
+        {
+          "id": "9882679b994cd019c3fcdbed4c8360706247107c",
+          "title": "GPT-5. 6 上线引爆需求：奥尔特曼称上周 OpenAI 智能体产品用量增长 2. 5 倍",
+          "url": "https://www.aibase.com/zh/news/29611",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "公众号：卡尔的AI沃茨"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "7f407e817b9c352b467b7b2a1ec7646d359e4007",
-          "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-          "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T01:52:00Z"
+          "id": "536561be6a1432f8d063aa5eea53d8f9ec34ff08",
+          "title": "GPT-5. 6 上线引爆需求：奥尔特曼称上周OpenAI智能体产品用量增长2. 5 倍",
+          "url": "https://www.aibase.com/news/29611",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T06:37:37.717026Z"
+        },
+        {
+          "id": "9882679b994cd019c3fcdbed4c8360706247107c",
+          "title": "GPT-5. 6 上线引爆需求：奥尔特曼称上周 OpenAI 智能体产品用量增长 2. 5 倍",
+          "url": "https://www.aibase.com/zh/news/29611",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7627,
-        "story_heat": 0.0
+        "recency": 0.8053,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-15T01:52:00Z",
-      "latest_at": "2026-07-15T01:52:00Z",
+      "earliest_at": "2026-07-15T06:37:37.717026Z",
+      "latest_at": "2026-07-15T06:37:37.717026Z",
       "primary_item": {
-        "id": "7f407e817b9c352b467b7b2a1ec7646d359e4007",
-        "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-        "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
-        "source": "公众号：卡尔的AI沃茨",
-        "source_name": "AI HOT"
+        "id": "536561be6a1432f8d063aa5eea53d8f9ec34ff08",
+        "title": "GPT-5. 6 上线引爆需求：奥尔特曼称上周OpenAI智能体产品用量增长2. 5 倍",
+        "url": "https://www.aibase.com/news/29611",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
