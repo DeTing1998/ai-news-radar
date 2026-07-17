@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-17T12:37:42.559913Z",
+  "generated_at": "2026-07-17T13:37:45.876230Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_3ebda52fc80e",
+      "title": "人工智能时代的记分卡 / A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "primary_url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "731a7505b9e070229c9549f7cba6978cb43856a9",
+          "title": "人工智能时代的记分卡 / A scorecard for the AI age",
+          "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "731a7505b9e070229c9549f7cba6978cb43856a9",
+          "title": "人工智能时代的记分卡 / A scorecard for the AI age",
+          "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8428,
+      "importance": 0.8428,
+      "importance_score": 0.8428,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9489,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T10:00:00Z",
+      "latest_at": "2026-07-17T10:00:00Z",
+      "primary_item": {
+        "id": "731a7505b9e070229c9549f7cba6978cb43856a9",
+        "title": "人工智能时代的记分卡 / A scorecard for the AI age",
+        "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_45a4595f19b7",
       "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create, edit and star in videos with two Google Vids updates",
@@ -57,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7424,
+        "recency": 0.7317,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7426,
+        "recency": 0.732,
         "story_heat": 0.0
       },
       "category": "official",
@@ -144,68 +206,6 @@
         "title": "NVIDIA Nemotron 3 Embed 在 RTEB 上总体排名第一，推动代理检索 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
         "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8fe39edff791",
-      "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "primary_url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ed38a837e6df66b70357bb878fdb525481735328",
-          "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
-          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "ed38a837e6df66b70357bb878fdb525481735328",
-          "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
-          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7424,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T16:00:00Z",
-      "latest_at": "2026-07-16T16:00:00Z",
-      "primary_item": {
-        "id": "ed38a837e6df66b70357bb878fdb525481735328",
-        "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
-        "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7766,
+        "recency": 0.7655,
         "story_heat": 0.0
       },
       "category": "official",
@@ -325,15 +325,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9448,
+        "recency": 0.9313,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -406,15 +406,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -431,6 +431,68 @@
         "url": "https://www.aibase.com/news/29695",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8fe39edff791",
+      "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "primary_url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ed38a837e6df66b70357bb878fdb525481735328",
+          "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
+          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "ed38a837e6df66b70357bb878fdb525481735328",
+          "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
+          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7317,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T16:00:00Z",
+      "latest_at": "2026-07-16T16:00:00Z",
+      "primary_item": {
+        "id": "ed38a837e6df66b70357bb878fdb525481735328",
+        "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
+        "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -468,15 +530,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7751,
-      "importance": 0.7751,
-      "importance_score": 0.7751,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7915,
+        "recency": 0.7802,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -529,15 +591,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8036,
-      "importance": 0.8036,
-      "importance_score": 0.8036,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7755,
+        "recency": 0.7643,
         "story_heat": 0.0
       },
       "category": "official",
@@ -591,15 +653,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8056,
+        "recency": 0.7941,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -652,15 +714,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.7957,
+      "importance": 0.7957,
+      "importance_score": 0.7957,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7424,
+        "recency": 0.7317,
         "story_heat": 0.0
       },
       "category": "official",
@@ -714,15 +776,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9791,
+        "recency": 0.9651,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -775,15 +837,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9585,
+        "recency": 0.9447,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -836,15 +898,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8952,
+        "recency": 0.8823,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -916,15 +978,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -997,15 +1059,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7497,
+        "recency": 0.739,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1058,15 +1120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7654,
+        "recency": 0.7544,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1083,87 +1145,6 @@
         "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d15e37ab2566",
-      "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
-      "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
-      "primary_url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "78996dfa263154031e4769c9285030721f78fd89",
-          "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
-          "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T00:40:20.333000Z"
-        },
-        {
-          "id": "b0820a47e866342b44398d3e1385a41711a6bc40",
-          "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格 / Generative AI Is an Engineering Disaster",
-          "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-16T13:12:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "78996dfa263154031e4769c9285030721f78fd89",
-          "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
-          "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T00:40:20.333000Z"
-        },
-        {
-          "id": "b0820a47e866342b44398d3e1385a41711a6bc40",
-          "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格 / Generative AI Is an Engineering Disaster",
-          "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-16T13:12:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8414,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T13:12:24Z",
-      "latest_at": "2026-07-17T00:40:20.333000Z",
-      "primary_item": {
-        "id": "78996dfa263154031e4769c9285030721f78fd89",
-        "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
-        "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1220,15 +1201,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
+      "score": 0.7263,
+      "importance": 0.7263,
+      "importance_score": 0.7263,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7591,
+        "recency": 0.7482,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1300,15 +1281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7507,
+      "importance": 0.7507,
+      "importance_score": 0.7507,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7279,
+        "recency": 0.7175,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1328,62 +1309,82 @@
       }
     },
     {
-      "story_id": "story_77654aaff125",
-      "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
-      "url": "https://www.kimi.com/blog/perception-bench",
-      "primary_url": "https://www.kimi.com/blog/perception-bench",
-      "source": "Moonshot AI：Kimi Blog",
+      "story_id": "story_09e86f1db1bc",
+      "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "primary_url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "source": "VentureBeat：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ce8c88f36db4b4d4dd052be3cf3e4419b232412f",
-          "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
-          "url": "https://www.kimi.com/blog/perception-bench",
-          "source": "Moonshot AI：Kimi Blog",
+          "id": "351849145c6b8eab8c7345374b4d6e548dcf571e",
+          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
+          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+          "source": "VentureBeat：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-16T19:11:01.192000Z"
+          "published_at": "2026-07-16T19:02:38Z"
+        },
+        {
+          "id": "f6494df2dcdac191b954127ec735ab7314bf4be8",
+          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证 / The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+          "source": "VentureBeat AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-16T19:02:38Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Moonshot AI：Kimi Blog"
+        "VentureBeat AI",
+        "VentureBeat：AI（RSS）"
       ],
       "items": [
         {
-          "id": "ce8c88f36db4b4d4dd052be3cf3e4419b232412f",
-          "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
-          "url": "https://www.kimi.com/blog/perception-bench",
-          "source": "Moonshot AI：Kimi Blog",
+          "id": "351849145c6b8eab8c7345374b4d6e548dcf571e",
+          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
+          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+          "source": "VentureBeat：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-16T19:11:01.192000Z"
+          "published_at": "2026-07-16T19:02:38Z"
+        },
+        {
+          "id": "f6494df2dcdac191b954127ec735ab7314bf4be8",
+          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证 / The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+          "source": "VentureBeat AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-16T19:02:38Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7215,
-      "importance": 0.7215,
-      "importance_score": 0.7215,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7773,
-        "story_heat": 0.0
+        "recency": 0.7646,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T19:11:01.192000Z",
-      "latest_at": "2026-07-16T19:11:01.192000Z",
+      "earliest_at": "2026-07-16T19:02:38Z",
+      "latest_at": "2026-07-16T19:02:38Z",
       "primary_item": {
-        "id": "ce8c88f36db4b4d4dd052be3cf3e4419b232412f",
-        "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
-        "url": "https://www.kimi.com/blog/perception-bench",
-        "source": "Moonshot AI：Kimi Blog",
+        "id": "351849145c6b8eab8c7345374b4d6e548dcf571e",
+        "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
+        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+        "source": "VentureBeat：AI（RSS）",
         "source_name": "AI HOT"
       }
     }
