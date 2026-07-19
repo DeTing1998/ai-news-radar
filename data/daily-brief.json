@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T17:37:37.742100Z",
+  "generated_at": "2026-07-19T18:37:36.215867Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -114,15 +114,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.836,
+        "recency": 0.824,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -195,15 +195,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8264,
+        "recency": 0.8145,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,15 +257,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.93,
+        "recency": 0.9166,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -318,15 +318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9465,
+        "recency": 0.9329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -379,15 +379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8724,
+        "recency": 0.8599,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -459,15 +459,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8075,
+        "recency": 0.7959,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -521,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9382,
+        "recency": 0.9248,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -581,15 +581,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7348,
-      "importance": 0.7348,
-      "importance_score": 0.7348,
+      "score": 0.7327,
+      "importance": 0.7327,
+      "importance_score": 0.7327,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.818,
+        "recency": 0.8062,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -615,6 +615,15 @@
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "09e99af366792cddd98b2c04fb458c11810bfa29",
+          "title": "CY把Codex Micro的“Agent 状态外显”思路做成了Codex + Claude Code都能用的硬件版。他用EasyInput开发板跑通了从Codex / CC、本地Bridge、蓝牙 GATT到实体灯效的完整链路，让Agent的空闲、思考、未读、等待确认、报错等状态都可以直接显示在桌面灯光上。接下来，也会把它放进WaytoAGI AI 硬件训练营，带大家从零跑通相关设置和操作。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T18:37:36.215867Z"
+        },
+        {
           "id": "36a3d43945170de328b3aa234329e827aee300c4",
           "title": "LangChain开源了一个软件工程智能体工厂：dcode负责本地交互式编码，OpenSWE负责云端后台跑任务和提PR，OpenSWE Review 接入GitHub做自动代码审查，OpenWiki则为仓库持续生成文档和智能体记忆。快来体验一下！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -651,12 +660,21 @@
           "published_at": "2026-07-19T16:37:35.749516Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
         "社区更新 · 2026-07-19"
       ],
       "items": [
         {
+          "id": "09e99af366792cddd98b2c04fb458c11810bfa29",
+          "title": "CY把Codex Micro的“Agent 状态外显”思路做成了Codex + Claude Code都能用的硬件版。他用EasyInput开发板跑通了从Codex / CC、本地Bridge、蓝牙 GATT到实体灯效的完整链路，让Agent的空闲、思考、未读、等待确认、报错等状态都可以直接显示在桌面灯光上。接下来，也会把它放进WaytoAGI AI 硬件训练营，带大家从零跑通相关设置和操作。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T18:37:36.215867Z"
+        },
+        {
           "id": "36a3d43945170de328b3aa234329e827aee300c4",
           "title": "LangChain开源了一个软件工程智能体工厂：dcode负责本地交互式编码，OpenSWE负责云端后台跑任务和提PR，OpenSWE Review 接入GitHub做自动代码审查，OpenWiki则为仓库持续生成文档和智能体记忆。快来体验一下！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -693,25 +711,25 @@
           "published_at": "2026-07-19T16:37:35.749516Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6484,
-      "importance": 0.6484,
-      "importance_score": 0.6484,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6708,
+      "importance": 0.6708,
+      "importance_score": 0.6708,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 1.0,
-        "story_heat": 0.75
+        "recency": 0.9857,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-07-19T16:37:35.749516Z",
-      "latest_at": "2026-07-19T17:37:37.742100Z",
+      "latest_at": "2026-07-19T18:37:36.215867Z",
       "primary_item": {
         "id": "eaaefd0997e994162a8df0ce04b97977a376430c",
         "title": "这期AI论文精选很适合关注Agent落地的人看：自我改进、元认知、路由评估、失败追踪、运行框架演化，这几篇都在围绕一个核心问题打转——怎样让智能体更可靠、更可调试、更能长期运行。后半部分论文还延伸到了世界模型、安全监控优化、兼顾推理多样性的强化学习算法和高性能开源人形机器人模型。",
@@ -830,15 +848,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5983,
-      "importance": 0.5983,
-      "importance_score": 0.5983,
+      "score": 0.596,
+      "importance": 0.596,
+      "importance_score": 0.596,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8748,
+        "recency": 0.8622,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -909,15 +927,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.578,
-      "importance": 0.578,
-      "importance_score": 0.578,
+      "score": 0.5759,
+      "importance": 0.5759,
+      "importance_score": 0.5759,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8202,
+        "recency": 0.8085,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1007,15 +1025,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5637,
-      "importance": 0.5637,
-      "importance_score": 0.5637,
+      "score": 0.5612,
+      "importance": 0.5612,
+      "importance_score": 0.5612,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9604,
+        "recency": 0.9466,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1086,15 +1104,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1164,15 +1182,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.942,
+        "recency": 0.9285,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1243,15 +1261,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1322,15 +1340,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5302,
-      "importance": 0.5302,
-      "importance_score": 0.5302,
+      "score": 0.5279,
+      "importance": 0.5279,
+      "importance_score": 0.5279,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9135,
+        "recency": 0.9004,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1400,15 +1418,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5241,
-      "importance": 0.5241,
-      "importance_score": 0.5241,
+      "score": 0.5219,
+      "importance": 0.5219,
+      "importance_score": 0.5219,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8797,
+        "recency": 0.8671,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1478,15 +1496,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5198,
-      "importance": 0.5198,
-      "importance_score": 0.5198,
+      "score": 0.5176,
+      "importance": 0.5176,
+      "importance_score": 0.5176,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8555,
+        "recency": 0.8433,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1501,6 +1519,85 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_3aec985379c8",
+      "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "url": "https://news.ycombinator.com/item?id=48969291",
+      "primary_url": "https://news.ycombinator.com/item?id=48969291",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
+          "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+          "url": "https://news.ycombinator.com/item?id=48969291",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T18:19:51.113000Z"
+        },
+        {
+          "id": "eb2361426f5332e7bf36e887c0aa3424de371737",
+          "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T16:02:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
+          "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+          "url": "https://news.ycombinator.com/item?id=48969291",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T18:19:51.113000Z"
+        },
+        {
+          "id": "eb2361426f5332e7bf36e887c0aa3424de371737",
+          "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T16:02:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9957,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T16:02:25Z",
+      "latest_at": "2026-07-19T18:19:51.113000Z",
+      "primary_item": {
+        "id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
+        "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+        "url": "https://news.ycombinator.com/item?id=48969291",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1557,15 +1654,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5134,
-      "importance": 0.5134,
-      "importance_score": 0.5134,
+      "score": 0.5113,
+      "importance": 0.5113,
+      "importance_score": 0.5113,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.82,
+        "recency": 0.8083,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1579,85 +1676,6 @@
         "title": "《法典》重置",
         "url": "https://codex-resets.com",
         "source": "codex-resets.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_21e2edf6e749",
-      "title": "软件与人工智能——“预先规划”与“即兴创作”",
-      "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
-      "primary_url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
-      "source": "pyjarrett.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7f284505dcc2a3b356ed98bac9605f683ff98394",
-          "title": "软件与人工智能——“预先规划”与“即兴创作”",
-          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
-          "source": "pyjarrett.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T02:17:42.006000Z"
-        },
-        {
-          "id": "5e8c7726c458ff15acfd16827c629cd0840e8fff",
-          "title": "软件与人工智能——“预先规划”与“即兴创作” / Software and AI - Plotting vs. Pantsing",
-          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T02:14:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "pyjarrett.github.io"
-      ],
-      "items": [
-        {
-          "id": "7f284505dcc2a3b356ed98bac9605f683ff98394",
-          "title": "软件与人工智能——“预先规划”与“即兴创作”",
-          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
-          "source": "pyjarrett.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T02:17:42.006000Z"
-        },
-        {
-          "id": "5e8c7726c458ff15acfd16827c629cd0840e8fff",
-          "title": "软件与人工智能——“预先规划”与“即兴创作” / Software and AI - Plotting vs. Pantsing",
-          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T02:14:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5101,
-      "importance": 0.5101,
-      "importance_score": 0.5101,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8014,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T02:14:13Z",
-      "latest_at": "2026-07-19T02:17:42.006000Z",
-      "primary_item": {
-        "id": "7f284505dcc2a3b356ed98bac9605f683ff98394",
-        "title": "软件与人工智能——“预先规划”与“即兴创作”",
-        "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
-        "source": "pyjarrett.github.io",
         "source_name": "Buzzing"
       }
     }
