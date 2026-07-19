@@ -1,8 +1,89 @@
 {
-  "generated_at": "2026-07-19T02:37:32.422181Z",
+  "generated_at": "2026-07-19T03:37:33.854838Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_45da52ae09b4",
+      "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "primary_url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T02:49:15.657000Z"
+        },
+        {
+          "id": "a117b7230802eba247de3db469d97a734333ef3d",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-19T00:38:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T02:49:15.657000Z"
+        },
+        {
+          "id": "a117b7230802eba247de3db469d97a734333ef3d",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-19T00:38:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8085,
+      "importance": 0.8085,
+      "importance_score": 0.8085,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9884,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-19T00:38:26Z",
+      "latest_at": "2026-07-19T02:49:15.657000Z",
+      "primary_item": {
+        "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
+        "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_3a54b06e9c82",
       "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
@@ -57,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7296,
+        "recency": 0.7191,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -172,15 +253,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6223,
-      "importance": 0.6223,
-      "importance_score": 0.6223,
+      "score": 0.62,
+      "importance": 0.62,
+      "importance_score": 0.62,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8781,
+        "recency": 0.8655,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -270,15 +351,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5702,
-      "importance": 0.5702,
-      "importance_score": 0.5702,
+      "score": 0.5676,
+      "importance": 0.5676,
+      "importance_score": 0.5676,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9964,
+        "recency": 0.9821,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -368,15 +449,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5652,
-      "importance": 0.5652,
-      "importance_score": 0.5652,
+      "score": 0.5627,
+      "importance": 0.5627,
+      "importance_score": 0.5627,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9687,
+        "recency": 0.9548,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -466,15 +547,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5535,
-      "importance": 0.5535,
-      "importance_score": 0.5535,
+      "score": 0.5512,
+      "importance": 0.5512,
+      "importance_score": 0.5512,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9038,
+        "recency": 0.8909,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -489,6 +570,85 @@
         "url": "https://ykdojo.github.io/claude-controls-mac",
         "source": "ykdojo.github.io",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2a60197f59a8",
+      "title": "高校花钱查AI，学生花钱降AI",
+      "url": "https://www.huxiu.com/article/4876427.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4876427.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "0a69ee0b27f5d6cc02c177506268a92913d796ab",
+          "title": "高校花钱查AI，学生花钱降AI",
+          "url": "https://www.huxiu.com/article/4876427.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e602fdda0c064d59051ffa1f9102358e8fdf0e93",
+          "title": "高校花钱查 AI，学生花钱降 AI",
+          "url": "https://www.huxiu.com/article/4876427.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T02:39:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "0a69ee0b27f5d6cc02c177506268a92913d796ab",
+          "title": "高校花钱查AI，学生花钱降AI",
+          "url": "https://www.huxiu.com/article/4876427.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e602fdda0c064d59051ffa1f9102358e8fdf0e93",
+          "title": "高校花钱查 AI，学生花钱降 AI",
+          "url": "https://www.huxiu.com/article/4876427.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T02:39:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T02:39:33Z",
+      "latest_at": "2026-07-19T03:37:33.854838Z",
+      "primary_item": {
+        "id": "0a69ee0b27f5d6cc02c177506268a92913d796ab",
+        "title": "高校花钱查AI，学生花钱降AI",
+        "url": "https://www.huxiu.com/article/4876427.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -545,15 +705,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9952,
+        "recency": 0.981,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -623,15 +783,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5442,
-      "importance": 0.5442,
-      "importance_score": 0.5442,
+      "score": 0.5416,
+      "importance": 0.5416,
+      "importance_score": 0.5416,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9909,
+        "recency": 0.9767,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -721,15 +881,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8466,
+        "recency": 0.8344,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -744,85 +904,6 @@
         "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
         "source": "charlesazam.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c7efad5fc563",
-      "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
-      "url": "https://www.ithome.com/0/978/621.htm",
-      "primary_url": "https://www.ithome.com/0/978/621.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "d92660d9f388bae2a49334dd8e22de721ee55f38",
-          "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
-          "url": "https://www.ithome.com/0/978/621.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c6cbb240d05ebd2f033ae9cf6f93a9b09a2f848b",
-          "title": "荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 发布，8 月 Robot Phone 首发内核",
-          "url": "https://www.ithome.com/0/978/621.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T00:30:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d92660d9f388bae2a49334dd8e22de721ee55f38",
-          "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
-          "url": "https://www.ithome.com/0/978/621.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c6cbb240d05ebd2f033ae9cf6f93a9b09a2f848b",
-          "title": "荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 发布，8 月 Robot Phone 首发内核",
-          "url": "https://www.ithome.com/0/978/621.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T00:30:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9857,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T00:30:21Z",
-      "latest_at": "2026-07-19T01:37:34.327435Z",
-      "primary_item": {
-        "id": "d92660d9f388bae2a49334dd8e22de721ee55f38",
-        "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
-        "url": "https://www.ithome.com/0/978/621.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -898,15 +979,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8272,
+        "recency": 0.8153,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1015,15 +1096,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5624,
-      "importance": 0.5624,
-      "importance_score": 0.5624,
+      "score": 0.5603,
+      "importance": 0.5603,
+      "importance_score": 0.5603,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8147,
+        "recency": 0.803,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1094,15 +1175,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9179,
+        "recency": 0.9047,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1173,15 +1254,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
+      "score": 0.5195,
+      "importance": 0.5195,
+      "importance_score": 0.5195,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8664,
+        "recency": 0.8539,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1251,15 +1332,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5214,
-      "importance": 0.5214,
-      "importance_score": 0.5214,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8643,
+        "recency": 0.8519,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1330,15 +1411,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5141,
-      "importance": 0.5141,
-      "importance_score": 0.5141,
+      "score": 0.512,
+      "importance": 0.512,
+      "importance_score": 0.512,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.824,
+        "recency": 0.8122,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1409,15 +1490,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5136,
-      "importance": 0.5136,
-      "importance_score": 0.5136,
+      "score": 0.5114,
+      "importance": 0.5114,
+      "importance_score": 0.5114,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8209,
+        "recency": 0.8091,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1432,6 +1513,85 @@
         "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
         "source": "www.axios.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c7efad5fc563",
+      "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
+      "url": "https://www.ithome.com/0/978/621.htm",
+      "primary_url": "https://www.ithome.com/0/978/621.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "d92660d9f388bae2a49334dd8e22de721ee55f38",
+          "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
+          "url": "https://www.ithome.com/0/978/621.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c6cbb240d05ebd2f033ae9cf6f93a9b09a2f848b",
+          "title": "荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 发布，8 月 Robot Phone 首发内核",
+          "url": "https://www.ithome.com/0/978/621.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T00:30:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d92660d9f388bae2a49334dd8e22de721ee55f38",
+          "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
+          "url": "https://www.ithome.com/0/978/621.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c6cbb240d05ebd2f033ae9cf6f93a9b09a2f848b",
+          "title": "荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 发布，8 月 Robot Phone 首发内核",
+          "url": "https://www.ithome.com/0/978/621.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T00:30:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9715,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T00:30:21Z",
+      "latest_at": "2026-07-19T01:37:34.327435Z",
+      "primary_item": {
+        "id": "d92660d9f388bae2a49334dd8e22de721ee55f38",
+        "title": "荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS，8 月 Robot Phone 首发内核",
+        "url": "https://www.ithome.com/0/978/621.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1488,15 +1648,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5113,
-      "importance": 0.5113,
-      "importance_score": 0.5113,
+      "score": 0.5092,
+      "importance": 0.5092,
+      "importance_score": 0.5092,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8084,
+        "recency": 0.7968,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1567,15 +1727,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
+      "score": 0.5087,
+      "importance": 0.5087,
+      "importance_score": 0.5087,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8052,
+        "recency": 0.7937,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1590,183 +1750,6 @@
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_c3bcd186db5a",
-      "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
-      "url": "https://www.ithome.com/0/978/607.htm",
-      "primary_url": "https://www.ithome.com/0/978/607.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "67f0dac503720c3ea4253db50d889597e79621d5",
-          "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
-          "url": "https://www.ithome.com/0/978/607.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e3313a10b89c440e574530a6c756515914574019",
-          "title": "作家埃格斯受邀给 OpenAI 员工演讲，批评 ChatGPT 正夺走一代人的表达能力",
-          "url": "https://www.ithome.com/0/978/607.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T23:12:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "67f0dac503720c3ea4253db50d889597e79621d5",
-          "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
-          "url": "https://www.ithome.com/0/978/607.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e3313a10b89c440e574530a6c756515914574019",
-          "title": "作家埃格斯受邀给 OpenAI 员工演讲，批评 ChatGPT 正夺走一代人的表达能力",
-          "url": "https://www.ithome.com/0/978/607.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T23:12:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9715,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T23:12:58Z",
-      "latest_at": "2026-07-19T00:37:30.985579Z",
-      "primary_item": {
-        "id": "67f0dac503720c3ea4253db50d889597e79621d5",
-        "title": "作家埃格斯受邀给OpenAI员工演讲，批评ChatGPT正夺走一代人的表达能力",
-        "url": "https://www.ithome.com/0/978/607.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_1c98b9c89e38",
-      "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://news.ycombinator.com/item?id=48957779",
-      "primary_url": "https://news.ycombinator.com/item?id=48957779",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://news.ycombinator.com/item?id=48957779",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T14:26:13.687000Z"
-        },
-        {
-          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "old.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T14:17:48.882000Z"
-        },
-        {
-          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T13:00:52Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "old.reddit.com"
-      ],
-      "items": [
-        {
-          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://news.ycombinator.com/item?id=48957779",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T14:26:13.687000Z"
-        },
-        {
-          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "old.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T14:17:48.882000Z"
-        },
-        {
-          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T13:00:52Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5417,
-      "importance": 0.5417,
-      "importance_score": 0.5417,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8386,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T13:00:52Z",
-      "latest_at": "2026-07-18T14:26:13.687000Z",
-      "primary_item": {
-        "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-        "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-        "url": "https://news.ycombinator.com/item?id=48957779",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
