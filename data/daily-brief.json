@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T16:37:34.792625Z",
+  "generated_at": "2026-07-20T17:37:34.447077Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_8030c8e0dc09",
-      "title": "Cosmos 3 Edge 简介 / Introducing Cosmos 3 Edge",
+      "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成 / Introducing Cosmos 3 Edge",
       "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
       "primary_url": "https://huggingface.co/blog/nvidia/cosmos3edge",
       "source": "Hugging Face Blog",
@@ -13,45 +13,65 @@
       "sources": [
         {
           "id": "2c503dcdedf18d5c8ed3527eb239b92ad9eaa01a",
-          "title": "Cosmos 3 Edge 简介 / Introducing Cosmos 3 Edge",
+          "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成 / Introducing Cosmos 3 Edge",
           "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-07-20T15:58:51Z"
+        },
+        {
+          "id": "48b5febd9e34d2df1d498ff00566ad5bd7cc0718",
+          "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成",
+          "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T15:58:51Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
       ],
       "items": [
         {
           "id": "2c503dcdedf18d5c8ed3527eb239b92ad9eaa01a",
-          "title": "Cosmos 3 Edge 简介 / Introducing Cosmos 3 Edge",
+          "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成 / Introducing Cosmos 3 Edge",
           "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-07-20T15:58:51Z"
+        },
+        {
+          "id": "48b5febd9e34d2df1d498ff00566ad5bd7cc0718",
+          "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成",
+          "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T15:58:51Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8583,
-      "importance": 0.8583,
-      "importance_score": 0.8583,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8808,
+      "importance": 0.8808,
+      "importance_score": 0.8808,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9907,
-        "story_heat": 0.0
+        "recency": 0.9765,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
@@ -59,9 +79,91 @@
       "latest_at": "2026-07-20T15:58:51Z",
       "primary_item": {
         "id": "2c503dcdedf18d5c8ed3527eb239b92ad9eaa01a",
-        "title": "Cosmos 3 Edge 简介 / Introducing Cosmos 3 Edge",
+        "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成 / Introducing Cosmos 3 Edge",
         "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d4ff9ec891b7",
+      "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系 / Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "primary_url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c81dd37d71e440ff2dcd40744732287ef9858e55",
+          "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系 / Safety and alignment in an era of long-horizon models",
+          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T10:00:00Z"
+        },
+        {
+          "id": "3d15a603b50a03a92a4b367554b73a5aae999d2a",
+          "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系",
+          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T10:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "c81dd37d71e440ff2dcd40744732287ef9858e55",
+          "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系 / Safety and alignment in an era of long-horizon models",
+          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T10:00:00Z"
+        },
+        {
+          "id": "3d15a603b50a03a92a4b367554b73a5aae999d2a",
+          "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系",
+          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T10:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8582,
+      "importance": 0.8582,
+      "importance_score": 0.8582,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8957,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T10:00:00Z",
+      "latest_at": "2026-07-20T10:00:00Z",
+      "primary_item": {
+        "id": "c81dd37d71e440ff2dcd40744732287ef9858e55",
+        "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系 / Safety and alignment in an era of long-horizon models",
+        "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -100,15 +202,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8504,
-      "importance": 0.8504,
-      "importance_score": 0.8504,
+      "score": 0.8478,
+      "importance": 0.8478,
+      "importance_score": 0.8478,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9911,
+        "recency": 0.9768,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8349,
-      "importance": 0.8349,
-      "importance_score": 0.8349,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9493,
+        "recency": 0.9357,
         "story_heat": 0.0
       },
       "category": "official",
@@ -262,15 +364,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8008,
-      "importance": 0.8008,
-      "importance_score": 0.8008,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9401,
+        "recency": 0.9267,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -343,15 +445,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7905,
-      "importance": 0.7905,
-      "importance_score": 0.7905,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9383,
+        "recency": 0.9248,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -424,15 +526,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8655,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -505,15 +607,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8703,
+        "recency": 0.8578,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -529,67 +631,6 @@
         "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
         "url": "https://www.ithome.com/0/979/017.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_750b59cf8263",
-      "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-      "url": "https://x.ai/news/introducing-excel-addin",
-      "primary_url": "https://x.ai/news/introducing-excel-addin",
-      "source": "xAI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
-          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-          "url": "https://x.ai/news/introducing-excel-addin",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T16:19:52.655000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "xAI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
-          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-          "url": "https://x.ai/news/introducing-excel-addin",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T16:19:52.655000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9957,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T16:19:52.655000Z",
-      "latest_at": "2026-07-20T16:19:52.655000Z",
-      "primary_item": {
-        "id": "f6697f4ca470f898348aef165d8193b250e8b902",
-        "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-        "url": "https://x.ai/news/introducing-excel-addin",
-        "source": "xAI：News（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -647,15 +688,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7561,
+        "recency": 0.7453,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -671,6 +712,67 @@
         "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地",
         "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_750b59cf8263",
+      "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+      "url": "https://x.ai/news/introducing-excel-addin",
+      "primary_url": "https://x.ai/news/introducing-excel-addin",
+      "source": "xAI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
+          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+          "url": "https://x.ai/news/introducing-excel-addin",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T16:19:52.655000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "xAI：News（网页）"
+      ],
+      "items": [
+        {
+          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
+          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+          "url": "https://x.ai/news/introducing-excel-addin",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T16:19:52.655000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9815,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T16:19:52.655000Z",
+      "latest_at": "2026-07-20T16:19:52.655000Z",
+      "primary_item": {
+        "id": "f6697f4ca470f898348aef165d8193b250e8b902",
+        "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+        "url": "https://x.ai/news/introducing-excel-addin",
+        "source": "xAI：News（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -709,15 +811,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8321,
+        "recency": 0.8202,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -770,15 +872,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9913,
+        "recency": 0.977,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -830,15 +932,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8943,
+        "recency": 0.8814,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -890,15 +992,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7881,
+        "recency": 0.7768,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -969,15 +1071,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1031,15 +1133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.883,
+        "recency": 0.8704,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1065,6 +1167,15 @@
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "1a4cb92070a631b70a105dff8bcb4d1acadc295d",
+          "title": "如果你是经常使用Codex、Claude Code的独立开发者，这套Git Worktree方案不容错过，它可以很好地解决并行编码的代码冲突问题。文中不仅厘清了分支与Worktree的分工逻辑，还针对不同开发场景给出了灵活搭配策略，用来实现多任务互不干扰同步推进。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T17:37:34.447077Z"
+        },
+        {
           "id": "1859789e9cb14f4f969cf088859689b94aa807bc",
           "title": "AI 把写代码、做原型、跑分析的门槛一下子降低了，但Netflix反而更看重“能把系统看完整的人”。这篇从Netflix 的CTO Elizabeth Stone和Lenny的访谈聊起，特别适合正在用 AI 提效的产品、技术和设计同学读一读：工具会让产出变快，真正决定上限的，是你能不能看见业务、数据、工程、体验和风险之间的连锁反应，并对最终结果负责。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1126,33 +1237,24 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-19T17:37:37.742100Z"
-        },
-        {
-          "id": "36c3672aa0ac39c9f41f0ab30d1b99e1c7c75e63",
-          "title": "AI发展四年，市场反而开始喊“应用凉了”。作者这篇文章把模型和应用的几轮起落剖析了下：从 Character.ai、GPT-4o、DeepSeek、Manus，到智谱上市和 Openclaw 热潮，资本情绪一直在模型与应用之间剧烈摆动。对创业者来说，真正要守住的是用户价值、真实付费、出海能力和团队的韧性。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T16:37:35.749516Z"
-        },
-        {
-          "id": "3c2c634094ab1883d2369847a8237615af84da24",
-          "title": "如果你已经厌倦了反复给 AI 改错，这篇文章会很有启发。它把“自我纠错的 AI 循环”拆成构建者、评审者、管理者三层：先产出，再用真实依据核查，最后决定返工、通过或升级给人。这其中的关键在于结构化交接、独立评审、硬性停止条件和故障测试。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T16:37:35.749516Z"
         }
       ],
-      "source_count": 9,
+      "source_count": 8,
       "source_names": [
         "社区更新 · 2026-07-19",
         "社区更新 · 2026-07-20"
       ],
       "items": [
         {
+          "id": "1a4cb92070a631b70a105dff8bcb4d1acadc295d",
+          "title": "如果你是经常使用Codex、Claude Code的独立开发者，这套Git Worktree方案不容错过，它可以很好地解决并行编码的代码冲突问题。文中不仅厘清了分支与Worktree的分工逻辑，还针对不同开发场景给出了灵活搭配策略，用来实现多任务互不干扰同步推进。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T17:37:34.447077Z"
+        },
+        {
           "id": "1859789e9cb14f4f969cf088859689b94aa807bc",
           "title": "AI 把写代码、做原型、跑分析的门槛一下子降低了，但Netflix反而更看重“能把系统看完整的人”。这篇从Netflix 的CTO Elizabeth Stone和Lenny的访谈聊起，特别适合正在用 AI 提效的产品、技术和设计同学读一读：工具会让产出变快，真正决定上限的，是你能不能看见业务、数据、工程、体验和风险之间的连锁反应，并对最终结果负责。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1214,45 +1316,27 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-19T17:37:37.742100Z"
-        },
-        {
-          "id": "36c3672aa0ac39c9f41f0ab30d1b99e1c7c75e63",
-          "title": "AI发展四年，市场反而开始喊“应用凉了”。作者这篇文章把模型和应用的几轮起落剖析了下：从 Character.ai、GPT-4o、DeepSeek、Manus，到智谱上市和 Openclaw 热潮，资本情绪一直在模型与应用之间剧烈摆动。对创业者来说，真正要守住的是用户价值、真实付费、出海能力和团队的韧性。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T16:37:35.749516Z"
-        },
-        {
-          "id": "3c2c634094ab1883d2369847a8237615af84da24",
-          "title": "如果你已经厌倦了反复给 AI 改错，这篇文章会很有启发。它把“自我纠错的 AI 循环”拆成构建者、评审者、管理者三层：先产出，再用真实依据核查，最后决定返工、通过或升级给人。这其中的关键在于结构化交接、独立评审、硬性停止条件和故障测试。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T16:37:35.749516Z"
         }
       ],
-      "item_count": 9,
-      "duplicate_count": 9,
-      "score": 0.7124,
-      "importance": 0.7124,
-      "importance_score": 0.7124,
+      "item_count": 8,
+      "duplicate_count": 8,
+      "score": 0.7098,
+      "importance": 0.7098,
+      "importance_score": 0.7098,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.54,
         "ai_relevance": 0.76,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-19T16:37:35.749516Z",
-      "latest_at": "2026-07-20T16:37:34.792625Z",
+      "earliest_at": "2026-07-19T17:37:37.742100Z",
+      "latest_at": "2026-07-20T17:37:34.447077Z",
       "primary_item": {
         "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
         "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
@@ -1296,15 +1380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8067,
+        "recency": 0.7952,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1375,15 +1459,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8052,
+        "recency": 0.7937,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1456,15 +1540,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8052,
+        "recency": 0.7937,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1479,67 +1563,6 @@
         "id": "8b9153df8c01c6a5b8f2e3070b5a7765a86c2030",
         "title": "Google DeepMind发布GenCeption:基于视频生成模型实现多项计算机视觉突破",
         "url": "https://www.aibase.com/news/29703",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fdabc12803be",
-      "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-      "url": "https://www.aibase.com/news/29725",
-      "primary_url": "https://www.aibase.com/news/29725",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
-          "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-          "url": "https://www.aibase.com/news/29725",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T09:37:35.495230Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
-          "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-          "url": "https://www.aibase.com/news/29725",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T09:37:35.495230Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T09:37:35.495230Z",
-      "latest_at": "2026-07-20T09:37:35.495230Z",
-      "primary_item": {
-        "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
-        "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-        "url": "https://www.aibase.com/news/29725",
         "source": "AIbase",
         "source_name": "AIbase"
       }
