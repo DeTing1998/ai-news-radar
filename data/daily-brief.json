@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T18:37:35.990539Z",
+  "generated_at": "2026-07-20T19:37:34.188859Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8783,
-      "importance": 0.8783,
-      "importance_score": 0.8783,
+      "score": 0.8758,
+      "importance": 0.8758,
+      "importance_score": 0.8758,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9625,
+        "recency": 0.9487,
         "story_heat": 0.25
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8559,
-      "importance": 0.8559,
-      "importance_score": 0.8559,
+      "score": 0.8536,
+      "importance": 0.8536,
+      "importance_score": 0.8536,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8829,
+        "recency": 0.8702,
         "story_heat": 0.25
       },
       "category": "official",
@@ -165,6 +165,124 @@
         "url": "https://openai.com/index/safety-alignment-long-horizon-models",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2b4b6588b1d6",
+      "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "primary_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
+          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "unslop.run",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "3c5cafa69cae492adc835a138f64ec57c7d6bfdb",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T16:36:36Z"
+        },
+        {
+          "id": "3cbd95b51eb65716652cf72caf1ee928cc34607b",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / Over 30% of new ArXiv submissions now read as AI-written",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T16:36:36Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "unslop.run"
+      ],
+      "items": [
+        {
+          "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
+          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "unslop.run",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "3c5cafa69cae492adc835a138f64ec57c7d6bfdb",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T16:36:36Z"
+        },
+        {
+          "id": "3cbd95b51eb65716652cf72caf1ee928cc34607b",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / Over 30% of new ArXiv submissions now read as AI-written",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T16:36:36Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8456,
+      "importance": 0.8456,
+      "importance_score": 0.8456,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9835,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T16:36:36Z",
+      "latest_at": "2026-07-20T18:28:23.600000Z",
+      "primary_item": {
+        "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
+        "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -202,15 +320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8453,
-      "importance": 0.8453,
-      "importance_score": 0.8453,
+      "score": 0.8428,
+      "importance": 0.8428,
+      "importance_score": 0.8428,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9628,
+        "recency": 0.949,
         "story_heat": 0.0
       },
       "category": "official",
@@ -225,6 +343,68 @@
         "id": "c4797d399f3b08c3517e7396453d98a469814bc6",
         "title": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分 / Copilot users can now see AI credits used per billing cycle",
         "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a4b8abada7fb",
+      "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+      "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+      "primary_url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ab7cc346965e9994992fb262ce52e7f150790853",
+          "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+          "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T18:24:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ab7cc346965e9994992fb262ce52e7f150790853",
+          "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+          "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T18:24:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8409,
+      "importance": 0.8409,
+      "importance_score": 0.8409,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9825,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T18:24:14Z",
+      "latest_at": "2026-07-20T18:24:14Z",
+      "primary_item": {
+        "id": "ab7cc346965e9994992fb262ce52e7f150790853",
+        "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+        "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -283,15 +463,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9845,
+        "recency": 0.9704,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -345,15 +525,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.83,
-      "importance": 0.83,
-      "importance_score": 0.83,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9223,
+        "recency": 0.9091,
         "story_heat": 0.0
       },
       "category": "official",
@@ -370,6 +550,87 @@
         "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_edfc7d9a444c",
+      "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+      "url": "https://www.aibase.com/news/29720",
+      "primary_url": "https://www.aibase.com/news/29720",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
+          "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+          "url": "https://www.aibase.com/news/29720",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T07:37:37.447933Z"
+        },
+        {
+          "id": "be756b637a39b8a3b31bc47d62c1722fdb656e3a",
+          "title": "智象未来发布全球首个无限时长创作智能体 vivago R1，商业可用率拉到 85%",
+          "url": "https://www.aibase.com/zh/news/29720",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
+          "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+          "url": "https://www.aibase.com/news/29720",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T07:37:37.447933Z"
+        },
+        {
+          "id": "be756b637a39b8a3b31bc47d62c1722fdb656e3a",
+          "title": "智象未来发布全球首个无限时长创作智能体 vivago R1，商业可用率拉到 85%",
+          "url": "https://www.aibase.com/zh/news/29720",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8409,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T07:37:37.447933Z",
+      "latest_at": "2026-07-20T07:37:37.447933Z",
+      "primary_item": {
+        "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
+        "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+        "url": "https://www.aibase.com/news/29720",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -445,15 +706,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.796,
-      "importance": 0.796,
-      "importance_score": 0.796,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9134,
+        "recency": 0.9003,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -470,87 +731,6 @@
         "url": "https://github.com/Saivineeth147/lora-speedrun",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_edfc7d9a444c",
-      "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-      "url": "https://www.aibase.com/news/29720",
-      "primary_url": "https://www.aibase.com/news/29720",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
-          "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-          "url": "https://www.aibase.com/news/29720",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T07:37:37.447933Z"
-        },
-        {
-          "id": "be756b637a39b8a3b31bc47d62c1722fdb656e3a",
-          "title": "智象未来发布全球首个无限时长创作智能体 vivago R1，商业可用率拉到 85%",
-          "url": "https://www.aibase.com/zh/news/29720",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
-          "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-          "url": "https://www.aibase.com/news/29720",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T07:37:37.447933Z"
-        },
-        {
-          "id": "be756b637a39b8a3b31bc47d62c1722fdb656e3a",
-          "title": "智象未来发布全球首个无限时长创作智能体 vivago R1，商业可用率拉到 85%",
-          "url": "https://www.aibase.com/zh/news/29720",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8531,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T07:37:37.447933Z",
-      "latest_at": "2026-07-20T07:37:37.447933Z",
-      "primary_item": {
-        "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
-        "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-        "url": "https://www.aibase.com/news/29720",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -607,15 +787,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8455,
+        "recency": 0.8334,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -688,15 +868,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7857,
-      "importance": 0.7857,
-      "importance_score": 0.7857,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9115,
+        "recency": 0.8985,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -769,15 +949,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7346,
+        "recency": 0.7241,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -831,15 +1011,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9674,
+        "recency": 0.9535,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -854,6 +1034,86 @@
         "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
         "url": "https://x.ai/news/introducing-excel-addin",
         "source": "xAI：News（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_32d427eb72d1",
+      "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "primary_url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "source": "Cursor Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
+          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:00:00Z"
+        },
+        {
+          "id": "ba63a889be06175186b81bb35172e9a594e1cc65",
+          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试 / Agent swarms and the new model economics",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T18:06:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Cursor Blog",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
+          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:00:00Z"
+        },
+        {
+          "id": "ba63a889be06175186b81bb35172e9a594e1cc65",
+          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试 / Agent swarms and the new model economics",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T18:06:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8957,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T12:00:00Z",
+      "latest_at": "2026-07-20T18:06:13Z",
+      "primary_item": {
+        "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
+        "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
+        "url": "https://cursor.com/blog/agent-swarm-model-economics",
+        "source": "Cursor Blog",
         "source_name": "AI HOT"
       }
     },
@@ -892,15 +1152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8085,
+        "recency": 0.7969,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -952,15 +1212,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.963,
+        "recency": 0.9492,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1012,15 +1272,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8688,
+        "recency": 0.8563,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1072,15 +1332,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7656,
+        "recency": 0.7547,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1151,15 +1411,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8288,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1213,15 +1473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9834,
+        "recency": 0.9693,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1236,295 +1496,6 @@
         "url": "https://garymarcus.substack.com/p/china-has-all-but-caught-up-the-us",
         "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b552e21cca2f",
-      "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-      "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
-      "primary_url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a58c6c23b9542f0c7c9bb1c209685c293ba58241",
-          "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-          "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T08:00:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "a58c6c23b9542f0c7c9bb1c209685c293ba58241",
-          "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-          "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T08:00:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8579,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T08:00:45Z",
-      "latest_at": "2026-07-20T08:00:45Z",
-      "primary_item": {
-        "id": "a58c6c23b9542f0c7c9bb1c209685c293ba58241",
-        "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-        "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
-        "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_32d427eb72d1",
-      "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-      "url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "primary_url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "source": "Cursor Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
-          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-          "url": "https://cursor.com/blog/agent-swarm-model-economics",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cursor Blog"
-      ],
-      "items": [
-        {
-          "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
-          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-          "url": "https://cursor.com/blog/agent-swarm-model-economics",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7272,
-      "importance": 0.7272,
-      "importance_score": 0.7272,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9087,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T12:00:00Z",
-      "latest_at": "2026-07-20T12:00:00Z",
-      "primary_item": {
-        "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
-        "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-        "url": "https://cursor.com/blog/agent-swarm-model-economics",
-        "source": "Cursor Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-20",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "9ae8802c98e0d0aaa6348eee134cf5d0fc45aa9c",
-          "title": "如果你还在让 Agent 一步一步排队干活，这篇文章很值得看。这份14步路线图把 Claude 工作流从“线性脚本”拉成一张可编排的图：节点负责具体任务，边负责传递数据；能并行就扇出，需要判断再汇聚，再用Schema、验证器、Worktree和模型分层来控制质量、隔离风险、压缩成本。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T18:37:35.990539Z"
-        },
-        {
-          "id": "1a4cb92070a631b70a105dff8bcb4d1acadc295d",
-          "title": "如果你是经常使用Codex、Claude Code的独立开发者，这套Git Worktree方案不容错过，它可以很好地解决并行编码的代码冲突问题。文中不仅厘清了分支与Worktree的分工逻辑，还针对不同开发场景给出了灵活搭配策略，用来实现多任务互不干扰同步推进。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T17:37:34.447077Z"
-        },
-        {
-          "id": "1859789e9cb14f4f969cf088859689b94aa807bc",
-          "title": "AI 把写代码、做原型、跑分析的门槛一下子降低了，但Netflix反而更看重“能把系统看完整的人”。这篇从Netflix 的CTO Elizabeth Stone和Lenny的访谈聊起，特别适合正在用 AI 提效的产品、技术和设计同学读一读：工具会让产出变快，真正决定上限的，是你能不能看见业务、数据、工程、体验和风险之间的连锁反应，并对最终结果负责。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T16:37:34.792625Z"
-        },
-        {
-          "id": "b52b0298f017ae791b847fc7f274ad45f897080c",
-          "title": "AI音乐圈这周像被按了快进键。Suno一边冲刺 IPO，一边被源码泄露扯出版权和隐私风险；另一边，MiniMax、阿里、昆仑万维、Google、Ace Studio又在音乐生成、MV 制作、录音重混上密集上新。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T15:37:37.184366Z"
-        },
-        {
-          "id": "2ee33a16ed14fa8b3a7d2ec094cf514222f5ea69",
-          "title": "Kimi K3刚冲上 Code Arena 第一，官方又因为算力紧张暂停新会员订阅。小歪直接花99 元实测了一轮，从价格、入口、API 成本，到3D 交互网页、知识可视化、无缝循环动效、多文件数据看板，带你快速判断K3哪些场景值得上手。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T15:37:37.184366Z"
-        },
-        {
-          "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
-          "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T15:37:37.184366Z"
-        },
-        {
-          "id": "09e99af366792cddd98b2c04fb458c11810bfa29",
-          "title": "CY把Codex Micro的“Agent 状态外显”思路做成了Codex + Claude Code都能用的硬件版。他用EasyInput开发板跑通了从Codex / CC、本地Bridge、蓝牙 GATT到实体灯效的完整链路，让Agent的空闲、思考、未读、等待确认、报错等状态都可以直接显示在桌面灯光上。接下来，也会把它放进WaytoAGI AI 硬件训练营，带大家从零跑通相关设置和操作。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:37:36.215867Z"
-        }
-      ],
-      "source_count": 7,
-      "source_names": [
-        "社区更新 · 2026-07-19",
-        "社区更新 · 2026-07-20"
-      ],
-      "items": [
-        {
-          "id": "9ae8802c98e0d0aaa6348eee134cf5d0fc45aa9c",
-          "title": "如果你还在让 Agent 一步一步排队干活，这篇文章很值得看。这份14步路线图把 Claude 工作流从“线性脚本”拉成一张可编排的图：节点负责具体任务，边负责传递数据；能并行就扇出，需要判断再汇聚，再用Schema、验证器、Worktree和模型分层来控制质量、隔离风险、压缩成本。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T18:37:35.990539Z"
-        },
-        {
-          "id": "1a4cb92070a631b70a105dff8bcb4d1acadc295d",
-          "title": "如果你是经常使用Codex、Claude Code的独立开发者，这套Git Worktree方案不容错过，它可以很好地解决并行编码的代码冲突问题。文中不仅厘清了分支与Worktree的分工逻辑，还针对不同开发场景给出了灵活搭配策略，用来实现多任务互不干扰同步推进。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T17:37:34.447077Z"
-        },
-        {
-          "id": "1859789e9cb14f4f969cf088859689b94aa807bc",
-          "title": "AI 把写代码、做原型、跑分析的门槛一下子降低了，但Netflix反而更看重“能把系统看完整的人”。这篇从Netflix 的CTO Elizabeth Stone和Lenny的访谈聊起，特别适合正在用 AI 提效的产品、技术和设计同学读一读：工具会让产出变快，真正决定上限的，是你能不能看见业务、数据、工程、体验和风险之间的连锁反应，并对最终结果负责。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T16:37:34.792625Z"
-        },
-        {
-          "id": "b52b0298f017ae791b847fc7f274ad45f897080c",
-          "title": "AI音乐圈这周像被按了快进键。Suno一边冲刺 IPO，一边被源码泄露扯出版权和隐私风险；另一边，MiniMax、阿里、昆仑万维、Google、Ace Studio又在音乐生成、MV 制作、录音重混上密集上新。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T15:37:37.184366Z"
-        },
-        {
-          "id": "2ee33a16ed14fa8b3a7d2ec094cf514222f5ea69",
-          "title": "Kimi K3刚冲上 Code Arena 第一，官方又因为算力紧张暂停新会员订阅。小歪直接花99 元实测了一轮，从价格、入口、API 成本，到3D 交互网页、知识可视化、无缝循环动效、多文件数据看板，带你快速判断K3哪些场景值得上手。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T15:37:37.184366Z"
-        },
-        {
-          "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
-          "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T15:37:37.184366Z"
-        },
-        {
-          "id": "09e99af366792cddd98b2c04fb458c11810bfa29",
-          "title": "CY把Codex Micro的“Agent 状态外显”思路做成了Codex + Claude Code都能用的硬件版。他用EasyInput开发板跑通了从Codex / CC、本地Bridge、蓝牙 GATT到实体灯效的完整链路，让Agent的空闲、思考、未读、等待确认、报错等状态都可以直接显示在桌面灯光上。接下来，也会把它放进WaytoAGI AI 硬件训练营，带大家从零跑通相关设置和操作。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:37:36.215867Z"
-        }
-      ],
-      "item_count": 7,
-      "duplicate_count": 7,
-      "score": 0.7073,
-      "importance": 0.7073,
-      "importance_score": 0.7073,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.54,
-        "ai_relevance": 0.76,
-        "recency": 0.9576,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T18:37:36.215867Z",
-      "latest_at": "2026-07-20T18:37:35.990539Z",
-      "primary_item": {
-        "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
-        "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-20",
-        "source_name": "WaytoAGI"
       }
     }
   ]
