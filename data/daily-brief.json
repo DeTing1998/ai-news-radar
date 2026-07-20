@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T08:37:31.605299Z",
+  "generated_at": "2026-07-20T09:37:35.495230Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9769,
+        "recency": 0.9628,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -219,15 +219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8487,
+        "recency": 0.8366,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9341,
+        "recency": 0.9207,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -304,6 +304,67 @@
         "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
         "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
         "source": "公众号：面壁智能（MiniCPM）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_eec8cd6d4207",
+      "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+      "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+      "primary_url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+      "source": "公众号：通义实验室（千问）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
+          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T08:53:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：通义实验室（千问）"
+      ],
+      "items": [
+        {
+          "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
+          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T08:53:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9894,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T08:53:11Z",
+      "latest_at": "2026-07-20T08:53:11Z",
+      "primary_item": {
+        "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
+        "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+        "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+        "source": "公众号：通义实验室（千问）",
         "source_name": "AI HOT"
       }
     },
@@ -342,15 +403,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8846,
+        "recency": 0.8719,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -422,15 +483,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -484,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9912,
+        "recency": 0.977,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -545,15 +606,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9055,
+        "recency": 0.8925,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -606,21 +667,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7866,
+        "recency": 0.7753,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-19T16:00:00Z",
       "latest_at": "2026-07-19T16:00:00Z",
@@ -667,15 +727,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7489,
+        "recency": 0.7381,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -689,66 +749,6 @@
         "title": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
         "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
         "source": "公众号：昆仑万维（天工）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fe4e6bee6d5f",
-      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-      "url": "https://x.com/OpenBMB/status/2078839529591759025",
-      "primary_url": "https://x.com/OpenBMB/status/2078839529591759025",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-          "url": "https://x.com/OpenBMB/status/2078839529591759025",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T13:49:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：面壁智能 OpenBMB (@OpenBMB)"
-      ],
-      "items": [
-        {
-          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-          "url": "https://x.com/OpenBMB/status/2078839529591759025",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T13:49:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7622,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-19T13:49:01Z",
-      "latest_at": "2026-07-19T13:49:01Z",
-      "primary_item": {
-        "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-        "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-        "url": "https://x.com/OpenBMB/status/2078839529591759025",
-        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
         "source_name": "AI HOT"
       }
     },
@@ -806,15 +806,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8909,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -887,15 +887,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8909,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -915,21 +915,21 @@
       }
     },
     {
-      "story_id": "story_d29a6c3c6768",
-      "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-      "url": "https://www.aibase.com/news/29722",
-      "primary_url": "https://www.aibase.com/news/29722",
+      "story_id": "story_fdabc12803be",
+      "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+      "url": "https://www.aibase.com/news/29725",
+      "primary_url": "https://www.aibase.com/news/29725",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
-          "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-          "url": "https://www.aibase.com/news/29722",
+          "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
+          "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+          "url": "https://www.aibase.com/news/29725",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-20T08:37:31.605299Z"
+          "published_at": "2026-07-20T09:37:35.495230Z"
         }
       ],
       "source_count": 1,
@@ -938,13 +938,13 @@
       ],
       "items": [
         {
-          "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
-          "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-          "url": "https://www.aibase.com/news/29722",
+          "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
+          "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+          "url": "https://www.aibase.com/news/29725",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-20T08:37:31.605299Z"
+          "published_at": "2026-07-20T09:37:35.495230Z"
         }
       ],
       "item_count": 1,
@@ -965,12 +965,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T08:37:31.605299Z",
-      "latest_at": "2026-07-20T08:37:31.605299Z",
+      "earliest_at": "2026-07-20T09:37:35.495230Z",
+      "latest_at": "2026-07-20T09:37:35.495230Z",
       "primary_item": {
-        "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
-        "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-        "url": "https://www.aibase.com/news/29722",
+        "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
+        "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+        "url": "https://www.aibase.com/news/29725",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1082,15 +1082,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6383,
-      "importance": 0.6383,
-      "importance_score": 0.6383,
+      "score": 0.6362,
+      "importance": 0.6362,
+      "importance_score": 0.6362,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.8053,
+        "recency": 0.7937,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1108,21 +1108,21 @@
       }
     },
     {
-      "story_id": "story_7a5c5e713e3b",
-      "title": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
-      "url": "https://www.aibase.com/news/29721",
-      "primary_url": "https://www.aibase.com/news/29721",
+      "story_id": "story_5a4e22d48263",
+      "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+      "url": "https://www.aibase.com/news/29724",
+      "primary_url": "https://www.aibase.com/news/29724",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cd79f7cfd68526d23238a913802864ec791b712e",
-          "title": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
-          "url": "https://www.aibase.com/news/29721",
+          "id": "7a4a25b3d294fc3129c73c35fdbc35c9e1f42655",
+          "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+          "url": "https://www.aibase.com/news/29724",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-20T07:37:37.447933Z"
+          "published_at": "2026-07-20T09:37:35.495230Z"
         }
       ],
       "source_count": 1,
@@ -1131,13 +1131,74 @@
       ],
       "items": [
         {
-          "id": "cd79f7cfd68526d23238a913802864ec791b712e",
-          "title": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
-          "url": "https://www.aibase.com/news/29721",
+          "id": "7a4a25b3d294fc3129c73c35fdbc35c9e1f42655",
+          "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+          "url": "https://www.aibase.com/news/29724",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-20T07:37:37.447933Z"
+          "published_at": "2026-07-20T09:37:35.495230Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T09:37:35.495230Z",
+      "latest_at": "2026-07-20T09:37:35.495230Z",
+      "primary_item": {
+        "id": "7a4a25b3d294fc3129c73c35fdbc35c9e1f42655",
+        "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+        "url": "https://www.aibase.com/news/29724",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d29a6c3c6768",
+      "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+      "url": "https://www.aibase.com/news/29722",
+      "primary_url": "https://www.aibase.com/news/29722",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
+          "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+          "url": "https://www.aibase.com/news/29722",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T08:37:31.605299Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
+          "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+          "url": "https://www.aibase.com/news/29722",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T08:37:31.605299Z"
         }
       ],
       "item_count": 1,
@@ -1150,7 +1211,7 @@
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1158,73 +1219,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T07:37:37.447933Z",
-      "latest_at": "2026-07-20T07:37:37.447933Z",
+      "earliest_at": "2026-07-20T08:37:31.605299Z",
+      "latest_at": "2026-07-20T08:37:31.605299Z",
       "primary_item": {
-        "id": "cd79f7cfd68526d23238a913802864ec791b712e",
-        "title": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
-        "url": "https://www.aibase.com/news/29721",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_859168d2d8f2",
-      "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-      "url": "https://www.aibase.com/news/29718",
-      "primary_url": "https://www.aibase.com/news/29718",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
-          "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-          "url": "https://www.aibase.com/news/29718",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T06:37:30.959201Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
-          "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-          "url": "https://www.aibase.com/news/29718",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T06:37:30.959201Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T06:37:30.959201Z",
-      "latest_at": "2026-07-20T06:37:30.959201Z",
-      "primary_item": {
-        "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
-        "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-        "url": "https://www.aibase.com/news/29718",
+        "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
+        "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+        "url": "https://www.aibase.com/news/29722",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1321,15 +1321,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5726,
-      "importance": 0.5726,
-      "importance_score": 0.5726,
+      "score": 0.5704,
+      "importance": 0.5704,
+      "importance_score": 0.5704,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8713,
+        "recency": 0.8588,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1419,15 +1419,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5676,
-      "importance": 0.5676,
-      "importance_score": 0.5676,
+      "score": 0.5651,
+      "importance": 0.5651,
+      "importance_score": 0.5651,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9823,
+        "recency": 0.9682,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1445,21 +1445,21 @@
       }
     },
     {
-      "story_id": "story_ac4e7deb4536",
-      "title": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
-      "url": "https://www.aibase.com/news/29717",
-      "primary_url": "https://www.aibase.com/news/29717",
+      "story_id": "story_7a5c5e713e3b",
+      "title": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
+      "url": "https://www.aibase.com/news/29721",
+      "primary_url": "https://www.aibase.com/news/29721",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b83f134c5c1ef969e58e5c34256340aed43109ea",
-          "title": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
-          "url": "https://www.aibase.com/news/29717",
+          "id": "cd79f7cfd68526d23238a913802864ec791b712e",
+          "title": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
+          "url": "https://www.aibase.com/news/29721",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-20T06:37:30.959201Z"
+          "published_at": "2026-07-20T07:37:37.447933Z"
         }
       ],
       "source_count": 1,
@@ -1468,13 +1468,13 @@
       ],
       "items": [
         {
-          "id": "b83f134c5c1ef969e58e5c34256340aed43109ea",
-          "title": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
-          "url": "https://www.aibase.com/news/29717",
+          "id": "cd79f7cfd68526d23238a913802864ec791b712e",
+          "title": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
+          "url": "https://www.aibase.com/news/29721",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-20T06:37:30.959201Z"
+          "published_at": "2026-07-20T07:37:37.447933Z"
         }
       ],
       "item_count": 1,
@@ -1495,12 +1495,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T06:37:30.959201Z",
-      "latest_at": "2026-07-20T06:37:30.959201Z",
+      "earliest_at": "2026-07-20T07:37:37.447933Z",
+      "latest_at": "2026-07-20T07:37:37.447933Z",
       "primary_item": {
-        "id": "b83f134c5c1ef969e58e5c34256340aed43109ea",
-        "title": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
-        "url": "https://www.aibase.com/news/29717",
+        "id": "cd79f7cfd68526d23238a913802864ec791b712e",
+        "title": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
+        "url": "https://www.aibase.com/news/29721",
         "source": "AIbase",
         "source_name": "AIbase"
       }
