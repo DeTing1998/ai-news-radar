@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T09:37:38.674193Z",
+  "generated_at": "2026-07-27T11:37:31.435058Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8698,
-      "importance": 0.8698,
-      "importance_score": 0.8698,
+      "score": 0.8647,
+      "importance": 0.8647,
+      "importance_score": 0.8647,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9987,
+        "recency": 0.9703,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,68 @@
         "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
         "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f143efbfe201",
+      "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "primary_url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
+          "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T03:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
+          "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T03:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8321,
+      "importance": 0.8321,
+      "importance_score": 0.8321,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8893,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T03:30:00Z",
+      "latest_at": "2026-07-27T03:30:00Z",
+      "primary_item": {
+        "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
+        "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
+        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -119,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9716,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -181,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9032,
+        "recency": 0.8775,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -261,15 +323,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -342,15 +404,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7414,
+        "recency": 0.7203,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -403,15 +465,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9748,
+        "recency": 0.947,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -463,15 +525,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8727,
+        "recency": 0.8479,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -542,15 +604,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -623,15 +685,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -776,15 +838,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6641,
+      "importance": 0.6641,
+      "importance_score": 0.6641,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9716,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -855,15 +917,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -936,15 +998,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1017,15 +1079,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9444,
+        "recency": 0.9176,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1136,15 +1198,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5958,
-      "importance": 0.5958,
-      "importance_score": 0.5958,
+      "score": 0.5907,
+      "importance": 0.5907,
+      "importance_score": 0.5907,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9717,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1215,15 +1277,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9444,
+        "recency": 0.9176,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1240,6 +1302,85 @@
         "url": "https://www.aibase.com/news/29897",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e45482a3354c",
+      "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售",
+      "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d5c39a9c9a3805bf94715b0018b026d121c37564",
+          "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售",
+          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T11:21:32.901000Z"
+        },
+        {
+          "id": "3086d33152eeb8f50749ee3cd542e187289043d2",
+          "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售 / Artist sues AI meme generator for selling deeply personal comic as ad template",
+          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T10:50:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica (科技媒体)",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "d5c39a9c9a3805bf94715b0018b026d121c37564",
+          "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售",
+          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T11:21:32.901000Z"
+        },
+        {
+          "id": "3086d33152eeb8f50749ee3cd542e187289043d2",
+          "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售 / Artist sues AI meme generator for selling deeply personal comic as ad template",
+          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T10:50:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9962,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T10:50:37Z",
+      "latest_at": "2026-07-27T11:21:32.901000Z",
+      "primary_item": {
+        "id": "d5c39a9c9a3805bf94715b0018b026d121c37564",
+        "title": "艺术家起诉一家AI表情包生成平台，指控其将极具个人隐私的漫画作为广告模板出售",
+        "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1296,15 +1437,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
+      "score": 0.539,
+      "importance": 0.539,
+      "importance_score": 0.539,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9904,
+        "recency": 0.9622,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1375,15 +1516,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
+      "score": 0.5337,
+      "importance": 0.5337,
+      "importance_score": 0.5337,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9603,
+        "recency": 0.933,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1454,15 +1595,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9038,
+        "recency": 0.8781,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1479,163 +1620,6 @@
         "url": "https://www.aibase.com/news/29894",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_98985b641f4b",
-      "title": "英伟达正就支持OpenAI租赁软银美国数据中心一事进行磋商",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c2f04e2d085879f8602734fdfdb4f04bbfd29784",
-          "title": "英伟达正就支持OpenAI租赁软银美国数据中心一事进行磋商",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T03:54:12.791000Z"
-        },
-        {
-          "id": "1f3cd6e0b8da4457d27ed28eb8fb354729f1795b",
-          "title": "据《华尔街日报》报道，英伟达正考虑向OpenAI Hub提供2500亿美元投资",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T00:26:20.196000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "c2f04e2d085879f8602734fdfdb4f04bbfd29784",
-          "title": "英伟达正就支持OpenAI租赁软银美国数据中心一事进行磋商",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T03:54:12.791000Z"
-        },
-        {
-          "id": "1f3cd6e0b8da4457d27ed28eb8fb354729f1795b",
-          "title": "据《华尔街日报》报道，英伟达正考虑向OpenAI Hub提供2500亿美元投资",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T00:26:20.196000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5315,
-      "importance": 0.5315,
-      "importance_score": 0.5315,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9207,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T00:26:20.196000Z",
-      "latest_at": "2026-07-27T03:54:12.791000Z",
-      "primary_item": {
-        "id": "c2f04e2d085879f8602734fdfdb4f04bbfd29784",
-        "title": "英伟达正就支持OpenAI租赁软银美国数据中心一事进行磋商",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_78db64c29922",
-      "title": "十五亿美元 Anthropic 图书版权和解案终裁，出版业迎来 AI 定价时代",
-      "url": "https://www.huxiu.com/article/4878299.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4878299.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "5ac956fd0340d1f22a8546b099ec862ca8a5f099",
-          "title": "十五亿美元 Anthropic 图书版权和解案终裁，出版业迎来 AI 定价时代",
-          "url": "https://www.huxiu.com/article/4878299.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "94d05609bdaaac3ab246edd186a0c4da53914a80",
-          "title": "十五亿美元Anthropic图书版权和解案终裁，出版业迎来AI定价时代：美国史上最大AI版权和解案全程复盘及其对中国出版业的启示",
-          "url": "https://www.huxiu.com/article/4878299.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T00:40:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "5ac956fd0340d1f22a8546b099ec862ca8a5f099",
-          "title": "十五亿美元 Anthropic 图书版权和解案终裁，出版业迎来 AI 定价时代",
-          "url": "https://www.huxiu.com/article/4878299.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "94d05609bdaaac3ab246edd186a0c4da53914a80",
-          "title": "十五亿美元Anthropic图书版权和解案终裁，出版业迎来AI定价时代：美国史上最大AI版权和解案全程复盘及其对中国出版业的启示",
-          "url": "https://www.huxiu.com/article/4878299.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T00:40:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8909,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T00:40:59Z",
-      "latest_at": "2026-07-27T01:37:31.734223Z",
-      "primary_item": {
-        "id": "5ac956fd0340d1f22a8546b099ec862ca8a5f099",
-        "title": "十五亿美元 Anthropic 图书版权和解案终裁，出版业迎来 AI 定价时代",
-        "url": "https://www.huxiu.com/article/4878299.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
