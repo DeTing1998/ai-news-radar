@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T04:37:32.092688Z",
+  "generated_at": "2026-07-28T05:37:41.711503Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.847,
-      "importance": 0.847,
-      "importance_score": 0.847,
+      "score": 0.8448,
+      "importance": 0.8448,
+      "importance_score": 0.8448,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8333,
+        "recency": 0.8214,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8438,
-      "importance": 0.8438,
-      "importance_score": 0.8438,
+      "score": 0.8413,
+      "importance": 0.8413,
+      "importance_score": 0.8413,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9543,
+        "recency": 0.9406,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8266,
-      "importance": 0.8266,
-      "importance_score": 0.8266,
+      "score": 0.8247,
+      "importance": 0.8247,
+      "importance_score": 0.8247,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7591,
+        "recency": 0.7482,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,15 +263,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8434,
-      "importance": 0.8434,
-      "importance_score": 0.8434,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8578,
+        "recency": 0.8454,
         "story_heat": 0.25
       },
       "category": "official",
@@ -326,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
+      "score": 0.8303,
+      "importance": 0.8303,
+      "importance_score": 0.8303,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8922,
+        "recency": 0.8794,
         "story_heat": 0.0
       },
       "category": "official",
@@ -407,15 +407,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
+      "score": 0.7986,
+      "importance": 0.7986,
+      "importance_score": 0.7986,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8283,
+        "recency": 0.8164,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -431,6 +431,87 @@
         "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
         "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
         "source": "公众号：月之暗面（Kimi）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_35cbe1d1b104",
+      "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+      "url": "https://usefeyn.com/blog/feynobg",
+      "primary_url": "https://usefeyn.com/blog/feynobg",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6156996d61a9bda29eb738fd998878c8765d59eb",
+          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "url": "https://usefeyn.com/blog/feynobg",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T04:57:13.190000Z"
+        },
+        {
+          "id": "b53e7c7d9a4445c7af44ed99e9da921c4587a136",
+          "title": "Show HN: FeyNoBg – 自动背景去除模型及训练库 / Show HN: FeyNoBg – Automatic background removal model and training library",
+          "url": "https://usefeyn.com/blog/feynobg",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-27T16:59:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "6156996d61a9bda29eb738fd998878c8765d59eb",
+          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "url": "https://usefeyn.com/blog/feynobg",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T04:57:13.190000Z"
+        },
+        {
+          "id": "b53e7c7d9a4445c7af44ed99e9da921c4587a136",
+          "title": "Show HN: FeyNoBg – 自动背景去除模型及训练库 / Show HN: FeyNoBg – Automatic background removal model and training library",
+          "url": "https://usefeyn.com/blog/feynobg",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-27T16:59:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7879,
+      "importance": 0.7879,
+      "importance_score": 0.7879,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9903,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T16:59:08Z",
+      "latest_at": "2026-07-28T04:57:13.190000Z",
+      "primary_item": {
+        "id": "6156996d61a9bda29eb738fd998878c8765d59eb",
+        "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+        "url": "https://usefeyn.com/blog/feynobg",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -488,15 +569,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9716,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -569,15 +650,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
+      "score": 0.7723,
+      "importance": 0.7723,
+      "importance_score": 0.7723,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8328,
+        "recency": 0.8208,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -631,15 +712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8456,
+        "recency": 0.8334,
         "story_heat": 0.0
       },
       "category": "official",
@@ -731,15 +812,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9145,
+        "recency": 0.9013,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -812,15 +893,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8595,
+        "recency": 0.8471,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -893,15 +974,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8721,
+        "recency": 0.8595,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -955,15 +1036,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8243,
+        "recency": 0.8124,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1035,15 +1116,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9716,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1097,15 +1178,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8558,
+        "recency": 0.8434,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1157,15 +1238,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9354,
+        "recency": 0.9219,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1236,15 +1317,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1298,15 +1379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7444,
+      "importance": 0.7444,
+      "importance_score": 0.7444,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8672,
+        "recency": 0.8547,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1377,15 +1458,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7152,
-      "importance": 0.7152,
-      "importance_score": 0.7152,
+      "score": 0.7132,
+      "importance": 0.7132,
+      "importance_score": 0.7132,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7532,
+        "recency": 0.7424,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1401,87 +1482,6 @@
         "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
         "source": "NVIDIA Blog（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ce1adc64a894",
-      "title": "Kimi K3 开源，2.8 万亿参数登顶全球最大开源模型，马斯克也来点了个赞",
-      "url": "https://www.aibase.com/news/29920",
-      "primary_url": "https://www.aibase.com/news/29920",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bf64ba9f8abea53b1ea154f9518e0dbe92408fae",
-          "title": "Kimi K3 开源，2.8 万亿参数登顶全球最大开源模型，马斯克也来点了个赞",
-          "url": "https://www.aibase.com/news/29920",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T01:37:41.498675Z"
-        },
-        {
-          "id": "71491ce658ead7425639df84b013a54fa374fc48",
-          "title": "Kimi K3 开源，2.8 万亿参数登顶全球最大开源模型，马斯克也来点了个赞",
-          "url": "https://www.aibase.com/zh/news/29920",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "bf64ba9f8abea53b1ea154f9518e0dbe92408fae",
-          "title": "Kimi K3 开源，2.8 万亿参数登顶全球最大开源模型，马斯克也来点了个赞",
-          "url": "https://www.aibase.com/news/29920",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T01:37:41.498675Z"
-        },
-        {
-          "id": "71491ce658ead7425639df84b013a54fa374fc48",
-          "title": "Kimi K3 开源，2.8 万亿参数登顶全球最大开源模型，马斯克也来点了个赞",
-          "url": "https://www.aibase.com/zh/news/29920",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T01:37:41.498675Z",
-      "latest_at": "2026-07-28T01:37:41.498675Z",
-      "primary_item": {
-        "id": "bf64ba9f8abea53b1ea154f9518e0dbe92408fae",
-        "title": "Kimi K3 开源，2.8 万亿参数登顶全球最大开源模型，马斯克也来点了个赞",
-        "url": "https://www.aibase.com/news/29920",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
