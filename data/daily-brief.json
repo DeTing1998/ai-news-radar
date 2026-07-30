@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T23:37:33.335009Z",
+  "generated_at": "2026-07-30T00:37:39.789638Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8753,
-      "importance": 0.8753,
-      "importance_score": 0.8753,
+      "score": 0.873,
+      "importance": 0.873,
+      "importance_score": 0.873,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8962,
+        "recency": 0.8833,
         "story_heat": 0.5
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8624,
-      "importance": 0.8624,
-      "importance_score": 0.8624,
+      "score": 0.8599,
+      "importance": 0.8599,
+      "importance_score": 0.8599,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9689,
+        "recency": 0.955,
         "story_heat": 0.0
       },
       "category": "official",
@@ -220,15 +220,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8619,
-      "importance": 0.8619,
-      "importance_score": 0.8619,
+      "score": 0.8596,
+      "importance": 0.8596,
+      "importance_score": 0.8596,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8829,
+        "recency": 0.8702,
         "story_heat": 0.25
       },
       "category": "official",
@@ -244,169 +244,6 @@
         "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
         "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
         "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        },
-        {
-          "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
-          "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        },
-        {
-          "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
-          "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.843,
-      "importance": 0.843,
-      "importance_score": 0.843,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7109,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T00:00:00Z",
-      "latest_at": "2026-07-29T00:00:00Z",
-      "primary_item": {
-        "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
-        "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6d964f10c333",
-      "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "primary_url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c038b82f6bfc145d6a23b7c1d24032f290009a95",
-          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        },
-        {
-          "id": "b7c79fad7caaa5c909be57f8f8eb0f495b4d8adf",
-          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna",
-          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "c038b82f6bfc145d6a23b7c1d24032f290009a95",
-          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        },
-        {
-          "id": "b7c79fad7caaa5c909be57f8f8eb0f495b4d8adf",
-          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna",
-          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7109,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T00:00:00Z",
-      "latest_at": "2026-07-29T00:00:00Z",
-      "primary_item": {
-        "id": "c038b82f6bfc145d6a23b7c1d24032f290009a95",
-        "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-        "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
@@ -446,15 +283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.8264,
+      "importance": 0.8264,
+      "importance_score": 0.8264,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8705,
+        "recency": 0.858,
         "story_heat": 0.0
       },
       "category": "official",
@@ -471,6 +308,149 @@
         "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_14fd05ad34f9",
+      "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "primary_url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
+          "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
+          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
+          "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
+          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8096,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T10:00:00Z",
+      "latest_at": "2026-07-29T10:00:00Z",
+      "primary_item": {
+        "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
+        "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
+        "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4efa01255061",
+      "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+      "url": "https://www.ithome.com/0/983/374.htm",
+      "primary_url": "https://www.ithome.com/0/983/374.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
+          "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "url": "https://www.ithome.com/0/983/374.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T23:29:34Z"
+        },
+        {
+          "id": "0a9c50d2339410ff0134c03647425301d50a0e4b",
+          "title": "揭秘 AI 入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "url": "https://www.ithome.com/0/983/374.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-29T23:29:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
+          "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "url": "https://www.ithome.com/0/983/374.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T23:29:34Z"
+        },
+        {
+          "id": "0a9c50d2339410ff0134c03647425301d50a0e4b",
+          "title": "揭秘 AI 入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "url": "https://www.ithome.com/0/983/374.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-29T23:29:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7957,
+      "importance": 0.7957,
+      "importance_score": 0.7957,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9837,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T23:29:34Z",
+      "latest_at": "2026-07-29T23:29:34Z",
+      "primary_item": {
+        "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
+        "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+        "url": "https://www.ithome.com/0/983/374.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -527,15 +507,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7894,
-      "importance": 0.7894,
-      "importance_score": 0.7894,
+      "score": 0.787,
+      "importance": 0.787,
+      "importance_score": 0.787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9321,
+        "recency": 0.9187,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -608,15 +588,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7802,
-      "importance": 0.7802,
-      "importance_score": 0.7802,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8977,
+        "recency": 0.8849,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -689,15 +669,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8443,
+        "recency": 0.8322,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -751,15 +731,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9595,
+        "recency": 0.9457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -774,149 +754,6 @@
         "title": "Replit Design 发布：AI 赋能设计愿景",
         "url": "https://x.com/Replit/status/2082568269119062019",
         "source": "X：Replit (@Replit)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_14fd05ad34f9",
-      "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "primary_url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-          "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-          "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8278,
-      "importance": 0.8278,
-      "importance_score": 0.8278,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8214,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T10:00:00Z",
-      "latest_at": "2026-07-29T10:00:00Z",
-      "primary_item": {
-        "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-        "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
-        "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1d50a0b3fba4",
-      "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-      "url": "https://www.ithome.com/0/983/298.htm",
-      "primary_url": "https://www.ithome.com/0/983/298.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5ca59a0643596dfc6a18ae43bf97dec6063d5ddd",
-          "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-          "url": "https://www.ithome.com/0/983/298.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T12:12:21Z"
-        },
-        {
-          "id": "11eaa9c43709f9e2ceac622414ec18b15ca957ca",
-          "title": "马斯克旗下 SpaceXAI 起诉明尼苏达州，反对“AI 脱衣”应用禁令",
-          "url": "https://www.ithome.com/0/983/298.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-29T12:12:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5ca59a0643596dfc6a18ae43bf97dec6063d5ddd",
-          "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-          "url": "https://www.ithome.com/0/983/298.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T12:12:21Z"
-        },
-        {
-          "id": "11eaa9c43709f9e2ceac622414ec18b15ca957ca",
-          "title": "马斯克旗下 SpaceXAI 起诉明尼苏达州，反对“AI 脱衣”应用禁令",
-          "url": "https://www.ithome.com/0/983/298.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-29T12:12:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.848,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T12:12:21Z",
-      "latest_at": "2026-07-29T12:12:21Z",
-      "primary_item": {
-        "id": "5ca59a0643596dfc6a18ae43bf97dec6063d5ddd",
-        "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-        "url": "https://www.ithome.com/0/983/298.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -974,15 +811,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8288,
+        "recency": 0.8169,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1036,15 +873,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
+      "score": 0.8092,
+      "importance": 0.8092,
+      "importance_score": 0.8092,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8185,
+        "recency": 0.8067,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1098,15 +935,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8544,
+        "recency": 0.8422,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1177,15 +1014,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7759,
-      "importance": 0.7759,
-      "importance_score": 0.7759,
+      "score": 0.7736,
+      "importance": 0.7736,
+      "importance_score": 0.7736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8904,
+        "recency": 0.8776,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1239,15 +1076,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9199,
+        "recency": 0.9067,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1299,15 +1136,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8832,
+        "recency": 0.8705,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1359,15 +1196,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
+      "score": 0.7339,
+      "importance": 0.7339,
+      "importance_score": 0.7339,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9091,
+        "recency": 0.8961,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1381,6 +1218,87 @@
         "title": "Perplexity 开源智能体检测层 Numbat",
         "url": "https://x.com/perplexity_ai/status/2082511900580196596",
         "source": "X：Perplexity (@perplexity_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1d50a0b3fba4",
+      "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
+      "url": "https://www.ithome.com/0/983/298.htm",
+      "primary_url": "https://www.ithome.com/0/983/298.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5ca59a0643596dfc6a18ae43bf97dec6063d5ddd",
+          "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
+          "url": "https://www.ithome.com/0/983/298.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T12:12:21Z"
+        },
+        {
+          "id": "11eaa9c43709f9e2ceac622414ec18b15ca957ca",
+          "title": "马斯克旗下 SpaceXAI 起诉明尼苏达州，反对“AI 脱衣”应用禁令",
+          "url": "https://www.ithome.com/0/983/298.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-29T12:12:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5ca59a0643596dfc6a18ae43bf97dec6063d5ddd",
+          "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
+          "url": "https://www.ithome.com/0/983/298.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T12:12:21Z"
+        },
+        {
+          "id": "11eaa9c43709f9e2ceac622414ec18b15ca957ca",
+          "title": "马斯克旗下 SpaceXAI 起诉明尼苏达州，反对“AI 脱衣”应用禁令",
+          "url": "https://www.ithome.com/0/983/298.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-29T12:12:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8358,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T12:12:21Z",
+      "latest_at": "2026-07-29T12:12:21Z",
+      "primary_item": {
+        "id": "5ca59a0643596dfc6a18ae43bf97dec6063d5ddd",
+        "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
+        "url": "https://www.ithome.com/0/983/298.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1419,15 +1337,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9136,
+        "recency": 0.9005,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1442,6 +1360,87 @@
         "url": "https://x.com/sherwinwu/status/2082517015944741342",
         "source": "X：Sherwin Wu（@sherwinwu）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_13327f6db245",
+      "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+      "url": "https://www.aibase.com/news/29983",
+      "primary_url": "https://www.aibase.com/news/29983",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+          "url": "https://www.aibase.com/news/29983",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T09:37:40.961897Z"
+        },
+        {
+          "id": "467bb7db924e7839805e7d3ee8bd609da76762ee",
+          "title": "MCP 协议迎来问世以来最大改版：彻底「无状态」，全面适配 Serverless",
+          "url": "https://www.aibase.com/zh/news/29983",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+          "url": "https://www.aibase.com/news/29983",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T09:37:40.961897Z"
+        },
+        {
+          "id": "467bb7db924e7839805e7d3ee8bd609da76762ee",
+          "title": "MCP 协议迎来问世以来最大改版：彻底「无状态」，全面适配 Serverless",
+          "url": "https://www.aibase.com/zh/news/29983",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8052,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T09:37:40.961897Z",
+      "latest_at": "2026-07-29T10:37:33.516224Z",
+      "primary_item": {
+        "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+        "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+        "url": "https://www.aibase.com/news/29983",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
