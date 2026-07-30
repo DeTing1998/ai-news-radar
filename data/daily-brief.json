@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T20:37:39.830529Z",
+  "generated_at": "2026-07-30T21:37:38.430163Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9094,
-      "importance": 0.9094,
-      "importance_score": 0.9094,
+      "score": 0.9072,
+      "importance": 0.9072,
+      "importance_score": 0.9072,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8577,
+        "recency": 0.8454,
         "story_heat": 0.75
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.875,
-      "importance": 0.875,
-      "importance_score": 0.875,
+      "score": 0.8726,
+      "importance": 0.8726,
+      "importance_score": 0.8726,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.9222,
+        "recency": 0.9089,
         "story_heat": 0.25
       },
       "category": "official",
@@ -259,15 +259,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8691,
-      "importance": 0.8691,
-      "importance_score": 0.8691,
+      "score": 0.8666,
+      "importance": 0.8666,
+      "importance_score": 0.8666,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9559,
+        "recency": 0.9422,
         "story_heat": 0.25
       },
       "category": "official",
@@ -341,15 +341,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.858,
-      "importance": 0.858,
-      "importance_score": 0.858,
+      "score": 0.8555,
+      "importance": 0.8555,
+      "importance_score": 0.8555,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9386,
+        "recency": 0.9252,
         "story_heat": 0.25
       },
       "category": "official",
@@ -404,15 +404,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8523,
-      "importance": 0.8523,
-      "importance_score": 0.8523,
+      "score": 0.8499,
+      "importance": 0.8499,
+      "importance_score": 0.8499,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.924,
+        "recency": 0.9107,
         "story_heat": 0.0
       },
       "category": "official",
@@ -428,6 +428,68 @@
         "title": "GPU 管理：为什么空闲 GPU 成为新的停飞飞机 / GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
         "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "浏览器升级、多存储库审查和图像编辑 26.727 / Browser upgrades, multi-repository review, and image editing 26.727",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ac4db5b1e24a9568bea612ce663c836535244ceb",
+          "title": "浏览器升级、多存储库审查和图像编辑 26.727 / Browser upgrades, multi-repository review, and image editing 26.727",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "ac4db5b1e24a9568bea612ce663c836535244ceb",
+          "title": "浏览器升级、多存储库审查和图像编辑 26.727 / Browser upgrades, multi-repository review, and image editing 26.727",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7318,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T00:00:00Z",
+      "latest_at": "2026-07-30T00:00:00Z",
+      "primary_item": {
+        "id": "ac4db5b1e24a9568bea612ce663c836535244ceb",
+        "title": "浏览器升级、多存储库审查和图像编辑 26.727 / Browser upgrades, multi-repository review, and image editing 26.727",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -466,15 +528,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8404,
-      "importance": 0.8404,
-      "importance_score": 0.8404,
+      "score": 0.8379,
+      "importance": 0.8379,
+      "importance_score": 0.8379,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9802,
+        "recency": 0.9661,
         "story_heat": 0.0
       },
       "category": "official",
@@ -547,15 +609,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7951,
-      "importance": 0.7951,
-      "importance_score": 0.7951,
+      "score": 0.7925,
+      "importance": 0.7925,
+      "importance_score": 0.7925,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9973,
+        "recency": 0.9831,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -609,15 +671,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.838,
-      "importance": 0.838,
-      "importance_score": 0.838,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9223,
+        "recency": 0.9091,
         "story_heat": 0.0
       },
       "category": "official",
@@ -690,15 +752,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7733,
+      "importance": 0.7733,
+      "importance_score": 0.7733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9224,
+        "recency": 0.9092,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -771,15 +833,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8931,
+        "recency": 0.8803,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -852,15 +914,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.83,
+        "recency": 0.8181,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -933,15 +995,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.8409,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -995,15 +1057,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9947,
+        "recency": 0.9804,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1056,15 +1118,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9752,
+        "recency": 0.9612,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1117,15 +1179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9565,
+        "recency": 0.9428,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1197,22 +1259,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.737,
+        "recency": 0.7264,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T23:29:34Z",
       "latest_at": "2026-07-29T23:29:34Z",
@@ -1259,15 +1320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8365,
-      "importance": 0.8365,
-      "importance_score": 0.8365,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9581,
+        "recency": 0.9444,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1321,15 +1382,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9478,
+        "recency": 0.9342,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1400,15 +1461,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8289,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1425,66 +1486,6 @@
         "url": "https://www.aibase.com/news/30013",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_46c8d10a3322",
-      "title": "腾讯混元Hyra破解50年数学难题",
-      "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-      "primary_url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a7c02d288ab395f82ca06440d71d72b1161cfe28",
-          "title": "腾讯混元Hyra破解50年数学难题",
-          "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-          "source": "X：腾讯混元 (@TencentHunyuan)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:33:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：腾讯混元 (@TencentHunyuan)"
-      ],
-      "items": [
-        {
-          "id": "a7c02d288ab395f82ca06440d71d72b1161cfe28",
-          "title": "腾讯混元Hyra破解50年数学难题",
-          "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-          "source": "X：腾讯混元 (@TencentHunyuan)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:33:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7703,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T02:33:16Z",
-      "latest_at": "2026-07-30T02:33:16Z",
-      "primary_item": {
-        "id": "a7c02d288ab395f82ca06440d71d72b1161cfe28",
-        "title": "腾讯混元Hyra破解50年数学难题",
-        "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-        "source": "X：腾讯混元 (@TencentHunyuan)",
-        "source_name": "AI HOT"
       }
     }
   ]
