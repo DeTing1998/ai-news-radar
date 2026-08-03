@@ -1,8 +1,189 @@
 {
-  "generated_at": "2026-08-03T13:37:39.369960Z",
+  "generated_at": "2026-08-03T19:37:46.842557Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_26149269af1e",
+      "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+      "url": "https://github.com/lyogavin/airllm",
+      "primary_url": "https://github.com/lyogavin/airllm",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
+          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T16:24:45.027000Z"
+        },
+        {
+          "id": "2717965917d799ff11365290c89986375891fad3",
+          "title": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T16:24:45.027000Z"
+        },
+        {
+          "id": "4091e192e6e64bdf51ad9bafe9fca0787e19caad",
+          "title": "使用单个 4GB GPU 进行 AirLLM 70B 推理 / AirLLM 70B inference with single 4GB GPU",
+          "url": "https://news.ycombinator.com/item?id=49154228",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T13:13:45.403000Z"
+        },
+        {
+          "id": "3c5592abfa3053cd250cb36128a1abe805691b95",
+          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T11:15:48Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
+          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T16:24:45.027000Z"
+        },
+        {
+          "id": "2717965917d799ff11365290c89986375891fad3",
+          "title": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T16:24:45.027000Z"
+        },
+        {
+          "id": "4091e192e6e64bdf51ad9bafe9fca0787e19caad",
+          "title": "使用单个 4GB GPU 进行 AirLLM 70B 推理 / AirLLM 70B inference with single 4GB GPU",
+          "url": "https://news.ycombinator.com/item?id=49154228",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T13:13:45.403000Z"
+        },
+        {
+          "id": "3c5592abfa3053cd250cb36128a1abe805691b95",
+          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T11:15:48Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8464,
+      "importance": 0.8464,
+      "importance_score": 0.8464,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9546,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T11:15:48Z",
+      "latest_at": "2026-08-03T16:24:45.027000Z",
+      "primary_item": {
+        "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
+        "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+        "url": "https://github.com/lyogavin/airllm",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_545d6c402c71",
+      "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "primary_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8362,
+      "importance": 0.8362,
+      "importance_score": 0.8362,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9566,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T16:33:13Z",
+      "latest_at": "2026-08-03T16:33:13Z",
+      "primary_item": {
+        "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+        "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_f1afe25775a0",
       "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
@@ -76,15 +257,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8408,
-      "importance": 0.8408,
-      "importance_score": 0.8408,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8454,
+        "recency": 0.7752,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -100,6 +281,87 @@
         "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
         "url": "https://qwen.ai/blog?id=qwen3.8",
         "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_153c499b0419",
+      "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T17:38:45Z"
+        },
+        {
+          "id": "0e9bd10c89bbfb4536bde9133d93b8cfe727ee97",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe’s AI labeling and transparency rules are now in effect",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T17:38:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T17:38:45Z"
+        },
+        {
+          "id": "0e9bd10c89bbfb4536bde9133d93b8cfe727ee97",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe’s AI labeling and transparency rules are now in effect",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T17:38:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7905,
+      "importance": 0.7905,
+      "importance_score": 0.7905,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9718,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T17:38:45Z",
+      "latest_at": "2026-08-03T17:38:45Z",
+      "primary_item": {
+        "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+        "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+        "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -157,15 +419,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -238,15 +500,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -263,6 +525,186 @@
         "url": "https://www.aibase.com/news/30067",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fb1e9b75e4ab",
+      "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+      "url": "https://blog.cloudflare.com/billable-usage-api",
+      "primary_url": "https://blog.cloudflare.com/billable-usage-api",
+      "source": "Cloudflare Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7d132557b16f97c759ccf326479eb425d7cec46e",
+          "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+          "url": "https://blog.cloudflare.com/billable-usage-api",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cloudflare Blog"
+      ],
+      "items": [
+        {
+          "id": "7d132557b16f97c759ccf326479eb425d7cec46e",
+          "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+          "url": "https://blog.cloudflare.com/billable-usage-api",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9087,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T13:00:00Z",
+      "latest_at": "2026-08-03T13:00:00Z",
+      "primary_item": {
+        "id": "7d132557b16f97c759ccf326479eb425d7cec46e",
+        "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+        "url": "https://blog.cloudflare.com/billable-usage-api",
+        "source": "Cloudflare Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ebde7e0c4422",
+      "title": "OpenRouter 推出 Ori Eval 简化评估流程",
+      "url": "https://x.com/OpenRouter/status/2084301100078027143",
+      "primary_url": "https://x.com/OpenRouter/status/2084301100078027143",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
+          "title": "OpenRouter 推出 Ori Eval 简化评估流程",
+          "url": "https://x.com/OpenRouter/status/2084301100078027143",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T15:31:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
+          "title": "OpenRouter 推出 Ori Eval 简化评估流程",
+          "url": "https://x.com/OpenRouter/status/2084301100078027143",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T15:31:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9424,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T15:31:21Z",
+      "latest_at": "2026-08-03T15:31:21Z",
+      "primary_item": {
+        "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
+        "title": "OpenRouter 推出 Ori Eval 简化评估流程",
+        "url": "https://x.com/OpenRouter/status/2084301100078027143",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_44907fd1b6bf",
+      "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
+      "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
+      "primary_url": "https://x.com/SenseTime_AI/status/2084288424236782073",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "635756b0e74e1a8aa32edee0ffc2b3cc8a42ec23",
+          "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
+          "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
+          "source": "X：商汤 SenseTime (@SenseTime_AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T14:40:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：商汤 SenseTime (@SenseTime_AI)"
+      ],
+      "items": [
+        {
+          "id": "635756b0e74e1a8aa32edee0ffc2b3cc8a42ec23",
+          "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
+          "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
+          "source": "X：商汤 SenseTime (@SenseTime_AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T14:40:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9311,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T14:40:59Z",
+      "latest_at": "2026-08-03T14:40:59Z",
+      "primary_item": {
+        "id": "635756b0e74e1a8aa32edee0ffc2b3cc8a42ec23",
+        "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
+        "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
+        "source": "X：商汤 SenseTime (@SenseTime_AI)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -300,21 +742,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9749,
+        "recency": 0.8939,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T11:51:51Z",
       "latest_at": "2026-08-03T11:51:51Z",
@@ -323,6 +764,66 @@
         "title": "Kimi Work 幻灯片制作教程发布",
         "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
         "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_580322e06e25",
+      "title": "Google Agent Skills 幕后：如何构建、测试与规模化",
+      "url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
+      "primary_url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
+      "source": "Google AI：DEV 作者专属（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "91f220893f2400bc27c184837617352ac1befa1d",
+          "title": "Google Agent Skills 幕后：如何构建、测试与规模化",
+          "url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
+          "source": "Google AI：DEV 作者专属（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T14:33:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI：DEV 作者专属（RSS）"
+      ],
+      "items": [
+        {
+          "id": "91f220893f2400bc27c184837617352ac1befa1d",
+          "title": "Google Agent Skills 幕后：如何构建、测试与规模化",
+          "url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
+          "source": "Google AI：DEV 作者专属（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T14:33:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9293,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T14:33:20Z",
+      "latest_at": "2026-08-03T14:33:20Z",
+      "primary_item": {
+        "id": "91f220893f2400bc27c184837617352ac1befa1d",
+        "title": "Google Agent Skills 幕后：如何构建、测试与规模化",
+        "url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
+        "source": "Google AI：DEV 作者专属（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -380,15 +881,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
+      "score": 0.7252,
+      "importance": 0.7252,
+      "importance_score": 0.7252,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7914,
+        "recency": 0.7257,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -460,15 +961,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -485,6 +986,66 @@
         "url": "https://www.aibase.com/news/30079",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6522dfbb2ee3",
+      "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
+      "url": "https://blog.cloudflare.com/cloudflare-computer",
+      "primary_url": "https://blog.cloudflare.com/cloudflare-computer",
+      "source": "Cloudflare Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9874b290d806248194911e23c5f40476c3a608d3",
+          "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
+          "url": "https://blog.cloudflare.com/cloudflare-computer",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T13:15:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cloudflare Blog"
+      ],
+      "items": [
+        {
+          "id": "9874b290d806248194911e23c5f40476c3a608d3",
+          "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
+          "url": "https://blog.cloudflare.com/cloudflare-computer",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T13:15:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9121,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T13:15:24Z",
+      "latest_at": "2026-08-03T13:15:24Z",
+      "primary_item": {
+        "id": "9874b290d806248194911e23c5f40476c3a608d3",
+        "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
+        "url": "https://blog.cloudflare.com/cloudflare-computer",
+        "source": "Cloudflare Blog",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -541,15 +1102,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -566,6 +1127,174 @@
         "url": "https://www.aibase.com/news/30069",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "如果你用 Codex、Claude、Cursor 做项目，应该见过根目录里都会有一堆Markdown：CLAUDE.md、AGENTS.md、SKILL.md。每个文件其实都在解决一个真实问题，理解它们之间的差异，能避免你用不同方式重复维护同一份上下文。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-08-03",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "383aa2d4ef658af8a73511841eb450c2e190c48e",
+          "title": "如果你同时用Codex、Claude Code，又经常在MacBook、Mac mini之间切项目，最烦的或许就是每次都要重新解释背景：这个项目是什么、之前为什么这么设计、哪些坑已经踩过。全塞进AGENTS.md又容易把上下文撑爆。卡尔给了一个更轻的记忆方案：每台机器用claude-mem本地捕获会话里的关键记忆，再只把架构决策、稳定偏好、重要发现和已验证的Bug修复同步到 Mem0。这样Codex和Claude都能按项目检索共享记忆。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T19:37:46.842557Z"
+        },
+        {
+          "id": "8a00aa0a56be640f7fec9897b0151be057bd32fe",
+          "title": "如果你用 Codex、Claude、Cursor 做项目，应该见过根目录里都会有一堆Markdown：CLAUDE.md、AGENTS.md、SKILL.md。每个文件其实都在解决一个真实问题，理解它们之间的差异，能避免你用不同方式重复维护同一份上下文。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T19:37:46.842557Z"
+        },
+        {
+          "id": "48c3564468d03536762f0cafffb73444f1025cd0",
+          "title": "很多人看到“Anthropic把Claude Code的系统提示词删掉80% ”，第一反应就是：那我也赶紧把规则砍短，省 Token、省成本。但提示词变短不等于真实成本下降，能不能删，要看模型会不会主动补资料、补边界，还得拿真实任务测试。老金拿他的开源项目 Meta_Kim 做了48 次 A/B 测试，覆盖简单的单文件修改、模糊产品任务、跨文件高风险任务，并加入公开测试、隐藏测试和盲评。来看看他的测试效果！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T19:37:46.842557Z"
+        },
+        {
+          "id": "d9a0945c9fc9c06389126913bc228a94c36d680c",
+          "title": "很多通过Vibe Coding快速开发的产品功能齐全，却缺失鉴权、数据加密这些安全机制，上线后直面数据泄露的风险。作者给了一段安全review提示词，适合上线前让AI安全巡检一遍，排查路由权限、接口漏洞、敏感数据存储隐患并生成修复方案。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T19:37:46.842557Z"
+        },
+        {
+          "id": "186b140cd00ff08bff1a0c2029e4a552949304a9",
+          "title": "本周的AI音乐周刊适合AI音乐创作者、AI音乐产品和版权关注者快速补课：美国音乐家工会继续追责环球/华纳授权训练争议，三大唱片联合提出AI音乐入榜6原则，Suno在德国GEMA案中败诉，Spotify因为AI音乐标注滞后被第三方工具“打假”。产品侧，Google DeepMind发布Lyria 3.5，Suno封面功能支持图文微调和10秒视频。此外还精选了7篇论文，覆盖分轨、翻唱、检测、乐谱歌声合成等方向。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T19:37:46.842557Z"
+        },
+        {
+          "id": "9589dad81b16d7ab1bb92a1f3e4394cf1903d062",
+          "title": "这篇聊的是Whatnot CPO Tom Verrilli对产品组织的反常识看法：优秀的PM要能靠近客户、读懂系统、看数据、写清规格，并亲自推动上线。AI进一步放大了这种趋势：它省掉的是等待判断的时间，可以让资深PM、设计师、工程师都有机会直接理解问题、修正问题。让我们一起重新思考下“AI时代的产品经理到底该创造什么价值”。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T19:37:46.842557Z"
+        },
+        {
+          "id": "4934497ac38095ac6ff1cf8064a488b3a7ef1ff5",
+          "title": "MiniMax H3正式开源，能统一理解文本、图片、视频、音频输入等构成的多模态上下文，生成最长 15 秒、最高 2K、带原生立体声音频的视频；还支持首尾帧、参考图/视频/音频等多种模式。更关键的是，H3-Base已开放本地部署，支持SGLang、vLLM、diffusers、ComfyUI；官方还给了 768p 本地验证和 2K 完整工作流。快来部署到自己的工作流里试一试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T13:37:39.369960Z"
+        }
+      ],
+      "source_count": 7,
+      "source_names": [
+        "社区更新 · 2026-08-03"
+      ],
+      "items": [
+        {
+          "id": "383aa2d4ef658af8a73511841eb450c2e190c48e",
+          "title": "如果你同时用Codex、Claude Code，又经常在MacBook、Mac mini之间切项目，最烦的或许就是每次都要重新解释背景：这个项目是什么、之前为什么这么设计、哪些坑已经踩过。全塞进AGENTS.md又容易把上下文撑爆。卡尔给了一个更轻的记忆方案：每台机器用claude-mem本地捕获会话里的关键记忆，再只把架构决策、稳定偏好、重要发现和已验证的Bug修复同步到 Mem0。这样Codex和Claude都能按项目检索共享记忆。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T19:37:46.842557Z"
+        },
+        {
+          "id": "8a00aa0a56be640f7fec9897b0151be057bd32fe",
+          "title": "如果你用 Codex、Claude、Cursor 做项目，应该见过根目录里都会有一堆Markdown：CLAUDE.md、AGENTS.md、SKILL.md。每个文件其实都在解决一个真实问题，理解它们之间的差异，能避免你用不同方式重复维护同一份上下文。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T19:37:46.842557Z"
+        },
+        {
+          "id": "48c3564468d03536762f0cafffb73444f1025cd0",
+          "title": "很多人看到“Anthropic把Claude Code的系统提示词删掉80% ”，第一反应就是：那我也赶紧把规则砍短，省 Token、省成本。但提示词变短不等于真实成本下降，能不能删，要看模型会不会主动补资料、补边界，还得拿真实任务测试。老金拿他的开源项目 Meta_Kim 做了48 次 A/B 测试，覆盖简单的单文件修改、模糊产品任务、跨文件高风险任务，并加入公开测试、隐藏测试和盲评。来看看他的测试效果！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T19:37:46.842557Z"
+        },
+        {
+          "id": "d9a0945c9fc9c06389126913bc228a94c36d680c",
+          "title": "很多通过Vibe Coding快速开发的产品功能齐全，却缺失鉴权、数据加密这些安全机制，上线后直面数据泄露的风险。作者给了一段安全review提示词，适合上线前让AI安全巡检一遍，排查路由权限、接口漏洞、敏感数据存储隐患并生成修复方案。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T19:37:46.842557Z"
+        },
+        {
+          "id": "186b140cd00ff08bff1a0c2029e4a552949304a9",
+          "title": "本周的AI音乐周刊适合AI音乐创作者、AI音乐产品和版权关注者快速补课：美国音乐家工会继续追责环球/华纳授权训练争议，三大唱片联合提出AI音乐入榜6原则，Suno在德国GEMA案中败诉，Spotify因为AI音乐标注滞后被第三方工具“打假”。产品侧，Google DeepMind发布Lyria 3.5，Suno封面功能支持图文微调和10秒视频。此外还精选了7篇论文，覆盖分轨、翻唱、检测、乐谱歌声合成等方向。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T19:37:46.842557Z"
+        },
+        {
+          "id": "9589dad81b16d7ab1bb92a1f3e4394cf1903d062",
+          "title": "这篇聊的是Whatnot CPO Tom Verrilli对产品组织的反常识看法：优秀的PM要能靠近客户、读懂系统、看数据、写清规格，并亲自推动上线。AI进一步放大了这种趋势：它省掉的是等待判断的时间，可以让资深PM、设计师、工程师都有机会直接理解问题、修正问题。让我们一起重新思考下“AI时代的产品经理到底该创造什么价值”。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T19:37:46.842557Z"
+        },
+        {
+          "id": "4934497ac38095ac6ff1cf8064a488b3a7ef1ff5",
+          "title": "MiniMax H3正式开源，能统一理解文本、图片、视频、音频输入等构成的多模态上下文，生成最长 15 秒、最高 2K、带原生立体声音频的视频；还支持首尾帧、参考图/视频/音频等多种模式。更关键的是，H3-Base已开放本地部署，支持SGLang、vLLM、diffusers、ComfyUI；官方还给了 768p 本地验证和 2K 完整工作流。快来部署到自己的工作流里试一试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T13:37:39.369960Z"
+        }
+      ],
+      "item_count": 7,
+      "duplicate_count": 7,
+      "score": 0.6775,
+      "importance": 0.6775,
+      "importance_score": 0.6775,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.54,
+        "ai_relevance": 0.67,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-03T13:37:39.369960Z",
+      "latest_at": "2026-08-03T19:37:46.842557Z",
+      "primary_item": {
+        "id": "8a00aa0a56be640f7fec9897b0151be057bd32fe",
+        "title": "如果你用 Codex、Claude、Cursor 做项目，应该见过根目录里都会有一堆Markdown：CLAUDE.md、AGENTS.md、SKILL.md。每个文件其实都在解决一个真实问题，理解它们之间的差异，能避免你用不同方式重复维护同一份上下文。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-08-03",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -603,15 +1332,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -664,15 +1393,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -743,15 +1472,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6088,
-      "importance": 0.6088,
-      "importance_score": 0.6088,
+      "score": 0.5944,
+      "importance": 0.5944,
+      "importance_score": 0.5944,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.963,
+        "recency": 0.8831,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -803,15 +1532,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -827,719 +1556,6 @@
         "url": "https://www.aibase.com/news/30076",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5cc7a8dbf672",
-      "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-      "url": "https://news.ycombinator.com/item?id=49154127",
-      "primary_url": "https://news.ycombinator.com/item?id=49154127",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "1a396da68a21f3ff29ba5179dcbde2f74c62905e",
-          "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-          "url": "https://news.ycombinator.com/item?id=49154127",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T13:13:45.403000Z"
-        },
-        {
-          "id": "76ca4377457bf4b34e082a76ed826c60c67ceff9",
-          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具",
-          "url": "https://github.com/garagehq/nightcrawler",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T11:20:57.958000Z"
-        },
-        {
-          "id": "7b93daa675052006d871322bec78b86c16e024e2",
-          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-          "url": "https://github.com/garagehq/nightcrawler",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T11:06:15Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1a396da68a21f3ff29ba5179dcbde2f74c62905e",
-          "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-          "url": "https://news.ycombinator.com/item?id=49154127",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T13:13:45.403000Z"
-        },
-        {
-          "id": "76ca4377457bf4b34e082a76ed826c60c67ceff9",
-          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具",
-          "url": "https://github.com/garagehq/nightcrawler",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T11:20:57.958000Z"
-        },
-        {
-          "id": "7b93daa675052006d871322bec78b86c16e024e2",
-          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-          "url": "https://github.com/garagehq/nightcrawler",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T11:06:15Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5698,
-      "importance": 0.5698,
-      "importance_score": 0.5698,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9943,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T11:06:15Z",
-      "latest_at": "2026-08-03T13:13:45.403000Z",
-      "primary_item": {
-        "id": "1a396da68a21f3ff29ba5179dcbde2f74c62905e",
-        "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-        "url": "https://news.ycombinator.com/item?id=49154127",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_cef2cc708b3e",
-      "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-      "url": "https://www.aibase.com/news/30078",
-      "primary_url": "https://www.aibase.com/news/30078",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c5357842007b62e9404544dc1119ed664675d994",
-          "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "url": "https://www.aibase.com/news/30078",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T13:37:39.369960Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c5357842007b62e9404544dc1119ed664675d994",
-          "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "url": "https://www.aibase.com/news/30078",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T13:37:39.369960Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T13:37:39.369960Z",
-      "latest_at": "2026-08-03T13:37:39.369960Z",
-      "primary_item": {
-        "id": "c5357842007b62e9404544dc1119ed664675d994",
-        "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-        "url": "https://www.aibase.com/news/30078",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d1aa340a6435",
-      "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 / free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "primary_url": "https://github.com/Alishahryar1/free-claude-code",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "21e33b0fa8c7ca81df127bb133a5a23bb7fa2752",
-          "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 / free-claude-code",
-          "url": "https://github.com/Alishahryar1/free-claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7ad3cbe07d0ee3c125eaae99c56b832413b04759",
-          "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 /      free-claude-code",
-          "url": "https://github.com/Alishahryar1/free-claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T13:29:14.141000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "21e33b0fa8c7ca81df127bb133a5a23bb7fa2752",
-          "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 / free-claude-code",
-          "url": "https://github.com/Alishahryar1/free-claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7ad3cbe07d0ee3c125eaae99c56b832413b04759",
-          "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 /      free-claude-code",
-          "url": "https://github.com/Alishahryar1/free-claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T13:29:14.141000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T13:29:14.141000Z",
-      "latest_at": "2026-08-03T13:37:39.369960Z",
-      "primary_item": {
-        "id": "21e33b0fa8c7ca81df127bb133a5a23bb7fa2752",
-        "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 / free-claude-code",
-        "url": "https://github.com/Alishahryar1/free-claude-code",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_8f51a03d3151",
-      "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://news.ycombinator.com/item?id=49153374",
-      "primary_url": "https://news.ycombinator.com/item?id=49153374",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
-          "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "url": "https://news.ycombinator.com/item?id=49153374",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T13:13:45.403000Z"
-        },
-        {
-          "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "ankursethi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T12:09:10.975000Z"
-        },
-        {
-          "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T09:32:07Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "ankursethi.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
-          "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "url": "https://news.ycombinator.com/item?id=49153374",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T13:13:45.403000Z"
-        },
-        {
-          "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "ankursethi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T12:09:10.975000Z"
-        },
-        {
-          "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T09:32:07Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5698,
-      "importance": 0.5698,
-      "importance_score": 0.5698,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9943,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T09:32:07Z",
-      "latest_at": "2026-08-03T13:13:45.403000Z",
-      "primary_item": {
-        "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
-        "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-        "url": "https://news.ycombinator.com/item?id=49153374",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_883225bae80f",
-      "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件",
-      "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-      "primary_url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cb6792fd6440c1c788ef70a950c2194fc21fcc21",
-          "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件",
-          "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T09:12:43.310000Z"
-        },
-        {
-          "id": "c62edacfec8a1292c6b0bfd9149d64f19a8d88af",
-          "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件 / AI is starting to rewrite the software that made Nvidia untouchable",
-          "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T09:00:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "cb6792fd6440c1c788ef70a950c2194fc21fcc21",
-          "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件",
-          "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T09:12:43.310000Z"
-        },
-        {
-          "id": "c62edacfec8a1292c6b0bfd9149d64f19a8d88af",
-          "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件 / AI is starting to rewrite the software that made Nvidia untouchable",
-          "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T09:00:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9382,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T09:00:02Z",
-      "latest_at": "2026-08-03T09:12:43.310000Z",
-      "primary_item": {
-        "id": "cb6792fd6440c1c788ef70a950c2194fc21fcc21",
-        "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件",
-        "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_19115cd7fab6",
-      "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-      "url": "https://www.aibase.com/news/30081",
-      "primary_url": "https://www.aibase.com/news/30081",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f73629ffd72f8ba9329af419c04d8b6a6a7040c0",
-          "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-          "url": "https://www.aibase.com/news/30081",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T13:37:39.369960Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f73629ffd72f8ba9329af419c04d8b6a6a7040c0",
-          "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-          "url": "https://www.aibase.com/news/30081",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T13:37:39.369960Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T13:37:39.369960Z",
-      "latest_at": "2026-08-03T13:37:39.369960Z",
-      "primary_item": {
-        "id": "f73629ffd72f8ba9329af419c04d8b6a6a7040c0",
-        "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-        "url": "https://www.aibase.com/news/30081",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_245bd9037021",
-      "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-      "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-      "primary_url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-      "source": "www.modelrepublic.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1df375caf2242069944c372fb478134ce40d4667",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "www.modelrepublic.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T05:44:58.273000Z"
-        },
-        {
-          "id": "92658c15f576130012e41e8bcd733b5f2982a26a",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-03T02:30:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.modelrepublic.org"
-      ],
-      "items": [
-        {
-          "id": "1df375caf2242069944c372fb478134ce40d4667",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "www.modelrepublic.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T05:44:58.273000Z"
-        },
-        {
-          "id": "92658c15f576130012e41e8bcd733b5f2982a26a",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-03T02:30:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8925,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T02:30:30Z",
-      "latest_at": "2026-08-03T05:44:58.273000Z",
-      "primary_item": {
-        "id": "1df375caf2242069944c372fb478134ce40d4667",
-        "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-        "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-        "source": "www.modelrepublic.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_87444f9634f8",
-      "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-      "url": "https://frogs.vaguespac.es",
-      "primary_url": "https://frogs.vaguespac.es",
-      "source": "frogs.vaguespac.es",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4edaaec810850620669c5112868bb919b9b9706c",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "url": "https://frogs.vaguespac.es",
-          "source": "frogs.vaguespac.es",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T01:44:49.130000Z"
-        },
-        {
-          "id": "85c464d06f44c53ea531320315e322572052549d",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T19:42:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "frogs.vaguespac.es"
-      ],
-      "items": [
-        {
-          "id": "4edaaec810850620669c5112868bb919b9b9706c",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "url": "https://frogs.vaguespac.es",
-          "source": "frogs.vaguespac.es",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T01:44:49.130000Z"
-        },
-        {
-          "id": "85c464d06f44c53ea531320315e322572052549d",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T19:42:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5174,
-      "importance": 0.5174,
-      "importance_score": 0.5174,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8423,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T19:42:08Z",
-      "latest_at": "2026-08-03T01:44:49.130000Z",
-      "primary_item": {
-        "id": "4edaaec810850620669c5112868bb919b9b9706c",
-        "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-        "url": "https://frogs.vaguespac.es",
-        "source": "frogs.vaguespac.es",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_201fe558a473",
-      "title": "esengine / DeepSeek-Reasonix",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "primary_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f6861e90af6d140d7b6e7037cb2cdb68909f7ff5",
-          "title": "esengine / DeepSeek-Reasonix",
-          "url": "https://github.com/esengine/DeepSeek-Reasonix",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d5342cd88cb8a8178d7e8cab2c23af85b0e968ab",
-          "title": "esengine /      DeepSeek-Reasonix",
-          "url": "https://github.com/esengine/DeepSeek-Reasonix",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T13:29:14.141000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "f6861e90af6d140d7b6e7037cb2cdb68909f7ff5",
-          "title": "esengine / DeepSeek-Reasonix",
-          "url": "https://github.com/esengine/DeepSeek-Reasonix",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d5342cd88cb8a8178d7e8cab2c23af85b0e968ab",
-          "title": "esengine /      DeepSeek-Reasonix",
-          "url": "https://github.com/esengine/DeepSeek-Reasonix",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T13:29:14.141000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T13:29:14.141000Z",
-      "latest_at": "2026-08-03T13:37:39.369960Z",
-      "primary_item": {
-        "id": "f6861e90af6d140d7b6e7037cb2cdb68909f7ff5",
-        "title": "esengine / DeepSeek-Reasonix",
-        "url": "https://github.com/esengine/DeepSeek-Reasonix",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
       }
     }
   ]
