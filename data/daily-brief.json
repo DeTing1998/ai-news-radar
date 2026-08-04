@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T01:37:40.551095Z",
+  "generated_at": "2026-08-04T02:37:37.294664Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8371,
-      "importance": 0.8371,
-      "importance_score": 0.8371,
+      "score": 0.8346,
+      "importance": 0.8346,
+      "importance_score": 0.8346,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9617,
+        "recency": 0.9479,
         "story_heat": 0.0
       },
       "category": "official",
@@ -157,15 +157,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8322,
-      "importance": 0.8322,
-      "importance_score": 0.8322,
+      "score": 0.8299,
+      "importance": 0.8299,
+      "importance_score": 0.8299,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8754,
+        "recency": 0.8629,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -181,106 +181,6 @@
         "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
         "url": "https://github.com/lyogavin/airllm",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f1afe25775a0",
-      "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
-      "url": "https://qwen.ai/blog?id=qwen3.8",
-      "primary_url": "https://qwen.ai/blog?id=qwen3.8",
-      "source": "Qwen：Blog Retrieval（API）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ad95486dd7cd1e27c6339ca6e0b67c7429bc8156",
-          "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
-          "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T02:00:00Z"
-        },
-        {
-          "id": "c375a6bd2f0e27c8cfc872cad10c13f7245f3ef4",
-          "title": "Qwen3.8-Max：编程与协同办公的新去处",
-          "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "qwen.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T03:52:51.022000Z"
-        },
-        {
-          "id": "01912e58c783a3e53d2a23cd2b7aee845ef45cfe",
-          "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max: A New Bar for Coding and Cowork",
-          "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-03T02:16:09Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Qwen：Blog Retrieval（API）",
-        "qwen.ai"
-      ],
-      "items": [
-        {
-          "id": "ad95486dd7cd1e27c6339ca6e0b67c7429bc8156",
-          "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
-          "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T02:00:00Z"
-        },
-        {
-          "id": "c375a6bd2f0e27c8cfc872cad10c13f7245f3ef4",
-          "title": "Qwen3.8-Max：编程与协同办公的新去处",
-          "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "qwen.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T03:52:51.022000Z"
-        },
-        {
-          "id": "01912e58c783a3e53d2a23cd2b7aee845ef45cfe",
-          "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max: A New Bar for Coding and Cowork",
-          "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-03T02:16:09Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8166,
-      "importance": 0.8166,
-      "importance_score": 0.8166,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.89,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7109,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T02:00:00Z",
-      "latest_at": "2026-08-03T03:52:51.022000Z",
-      "primary_item": {
-        "id": "ad95486dd7cd1e27c6339ca6e0b67c7429bc8156",
-        "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
-        "url": "https://qwen.ai/blog?id=qwen3.8",
-        "source": "Qwen：Blog Retrieval（API）",
         "source_name": "AI HOT"
       }
     },
@@ -319,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8095,
-      "importance": 0.8095,
-      "importance_score": 0.8095,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7641,
+        "recency": 0.7532,
         "story_heat": 0.0
       },
       "category": "official",
@@ -344,6 +244,87 @@
         "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3f407814a854",
+      "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
+      "url": "https://www.aibase.com/news/30091",
+      "primary_url": "https://www.aibase.com/news/30091",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "16b7c7018289b2a489810c3c1cf7161284d7bc53",
+          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
+          "url": "https://www.aibase.com/news/30091",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T02:37:37.294664Z"
+        },
+        {
+          "id": "d5b21ba98d3b0c1f5ee44f5e862eae6d51c0a779",
+          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需 10 天内导出书签",
+          "url": "https://www.aibase.com/zh/news/30091",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "16b7c7018289b2a489810c3c1cf7161284d7bc53",
+          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
+          "url": "https://www.aibase.com/news/30091",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T02:37:37.294664Z"
+        },
+        {
+          "id": "d5b21ba98d3b0c1f5ee44f5e862eae6d51c0a779",
+          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需 10 天内导出书签",
+          "url": "https://www.aibase.com/zh/news/30091",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T02:37:37.294664Z",
+      "latest_at": "2026-08-04T02:37:37.294664Z",
+      "primary_item": {
+        "id": "16b7c7018289b2a489810c3c1cf7161284d7bc53",
+        "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
+        "url": "https://www.aibase.com/news/30091",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -381,15 +362,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
+      "score": 0.8208,
+      "importance": 0.8208,
+      "importance_score": 0.8208,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8838,
+        "recency": 0.8712,
         "story_heat": 0.0
       },
       "category": "official",
@@ -406,87 +387,6 @@
         "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_797efe2f3319",
-      "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-      "url": "https://www.aibase.com/news/30084",
-      "primary_url": "https://www.aibase.com/news/30084",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d9a366d9e4da9fa81d59a3d7515d14547f27b101",
-          "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-          "url": "https://www.aibase.com/news/30084",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T01:37:40.551095Z"
-        },
-        {
-          "id": "c165784b76e6374879826784d0b9a36310b028ff",
-          "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-          "url": "https://www.aibase.com/zh/news/30084",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d9a366d9e4da9fa81d59a3d7515d14547f27b101",
-          "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-          "url": "https://www.aibase.com/news/30084",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T01:37:40.551095Z"
-        },
-        {
-          "id": "c165784b76e6374879826784d0b9a36310b028ff",
-          "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-          "url": "https://www.aibase.com/zh/news/30084",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T01:37:40.551095Z",
-      "latest_at": "2026-08-04T01:37:40.551095Z",
-      "primary_item": {
-        "id": "d9a366d9e4da9fa81d59a3d7515d14547f27b101",
-        "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-        "url": "https://www.aibase.com/news/30084",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -543,15 +443,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7807,
-      "importance": 0.7807,
-      "importance_score": 0.7807,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9674,
+        "recency": 0.9535,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -624,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8911,
+        "recency": 0.8784,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -649,6 +549,87 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_797efe2f3319",
+      "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
+      "url": "https://www.aibase.com/news/30084",
+      "primary_url": "https://www.aibase.com/news/30084",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d9a366d9e4da9fa81d59a3d7515d14547f27b101",
+          "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
+          "url": "https://www.aibase.com/news/30084",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T01:37:40.551095Z"
+        },
+        {
+          "id": "c165784b76e6374879826784d0b9a36310b028ff",
+          "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
+          "url": "https://www.aibase.com/zh/news/30084",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d9a366d9e4da9fa81d59a3d7515d14547f27b101",
+          "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
+          "url": "https://www.aibase.com/news/30084",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T01:37:40.551095Z"
+        },
+        {
+          "id": "c165784b76e6374879826784d0b9a36310b028ff",
+          "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
+          "url": "https://www.aibase.com/zh/news/30084",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9857,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T01:37:40.551095Z",
+      "latest_at": "2026-08-04T01:37:40.551095Z",
+      "primary_item": {
+        "id": "d9a366d9e4da9fa81d59a3d7515d14547f27b101",
+        "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
+        "url": "https://www.aibase.com/news/30084",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -686,15 +667,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.8196,
+      "importance": 0.8196,
+      "importance_score": 0.8196,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8772,
+        "recency": 0.8646,
         "story_heat": 0.0
       },
       "category": "official",
@@ -767,15 +748,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9782,
+        "recency": 0.9642,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -848,15 +829,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8333,
+        "recency": 0.8214,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -910,15 +891,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9549,
+        "recency": 0.9412,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -933,67 +914,6 @@
         "url": "https://x.com/gdb/status/2084405421041963356",
         "source": "X：Greg Brockman (@gdb)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_55a506f60013",
-      "title": "AI 造假炒股第一案：95 后两天炮制 17 篇虚假文章，赚 8.5 万被罚 48.5 万",
-      "url": "https://www.aibase.com/news/30086",
-      "primary_url": "https://www.aibase.com/news/30086",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6a9f168c50b28bb6941861032cfe49d42059b115",
-          "title": "AI 造假炒股第一案：95 后两天炮制 17 篇虚假文章，赚 8.5 万被罚 48.5 万",
-          "url": "https://www.aibase.com/news/30086",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T01:37:40.551095Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6a9f168c50b28bb6941861032cfe49d42059b115",
-          "title": "AI 造假炒股第一案：95 后两天炮制 17 篇虚假文章，赚 8.5 万被罚 48.5 万",
-          "url": "https://www.aibase.com/news/30086",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T01:37:40.551095Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T01:37:40.551095Z",
-      "latest_at": "2026-08-04T01:37:40.551095Z",
-      "primary_item": {
-        "id": "6a9f168c50b28bb6941861032cfe49d42059b115",
-        "title": "AI 造假炒股第一案：95 后两天炮制 17 篇虚假文章，赚 8.5 万被罚 48.5 万",
-        "url": "https://www.aibase.com/news/30086",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1031,15 +951,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9385,
+        "recency": 0.925,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1091,15 +1011,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9246,
+        "recency": 0.9114,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1151,15 +1071,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7319,
-      "importance": 0.7319,
-      "importance_score": 0.7319,
+      "score": 0.7295,
+      "importance": 0.7295,
+      "importance_score": 0.7295,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9183,
+        "recency": 0.9051,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1211,15 +1131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
+      "score": 0.7289,
+      "importance": 0.7289,
+      "importance_score": 0.7289,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8642,
+        "recency": 0.8518,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1271,15 +1191,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
+      "score": 0.7271,
+      "importance": 0.7271,
+      "importance_score": 0.7271,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8538,
+        "recency": 0.8416,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1331,15 +1251,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8197,
+        "recency": 0.808,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1357,21 +1277,21 @@
       }
     },
     {
-      "story_id": "story_8d77ab7daf87",
-      "title": "​还没发布就被砍：谷歌取消独立 AI Studio 应用，把移动创作塞回 Gemini 怀里",
-      "url": "https://www.aibase.com/news/30085",
-      "primary_url": "https://www.aibase.com/news/30085",
+      "story_id": "story_fcc74670902a",
+      "title": "80 万人预购等到一刀切：Google 砍掉 AI Studio 独立应用，全盘塞进 Gemini",
+      "url": "https://www.aibase.com/news/30089",
+      "primary_url": "https://www.aibase.com/news/30089",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4a3bf56228d656e21e98b32b18d42d1ce2729aa1",
-          "title": "​还没发布就被砍：谷歌取消独立 AI Studio 应用，把移动创作塞回 Gemini 怀里",
-          "url": "https://www.aibase.com/news/30085",
+          "id": "ae06c6ca0500d73c5ef082ec51ae98099610c7a2",
+          "title": "80 万人预购等到一刀切：Google 砍掉 AI Studio 独立应用，全盘塞进 Gemini",
+          "url": "https://www.aibase.com/news/30089",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T01:37:40.551095Z"
+          "published_at": "2026-08-04T02:37:37.294664Z"
         }
       ],
       "source_count": 1,
@@ -1380,13 +1300,13 @@
       ],
       "items": [
         {
-          "id": "4a3bf56228d656e21e98b32b18d42d1ce2729aa1",
-          "title": "​还没发布就被砍：谷歌取消独立 AI Studio 应用，把移动创作塞回 Gemini 怀里",
-          "url": "https://www.aibase.com/news/30085",
+          "id": "ae06c6ca0500d73c5ef082ec51ae98099610c7a2",
+          "title": "80 万人预购等到一刀切：Google 砍掉 AI Studio 独立应用，全盘塞进 Gemini",
+          "url": "https://www.aibase.com/news/30089",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T01:37:40.551095Z"
+          "published_at": "2026-08-04T02:37:37.294664Z"
         }
       ],
       "item_count": 1,
@@ -1407,14 +1327,94 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T01:37:40.551095Z",
-      "latest_at": "2026-08-04T01:37:40.551095Z",
+      "earliest_at": "2026-08-04T02:37:37.294664Z",
+      "latest_at": "2026-08-04T02:37:37.294664Z",
       "primary_item": {
-        "id": "4a3bf56228d656e21e98b32b18d42d1ce2729aa1",
-        "title": "​还没发布就被砍：谷歌取消独立 AI Studio 应用，把移动创作塞回 Gemini 怀里",
-        "url": "https://www.aibase.com/news/30085",
+        "id": "ae06c6ca0500d73c5ef082ec51ae98099610c7a2",
+        "title": "80 万人预购等到一刀切：Google 砍掉 AI Studio 独立应用，全盘塞进 Gemini",
+        "url": "https://www.aibase.com/news/30089",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5c8c3f9f413d",
+      "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC",
+      "url": "https://blog.cloudflare.com/grpc-workers",
+      "primary_url": "https://blog.cloudflare.com/grpc-workers",
+      "source": "Cloudflare Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "96bb94a94ca40bb94ec1ba858b15418405d536d0",
+          "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC",
+          "url": "https://blog.cloudflare.com/grpc-workers",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T13:00:00Z"
+        },
+        {
+          "id": "22b783d9737e743d6f6fb189ff5be9caaf4a0451",
+          "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC / Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
+          "url": "https://blog.cloudflare.com/grpc-workers",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-03T13:30:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Cloudflare Blog",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "96bb94a94ca40bb94ec1ba858b15418405d536d0",
+          "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC",
+          "url": "https://blog.cloudflare.com/grpc-workers",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T13:00:00Z"
+        },
+        {
+          "id": "22b783d9737e743d6f6fb189ff5be9caaf4a0451",
+          "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC / Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
+          "url": "https://blog.cloudflare.com/grpc-workers",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-03T13:30:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8214,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T13:00:00Z",
+      "latest_at": "2026-08-03T13:30:53Z",
+      "primary_item": {
+        "id": "96bb94a94ca40bb94ec1ba858b15418405d536d0",
+        "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC",
+        "url": "https://blog.cloudflare.com/grpc-workers",
+        "source": "Cloudflare Blog",
+        "source_name": "AI HOT"
       }
     }
   ]
