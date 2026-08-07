@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T01:37:32.093600Z",
+  "generated_at": "2026-08-07T02:37:29.730575Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -113,15 +113,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9236,
-      "importance": 0.9236,
-      "importance_score": 0.9236,
+      "score": 0.9216,
+      "importance": 0.9216,
+      "importance_score": 0.9216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.798,
+        "recency": 0.7866,
         "story_heat": 1.0
       },
       "category": "official",
@@ -195,15 +195,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8625,
-      "importance": 0.8625,
-      "importance_score": 0.8625,
+      "score": 0.8602,
+      "importance": 0.8602,
+      "importance_score": 0.8602,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9197,
+        "recency": 0.9065,
         "story_heat": 0.25
       },
       "category": "official",
@@ -220,6 +220,68 @@
         "title": "GitHub Copilot 应用中的斜杠命令使用指南 / A guide to slash commands in the GitHub Copilot app",
         "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
         "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.147.0 / Codex CLI 0.147.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b3ad943613d971383ab781d0f38a0b1ca858303e",
+          "title": "法典 CLI 0.147.0 / Codex CLI 0.147.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "b3ad943613d971383ab781d0f38a0b1ca858303e",
+          "title": "法典 CLI 0.147.0 / Codex CLI 0.147.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8593,
+      "importance": 0.8593,
+      "importance_score": 0.8593,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9628,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T00:00:00Z",
+      "latest_at": "2026-08-07T00:00:00Z",
+      "primary_item": {
+        "id": "b3ad943613d971383ab781d0f38a0b1ca858303e",
+        "title": "法典 CLI 0.147.0 / Codex CLI 0.147.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -258,15 +320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8887,
+        "recency": 0.876,
         "story_heat": 0.0
       },
       "category": "official",
@@ -320,15 +382,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8186,
-      "importance": 0.8186,
-      "importance_score": 0.8186,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.859,
+        "recency": 0.8467,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,26 +410,26 @@
       }
     },
     {
-      "story_id": "story_4a739aa8ee14",
-      "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
-      "url": "https://www.aibase.com/news/30175",
-      "primary_url": "https://www.aibase.com/news/30175",
+      "story_id": "story_4b6f1b9b4d4f",
+      "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+      "url": "https://www.aibase.com/news/30183",
+      "primary_url": "https://www.aibase.com/news/30183",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1a3825ffd11841e0b6c93f55360a7b9fddb2d6d2",
-          "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
-          "url": "https://www.aibase.com/news/30175",
+          "id": "b91ee2a0d04c18c1faf0d3a03a7e2771c95bd31b",
+          "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "url": "https://www.aibase.com/news/30183",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-07T01:37:32.093600Z"
+          "published_at": "2026-08-07T02:37:29.730575Z"
         },
         {
-          "id": "7f4396c5b255def172b7007f6496fbf124643e01",
-          "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
-          "url": "https://www.aibase.com/zh/news/30175",
+          "id": "62210b3d2e1644991836a76cd6bafa3ca420a81c",
+          "title": "OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "url": "https://www.aibase.com/zh/news/30183",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -381,18 +443,18 @@
       ],
       "items": [
         {
-          "id": "1a3825ffd11841e0b6c93f55360a7b9fddb2d6d2",
-          "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
-          "url": "https://www.aibase.com/news/30175",
+          "id": "b91ee2a0d04c18c1faf0d3a03a7e2771c95bd31b",
+          "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "url": "https://www.aibase.com/news/30183",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-07T01:37:32.093600Z"
+          "published_at": "2026-08-07T02:37:29.730575Z"
         },
         {
-          "id": "7f4396c5b255def172b7007f6496fbf124643e01",
-          "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
-          "url": "https://www.aibase.com/zh/news/30175",
+          "id": "62210b3d2e1644991836a76cd6bafa3ca420a81c",
+          "title": "OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "url": "https://www.aibase.com/zh/news/30183",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -418,14 +480,94 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T01:37:32.093600Z",
-      "latest_at": "2026-08-07T01:37:32.093600Z",
+      "earliest_at": "2026-08-07T02:37:29.730575Z",
+      "latest_at": "2026-08-07T02:37:29.730575Z",
       "primary_item": {
-        "id": "1a3825ffd11841e0b6c93f55360a7b9fddb2d6d2",
-        "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
-        "url": "https://www.aibase.com/news/30175",
+        "id": "b91ee2a0d04c18c1faf0d3a03a7e2771c95bd31b",
+        "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+        "url": "https://www.aibase.com/news/30183",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+      "source": "公众号：千问APP（阿里）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2d73ce4a13ace600c29323dbd667f512dcec622e",
+          "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T02:04:51Z"
+        },
+        {
+          "id": "c110113a3a0b2a75f48bc8792fd669a704115243",
+          "title": "千问全网首发公测，全新 Wan3.0 来了！",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488240&idx=1&sn=3fea5624e07184f42661d5f3bc798873",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T13:25:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "公众号：千问APP（阿里）"
+      ],
+      "items": [
+        {
+          "id": "2d73ce4a13ace600c29323dbd667f512dcec622e",
+          "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T02:04:51Z"
+        },
+        {
+          "id": "c110113a3a0b2a75f48bc8792fd669a704115243",
+          "title": "千问全网首发公测，全新 Wan3.0 来了！",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488240&idx=1&sn=3fea5624e07184f42661d5f3bc798873",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T13:25:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9922,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T13:25:10Z",
+      "latest_at": "2026-08-07T02:04:51Z",
+      "primary_item": {
+        "id": "2d73ce4a13ace600c29323dbd667f512dcec622e",
+        "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+        "source": "公众号：千问APP（阿里）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -463,15 +605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7532,
+        "recency": 0.7424,
         "story_heat": 0.0
       },
       "category": "official",
@@ -544,15 +686,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7726,
-      "importance": 0.7726,
-      "importance_score": 0.7726,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8387,
+        "recency": 0.8267,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -625,15 +767,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8333,
+        "recency": 0.8214,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -687,15 +829,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9148,
+        "recency": 0.9017,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -714,26 +856,26 @@
       }
     },
     {
-      "story_id": "story_ffbbd8faca19",
-      "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-      "url": "https://www.aibase.com/news/30176",
-      "primary_url": "https://www.aibase.com/news/30176",
+      "story_id": "story_0b8cb8210dfe",
+      "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+      "url": "https://www.aibase.com/news/30180",
+      "primary_url": "https://www.aibase.com/news/30180",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f5fbb07e46c7143ec077542b2b1638ac130cfc26",
-          "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-          "url": "https://www.aibase.com/news/30176",
+          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
+          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "url": "https://www.aibase.com/news/30180",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-07T01:37:32.093600Z"
         },
         {
-          "id": "40aa8df3dad2886f18c5f3633e29f8d74b97f7e7",
-          "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-          "url": "https://www.aibase.com/zh/news/30176",
+          "id": "44e1a8612eaf693e36892357a21079b49b6f1c01",
+          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "url": "https://www.aibase.com/zh/news/30180",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -747,18 +889,18 @@
       ],
       "items": [
         {
-          "id": "f5fbb07e46c7143ec077542b2b1638ac130cfc26",
-          "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-          "url": "https://www.aibase.com/news/30176",
+          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
+          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "url": "https://www.aibase.com/news/30180",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-07T01:37:32.093600Z"
         },
         {
-          "id": "40aa8df3dad2886f18c5f3633e29f8d74b97f7e7",
-          "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-          "url": "https://www.aibase.com/zh/news/30176",
+          "id": "44e1a8612eaf693e36892357a21079b49b6f1c01",
+          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "url": "https://www.aibase.com/zh/news/30180",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -767,15 +909,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -785,11 +927,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-08-07T01:37:32.093600Z",
-      "latest_at": "2026-08-07T01:37:32.093600Z",
+      "latest_at": "2026-08-07T02:37:29.730575Z",
       "primary_item": {
-        "id": "f5fbb07e46c7143ec077542b2b1638ac130cfc26",
-        "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-        "url": "https://www.aibase.com/news/30176",
+        "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
+        "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+        "url": "https://www.aibase.com/news/30180",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -848,15 +990,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8599,
+        "recency": 0.8476,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -929,15 +1071,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8312,
+        "recency": 0.8193,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -991,15 +1133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8814,
+        "recency": 0.8688,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1052,15 +1194,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.848,
+        "recency": 0.8358,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1113,21 +1255,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7555,
+        "recency": 0.7447,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-06T06:12:33Z",
       "latest_at": "2026-08-06T06:12:33Z",
@@ -1174,15 +1315,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7403,
-      "importance": 0.7403,
-      "importance_score": 0.7403,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7649,
+        "recency": 0.7539,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1253,15 +1394,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8333,
+        "recency": 0.8214,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1315,15 +1456,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8333,
+        "recency": 0.8214,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1337,148 +1478,6 @@
         "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿",
         "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
         "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2ec902be30ad",
-      "title": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-      "url": "https://www.aibase.com/news/30177",
-      "primary_url": "https://www.aibase.com/news/30177",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ed0854d9a4a04b814411f3b19a21de98979f727d",
-          "title": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-          "url": "https://www.aibase.com/news/30177",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:37:32.093600Z"
-        },
-        {
-          "id": "a1af74b03be235aa23df06115f7002e2c57e96a3",
-          "title": "Suno 宣布为 AI 歌曲添加水印，并签署版权检测协议",
-          "url": "https://www.aibase.com/zh/news/30177",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ed0854d9a4a04b814411f3b19a21de98979f727d",
-          "title": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-          "url": "https://www.aibase.com/news/30177",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:37:32.093600Z"
-        },
-        {
-          "id": "a1af74b03be235aa23df06115f7002e2c57e96a3",
-          "title": "Suno 宣布为 AI 歌曲添加水印，并签署版权检测协议",
-          "url": "https://www.aibase.com/zh/news/30177",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T01:37:32.093600Z",
-      "latest_at": "2026-08-07T01:37:32.093600Z",
-      "primary_item": {
-        "id": "ed0854d9a4a04b814411f3b19a21de98979f727d",
-        "title": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-        "url": "https://www.aibase.com/news/30177",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8d2229d14bde",
-      "title": "Cloudflare 推出 WebMCP 开发者预览版，一键为任意网站添加智能体接口",
-      "url": "https://blog.cloudflare.com/webmcp",
-      "primary_url": "https://blog.cloudflare.com/webmcp",
-      "source": "Cloudflare Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e969f9da17d7f005e81debfc8ba9fe5e34a48ba4",
-          "title": "Cloudflare 推出 WebMCP 开发者预览版，一键为任意网站添加智能体接口",
-          "url": "https://blog.cloudflare.com/webmcp",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cloudflare Blog"
-      ],
-      "items": [
-        {
-          "id": "e969f9da17d7f005e81debfc8ba9fe5e34a48ba4",
-          "title": "Cloudflare 推出 WebMCP 开发者预览版，一键为任意网站添加智能体接口",
-          "url": "https://blog.cloudflare.com/webmcp",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8333,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T13:00:00Z",
-      "latest_at": "2026-08-06T13:00:00Z",
-      "primary_item": {
-        "id": "e969f9da17d7f005e81debfc8ba9fe5e34a48ba4",
-        "title": "Cloudflare 推出 WebMCP 开发者预览版，一键为任意网站添加智能体接口",
-        "url": "https://blog.cloudflare.com/webmcp",
-        "source": "Cloudflare Blog",
         "source_name": "AI HOT"
       }
     }
