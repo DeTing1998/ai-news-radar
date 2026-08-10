@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T16:37:37.042670Z",
+  "generated_at": "2026-08-10T17:37:39.066221Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8953,
-      "importance": 0.8953,
-      "importance_score": 0.8953,
+      "score": 0.8928,
+      "importance": 0.8928,
+      "importance_score": 0.8928,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9628,
+        "recency": 0.949,
         "story_heat": 0.5
       },
       "category": "official",
@@ -106,7 +106,7 @@
     },
     {
       "story_id": "story_e5b664a37aa3",
-      "title": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "title": "NVIDIA 发布 Magpie TTS：开源低延迟多语言语音代理解决方案 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
       "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
       "primary_url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
       "source": "Hugging Face Blog",
@@ -114,56 +114,214 @@
       "sources": [
         {
           "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
-          "title": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "title": "NVIDIA 发布 Magpie TTS：开源低延迟多语言语音代理解决方案 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
           "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-08-10T16:25:36Z"
+        },
+        {
+          "id": "545ada9b06de0f42927e05b9525557ec42d89805",
+          "title": "NVIDIA 发布 Magpie TTS：开源低延迟多语言语音代理解决方案",
+          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Readhub · AI"
       ],
       "items": [
         {
           "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
-          "title": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "title": "NVIDIA 发布 Magpie TTS：开源低延迟多语言语音代理解决方案 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
           "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-08-10T16:25:36Z"
+        },
+        {
+          "id": "545ada9b06de0f42927e05b9525557ec42d89805",
+          "title": "NVIDIA 发布 Magpie TTS：开源低延迟多语言语音代理解决方案",
+          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8595,
-      "importance": 0.8595,
-      "importance_score": 0.8595,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8819,
+      "importance": 0.8819,
+      "importance_score": 0.8819,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9971,
-        "story_heat": 0.0
+        "recency": 0.9828,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-08-10T16:25:36Z",
-      "latest_at": "2026-08-10T16:25:36Z",
+      "latest_at": "2026-08-10T17:37:39.066221Z",
       "primary_item": {
         "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
-        "title": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+        "title": "NVIDIA 发布 Magpie TTS：开源低延迟多语言语音代理解决方案 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
         "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_53e3f99448d4",
+      "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+      "url": "https://bobdahacker.com/blog/tldv-hack",
+      "primary_url": "https://bobdahacker.com/blog/tldv-hack",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7f5793dff6154f8b6bee4fdc7600a28a95bd1761",
+          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T14:03:26.804000Z"
+        },
+        {
+          "id": "4e5eb3a75e0ad5a54e603202b055e6bb59c42606",
+          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "source": "bobdahacker.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T14:03:26.804000Z"
+        },
+        {
+          "id": "c99f9a3940811591e93287967b698602795b59c6",
+          "title": "超过 181,000 份 AI 会议录音在笔记应用程序中完全开放 / Over 181,000 AI meeting recordings left wide open in note taking app",
+          "url": "https://news.ycombinator.com/item?id=49242739",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T13:14:04.215000Z"
+        },
+        {
+          "id": "8afc0f7a0b4b5c96efde6740ff5059df0d8dd58b",
+          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话 / Over 181,000 AI meeting recordings left wide open in note taking app",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-10T12:26:05Z"
+        },
+        {
+          "id": "4ae64a11c74795c15417253f494f3182aaf55481",
+          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话 / Tl;dv: Over 180k meetings left wide open",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-10T12:26:05Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "bobdahacker.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7f5793dff6154f8b6bee4fdc7600a28a95bd1761",
+          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T14:03:26.804000Z"
+        },
+        {
+          "id": "4e5eb3a75e0ad5a54e603202b055e6bb59c42606",
+          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "source": "bobdahacker.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T14:03:26.804000Z"
+        },
+        {
+          "id": "c99f9a3940811591e93287967b698602795b59c6",
+          "title": "超过 181,000 份 AI 会议录音在笔记应用程序中完全开放 / Over 181,000 AI meeting recordings left wide open in note taking app",
+          "url": "https://news.ycombinator.com/item?id=49242739",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T13:14:04.215000Z"
+        },
+        {
+          "id": "8afc0f7a0b4b5c96efde6740ff5059df0d8dd58b",
+          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话 / Over 181,000 AI meeting recordings left wide open in note taking app",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-10T12:26:05Z"
+        },
+        {
+          "id": "4ae64a11c74795c15417253f494f3182aaf55481",
+          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话 / Tl;dv: Over 180k meetings left wide open",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-10T12:26:05Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.8586,
+      "importance": 0.8586,
+      "importance_score": 0.8586,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9498,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T12:26:05Z",
+      "latest_at": "2026-08-10T14:03:26.804000Z",
+      "primary_item": {
+        "id": "7f5793dff6154f8b6bee4fdc7600a28a95bd1761",
+        "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+        "url": "https://bobdahacker.com/blog/tldv-hack",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -201,15 +359,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8464,
-      "importance": 0.8464,
-      "importance_score": 0.8464,
+      "score": 0.8439,
+      "importance": 0.8439,
+      "importance_score": 0.8439,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9691,
+        "recency": 0.9552,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,15 +421,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8386,
-      "importance": 0.8386,
-      "importance_score": 0.8386,
+      "score": 0.8361,
+      "importance": 0.8361,
+      "importance_score": 0.8361,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9698,
+        "recency": 0.9558,
         "story_heat": 0.0
       },
       "category": "official",
@@ -291,122 +449,65 @@
       }
     },
     {
-      "story_id": "story_53e3f99448d4",
-      "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-      "url": "https://bobdahacker.com/blog/tldv-hack",
-      "primary_url": "https://bobdahacker.com/blog/tldv-hack",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_91992ed9f82d",
+      "title": "推出黎明蓝和黎明红 / Introducing Daybreak Blue and Daybreak Red",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7f5793dff6154f8b6bee4fdc7600a28a95bd1761",
-          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T14:03:26.804000Z"
-        },
-        {
-          "id": "4e5eb3a75e0ad5a54e603202b055e6bb59c42606",
-          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露",
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "bobdahacker.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T14:03:26.804000Z"
-        },
-        {
-          "id": "c99f9a3940811591e93287967b698602795b59c6",
-          "title": "超过 181,000 份 AI 会议录音在笔记应用程序中完全开放 / Over 181,000 AI meeting recordings left wide open in note taking app",
-          "url": "https://news.ycombinator.com/item?id=49242739",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T13:14:04.215000Z"
-        },
-        {
-          "id": "fdafb8b741ff79843314871f5e2f2d7cc931c36e",
-          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话 / Over 181,000 AI meeting recordings left wide open in note taking app",
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T12:26:05Z"
+          "id": "f3e37ca2717f3d493fa7547f988c0bb8f89d8b60",
+          "title": "推出黎明蓝和黎明红 / Introducing Daybreak Blue and Daybreak Red",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T00:00:00Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "bobdahacker.com",
-        "hackernews"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "7f5793dff6154f8b6bee4fdc7600a28a95bd1761",
-          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T14:03:26.804000Z"
-        },
-        {
-          "id": "4e5eb3a75e0ad5a54e603202b055e6bb59c42606",
-          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露",
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "bobdahacker.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T14:03:26.804000Z"
-        },
-        {
-          "id": "c99f9a3940811591e93287967b698602795b59c6",
-          "title": "超过 181,000 份 AI 会议录音在笔记应用程序中完全开放 / Over 181,000 AI meeting recordings left wide open in note taking app",
-          "url": "https://news.ycombinator.com/item?id=49242739",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T13:14:04.215000Z"
-        },
-        {
-          "id": "fdafb8b741ff79843314871f5e2f2d7cc931c36e",
-          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话 / Over 181,000 AI meeting recordings left wide open in note taking app",
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T12:26:05Z"
+          "id": "f3e37ca2717f3d493fa7547f988c0bb8f89d8b60",
+          "title": "推出黎明蓝和黎明红 / Introducing Daybreak Blue and Daybreak Red",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T00:00:00Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.836,
-      "importance": 0.836,
-      "importance_score": 0.836,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9636,
-        "story_heat": 0.75
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7753,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T12:26:05Z",
-      "latest_at": "2026-08-10T14:03:26.804000Z",
+      "earliest_at": "2026-08-10T00:00:00Z",
+      "latest_at": "2026-08-10T00:00:00Z",
       "primary_item": {
-        "id": "7f5793dff6154f8b6bee4fdc7600a28a95bd1761",
-        "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-        "url": "https://bobdahacker.com/blog/tldv-hack",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "f3e37ca2717f3d493fa7547f988c0bb8f89d8b60",
+        "title": "推出黎明蓝和黎明红 / Introducing Daybreak Blue and Daybreak Red",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -444,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.852,
-      "importance": 0.852,
-      "importance_score": 0.852,
+      "score": 0.8504,
+      "importance": 0.8504,
+      "importance_score": 0.8504,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 1.0,
+        "recency": 0.991,
         "story_heat": 0.0
       },
       "category": "official",
@@ -525,15 +626,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8466,
-      "importance": 0.8466,
-      "importance_score": 0.8466,
+      "score": 0.8445,
+      "importance": 0.8445,
+      "importance_score": 0.8445,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7865,
+        "recency": 0.7753,
         "story_heat": 0.25
       },
       "category": "official",
@@ -588,15 +689,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9457,
+        "recency": 0.9322,
         "story_heat": 0.0
       },
       "category": "official",
@@ -650,15 +751,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8484,
-      "importance": 0.8484,
-      "importance_score": 0.8484,
+      "score": 0.846,
+      "importance": 0.846,
+      "importance_score": 0.846,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9354,
+        "recency": 0.9219,
         "story_heat": 0.0
       },
       "category": "official",
@@ -712,15 +813,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8438,
-      "importance": 0.8438,
-      "importance_score": 0.8438,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.91,
+        "recency": 0.8969,
         "story_heat": 0.0
       },
       "category": "official",
@@ -793,15 +894,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8909,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -855,15 +956,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9102,
+        "recency": 0.8972,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -935,15 +1036,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7863,
+        "recency": 0.775,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1016,15 +1117,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.811,
+        "recency": 0.7994,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1078,15 +1179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.963,
+        "recency": 0.9491,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1139,15 +1240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9907,
+        "recency": 0.9765,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1200,15 +1301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9335,
+        "recency": 0.9201,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1224,6 +1325,68 @@
         "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7f776d7829d0",
+      "title": "将前沿网络模型交给更值得信赖的人 / Putting frontier cyber models in more trusted hands",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "primary_url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0aec5c7bd13ab84e2d66c55839494fb7a8f98e01",
+          "title": "将前沿网络模型交给更值得信赖的人 / Putting frontier cyber models in more trusted hands",
+          "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "0aec5c7bd13ab84e2d66c55839494fb7a8f98e01",
+          "title": "将前沿网络模型交给更值得信赖的人 / Putting frontier cyber models in more trusted hands",
+          "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8957,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T10:00:00Z",
+      "latest_at": "2026-08-10T10:00:00Z",
+      "primary_item": {
+        "id": "0aec5c7bd13ab84e2d66c55839494fb7a8f98e01",
+        "title": "将前沿网络模型交给更值得信赖的人 / Putting frontier cyber models in more trusted hands",
+        "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1280,15 +1443,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8909,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1305,126 +1468,6 @@
         "url": "https://www.aibase.com/news/30221",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e9b5272ea89a",
-      "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
-      "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
-      "primary_url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d9c8296ef28d97a78bffcf38683b6ea3c1fecdef",
-          "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
-          "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d9c8296ef28d97a78bffcf38683b6ea3c1fecdef",
-          "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
-          "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7865,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T00:00:00Z",
-      "latest_at": "2026-08-10T00:00:00Z",
-      "primary_item": {
-        "id": "d9c8296ef28d97a78bffcf38683b6ea3c1fecdef",
-        "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
-        "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_052762afbaef",
-      "title": "扎克伯格：超级智能应人人可用",
-      "url": "https://x.com/finkd/status/2086754845218726027",
-      "primary_url": "https://x.com/finkd/status/2086754845218726027",
-      "source": "X：Mark Zuckerberg (@finkd)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "62c4817511d361e05c2773b25f45460ea1f44a36",
-          "title": "扎克伯格：超级智能应人人可用",
-          "url": "https://x.com/finkd/status/2086754845218726027",
-          "source": "X：Mark Zuckerberg (@finkd)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T10:01:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Mark Zuckerberg (@finkd)"
-      ],
-      "items": [
-        {
-          "id": "62c4817511d361e05c2773b25f45460ea1f44a36",
-          "title": "扎克伯格：超级智能应人人可用",
-          "url": "https://x.com/finkd/status/2086754845218726027",
-          "source": "X：Mark Zuckerberg (@finkd)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T10:01:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9091,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T10:01:39Z",
-      "latest_at": "2026-08-10T10:01:39Z",
-      "primary_item": {
-        "id": "62c4817511d361e05c2773b25f45460ea1f44a36",
-        "title": "扎克伯格：超级智能应人人可用",
-        "url": "https://x.com/finkd/status/2086754845218726027",
-        "source": "X：Mark Zuckerberg (@finkd)",
-        "source_name": "AI HOT"
       }
     }
   ]
