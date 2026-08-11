@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T12:37:36.044628Z",
+  "generated_at": "2026-08-11T13:37:36.507963Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8768,
-      "importance": 0.8768,
-      "importance_score": 0.8768,
+      "score": 0.875,
+      "importance": 0.875,
+      "importance_score": 0.875,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7213,
+        "recency": 0.7109,
         "story_heat": 0.75
       },
       "category": "official",
@@ -120,6 +120,130 @@
         "title": "致阿博特州长的信：关于德克萨斯州负责任的人工智能基础设施 / OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
         "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5eb3c49c6262",
+      "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点 / Thinking of ACE? We Can Do It with Fewer Tokens",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
+          "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点 / Thinking of ACE? We Can Do It with Fewer Tokens",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T13:37:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
+          "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点 / Thinking of ACE? We Can Do It with Fewer Tokens",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T13:37:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.86,
+      "importance_score": 0.86,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9999,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T13:37:10Z",
+      "latest_at": "2026-08-11T13:37:10Z",
+      "primary_item": {
+        "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
+        "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点 / Thinking of ACE? We Can Do It with Fewer Tokens",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_db6826b82650",
+      "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+      "primary_url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
+          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T19:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
+          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T19:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7697,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T19:30:00Z",
+      "latest_at": "2026-08-10T19:30:00Z",
+      "primary_item": {
+        "id": "24acb4029cb84001e3b5f778e74906def87075dc",
+        "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+        "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -177,15 +301,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.747,
+        "recency": 0.7363,
         "story_heat": 0.25
       },
       "category": "official",
@@ -202,68 +326,6 @@
         "title": "NVIDIA 发布 Magpie TTS：开源低延迟多语言语音代理解决方案 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
         "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_db6826b82650",
-      "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-      "primary_url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
-          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T19:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
-          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T19:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8126,
-      "importance": 0.8126,
-      "importance_score": 0.8126,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7809,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T19:30:00Z",
-      "latest_at": "2026-08-10T19:30:00Z",
-      "primary_item": {
-        "id": "24acb4029cb84001e3b5f778e74906def87075dc",
-        "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-        "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -340,15 +402,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9536,
+        "recency": 0.9399,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -402,15 +464,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.726,
+        "recency": 0.7156,
         "story_heat": 0.0
       },
       "category": "official",
@@ -483,15 +545,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7532,
+        "recency": 0.7424,
         "story_heat": 0.25
       },
       "category": "official",
@@ -565,15 +627,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7974,
-      "importance": 0.7974,
-      "importance_score": 0.7974,
+      "score": 0.7949,
+      "importance": 0.7949,
+      "importance_score": 0.7949,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9768,
+        "recency": 0.9628,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -627,15 +689,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.7929,
+      "importance": 0.7929,
+      "importance_score": 0.7929,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7265,
+        "recency": 0.7161,
         "story_heat": 0.0
       },
       "category": "official",
@@ -708,15 +770,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -733,6 +795,67 @@
         "url": "https://www.aibase.com/news/30253",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5389972db876",
+      "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+      "primary_url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
+          "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+          "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T13:00:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "NVIDIA Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
+          "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+          "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T13:00:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9911,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T13:00:25Z",
+      "latest_at": "2026-08-11T13:00:25Z",
+      "primary_item": {
+        "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
+        "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+        "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -789,15 +912,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9054,
+        "recency": 0.8924,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -870,15 +993,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8953,
+        "recency": 0.8825,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -932,15 +1055,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7674,
-      "importance": 0.7674,
-      "importance_score": 0.7674,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8824,
+        "recency": 0.8698,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -993,15 +1116,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7214,
+        "recency": 0.7111,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1055,15 +1178,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8089,
+        "recency": 0.7973,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1135,15 +1258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1160,68 +1283,6 @@
         "url": "https://www.aibase.com/news/30228",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6f75a11700ad",
-      "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
-      "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
-          "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
-          "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T12:45:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
-          "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
-          "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T12:45:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7915,
-      "importance": 0.7915,
-      "importance_score": 0.7915,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7085,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T12:45:49Z",
-      "latest_at": "2026-08-10T12:45:49Z",
-      "primary_item": {
-        "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
-        "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
-        "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1278,15 +1339,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7219,
+        "recency": 0.7115,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1358,15 +1419,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1439,15 +1500,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1462,87 +1523,6 @@
         "id": "91c4b6838c42cdee7325a596252d513c80a523ca",
         "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
         "url": "https://www.aibase.com/news/30230",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e591e335ac7d",
-      "title": "维珍航空借 ChatGPT Work 重塑客户旅程：数周调研压缩为数小时，AI 成企业运营标配",
-      "url": "https://www.aibase.com/news/30229",
-      "primary_url": "https://www.aibase.com/news/30229",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "708744e6436c7906ee4bfb6fb488b68177ddbf0c",
-          "title": "维珍航空借 ChatGPT Work 重塑客户旅程：数周调研压缩为数小时，AI 成企业运营标配",
-          "url": "https://www.aibase.com/news/30229",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T02:37:42.743448Z"
-        },
-        {
-          "id": "611f06321c2a59d2f31bc70347e357778e1d123d",
-          "title": "维珍航空借 ChatGPT Work 重塑客户旅程：数周调研压缩为数小时",
-          "url": "https://www.aibase.com/zh/news/30229",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "708744e6436c7906ee4bfb6fb488b68177ddbf0c",
-          "title": "维珍航空借 ChatGPT Work 重塑客户旅程：数周调研压缩为数小时，AI 成企业运营标配",
-          "url": "https://www.aibase.com/news/30229",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T02:37:42.743448Z"
-        },
-        {
-          "id": "611f06321c2a59d2f31bc70347e357778e1d123d",
-          "title": "维珍航空借 ChatGPT Work 重塑客户旅程：数周调研压缩为数小时",
-          "url": "https://www.aibase.com/zh/news/30229",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8656,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T02:37:42.743448Z",
-      "latest_at": "2026-08-11T02:37:42.743448Z",
-      "primary_item": {
-        "id": "708744e6436c7906ee4bfb6fb488b68177ddbf0c",
-        "title": "维珍航空借 ChatGPT Work 重塑客户旅程：数周调研压缩为数小时，AI 成企业运营标配",
-        "url": "https://www.aibase.com/news/30229",
         "source": "AIbase",
         "source_name": "AIbase"
       }
