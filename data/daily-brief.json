@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-08-11T16:37:45.157643Z",
+  "generated_at": "2026-08-11T17:37:31.169881Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_9514940f045b",
+      "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "75b03ab3d29079ef7777ecfe34d715fd124b0e6f",
+          "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T17:00:00Z"
+        },
+        {
+          "id": "ed80cc76f03944ad704e39a7ee20e3275fa1411c",
+          "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T17:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google AI Blog",
+        "Google Blog：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "75b03ab3d29079ef7777ecfe34d715fd124b0e6f",
+          "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T17:00:00Z"
+        },
+        {
+          "id": "ed80cc76f03944ad704e39a7ee20e3275fa1411c",
+          "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T17:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8674,
+      "importance": 0.8674,
+      "importance_score": 0.8674,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.991,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T17:00:00Z",
+      "latest_at": "2026-08-11T17:00:00Z",
+      "primary_item": {
+        "id": "75b03ab3d29079ef7777ecfe34d715fd124b0e6f",
+        "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_5eb3c49c6262",
       "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点 / Thinking of ACE? We Can Do It with Fewer Tokens",
@@ -38,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8523,
-      "importance": 0.8523,
-      "importance_score": 0.8523,
+      "score": 0.8499,
+      "importance": 0.8499,
+      "importance_score": 0.8499,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9575,
+        "recency": 0.9438,
         "story_heat": 0.0
       },
       "category": "official",
@@ -63,6 +145,125 @@
         "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_800ebb0d7846",
+      "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "primary_url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:41:17.281000Z"
+        },
+        {
+          "id": "4b2102e403d9dec5881249532877b86614b3ef6f",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T16:41:17.281000Z"
+        },
+        {
+          "id": "6d1cfa2910e04a5058b726a06334be2164e1126a",
+          "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "url": "https://news.ycombinator.com/item?id=49259339",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T15:23:10.713000Z"
+        },
+        {
+          "id": "a9b3f1ef17a821b3975a91a795f6a120a6a5480c",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T14:50:33Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:41:17.281000Z"
+        },
+        {
+          "id": "4b2102e403d9dec5881249532877b86614b3ef6f",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T16:41:17.281000Z"
+        },
+        {
+          "id": "6d1cfa2910e04a5058b726a06334be2164e1126a",
+          "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "url": "https://news.ycombinator.com/item?id=49259339",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T15:23:10.713000Z"
+        },
+        {
+          "id": "a9b3f1ef17a821b3975a91a795f6a120a6a5480c",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T14:50:33Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8432,
+      "importance": 0.8432,
+      "importance_score": 0.8432,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9866,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T14:50:33Z",
+      "latest_at": "2026-08-11T16:41:17.281000Z",
+      "primary_item": {
+        "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
+        "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+        "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -100,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8436,
-      "importance": 0.8436,
-      "importance_score": 0.8436,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9087,
+        "recency": 0.8957,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8365,
+      "importance": 0.8365,
+      "importance_score": 0.8365,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9725,
+        "recency": 0.9586,
         "story_heat": 0.0
       },
       "category": "official",
@@ -224,15 +425,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
+      "score": 0.8028,
+      "importance": 0.8028,
+      "importance_score": 0.8028,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.737,
+        "recency": 0.7265,
         "story_heat": 0.0
       },
       "category": "official",
@@ -324,15 +525,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9,
+        "recency": 0.8872,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -349,88 +550,6 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
         "source": "公众号：蚂蚁百灵（Ling）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7a678e9a26d7",
-      "title": "OpenAI CFO分享构建AI原生财务职能的五大经验 / What building an AI-native finance function taught me",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "primary_url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-          "title": "OpenAI CFO分享构建AI原生财务职能的五大经验 / What building an AI-native finance function taught me",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T17:00:00Z"
-        },
-        {
-          "id": "385eb9873258cf2e023ed6e9b900491347bfd43b",
-          "title": "OpenAI CFO分享构建AI原生财务职能的五大经验",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-          "title": "OpenAI CFO分享构建AI原生财务职能的五大经验 / What building an AI-native finance function taught me",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T17:00:00Z"
-        },
-        {
-          "id": "385eb9873258cf2e023ed6e9b900491347bfd43b",
-          "title": "OpenAI CFO分享构建AI原生财务职能的五大经验",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7109,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T17:00:00Z",
-      "latest_at": "2026-08-11T04:37:37.305368Z",
-      "primary_item": {
-        "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-        "title": "OpenAI CFO分享构建AI原生财务职能的五大经验 / What building an AI-native finance function taught me",
-        "url": "https://openai.com/index/building-an-ai-native-finance-function",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -487,15 +606,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.7852,
+      "importance": 0.7852,
+      "importance_score": 0.7852,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9219,
+        "recency": 0.9088,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -511,6 +630,67 @@
         "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
         "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
         "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_26a2ec7a2abd",
+      "title": "Gemini月活破10亿，成谷歌增长最快产品",
+      "url": "https://x.com/sundarpichai/status/2087222656819241292",
+      "primary_url": "https://x.com/sundarpichai/status/2087222656819241292",
+      "source": "X：Sundar Pichai (@sundarpichai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6b3d2c7aa4ce095c39f5bef0e3bd8a8b80dfb7a4",
+          "title": "Gemini月活破10亿，成谷歌增长最快产品",
+          "url": "https://x.com/sundarpichai/status/2087222656819241292",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T17:00:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sundar Pichai (@sundarpichai)"
+      ],
+      "items": [
+        {
+          "id": "6b3d2c7aa4ce095c39f5bef0e3bd8a8b80dfb7a4",
+          "title": "Gemini月活破10亿，成谷歌增长最快产品",
+          "url": "https://x.com/sundarpichai/status/2087222656819241292",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T17:00:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9911,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T17:00:34Z",
+      "latest_at": "2026-08-11T17:00:34Z",
+      "primary_item": {
+        "id": "6b3d2c7aa4ce095c39f5bef0e3bd8a8b80dfb7a4",
+        "title": "Gemini月活破10亿，成谷歌增长最快产品",
+        "url": "https://x.com/sundarpichai/status/2087222656819241292",
+        "source": "X：Sundar Pichai (@sundarpichai)",
         "source_name": "AI HOT"
       }
     },
@@ -568,15 +748,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -630,15 +810,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9754,
+        "recency": 0.9615,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -691,15 +871,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.949,
+        "recency": 0.9355,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -714,67 +894,6 @@
         "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
         "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
         "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fd21c5f6a768",
-      "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
-      "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
-      "primary_url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5ae76d17bf4b6d1e46f7bdc01e0426c820e5f126",
-          "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
-          "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T13:51:45.827000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "5ae76d17bf4b6d1e46f7bdc01e0426c820e5f126",
-          "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
-          "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T13:51:45.827000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9608,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T13:51:45.827000Z",
-      "latest_at": "2026-08-11T13:51:45.827000Z",
-      "primary_item": {
-        "id": "5ae76d17bf4b6d1e46f7bdc01e0426c820e5f126",
-        "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
-        "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
       }
     },
@@ -832,15 +951,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8545,
+        "recency": 0.8423,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -856,6 +975,128 @@
         "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
         "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fd21c5f6a768",
+      "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
+      "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5ae76d17bf4b6d1e46f7bdc01e0426c820e5f126",
+          "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
+          "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T13:51:45.827000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "5ae76d17bf4b6d1e46f7bdc01e0426c820e5f126",
+          "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
+          "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T13:51:45.827000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9471,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T13:51:45.827000Z",
+      "latest_at": "2026-08-11T13:51:45.827000Z",
+      "primary_item": {
+        "id": "5ae76d17bf4b6d1e46f7bdc01e0426c820e5f126",
+        "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
+        "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3eae35082480",
+      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+      "primary_url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+      "source": "Google Cloud：Databases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
+          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+          "source": "Google Cloud：Databases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Cloud：Databases（RSS）"
+      ],
+      "items": [
+        {
+          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
+          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+          "source": "Google Cloud：Databases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9768,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T16:00:00Z",
+      "latest_at": "2026-08-11T16:00:00Z",
+      "primary_item": {
+        "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
+        "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+        "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+        "source": "Google Cloud：Databases（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -894,15 +1135,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7635,
+        "recency": 0.7526,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -920,62 +1161,62 @@
       }
     },
     {
-      "story_id": "story_d606c2d2ba98",
-      "title": "编写智能体时，哪种编程语言最合适？",
-      "url": "http://danluu.com/pl-tokens",
-      "primary_url": "http://danluu.com/pl-tokens",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_8c85a5e4c7a3",
+      "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
+      "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
+      "primary_url": "https://www.dwarkesh.com/p/ryan-greenblatt",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6c73822ce260fed8a308e92fcf71e96ceea5c8f6",
-          "title": "编写智能体时，哪种编程语言最合适？",
-          "url": "http://danluu.com/pl-tokens",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "6beecdb6a981fa0908fad902d332d55e43dcabd0",
+          "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
+          "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-11T04:58:14.908000Z"
+          "published_at": "2026-08-11T16:31:23Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Dwarkesh Patel：Podcast & Blog（RSS）"
       ],
       "items": [
         {
-          "id": "6c73822ce260fed8a308e92fcf71e96ceea5c8f6",
-          "title": "编写智能体时，哪种编程语言最合适？",
-          "url": "http://danluu.com/pl-tokens",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "6beecdb6a981fa0908fad902d332d55e43dcabd0",
+          "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
+          "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-11T04:58:14.908000Z"
+          "published_at": "2026-08-11T16:31:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.7288,
+      "importance": 0.7288,
+      "importance_score": 0.7288,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.6,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8451,
+        "recency": 0.9842,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-11T04:58:14.908000Z",
-      "latest_at": "2026-08-11T04:58:14.908000Z",
+      "earliest_at": "2026-08-11T16:31:23Z",
+      "latest_at": "2026-08-11T16:31:23Z",
       "primary_item": {
-        "id": "6c73822ce260fed8a308e92fcf71e96ceea5c8f6",
-        "title": "编写智能体时，哪种编程语言最合适？",
-        "url": "http://danluu.com/pl-tokens",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "6beecdb6a981fa0908fad902d332d55e43dcabd0",
+        "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
+        "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1014,15 +1255,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9608,
+        "recency": 0.9471,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1094,15 +1335,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8169,
+        "recency": 0.8053,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1156,15 +1397,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8329,
+        "recency": 0.821,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1180,249 +1421,6 @@
         "url": "https://www.ithome.com/0/988/239.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_89e2ec81fbde",
-      "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
-      "url": "https://www.aibase.com/news/30236",
-      "primary_url": "https://www.aibase.com/news/30236",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fef489ba6b0758064e6c4ee38a67e4e5152164c1",
-          "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
-          "url": "https://www.aibase.com/news/30236",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T02:37:42.743448Z"
-        },
-        {
-          "id": "2ae9b051fb295e4d06e07ef190780a509f7bf81f",
-          "title": "TVB 进军 AI 算力赛道：2027 年启动首期万 P 级算力设施运营",
-          "url": "https://www.aibase.com/zh/news/30236",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "fef489ba6b0758064e6c4ee38a67e4e5152164c1",
-          "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
-          "url": "https://www.aibase.com/news/30236",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T02:37:42.743448Z"
-        },
-        {
-          "id": "2ae9b051fb295e4d06e07ef190780a509f7bf81f",
-          "title": "TVB 进军 AI 算力赛道：2027 年启动首期万 P 级算力设施运营",
-          "url": "https://www.aibase.com/zh/news/30236",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8169,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T02:37:42.743448Z",
-      "latest_at": "2026-08-11T03:37:37.117964Z",
-      "primary_item": {
-        "id": "fef489ba6b0758064e6c4ee38a67e4e5152164c1",
-        "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
-        "url": "https://www.aibase.com/news/30236",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e237d1b6fa70",
-      "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
-      "url": "https://www.aibase.com/news/30230",
-      "primary_url": "https://www.aibase.com/news/30230",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "91c4b6838c42cdee7325a596252d513c80a523ca",
-          "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
-          "url": "https://www.aibase.com/news/30230",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T02:37:42.743448Z"
-        },
-        {
-          "id": "4ae0e78a117e7e754392439f5714fe3e13355cb8",
-          "title": "千问 App 推出付费方案：办公助理最高 128 元/月，AI 视频生成单独计费",
-          "url": "https://www.aibase.com/zh/news/30230",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "91c4b6838c42cdee7325a596252d513c80a523ca",
-          "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
-          "url": "https://www.aibase.com/news/30230",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T02:37:42.743448Z"
-        },
-        {
-          "id": "4ae0e78a117e7e754392439f5714fe3e13355cb8",
-          "title": "千问 App 推出付费方案：办公助理最高 128 元/月，AI 视频生成单独计费",
-          "url": "https://www.aibase.com/zh/news/30230",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8169,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T02:37:42.743448Z",
-      "latest_at": "2026-08-11T02:37:42.743448Z",
-      "primary_item": {
-        "id": "91c4b6838c42cdee7325a596252d513c80a523ca",
-        "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
-        "url": "https://www.aibase.com/news/30230",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e591e335ac7d",
-      "title": "维珍航空借 ChatGPT Work 重塑客户旅程：数周调研压缩为数小时，AI 成企业运营标配",
-      "url": "https://www.aibase.com/news/30229",
-      "primary_url": "https://www.aibase.com/news/30229",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "708744e6436c7906ee4bfb6fb488b68177ddbf0c",
-          "title": "维珍航空借 ChatGPT Work 重塑客户旅程：数周调研压缩为数小时，AI 成企业运营标配",
-          "url": "https://www.aibase.com/news/30229",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T02:37:42.743448Z"
-        },
-        {
-          "id": "611f06321c2a59d2f31bc70347e357778e1d123d",
-          "title": "维珍航空借 ChatGPT Work 重塑客户旅程：数周调研压缩为数小时",
-          "url": "https://www.aibase.com/zh/news/30229",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "708744e6436c7906ee4bfb6fb488b68177ddbf0c",
-          "title": "维珍航空借 ChatGPT Work 重塑客户旅程：数周调研压缩为数小时，AI 成企业运营标配",
-          "url": "https://www.aibase.com/news/30229",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T02:37:42.743448Z"
-        },
-        {
-          "id": "611f06321c2a59d2f31bc70347e357778e1d123d",
-          "title": "维珍航空借 ChatGPT Work 重塑客户旅程：数周调研压缩为数小时",
-          "url": "https://www.aibase.com/zh/news/30229",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8169,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T02:37:42.743448Z",
-      "latest_at": "2026-08-11T02:37:42.743448Z",
-      "primary_item": {
-        "id": "708744e6436c7906ee4bfb6fb488b68177ddbf0c",
-        "title": "维珍航空借 ChatGPT Work 重塑客户旅程：数周调研压缩为数小时，AI 成企业运营标配",
-        "url": "https://www.aibase.com/news/30229",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
