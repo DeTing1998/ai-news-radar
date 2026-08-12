@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T12:37:38.872225Z",
+  "generated_at": "2026-08-12T13:37:33.973572Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
+      "score": 0.8351,
+      "importance": 0.8351,
+      "importance_score": 0.8351,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9047,
+        "recency": 0.8917,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -120,6 +120,68 @@
         "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fb21820d806b",
+      "title": "从协助到执行：企业如何让AI发挥作用 / From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "primary_url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "760b01fd6fce24599e5011d7b6fc5d0faa66258d",
+          "title": "从协助到执行：企业如何让AI发挥作用 / From assistance to execution: How enterprises put AI to work",
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T06:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "760b01fd6fce24599e5011d7b6fc5d0faa66258d",
+          "title": "从协助到执行：企业如何让AI发挥作用 / From assistance to execution: How enterprises put AI to work",
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T06:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8957,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T06:00:00Z",
+      "latest_at": "2026-08-12T06:00:00Z",
+      "primary_item": {
+        "id": "760b01fd6fce24599e5011d7b6fc5d0faa66258d",
+        "title": "从协助到执行：企业如何让AI发挥作用 / From assistance to execution: How enterprises put AI to work",
+        "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -176,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7532,
+        "recency": 0.7424,
         "story_heat": 0.25
       },
       "category": "official",
@@ -239,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7896,
+        "recency": 0.7783,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,68 +325,6 @@
         "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
         "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5eb3c49c6262",
-      "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点 / Thinking of ACE? We Can Do It with Fewer Tokens",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
-          "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点 / Thinking of ACE? We Can Do It with Fewer Tokens",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T13:37:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
-          "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点 / Thinking of ACE? We Can Do It with Fewer Tokens",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T13:37:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7173,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T13:37:10Z",
-      "latest_at": "2026-08-11T13:37:10Z",
-      "primary_item": {
-        "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
-        "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点 / Thinking of ACE? We Can Do It with Fewer Tokens",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -457,15 +457,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7498,
+        "recency": 0.7391,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -538,15 +538,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -600,15 +600,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7667,
+        "recency": 0.7557,
         "story_heat": 0.0
       },
       "category": "official",
@@ -681,15 +681,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7755,
+      "importance": 0.7755,
+      "importance_score": 0.7755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7831,
+        "recency": 0.7719,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -762,15 +762,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7603,
+        "recency": 0.7494,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -824,15 +824,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9911,
+        "recency": 0.9769,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -904,15 +904,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8349,
+        "recency": 0.823,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -985,15 +985,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1047,21 +1047,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.919,
+        "recency": 0.9059,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-12T06:46:51Z",
       "latest_at": "2026-08-12T06:46:51Z",
@@ -1108,15 +1107,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7916,
+        "recency": 0.7802,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1170,15 +1169,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7533,
+        "recency": 0.7425,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1192,66 +1191,6 @@
         "title": "Gemini月活破10亿，成谷歌增长最快产品",
         "url": "https://x.com/sundarpichai/status/2087222656819241292",
         "source": "X：Sundar Pichai (@sundarpichai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5389972db876",
-      "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
-      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-      "primary_url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
-          "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
-          "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T13:00:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
-          "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
-          "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T13:00:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7276,
-      "importance": 0.7276,
-      "importance_score": 0.7276,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.711,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T13:00:25Z",
-      "latest_at": "2026-08-11T13:00:25Z",
-      "primary_item": {
-        "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
-        "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
-        "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-        "source": "NVIDIA Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1290,15 +1229,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7269,
-      "importance": 0.7269,
-      "importance_score": 0.7269,
+      "score": 0.7249,
+      "importance": 0.7249,
+      "importance_score": 0.7249,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7741,
+        "recency": 0.7631,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1369,15 +1308,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1431,15 +1370,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
+      "score": 0.7213,
+      "importance": 0.7213,
+      "importance_score": 0.7213,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7198,
+        "recency": 0.7095,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1528,15 +1467,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7851,
+        "recency": 0.7738,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1553,6 +1492,68 @@
         "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6d2ce1842205",
+      "title": "自动将分支保护规则迁移到存储库规则集 / Automatically migrate branch protection rules to repository rulesets",
+      "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+      "primary_url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9218b35fb343b8ac2d17e453ef63046d41d017ef",
+          "title": "自动将分支保护规则迁移到存储库规则集 / Automatically migrate branch protection rules to repository rulesets",
+          "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T19:03:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "9218b35fb343b8ac2d17e453ef63046d41d017ef",
+          "title": "自动将分支保护规则迁移到存储库规则集 / Automatically migrate branch protection rules to repository rulesets",
+          "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T19:03:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8017,
+      "importance": 0.8017,
+      "importance_score": 0.8017,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7649,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T19:03:57Z",
+      "latest_at": "2026-08-11T19:03:57Z",
+      "primary_item": {
+        "id": "9218b35fb343b8ac2d17e453ef63046d41d017ef",
+        "title": "自动将分支保护规则迁移到存储库规则集 / Automatically migrate branch protection rules to repository rulesets",
+        "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     }
   ]
