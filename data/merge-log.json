@@ -1,22 +1,8 @@
 {
-  "generated_at": "2026-08-14T11:37:29.944888Z",
+  "generated_at": "2026-08-14T12:37:34.001140Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 77,
+  "total_events": 78,
   "events": [
-    {
-      "story_id": "story_f23e08b2def5",
-      "item_id": "f7302cc206653eaa430e4e64b7b02d318c0e9f8d",
-      "merged_into": "story_f23e08b2def5",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_2f367b827342",
-      "item_id": "b1aad186152033b333cce59eb93552f7b97e6031",
-      "merged_into": "story_2f367b827342",
-      "reason": "title_similarity",
-      "similarity": 0.8636
-    },
     {
       "story_id": "story_763523653d07",
       "item_id": "c2c3ab53a5c4aae88aa66a6798a7b10c5e9e4f63",
@@ -417,6 +403,13 @@
       "similarity": 1.0
     },
     {
+      "story_id": "story_dc27dfa4a5ab",
+      "item_id": "31047e88eccc7ba66178d877e1af4e5ba2a45a8e",
+      "merged_into": "story_dc27dfa4a5ab",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
       "story_id": "story_6cbde97d8260",
       "item_id": "4f3b94ce9fded3971990d7f3bb1944d9e915a601",
       "merged_into": "story_6cbde97d8260",
@@ -494,6 +487,13 @@
       "similarity": 1.0
     },
     {
+      "story_id": "story_e85c6311b0cd",
+      "item_id": "80d2ccf4305202623feb46dd2e212eaca02fb34e",
+      "merged_into": "story_e85c6311b0cd",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
       "story_id": "story_a33d6318ced2",
       "item_id": "4d9f70b60b5f70c3cf14cf872215620462d34578",
       "merged_into": "story_a33d6318ced2",
@@ -513,6 +513,13 @@
       "merged_into": "story_7a4e43199dab",
       "reason": "title_similarity",
       "similarity": 0.88
+    },
+    {
+      "story_id": "story_5cc9009a7c70",
+      "item_id": "840bb22670fd14f0075114b730f339c0c66c06a1",
+      "merged_into": "story_5cc9009a7c70",
+      "reason": "canonical_url",
+      "similarity": 1.0
     },
     {
       "story_id": "story_6193a415655d",
