@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T10:37:31.845961Z",
+  "generated_at": "2026-08-23T11:37:33.838614Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,21 +38,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9096,
+        "recency": 0.8966,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-23T04:03:52Z",
       "latest_at": "2026-08-23T04:03:52Z",
@@ -99,15 +98,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8689,
+        "recency": 0.8564,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -231,15 +230,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6363,
-      "importance": 0.6363,
-      "importance_score": 0.6363,
+      "score": 0.6343,
+      "importance": 0.6343,
+      "importance_score": 0.6343,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.7711,
+        "recency": 0.76,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -336,6 +335,85 @@
       }
     },
     {
+      "story_id": "story_930dd1342c71",
+      "title": "NousResearch / hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "primary_url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
+          "title": "NousResearch / hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
+          "title": "NousResearch /      hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T11:16:45.227000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
+          "title": "NousResearch / hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
+          "title": "NousResearch /      hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T11:16:45.227000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T11:16:45.227000Z",
+      "latest_at": "2026-08-23T11:37:33.838614Z",
+      "primary_item": {
+        "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
+        "title": "NousResearch / hermes-agent",
+        "url": "https://github.com/NousResearch/hermes-agent",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
       "story_id": "story_543f347056f8",
       "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
       "url": "https://www.ithome.com/0/993/242.htm",
@@ -389,15 +467,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -468,15 +546,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9943,
+        "recency": 0.98,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -566,15 +644,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8393,
+        "recency": 0.8272,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -644,15 +722,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5387,
-      "importance": 0.5387,
-      "importance_score": 0.5387,
+      "score": 0.5362,
+      "importance": 0.5362,
+      "importance_score": 0.5362,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9604,
+        "recency": 0.9466,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -742,15 +820,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5307,
-      "importance": 0.5307,
-      "importance_score": 0.5307,
+      "score": 0.5287,
+      "importance": 0.5287,
+      "importance_score": 0.5287,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.777,
+        "recency": 0.7659,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -820,15 +898,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9027,
+        "recency": 0.8898,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -899,15 +977,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5228,
-      "importance": 0.5228,
-      "importance_score": 0.5228,
+      "score": 0.5206,
+      "importance": 0.5206,
+      "importance_score": 0.5206,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8723,
+        "recency": 0.8598,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -922,6 +1000,85 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8a83a8caace8",
+      "title": "anthropics / claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "primary_url": "https://github.com/anthropics/claude-plugins-community",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "a54bafcecd84cc88cb0dddaf5d46b33cb08376c5",
+          "title": "anthropics / claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "90f2f2f9a092cd6a4bd04000118a819476c60de8",
+          "title": "anthropics /      claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T11:16:45.227000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "a54bafcecd84cc88cb0dddaf5d46b33cb08376c5",
+          "title": "anthropics / claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "90f2f2f9a092cd6a4bd04000118a819476c60de8",
+          "title": "anthropics /      claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T11:16:45.227000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T11:16:45.227000Z",
+      "latest_at": "2026-08-23T11:37:33.838614Z",
+      "primary_item": {
+        "id": "a54bafcecd84cc88cb0dddaf5d46b33cb08376c5",
+        "title": "anthropics / claude-plugins-community",
+        "url": "https://github.com/anthropics/claude-plugins-community",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
@@ -978,15 +1135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.514,
-      "importance": 0.514,
-      "importance_score": 0.514,
+      "score": 0.5119,
+      "importance": 0.5119,
+      "importance_score": 0.5119,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8232,
+        "recency": 0.8114,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1057,15 +1214,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5134,
-      "importance": 0.5134,
-      "importance_score": 0.5134,
+      "score": 0.5113,
+      "importance": 0.5113,
+      "importance_score": 0.5113,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8201,
+        "recency": 0.8083,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1135,15 +1292,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5087,
-      "importance": 0.5087,
-      "importance_score": 0.5087,
+      "score": 0.5066,
+      "importance": 0.5066,
+      "importance_score": 0.5066,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7938,
+        "recency": 0.7824,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1214,15 +1371,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1292,15 +1449,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5054,
-      "importance": 0.5054,
-      "importance_score": 0.5054,
+      "score": 0.5034,
+      "importance": 0.5034,
+      "importance_score": 0.5034,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7757,
+        "recency": 0.7646,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1371,15 +1528,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5041,
-      "importance": 0.5041,
-      "importance_score": 0.5041,
+      "score": 0.5021,
+      "importance": 0.5021,
+      "importance_score": 0.5021,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7681,
+        "recency": 0.7571,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1397,30 +1554,30 @@
       }
     },
     {
-      "story_id": "story_b6773085f128",
-      "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "primary_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "story_id": "story_cb08435a825e",
+      "title": "freestylefly / awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "primary_url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "source": "GitHub · Trending Today",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "id": "ff6cb8ba6d8bcefc9d5a4af907de953ed5c2cd2f",
+          "title": "freestylefly / awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
           "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "baeb7c3254f794bf6cc04dc0a84e08a4131b1c74",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai /      andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "id": "3b2fa912249c187adb07c7989a414ac187beec37",
+          "title": "freestylefly /      awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
           "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T13:09:39.410000Z"
+          "published_at": "2026-08-23T11:16:45.227000Z"
         }
       ],
       "source_count": 2,
@@ -1430,206 +1587,49 @@
       ],
       "items": [
         {
-          "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "id": "ff6cb8ba6d8bcefc9d5a4af907de953ed5c2cd2f",
+          "title": "freestylefly / awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
           "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "baeb7c3254f794bf6cc04dc0a84e08a4131b1c74",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai /      andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "id": "3b2fa912249c187adb07c7989a414ac187beec37",
+          "title": "freestylefly /      awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
           "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T13:09:39.410000Z"
+          "published_at": "2026-08-23T11:16:45.227000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4987,
-      "importance": 0.4987,
-      "importance_score": 0.4987,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7384,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T13:09:39.410000Z",
-      "latest_at": "2026-08-22T13:37:32.456940Z",
+      "earliest_at": "2026-08-23T11:16:45.227000Z",
+      "latest_at": "2026-08-23T11:37:33.838614Z",
       "primary_item": {
-        "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
-        "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
-        "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+        "id": "ff6cb8ba6d8bcefc9d5a4af907de953ed5c2cd2f",
+        "title": "freestylefly / awesome-gpt-image-2",
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_d901a93bbcfa",
-      "title": "《用Python思考》 / Thinking in Python",
-      "url": "https://thinkinginpython.com",
-      "primary_url": "https://thinkinginpython.com",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
-          "title": "《用Python思考》 / Thinking in Python",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
-        },
-        {
-          "id": "3289df469c5b7ba3c168fe930418c735ddf2afd9",
-          "title": "《用Python思考》 / Thinking in Python by Bruce Eckel",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
-          "title": "《用Python思考》 / Thinking in Python",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
-        },
-        {
-          "id": "3289df469c5b7ba3c168fe930418c735ddf2afd9",
-          "title": "《用Python思考》 / Thinking in Python by Bruce Eckel",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5078,
-      "importance": 0.5078,
-      "importance_score": 0.5078,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7886,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T18:10:49Z",
-      "latest_at": "2026-08-22T18:10:49Z",
-      "primary_item": {
-        "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
-        "title": "《用Python思考》 / Thinking in Python",
-        "url": "https://thinkinginpython.com",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_45f68b1865d1",
-      "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-      "url": "https://news.ycombinator.com/item?id=49401229",
-      "primary_url": "https://news.ycombinator.com/item?id=49401229",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://news.ycombinator.com/item?id=49401229",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T17:11:08.754000Z"
-        },
-        {
-          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T16:23:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://news.ycombinator.com/item?id=49401229",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T17:11:08.754000Z"
-        },
-        {
-          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T16:23:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5057,
-      "importance": 0.5057,
-      "importance_score": 0.5057,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7774,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T16:23:09Z",
-      "latest_at": "2026-08-22T17:11:08.754000Z",
-      "primary_item": {
-        "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
-        "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-        "url": "https://news.ycombinator.com/item?id=49401229",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
