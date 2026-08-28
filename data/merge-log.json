@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-08-28T19:37:31.035835Z",
+  "generated_at": "2026-08-28T20:37:31.823875Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 62,
+  "total_events": 61,
   "events": [
-    {
-      "story_id": "story_c156e18e9534",
-      "item_id": "b27e651139215ca7c77c51ea31772d4db13f1407",
-      "merged_into": "story_c156e18e9534",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_9411c1d36bb5",
-      "item_id": "3c46f3e6c4b9e599e7cab07c133e162132052757",
-      "merged_into": "story_9411c1d36bb5",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_538cc5ddb902",
-      "item_id": "1ea630a9096135f69ac1abbc8e7dbe25403b22a9",
-      "merged_into": "story_538cc5ddb902",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
     {
       "story_id": "story_a1b02a6424f5",
       "item_id": "70383f2bbff754eba0b05b0a3c617b5a4c8ab39a",
@@ -347,9 +326,9 @@
       "similarity": 1.0
     },
     {
-      "story_id": "story_0bfe8c443b81",
-      "item_id": "4985d4471680e9a673454e774a1ce9837570b598",
-      "merged_into": "story_0bfe8c443b81",
+      "story_id": "story_a51ad146dc6b",
+      "item_id": "13b63ebc642fa2b05762c3ad5282b6a8d4138951",
+      "merged_into": "story_a51ad146dc6b",
       "reason": "title_similarity",
       "similarity": 1.0
     },
@@ -435,6 +414,20 @@
       "item_id": "1635424a84524804795eef92534024522fddd70b",
       "merged_into": "story_6f9fb517eb6d",
       "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_284ee5415a25",
+      "item_id": "45ab15453a9261cd0cb51d3952dce040e61d6d66",
+      "merged_into": "story_284ee5415a25",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_284ee5415a25",
+      "item_id": "dc8ace2929497bb511cf335bbfeabdc3ed31e233",
+      "merged_into": "story_284ee5415a25",
+      "reason": "title_similarity",
       "similarity": 1.0
     }
   ]
