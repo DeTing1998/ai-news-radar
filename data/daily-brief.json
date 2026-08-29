@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-08-29T09:37:31.904396Z",
+  "generated_at": "2026-08-29T10:37:35.393588Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.151.0 / Codex CLI 0.151.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
+          "title": "法典 CLI 0.151.0 / Codex CLI 0.151.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-29T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
+          "title": "法典 CLI 0.151.0 / Codex CLI 0.151.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-29T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8577,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-29T00:00:00Z",
+      "latest_at": "2026-08-29T00:00:00Z",
+      "primary_item": {
+        "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
+        "title": "法典 CLI 0.151.0 / Codex CLI 0.151.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_362e2edecbfb",
       "title": "Visual Studio 中的 GitHub Copilot — 8 月更新 / GitHub Copilot in Visual Studio — August update",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8207,
-      "importance": 0.8207,
-      "importance_score": 0.8207,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8262,
+        "recency": 0.8144,
         "story_heat": 0.0
       },
       "category": "official",
@@ -138,15 +200,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9703,
+        "recency": 0.9564,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -200,15 +262,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.824,
+        "recency": 0.8122,
         "story_heat": 0.0
       },
       "category": "official",
@@ -300,15 +362,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7995,
+        "recency": 0.7881,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -381,15 +443,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7949,
-      "importance": 0.7949,
-      "importance_score": 0.7949,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9629,
+        "recency": 0.9491,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -462,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8931,
+        "recency": 0.8803,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -524,15 +586,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.929,
+        "recency": 0.9156,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -585,15 +647,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7915,
+        "recency": 0.7801,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -645,15 +707,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7278,
+        "recency": 0.7173,
         "story_heat": 0.0
       },
       "category": "official",
@@ -707,15 +769,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7283,
-      "importance": 0.7283,
-      "importance_score": 0.7283,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7486,
+        "recency": 0.7379,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -786,15 +848,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7326,
+        "recency": 0.7221,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -904,15 +966,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.58,
-      "importance": 0.58,
-      "importance_score": 0.58,
+      "score": 0.5777,
+      "importance": 0.5777,
+      "importance_score": 0.5777,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9123,
+        "recency": 0.8992,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -982,15 +1044,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5758,
-      "importance": 0.5758,
-      "importance_score": 0.5758,
+      "score": 0.5738,
+      "importance": 0.5738,
+      "importance_score": 0.5738,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7795,
+        "recency": 0.7683,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1005,6 +1067,104 @@
         "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
         "source": "The Verge",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_0110e72feee3",
+      "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "primary_url": "https://github.com/stemdeckapp/stemdeck",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3282088eb06c0135b4b127f8e64362ac234defcb",
+          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T10:12:23.295000Z"
+        },
+        {
+          "id": "9c0cb059b82e4f4bf76f12802892618bca471002",
+          "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
+          "url": "https://news.ycombinator.com/item?id=49486081",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T02:38:30.667000Z"
+        },
+        {
+          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
+          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器 / StemDeck, a free, open-source and local AI stem separator",
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T01:24:13Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3282088eb06c0135b4b127f8e64362ac234defcb",
+          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T10:12:23.295000Z"
+        },
+        {
+          "id": "9c0cb059b82e4f4bf76f12802892618bca471002",
+          "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
+          "url": "https://news.ycombinator.com/item?id=49486081",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T02:38:30.667000Z"
+        },
+        {
+          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
+          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器 / StemDeck, a free, open-source and local AI stem separator",
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T01:24:13Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5697,
+      "importance": 0.5697,
+      "importance_score": 0.5697,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.994,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T01:24:13Z",
+      "latest_at": "2026-08-29T10:12:23.295000Z",
+      "primary_item": {
+        "id": "3282088eb06c0135b4b127f8e64362ac234defcb",
+        "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+        "url": "https://github.com/stemdeckapp/stemdeck",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1079,15 +1239,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5695,
-      "importance": 0.5695,
-      "importance_score": 0.5695,
+      "score": 0.567,
+      "importance": 0.567,
+      "importance_score": 0.567,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.993,
+        "recency": 0.9788,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1175,15 +1335,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5648,
-      "importance": 0.5648,
-      "importance_score": 0.5648,
+      "score": 0.5623,
+      "importance": 0.5623,
+      "importance_score": 0.5623,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9666,
+        "recency": 0.9527,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1273,15 +1433,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5634,
-      "importance": 0.5634,
-      "importance_score": 0.5634,
+      "score": 0.561,
+      "importance": 0.561,
+      "importance_score": 0.561,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9592,
+        "recency": 0.9454,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1351,15 +1511,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5591,
-      "importance": 0.5591,
-      "importance_score": 0.5591,
+      "score": 0.5571,
+      "importance": 0.5571,
+      "importance_score": 0.5571,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8052,
+        "recency": 0.7937,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1447,15 +1607,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5572,
-      "importance": 0.5572,
-      "importance_score": 0.5572,
+      "score": 0.5548,
+      "importance": 0.5548,
+      "importance_score": 0.5548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9246,
+        "recency": 0.9113,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1470,183 +1630,6 @@
         "url": "https://twitterwebviewer.com",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_284ee5415a25",
-      "title": "Show HN: Conduct：用于大型语言模型（LLM）和多云平台（MCP）工具调用的开源防护措施",
-      "url": "https://github.com/sseshachala/conductai",
-      "primary_url": "https://github.com/sseshachala/conductai",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dc8ace2929497bb511cf335bbfeabdc3ed31e233",
-          "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-          "url": "https://news.ycombinator.com/item?id=49483173",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-28T20:38:06.775000Z"
-        },
-        {
-          "id": "45ab15453a9261cd0cb51d3952dce040e61d6d66",
-          "title": "Show HN: Conduct：用于大型语言模型（LLM）和多云平台（MCP）工具调用的开源防护措施",
-          "url": "https://github.com/sseshachala/conductai",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T19:32:45.825000Z"
-        },
-        {
-          "id": "e64a3690d3b3396b0782fac999cfd9b2336fc5bd",
-          "title": "Show HN: Conduct：用于大型语言模型（LLM）和多云平台（MCP）工具调用的开源防护措施 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-          "url": "https://github.com/sseshachala/conductai",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-28T19:29:20Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "dc8ace2929497bb511cf335bbfeabdc3ed31e233",
-          "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-          "url": "https://news.ycombinator.com/item?id=49483173",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-28T20:38:06.775000Z"
-        },
-        {
-          "id": "45ab15453a9261cd0cb51d3952dce040e61d6d66",
-          "title": "Show HN: Conduct：用于大型语言模型（LLM）和多云平台（MCP）工具调用的开源防护措施",
-          "url": "https://github.com/sseshachala/conductai",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T19:32:45.825000Z"
-        },
-        {
-          "id": "e64a3690d3b3396b0782fac999cfd9b2336fc5bd",
-          "title": "Show HN: Conduct：用于大型语言模型（LLM）和多云平台（MCP）工具调用的开源防护措施 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-          "url": "https://github.com/sseshachala/conductai",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-28T19:29:20Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.546,
-      "importance": 0.546,
-      "importance_score": 0.546,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.4824,
-        "source_tier": 0.32,
-        "ai_relevance": 0.67,
-        "recency": 0.816,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T19:29:20Z",
-      "latest_at": "2026-08-28T20:38:06.775000Z",
-      "primary_item": {
-        "id": "45ab15453a9261cd0cb51d3952dce040e61d6d66",
-        "title": "Show HN: Conduct：用于大型语言模型（LLM）和多云平台（MCP）工具调用的开源防护措施",
-        "url": "https://github.com/sseshachala/conductai",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_527b838142bf",
-      "title": "这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。",
-      "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
-      "primary_url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "903ee31cb5c611e6c4f629988bf585f568a527b8",
-          "title": "这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。",
-          "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T08:52:18.659000Z"
-        },
-        {
-          "id": "93a91444c18fec56e59a71af53f81f9c5885670c",
-          "title": "这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。 / This creator got 'micro-canceled' for promoting Claude. She says AI use is becoming a social taboo.",
-          "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T08:37:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "903ee31cb5c611e6c4f629988bf585f568a527b8",
-          "title": "这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。",
-          "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T08:52:18.659000Z"
-        },
-        {
-          "id": "93a91444c18fec56e59a71af53f81f9c5885670c",
-          "title": "这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。 / This creator got 'micro-canceled' for promoting Claude. She says AI use is becoming a social taboo.",
-          "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T08:37:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9892,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T08:37:01Z",
-      "latest_at": "2026-08-29T08:52:18.659000Z",
-      "primary_item": {
-        "id": "903ee31cb5c611e6c4f629988bf585f568a527b8",
-        "title": "这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。",
-        "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
