@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T07:37:37.735508Z",
+  "generated_at": "2026-08-30T08:37:33.913863Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9075,
+        "recency": 0.8945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -99,15 +99,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9538,
+        "recency": 0.9401,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,22 +179,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8803,
+        "recency": 0.8677,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-29T22:47:53Z",
       "latest_at": "2026-08-29T23:43:24Z",
@@ -295,15 +294,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6113,
-      "importance": 0.6113,
-      "importance_score": 0.6113,
+      "score": 0.6091,
+      "importance": 0.6091,
+      "importance_score": 0.6091,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.817,
+        "recency": 0.8053,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -393,15 +392,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5658,
-      "importance": 0.5658,
-      "importance_score": 0.5658,
+      "score": 0.5633,
+      "importance": 0.5633,
+      "importance_score": 0.5633,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9721,
+        "recency": 0.9582,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -415,123 +414,6 @@
         "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
         "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
         "source": "embracethered.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2ee04de9ee75",
-      "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-      "url": "https://lwn.net/Articles/1091231",
-      "primary_url": "https://lwn.net/Articles/1091231",
-      "source": "lwn.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "lwn.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T15:16:20.593000Z"
-        },
-        {
-          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T14:02:10Z"
-        },
-        {
-          "id": "70be66b58f1901c6150fbc5cf7465ecfe939f972",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-          "source": "www.phoronix.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T09:40:21.179000Z"
-        },
-        {
-          "id": "f0bf36014eefecc98ca45a466499e50b1eb467cb",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T08:19:22Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "lwn.net",
-        "www.phoronix.com"
-      ],
-      "items": [
-        {
-          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "lwn.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T15:16:20.593000Z"
-        },
-        {
-          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T14:02:10Z"
-        },
-        {
-          "id": "70be66b58f1901c6150fbc5cf7465ecfe939f972",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-          "source": "www.phoronix.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T09:40:21.179000Z"
-        },
-        {
-          "id": "f0bf36014eefecc98ca45a466499e50b1eb467cb",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T08:19:22Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5579,
-      "importance": 0.5579,
-      "importance_score": 0.5579,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7896,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T08:19:22Z",
-      "latest_at": "2026-08-29T15:16:20.593000Z",
-      "primary_item": {
-        "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-        "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-        "url": "https://lwn.net/Articles/1091231",
-        "source": "lwn.net",
         "source_name": "Buzzing"
       }
     },
@@ -608,15 +490,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8496,
+        "recency": 0.8374,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -686,15 +568,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5339,
-      "importance": 0.5339,
-      "importance_score": 0.5339,
+      "score": 0.5315,
+      "importance": 0.5315,
+      "importance_score": 0.5315,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.934,
+        "recency": 0.9206,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -709,6 +591,104 @@
         "url": "https://www.ithome.com/0/996/095.htm",
         "source": "IT之家 (ITHome)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_9b2727cbce15",
+      "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+      "url": "https://lwn.net/Articles/1091231",
+      "primary_url": "https://lwn.net/Articles/1091231",
+      "source": "lwn.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "lwn.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T15:16:20.593000Z"
+        },
+        {
+          "id": "530b878515479cfee39827671c67e698af01cd81",
+          "title": "Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://news.ycombinator.com/item?id=49489982",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T14:38:13.800000Z"
+        },
+        {
+          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T14:02:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "lwn.net"
+      ],
+      "items": [
+        {
+          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "lwn.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T15:16:20.593000Z"
+        },
+        {
+          "id": "530b878515479cfee39827671c67e698af01cd81",
+          "title": "Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://news.ycombinator.com/item?id=49489982",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T14:38:13.800000Z"
+        },
+        {
+          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T14:02:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7783,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T14:02:10Z",
+      "latest_at": "2026-08-29T15:16:20.593000Z",
+      "primary_item": {
+        "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+        "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+        "url": "https://lwn.net/Articles/1091231",
+        "source": "lwn.net",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -765,15 +745,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.5239,
+      "importance": 0.5239,
+      "importance_score": 0.5239,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8909,
+        "recency": 0.8781,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -844,15 +824,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5187,
-      "importance": 0.5187,
-      "importance_score": 0.5187,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8496,
+        "recency": 0.8374,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -923,15 +903,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5175,
-      "importance": 0.5175,
-      "importance_score": 0.5175,
+      "score": 0.5154,
+      "importance": 0.5154,
+      "importance_score": 0.5154,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8431,
+        "recency": 0.831,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1002,15 +982,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
+      "score": 0.515,
+      "importance": 0.515,
+      "importance_score": 0.515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.841,
+        "recency": 0.829,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1080,15 +1060,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.517,
-      "importance": 0.517,
-      "importance_score": 0.517,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.84,
+        "recency": 0.828,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1159,15 +1139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.509,
-      "importance": 0.509,
-      "importance_score": 0.509,
+      "score": 0.507,
+      "importance": 0.507,
+      "importance_score": 0.507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7957,
+        "recency": 0.7843,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1182,85 +1162,6 @@
         "url": "https://www.josephspurrier.com/ai-revives-a-dead-sleep-company",
         "source": "www.josephspurrier.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_eb0bc1242835",
-      "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-      "url": "https://www.ithome.com/0/996/053.htm",
-      "primary_url": "https://www.ithome.com/0/996/053.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
-          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
-          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T22:44:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
-          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
-          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T22:44:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8909,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T22:44:37Z",
-      "latest_at": "2026-08-29T23:37:34.765365Z",
-      "primary_item": {
-        "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
-        "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-        "url": "https://www.ithome.com/0/996/053.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1317,15 +1218,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4959,
-      "importance": 0.4959,
-      "importance_score": 0.4959,
+      "score": 0.494,
+      "importance": 0.494,
+      "importance_score": 0.494,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7227,
+        "recency": 0.7124,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1395,15 +1296,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4958,
-      "importance": 0.4958,
-      "importance_score": 0.4958,
+      "score": 0.494,
+      "importance": 0.494,
+      "importance_score": 0.494,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7225,
+        "recency": 0.7121,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1421,82 +1322,82 @@
       }
     },
     {
-      "story_id": "story_06365a62d120",
-      "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
-      "url": "https://itsuki.app",
-      "primary_url": "https://itsuki.app",
-      "source": "itsuki.app",
-      "source_name": "Buzzing",
+      "story_id": "story_eb0bc1242835",
+      "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+      "url": "https://www.ithome.com/0/996/053.htm",
+      "primary_url": "https://www.ithome.com/0/996/053.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "a64a2b4973e04d2f1210e5f0c014d22c577162c7",
-          "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
-          "url": "https://itsuki.app",
-          "source": "itsuki.app",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T08:04:13.465000Z"
+          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
+          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "966aedd9b5c769c46223068db4cea08c8247814d",
-          "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP） / Show HN: Itsuki – shared memory for Claude Code, Cursor and 24 other AI tools",
-          "url": "https://itsuki.app",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-29T07:50:32Z"
+          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
+          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T22:44:37Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "itsuki.app"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "a64a2b4973e04d2f1210e5f0c014d22c577162c7",
-          "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
-          "url": "https://itsuki.app",
-          "source": "itsuki.app",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T08:04:13.465000Z"
+          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
+          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "966aedd9b5c769c46223068db4cea08c8247814d",
-          "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP） / Show HN: Itsuki – shared memory for Claude Code, Cursor and 24 other AI tools",
-          "url": "https://itsuki.app",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-29T07:50:32Z"
+          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
+          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T22:44:37Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4939,
-      "importance": 0.4939,
-      "importance_score": 0.4939,
+      "score": 0.5239,
+      "importance": 0.5239,
+      "importance_score": 0.5239,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7116,
+        "recency": 0.8781,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T07:50:32Z",
-      "latest_at": "2026-08-29T08:04:13.465000Z",
+      "earliest_at": "2026-08-29T22:44:37Z",
+      "latest_at": "2026-08-29T23:37:34.765365Z",
       "primary_item": {
-        "id": "a64a2b4973e04d2f1210e5f0c014d22c577162c7",
-        "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
-        "url": "https://itsuki.app",
-        "source": "itsuki.app",
-        "source_name": "Buzzing"
+        "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
+        "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+        "url": "https://www.ithome.com/0/996/053.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1553,15 +1454,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5152,
-      "importance": 0.5152,
-      "importance_score": 0.5152,
+      "score": 0.5131,
+      "importance": 0.5131,
+      "importance_score": 0.5131,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8302,
+        "recency": 0.8183,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1632,15 +1533,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.515,
-      "importance": 0.515,
-      "importance_score": 0.515,
+      "score": 0.5129,
+      "importance": 0.5129,
+      "importance_score": 0.5129,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.829,
+        "recency": 0.8171,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1655,6 +1556,85 @@
         "url": "https://news.ycombinator.com/item?id=49491113",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_6b08cd3b6d93",
+      "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+      "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+      "primary_url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "e264a7bc0ce2fefb239afa2a0fff3a768c321aca",
+          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T17:28:53Z"
+        },
+        {
+          "id": "41d0137f2781999f28c33201ba30622f6bb671cd",
+          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐",
+          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T16:20:16.082000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.axios.com"
+      ],
+      "items": [
+        {
+          "id": "e264a7bc0ce2fefb239afa2a0fff3a768c321aca",
+          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T17:28:53Z"
+        },
+        {
+          "id": "41d0137f2781999f28c33201ba30622f6bb671cd",
+          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐",
+          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T16:20:16.082000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5104,
+      "importance": 0.5104,
+      "importance_score": 0.5104,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8036,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T16:20:16.082000Z",
+      "latest_at": "2026-08-29T17:28:53Z",
+      "primary_item": {
+        "id": "e264a7bc0ce2fefb239afa2a0fff3a768c321aca",
+        "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+        "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
