@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T06:37:39.476092Z",
+  "generated_at": "2026-09-01T08:37:35.918776Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8496,
-      "importance": 0.8496,
-      "importance_score": 0.8496,
+      "score": 0.8449,
+      "importance": 0.8449,
+      "importance_score": 0.8449,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9087,
+        "recency": 0.8829,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7282,
+        "recency": 0.7075,
         "story_heat": 0.0
       },
       "category": "official",
@@ -128,65 +128,346 @@
       }
     },
     {
-      "story_id": "story_0703988e3a33",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "primary_url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_428cdc8cfef3",
+      "title": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
+      "url": "https://www.aibase.com/news/30756",
+      "primary_url": "https://www.aibase.com/news/30756",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "0a3dd40e84f8dc0f373ecec40652c9aa2efa1294",
-          "title": "OpenAI supports California’s bill to advance youth AI safety",
-          "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-31T07:00:00Z"
+          "id": "993b62ebd3b045f88455749478a3a8a0eb01d374",
+          "title": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
+          "url": "https://www.aibase.com/news/30756",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T08:37:35.918776Z"
+        },
+        {
+          "id": "7a3925be0500f61faf2bc38564a0aa79265bf14f",
+          "title": "Runway 发布首个界面世界模型 Solaris，实时逐帧生成动态交互界面",
+          "url": "https://www.aibase.com/zh/news/30756",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "993b62ebd3b045f88455749478a3a8a0eb01d374",
+          "title": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
+          "url": "https://www.aibase.com/news/30756",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T08:37:35.918776Z"
+        },
+        {
+          "id": "7a3925be0500f61faf2bc38564a0aa79265bf14f",
+          "title": "Runway 发布首个界面世界模型 Solaris，实时逐帧生成动态交互界面",
+          "url": "https://www.aibase.com/zh/news/30756",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T08:37:35.918776Z",
+      "latest_at": "2026-09-01T08:37:35.918776Z",
+      "primary_item": {
+        "id": "993b62ebd3b045f88455749478a3a8a0eb01d374",
+        "title": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
+        "url": "https://www.aibase.com/news/30756",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e83ff5faec70",
+      "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "primary_url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
+          "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T23:00:05.386000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "Anthropic：Newsroom（网页）"
       ],
       "items": [
         {
-          "id": "0a3dd40e84f8dc0f373ecec40652c9aa2efa1294",
-          "title": "OpenAI supports California’s bill to advance youth AI safety",
-          "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-31T07:00:00Z"
+          "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
+          "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T23:00:05.386000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
-      "importance_label": "官方更新",
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7109,
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8702,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T07:00:00Z",
-      "latest_at": "2026-08-31T07:00:00Z",
+      "earliest_at": "2026-08-31T23:00:05.386000Z",
+      "latest_at": "2026-08-31T23:00:05.386000Z",
       "primary_item": {
-        "id": "0a3dd40e84f8dc0f373ecec40652c9aa2efa1294",
-        "title": "OpenAI supports California’s bill to advance youth AI safety",
-        "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
+        "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+        "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_797e1a3c0739",
+      "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+      "url": "https://www.aibase.com/news/30752",
+      "primary_url": "https://www.aibase.com/news/30752",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
+          "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+          "url": "https://www.aibase.com/news/30752",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T06:37:39.476092Z"
+        },
+        {
+          "id": "26d12fb68f5a78655e75cd449092d2542674b5bc",
+          "title": "1200 个 AI 智能体集体「越狱」攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+          "url": "https://www.aibase.com/zh/news/30752",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
+          "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+          "url": "https://www.aibase.com/news/30752",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T06:37:39.476092Z"
+        },
+        {
+          "id": "26d12fb68f5a78655e75cd449092d2542674b5bc",
+          "title": "1200 个 AI 智能体集体「越狱」攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+          "url": "https://www.aibase.com/zh/news/30752",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9715,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T06:37:39.476092Z",
+      "latest_at": "2026-09-01T08:37:35.918776Z",
+      "primary_item": {
+        "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
+        "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+        "url": "https://www.aibase.com/news/30752",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_776339958332",
+      "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
+      "url": "https://x.com/AnthropicAI/status/2094577944056430865",
+      "primary_url": "https://x.com/AnthropicAI/status/2094577944056430865",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5c4b3fed1f86f047d3dbbd88f0a4b2aa2ec28bee",
+          "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
+          "url": "https://x.com/AnthropicAI/status/2094577944056430865",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T00:07:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Anthropic (@AnthropicAI)"
+      ],
+      "items": [
+        {
+          "id": "5c4b3fed1f86f047d3dbbd88f0a4b2aa2ec28bee",
+          "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
+          "url": "https://x.com/AnthropicAI/status/2094577944056430865",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T00:07:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8845,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-01T00:07:51Z",
+      "latest_at": "2026-09-01T00:07:51Z",
+      "primary_item": {
+        "id": "5c4b3fed1f86f047d3dbbd88f0a4b2aa2ec28bee",
+        "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
+        "url": "https://x.com/AnthropicAI/status/2094577944056430865",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ab46be1c8945",
+      "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+      "url": "https://www.ithome.com/0/996/637.htm",
+      "primary_url": "https://www.ithome.com/0/996/637.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7cb41d08fa1c81ff847c4bdf2771e90755cb9ec8",
+          "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+          "url": "https://www.ithome.com/0/996/637.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T11:35:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7cb41d08fa1c81ff847c4bdf2771e90755cb9ec8",
+          "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+          "url": "https://www.ithome.com/0/996/637.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T11:35:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.738,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-31T11:35:24Z",
+      "latest_at": "2026-08-31T11:35:24Z",
+      "primary_item": {
+        "id": "7cb41d08fa1c81ff847c4bdf2771e90755cb9ec8",
+        "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+        "url": "https://www.ithome.com/0/996/637.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -243,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9715,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -268,129 +549,6 @@
         "url": "https://www.aibase.com/news/30749",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e83ff5faec70",
-      "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "primary_url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
-          "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
-          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T23:00:05.386000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
-          "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
-          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T23:00:05.386000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8957,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T23:00:05.386000Z",
-      "latest_at": "2026-08-31T23:00:05.386000Z",
-      "primary_item": {
-        "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
-        "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
-        "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7bc341571432",
-      "title": "Polimill 打造日本下一代公共人工智能基础设施 / Polimill builds Japan's next-generation public AI infrastructure",
-      "url": "https://openai.com/index/polimill",
-      "primary_url": "https://openai.com/index/polimill",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1e84f18a2c8bbc68b17cceaa1bd2f965738acf98",
-          "title": "Polimill 打造日本下一代公共人工智能基础设施 / Polimill builds Japan's next-generation public AI infrastructure",
-          "url": "https://openai.com/index/polimill",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-31T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "1e84f18a2c8bbc68b17cceaa1bd2f965738acf98",
-          "title": "Polimill 打造日本下一代公共人工智能基础设施 / Polimill builds Japan's next-generation public AI infrastructure",
-          "url": "https://openai.com/index/polimill",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-31T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7109,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T07:00:00Z",
-      "latest_at": "2026-08-31T07:00:00Z",
-      "primary_item": {
-        "id": "1e84f18a2c8bbc68b17cceaa1bd2f965738acf98",
-        "title": "Polimill 打造日本下一代公共人工智能基础设施 / Polimill builds Japan's next-generation public AI infrastructure",
-        "url": "https://openai.com/index/polimill",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -447,15 +605,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9303,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -472,127 +630,6 @@
         "url": "https://www.aibase.com/news/30745",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_776339958332",
-      "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
-      "url": "https://x.com/AnthropicAI/status/2094577944056430865",
-      "primary_url": "https://x.com/AnthropicAI/status/2094577944056430865",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5c4b3fed1f86f047d3dbbd88f0a4b2aa2ec28bee",
-          "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
-          "url": "https://x.com/AnthropicAI/status/2094577944056430865",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T00:07:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Anthropic (@AnthropicAI)"
-      ],
-      "items": [
-        {
-          "id": "5c4b3fed1f86f047d3dbbd88f0a4b2aa2ec28bee",
-          "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
-          "url": "https://x.com/AnthropicAI/status/2094577944056430865",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T00:07:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9104,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T00:07:51Z",
-      "latest_at": "2026-09-01T00:07:51Z",
-      "primary_item": {
-        "id": "5c4b3fed1f86f047d3dbbd88f0a4b2aa2ec28bee",
-        "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
-        "url": "https://x.com/AnthropicAI/status/2094577944056430865",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ab46be1c8945",
-      "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-      "url": "https://www.ithome.com/0/996/637.htm",
-      "primary_url": "https://www.ithome.com/0/996/637.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7cb41d08fa1c81ff847c4bdf2771e90755cb9ec8",
-          "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-          "url": "https://www.ithome.com/0/996/637.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T11:35:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7cb41d08fa1c81ff847c4bdf2771e90755cb9ec8",
-          "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-          "url": "https://www.ithome.com/0/996/637.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T11:35:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7596,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T11:35:24Z",
-      "latest_at": "2026-08-31T11:35:24Z",
-      "primary_item": {
-        "id": "7cb41d08fa1c81ff847c4bdf2771e90755cb9ec8",
-        "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-        "url": "https://www.ithome.com/0/996/637.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -649,168 +686,6 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T03:37:33.218196Z",
-      "latest_at": "2026-09-01T05:30:01.624236Z",
-      "primary_item": {
-        "id": "96d288338f75e896213c1b6a05f8585077b74913",
-        "title": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
-        "url": "https://www.aibase.com/news/30747",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5e7f8c64579c",
-      "title": "千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
-      "url": "https://www.aibase.com/news/30746",
-      "primary_url": "https://www.aibase.com/news/30746",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "927c247b5360449d57984b36e9d02aa21055f01f",
-          "title": "千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
-          "url": "https://www.aibase.com/news/30746",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T03:37:33.218196Z"
-        },
-        {
-          "id": "e0fe688c96abcd0a6e8cff4b38277629ebdcab14",
-          "title": "千问学习功能升级：新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
-          "url": "https://www.aibase.com/zh/news/30746",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "927c247b5360449d57984b36e9d02aa21055f01f",
-          "title": "千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
-          "url": "https://www.aibase.com/news/30746",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T03:37:33.218196Z"
-        },
-        {
-          "id": "e0fe688c96abcd0a6e8cff4b38277629ebdcab14",
-          "title": "千问学习功能升级：新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
-          "url": "https://www.aibase.com/zh/news/30746",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T03:37:33.218196Z",
-      "latest_at": "2026-09-01T05:30:01.624236Z",
-      "primary_item": {
-        "id": "927c247b5360449d57984b36e9d02aa21055f01f",
-        "title": "千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
-        "url": "https://www.aibase.com/news/30746",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7c78371bfe8c",
-      "title": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
-      "url": "https://www.aibase.com/news/30731",
-      "primary_url": "https://www.aibase.com/news/30731",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b1ef7988e81fc8e3accf84dec6fcace25548e4f8",
-          "title": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
-          "url": "https://www.aibase.com/news/30731",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T01:37:33.365627Z"
-        },
-        {
-          "id": "f669322279fbded679eb5b576c82ebb4eb475534",
-          "title": "Anthropic 豪掷 350 亿美元联手 Lambda 加码云端算力",
-          "url": "https://www.aibase.com/zh/news/30731",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b1ef7988e81fc8e3accf84dec6fcace25548e4f8",
-          "title": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
-          "url": "https://www.aibase.com/news/30731",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T01:37:33.365627Z"
-        },
-        {
-          "id": "f669322279fbded679eb5b576c82ebb4eb475534",
-          "title": "Anthropic 豪掷 350 亿美元联手 Lambda 加码云端算力",
-          "url": "https://www.aibase.com/zh/news/30731",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
       "score": 0.7801,
       "importance": 0.7801,
       "importance_score": 0.7801,
@@ -828,12 +703,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T01:37:33.365627Z",
-      "latest_at": "2026-09-01T01:37:33.365627Z",
+      "earliest_at": "2026-09-01T03:37:33.218196Z",
+      "latest_at": "2026-09-01T05:30:01.624236Z",
       "primary_item": {
-        "id": "b1ef7988e81fc8e3accf84dec6fcace25548e4f8",
-        "title": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
-        "url": "https://www.aibase.com/news/30731",
+        "id": "96d288338f75e896213c1b6a05f8585077b74913",
+        "title": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
+        "url": "https://www.aibase.com/news/30747",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -963,15 +838,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6543,
-      "importance": 0.6543,
-      "importance_score": 0.6543,
+      "score": 0.6496,
+      "importance": 0.6496,
+      "importance_score": 0.6496,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.917,
+        "recency": 0.8909,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -989,26 +864,26 @@
       }
     },
     {
-      "story_id": "story_aa18387e0178",
-      "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
-      "url": "https://www.aibase.com/news/30733",
-      "primary_url": "https://www.aibase.com/news/30733",
+      "story_id": "story_5e7f8c64579c",
+      "title": "千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
+      "url": "https://www.aibase.com/news/30746",
+      "primary_url": "https://www.aibase.com/news/30746",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "841e769a59c4dbe64086aa689d16066676394d25",
-          "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
-          "url": "https://www.aibase.com/news/30733",
+          "id": "927c247b5360449d57984b36e9d02aa21055f01f",
+          "title": "千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
+          "url": "https://www.aibase.com/news/30746",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T01:37:33.365627Z"
+          "published_at": "2026-09-01T03:37:33.218196Z"
         },
         {
-          "id": "4a10aca2dcb0389fff5ee6080996663852ed1655",
-          "title": "Instagram 推 AI 个人资料新规：未公开标注将面临降权限流",
-          "url": "https://www.aibase.com/zh/news/30733",
+          "id": "e0fe688c96abcd0a6e8cff4b38277629ebdcab14",
+          "title": "千问学习功能升级：新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
+          "url": "https://www.aibase.com/zh/news/30746",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1022,18 +897,18 @@
       ],
       "items": [
         {
-          "id": "841e769a59c4dbe64086aa689d16066676394d25",
-          "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
-          "url": "https://www.aibase.com/news/30733",
+          "id": "927c247b5360449d57984b36e9d02aa21055f01f",
+          "title": "千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
+          "url": "https://www.aibase.com/news/30746",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T01:37:33.365627Z"
+          "published_at": "2026-09-01T03:37:33.218196Z"
         },
         {
-          "id": "4a10aca2dcb0389fff5ee6080996663852ed1655",
-          "title": "Instagram 推 AI 个人资料新规：未公开标注将面临降权限流",
-          "url": "https://www.aibase.com/zh/news/30733",
+          "id": "e0fe688c96abcd0a6e8cff4b38277629ebdcab14",
+          "title": "千问学习功能升级：新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
+          "url": "https://www.aibase.com/zh/news/30746",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1059,73 +934,93 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T01:37:33.365627Z",
-      "latest_at": "2026-09-01T01:37:33.365627Z",
+      "earliest_at": "2026-09-01T03:37:33.218196Z",
+      "latest_at": "2026-09-01T05:30:01.624236Z",
       "primary_item": {
-        "id": "841e769a59c4dbe64086aa689d16066676394d25",
-        "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
-        "url": "https://www.aibase.com/news/30733",
+        "id": "927c247b5360449d57984b36e9d02aa21055f01f",
+        "title": "千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
+        "url": "https://www.aibase.com/news/30746",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_797e1a3c0739",
-      "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-      "url": "https://www.aibase.com/news/30752",
-      "primary_url": "https://www.aibase.com/news/30752",
+      "story_id": "story_7c78371bfe8c",
+      "title": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
+      "url": "https://www.aibase.com/news/30731",
+      "primary_url": "https://www.aibase.com/news/30731",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
-          "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "url": "https://www.aibase.com/news/30752",
+          "id": "b1ef7988e81fc8e3accf84dec6fcace25548e4f8",
+          "title": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
+          "url": "https://www.aibase.com/news/30731",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T06:37:39.476092Z"
+          "published_at": "2026-09-01T01:37:33.365627Z"
+        },
+        {
+          "id": "f669322279fbded679eb5b576c82ebb4eb475534",
+          "title": "Anthropic 豪掷 350 亿美元联手 Lambda 加码云端算力",
+          "url": "https://www.aibase.com/zh/news/30731",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
-          "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "url": "https://www.aibase.com/news/30752",
+          "id": "b1ef7988e81fc8e3accf84dec6fcace25548e4f8",
+          "title": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
+          "url": "https://www.aibase.com/news/30731",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T06:37:39.476092Z"
+          "published_at": "2026-09-01T01:37:33.365627Z"
+        },
+        {
+          "id": "f669322279fbded679eb5b576c82ebb4eb475534",
+          "title": "Anthropic 豪掷 350 亿美元联手 Lambda 加码云端算力",
+          "url": "https://www.aibase.com/zh/news/30731",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9038,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T06:37:39.476092Z",
-      "latest_at": "2026-09-01T06:37:39.476092Z",
+      "earliest_at": "2026-09-01T01:37:33.365627Z",
+      "latest_at": "2026-09-01T01:37:33.365627Z",
       "primary_item": {
-        "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
-        "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-        "url": "https://www.aibase.com/news/30752",
+        "id": "b1ef7988e81fc8e3accf84dec6fcace25548e4f8",
+        "title": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
+        "url": "https://www.aibase.com/news/30731",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1183,15 +1078,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5803,
-      "importance": 0.5803,
-      "importance_score": 0.5803,
+      "score": 0.5762,
+      "importance": 0.5762,
+      "importance_score": 0.5762,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8047,
+        "recency": 0.7818,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1209,64 +1104,163 @@
       }
     },
     {
-      "story_id": "story_0591170e40db",
-      "title": "MiniMax新模型引爆股价大涨超20%，下半年蓄势冲击3万亿参数",
-      "url": "https://www.aibase.com/news/30751",
-      "primary_url": "https://www.aibase.com/news/30751",
+      "story_id": "story_aa18387e0178",
+      "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+      "url": "https://www.aibase.com/news/30733",
+      "primary_url": "https://www.aibase.com/news/30733",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9ed7f687304b1cf12ba7396369721865d3531713",
-          "title": "MiniMax新模型引爆股价大涨超20%，下半年蓄势冲击3万亿参数",
-          "url": "https://www.aibase.com/news/30751",
+          "id": "841e769a59c4dbe64086aa689d16066676394d25",
+          "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+          "url": "https://www.aibase.com/news/30733",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T06:37:39.476092Z"
+          "published_at": "2026-09-01T01:37:33.365627Z"
+        },
+        {
+          "id": "4a10aca2dcb0389fff5ee6080996663852ed1655",
+          "title": "Instagram 推 AI 个人资料新规：未公开标注将面临降权限流",
+          "url": "https://www.aibase.com/zh/news/30733",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "9ed7f687304b1cf12ba7396369721865d3531713",
-          "title": "MiniMax新模型引爆股价大涨超20%，下半年蓄势冲击3万亿参数",
-          "url": "https://www.aibase.com/news/30751",
+          "id": "841e769a59c4dbe64086aa689d16066676394d25",
+          "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+          "url": "https://www.aibase.com/news/30733",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T06:37:39.476092Z"
+          "published_at": "2026-09-01T01:37:33.365627Z"
+        },
+        {
+          "id": "4a10aca2dcb0389fff5ee6080996663852ed1655",
+          "title": "Instagram 推 AI 个人资料新规：未公开标注将面临降权限流",
+          "url": "https://www.aibase.com/zh/news/30733",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9038,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T06:37:39.476092Z",
-      "latest_at": "2026-09-01T06:37:39.476092Z",
+      "earliest_at": "2026-09-01T01:37:33.365627Z",
+      "latest_at": "2026-09-01T01:37:33.365627Z",
       "primary_item": {
-        "id": "9ed7f687304b1cf12ba7396369721865d3531713",
-        "title": "MiniMax新模型引爆股价大涨超20%，下半年蓄势冲击3万亿参数",
-        "url": "https://www.aibase.com/news/30751",
+        "id": "841e769a59c4dbe64086aa689d16066676394d25",
+        "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+        "url": "https://www.aibase.com/news/30733",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8aa666e4205d",
+      "title": "Robot Framework 语言",
+      "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
+      "primary_url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
+      "source": "docs.robotframework.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "507c5ae4e5801b67a46700dadac0a1c920b8c22d",
+          "title": "Robot Framework 语言",
+          "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
+          "source": "docs.robotframework.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T07:29:16.653000Z"
+        },
+        {
+          "id": "cbff148f2a701d369af27442cc89c86aea2d9f10",
+          "title": "Robot Framework 语言 / The Robot Framework language",
+          "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-01T07:22:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "docs.robotframework.org"
+      ],
+      "items": [
+        {
+          "id": "507c5ae4e5801b67a46700dadac0a1c920b8c22d",
+          "title": "Robot Framework 语言",
+          "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
+          "source": "docs.robotframework.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T07:29:16.653000Z"
+        },
+        {
+          "id": "cbff148f2a701d369af27442cc89c86aea2d9f10",
+          "title": "Robot Framework 语言 / The Robot Framework language",
+          "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-01T07:22:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9837,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-01T07:22:01Z",
+      "latest_at": "2026-09-01T07:29:16.653000Z",
+      "primary_item": {
+        "id": "507c5ae4e5801b67a46700dadac0a1c920b8c22d",
+        "title": "Robot Framework 语言",
+        "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
+        "source": "docs.robotframework.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1323,15 +1317,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5454,
-      "importance": 0.5454,
-      "importance_score": 0.5454,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9976,
+        "recency": 0.9692,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1346,6 +1340,85 @@
         "url": "https://news.ycombinator.com/item?id=49518316",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_d404617e2b7d",
+      "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪",
+      "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
+      "source": "www.bbc.co.uk",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "05e90e56c05e170d4da18c36f18aac7856b7845b",
+          "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪",
+          "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T05:21:18.396000Z"
+        },
+        {
+          "id": "907551e717f01c192616b9228ac56c7fa4e59b79",
+          "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪 / Flock's rapidly expanding AI surveillance network facing growing backlash in US",
+          "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-01T05:11:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "05e90e56c05e170d4da18c36f18aac7856b7845b",
+          "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪",
+          "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T05:21:18.396000Z"
+        },
+        {
+          "id": "907551e717f01c192616b9228ac56c7fa4e59b79",
+          "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪 / Flock's rapidly expanding AI surveillance network facing growing backlash in US",
+          "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-01T05:11:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9539,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-01T05:11:23Z",
+      "latest_at": "2026-09-01T05:21:18.396000Z",
+      "primary_item": {
+        "id": "05e90e56c05e170d4da18c36f18aac7856b7845b",
+        "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪",
+        "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
+        "source": "www.bbc.co.uk",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1401,15 +1474,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.978,
+        "recency": 0.9502,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1480,15 +1553,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
+      "score": 0.5323,
+      "importance": 0.5323,
+      "importance_score": 0.5323,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.952,
+        "recency": 0.9249,
         "story_heat": 0.25
       },
       "category": "watch",
