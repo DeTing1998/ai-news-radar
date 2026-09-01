@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-09-01T14:37:34.999487Z",
+  "generated_at": "2026-09-01T15:37:36.870108Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_85562dc16345",
+      "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "primary_url": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ac426f93cc4d633d75a0422dd833bfa0477f111d",
+          "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+          "url": "https://huggingface.co/blog/webgpu-kernels",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T00:00:00Z"
+        },
+        {
+          "id": "42ac8f40a72438975c76721d9af4324ae9b281f9",
+          "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
+          "url": "https://huggingface.co/blog/webgpu-kernels",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ac426f93cc4d633d75a0422dd833bfa0477f111d",
+          "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+          "url": "https://huggingface.co/blog/webgpu-kernels",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T00:00:00Z"
+        },
+        {
+          "id": "42ac8f40a72438975c76721d9af4324ae9b281f9",
+          "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
+          "url": "https://huggingface.co/blog/webgpu-kernels",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8546,
+      "importance": 0.8546,
+      "importance_score": 0.8546,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.798,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T00:00:00Z",
+      "latest_at": "2026-09-01T00:00:00Z",
+      "primary_item": {
+        "id": "ac426f93cc4d633d75a0422dd833bfa0477f111d",
+        "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+        "url": "https://huggingface.co/blog/webgpu-kernels",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_91992ed9f82d",
       "title": "Codex CLI 0.152.0",
@@ -38,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
+      "score": 0.8296,
+      "importance": 0.8296,
+      "importance_score": 0.8296,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8096,
+        "recency": 0.798,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +144,68 @@
         "title": "Codex CLI 0.152.0",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_23f6eecf9075",
+      "title": "Copilot model access update for GitHub Team plans",
+      "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+      "primary_url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
+          "title": "Copilot model access update for GitHub Team plans",
+          "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T21:58:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
+          "title": "Copilot model access update for GitHub Team plans",
+          "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T21:58:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.775,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T21:58:46Z",
+      "latest_at": "2026-08-31T21:58:46Z",
+      "primary_item": {
+        "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
+        "title": "Copilot model access update for GitHub Team plans",
+        "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -119,15 +263,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
+      "score": 0.7971,
+      "importance": 0.7971,
+      "importance_score": 0.7971,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9722,
+        "recency": 0.9582,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -200,15 +344,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -262,15 +406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.798,
+        "recency": 0.7866,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -342,15 +486,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.8781,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -404,15 +548,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
+      "score": 0.7345,
+      "importance": 0.7345,
+      "importance_score": 0.7345,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8111,
+        "recency": 0.7995,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -483,15 +627,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.8781,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -545,15 +689,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -569,6 +713,193 @@
         "url": "https://www.aibase.com/news/30760",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "很多人准备做模型微调，第一反应是找教程、配环境、堆显卡，真上手才发现，很多基础概念还没搞明白：Base、SFT、LoRA、QLoRA、adapter、loss，这些名字都见过，但不知道各自解决什么问题。这篇文章可以作为“微调入门词典”收藏，会少走很多弯路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-09-01",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "cbf38a8a609a15677616ea0b3c8989c7e8a1c773",
+          "title": "很多人准备做模型微调，第一反应是找教程、配环境、堆显卡，真上手才发现，很多基础概念还没搞明白：Base、SFT、LoRA、QLoRA、adapter、loss，这些名字都见过，但不知道各自解决什么问题。这篇文章可以作为“微调入门词典”收藏，会少走很多弯路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T15:37:36.870108Z"
+        },
+        {
+          "id": "ada5b337d8ad57226895d816bd314bac1e8a872a",
+          "title": "很多人找开源模型都会刷到Hugging Face，但第一次打开很容易被各种英文、模型名劝退：资源很多，却不知道哪个能直接用、哪个要下载。这篇文章适合想试试开源AI工具、下载本地模型、找数据集和论文的小白。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T15:37:36.870108Z"
+        },
+        {
+          "id": "e58a46decc18b7f8b22b7cd0dede756d2b5ef005",
+          "title": "AI 音乐行业正迎来版权风暴与产品创新的激烈碰撞。多起高额版权诉讼搅动行业根基，合规已经成为所有从业者绕不开的命题。Stability AI 获得巨头加持完成融资，多款工具落地分段编辑、对话修歌、实时音频生成等实用能力，还有多篇前沿音频论文发布。一起来看看AI音乐赛道的最新变化。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:37:31.040095Z"
+        },
+        {
+          "id": "95732a8b21b870532a55f3f388406b8303c4998a",
+          "title": "MiniMax H3 Max凭借超快的音视频生成速度，跨过实时AI直播的技术门槛。海外开发者借此打造出24 小时AI直播网站，观众发布弹幕指令即可实时改写剧情走向。虽然实时直播仍存在并发、画面一致性等等问题，但它把AI视频从一次性制作工具变成持续响应的动态内容系统，给创作者们也打开了全新交互的想象空间！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:37:31.040095Z"
+        },
+        {
+          "id": "e76cc291762bce3356e39ba5df9092606794425a",
+          "title": "做海报、封面、PPT、网页时，想让 AI 画得更准，或者和设计同事沟通得更清楚，都缺一套能直接指认的版式宝典。作者把原来整理的100种排版扩展到350种，按构图逻辑、视觉原则、网页UI、影视画面、中国传统构图、演示文稿等8类整理，还提供高清图、缩略图和CSV/JSON数据。找灵感、学构图、写提示词，都可以直接收藏这套开源图鉴。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:37:31.040095Z"
+        },
+        {
+          "id": "8aeec69765ef03d34b4828d767541208a2bf9a80",
+          "title": "很多人学AI、编程、写作时收藏教程、刷视频、记笔记，真要动手还是卡住。问题往往不在学得少，而是没有把知识变成可用能力。作者这篇文章把如何快速学习拆成7个原则：先动手做，尽快拿反馈；遇到问题先挣扎几分钟，再去问 AI；在真实问题里即时学习；用复述和教学检查自己是否真的懂了。快来从今天开始实操起来！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:37:31.040095Z"
+        },
+        {
+          "id": "af71c35f94490695cf27af6f1d202851943a0e97",
+          "title": "很多团队一用上Coding Agent，最先感受到的不是“效率飞升”，而是 token 成本、工具上下文、模型选择和会话失控一起冒出来。Uber 则是把AI 编程真正当成一座“软件工厂”来运营。这篇博客将介绍他们如何思考软件工厂：智能体会话运行的四个层次、他们用于分解支出的成本公式、他们如何衡量每一项，以及如何在每一层优化这些项。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:37:31.040095Z"
+        },
+        {
+          "id": "38f7cf9cdf793872bd4302a4ad5e01d47ff0bdb0",
+          "title": "这篇文章非常适合AI视频新手、短剧创作者看。作者用《大话西游》《盗梦空间》《闪灵》等经典片段做拉片，拆解了正反打、交叉剪辑、跳切、空镜、匹配剪辑、闪回这些常用手法，再落回到在AI漫剧里到底怎么用。快来一起探索下！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:37:31.040095Z"
+        }
+      ],
+      "source_count": 8,
+      "source_names": [
+        "社区更新 · 2026-08-31",
+        "社区更新 · 2026-09-01"
+      ],
+      "items": [
+        {
+          "id": "cbf38a8a609a15677616ea0b3c8989c7e8a1c773",
+          "title": "很多人准备做模型微调，第一反应是找教程、配环境、堆显卡，真上手才发现，很多基础概念还没搞明白：Base、SFT、LoRA、QLoRA、adapter、loss，这些名字都见过，但不知道各自解决什么问题。这篇文章可以作为“微调入门词典”收藏，会少走很多弯路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T15:37:36.870108Z"
+        },
+        {
+          "id": "ada5b337d8ad57226895d816bd314bac1e8a872a",
+          "title": "很多人找开源模型都会刷到Hugging Face，但第一次打开很容易被各种英文、模型名劝退：资源很多，却不知道哪个能直接用、哪个要下载。这篇文章适合想试试开源AI工具、下载本地模型、找数据集和论文的小白。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T15:37:36.870108Z"
+        },
+        {
+          "id": "e58a46decc18b7f8b22b7cd0dede756d2b5ef005",
+          "title": "AI 音乐行业正迎来版权风暴与产品创新的激烈碰撞。多起高额版权诉讼搅动行业根基，合规已经成为所有从业者绕不开的命题。Stability AI 获得巨头加持完成融资，多款工具落地分段编辑、对话修歌、实时音频生成等实用能力，还有多篇前沿音频论文发布。一起来看看AI音乐赛道的最新变化。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:37:31.040095Z"
+        },
+        {
+          "id": "95732a8b21b870532a55f3f388406b8303c4998a",
+          "title": "MiniMax H3 Max凭借超快的音视频生成速度，跨过实时AI直播的技术门槛。海外开发者借此打造出24 小时AI直播网站，观众发布弹幕指令即可实时改写剧情走向。虽然实时直播仍存在并发、画面一致性等等问题，但它把AI视频从一次性制作工具变成持续响应的动态内容系统，给创作者们也打开了全新交互的想象空间！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:37:31.040095Z"
+        },
+        {
+          "id": "e76cc291762bce3356e39ba5df9092606794425a",
+          "title": "做海报、封面、PPT、网页时，想让 AI 画得更准，或者和设计同事沟通得更清楚，都缺一套能直接指认的版式宝典。作者把原来整理的100种排版扩展到350种，按构图逻辑、视觉原则、网页UI、影视画面、中国传统构图、演示文稿等8类整理，还提供高清图、缩略图和CSV/JSON数据。找灵感、学构图、写提示词，都可以直接收藏这套开源图鉴。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:37:31.040095Z"
+        },
+        {
+          "id": "8aeec69765ef03d34b4828d767541208a2bf9a80",
+          "title": "很多人学AI、编程、写作时收藏教程、刷视频、记笔记，真要动手还是卡住。问题往往不在学得少，而是没有把知识变成可用能力。作者这篇文章把如何快速学习拆成7个原则：先动手做，尽快拿反馈；遇到问题先挣扎几分钟，再去问 AI；在真实问题里即时学习；用复述和教学检查自己是否真的懂了。快来从今天开始实操起来！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:37:31.040095Z"
+        },
+        {
+          "id": "af71c35f94490695cf27af6f1d202851943a0e97",
+          "title": "很多团队一用上Coding Agent，最先感受到的不是“效率飞升”，而是 token 成本、工具上下文、模型选择和会话失控一起冒出来。Uber 则是把AI 编程真正当成一座“软件工厂”来运营。这篇博客将介绍他们如何思考软件工厂：智能体会话运行的四个层次、他们用于分解支出的成本公式、他们如何衡量每一项，以及如何在每一层优化这些项。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:37:31.040095Z"
+        },
+        {
+          "id": "38f7cf9cdf793872bd4302a4ad5e01d47ff0bdb0",
+          "title": "这篇文章非常适合AI视频新手、短剧创作者看。作者用《大话西游》《盗梦空间》《闪灵》等经典片段做拉片，拆解了正反打、交叉剪辑、跳切、空镜、匹配剪辑、闪回这些常用手法，再落回到在AI漫剧里到底怎么用。快来一起探索下！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T00:37:31.040095Z"
+        }
+      ],
+      "item_count": 8,
+      "duplicate_count": 8,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-01T00:37:31.040095Z",
+      "latest_at": "2026-09-01T15:37:36.870108Z",
+      "primary_item": {
+        "id": "cbf38a8a609a15677616ea0b3c8989c7e8a1c773",
+        "title": "很多人准备做模型微调，第一反应是找教程、配环境、堆显卡，真上手才发现，很多基础概念还没搞明白：Base、SFT、LoRA、QLoRA、adapter、loss，这些名字都见过，但不知道各自解决什么问题。这篇文章可以作为“微调入门词典”收藏，会少走很多弯路。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-09-01",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -625,15 +956,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.8409,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -650,156 +981,6 @@
         "url": "https://www.aibase.com/news/30745",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "AI 音乐行业正迎来版权风暴与产品创新的激烈碰撞。多起高额版权诉讼搅动行业根基，合规已经成为所有从业者绕不开的命题。Stability AI 获得巨头加持完成融资，多款工具落地分段编辑、对话修歌、实时音频生成等实用能力，还有多篇前沿音频论文发布。一起来看看AI音乐赛道的最新变化。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-08-31",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "e58a46decc18b7f8b22b7cd0dede756d2b5ef005",
-          "title": "AI 音乐行业正迎来版权风暴与产品创新的激烈碰撞。多起高额版权诉讼搅动行业根基，合规已经成为所有从业者绕不开的命题。Stability AI 获得巨头加持完成融资，多款工具落地分段编辑、对话修歌、实时音频生成等实用能力，还有多篇前沿音频论文发布。一起来看看AI音乐赛道的最新变化。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:37:31.040095Z"
-        },
-        {
-          "id": "95732a8b21b870532a55f3f388406b8303c4998a",
-          "title": "MiniMax H3 Max凭借超快的音视频生成速度，跨过实时AI直播的技术门槛。海外开发者借此打造出24 小时AI直播网站，观众发布弹幕指令即可实时改写剧情走向。虽然实时直播仍存在并发、画面一致性等等问题，但它把AI视频从一次性制作工具变成持续响应的动态内容系统，给创作者们也打开了全新交互的想象空间！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:37:31.040095Z"
-        },
-        {
-          "id": "e76cc291762bce3356e39ba5df9092606794425a",
-          "title": "做海报、封面、PPT、网页时，想让 AI 画得更准，或者和设计同事沟通得更清楚，都缺一套能直接指认的版式宝典。作者把原来整理的100种排版扩展到350种，按构图逻辑、视觉原则、网页UI、影视画面、中国传统构图、演示文稿等8类整理，还提供高清图、缩略图和CSV/JSON数据。找灵感、学构图、写提示词，都可以直接收藏这套开源图鉴。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:37:31.040095Z"
-        },
-        {
-          "id": "8aeec69765ef03d34b4828d767541208a2bf9a80",
-          "title": "很多人学AI、编程、写作时收藏教程、刷视频、记笔记，真要动手还是卡住。问题往往不在学得少，而是没有把知识变成可用能力。作者这篇文章把如何快速学习拆成7个原则：先动手做，尽快拿反馈；遇到问题先挣扎几分钟，再去问 AI；在真实问题里即时学习；用复述和教学检查自己是否真的懂了。快来从今天开始实操起来！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:37:31.040095Z"
-        },
-        {
-          "id": "af71c35f94490695cf27af6f1d202851943a0e97",
-          "title": "很多团队一用上Coding Agent，最先感受到的不是“效率飞升”，而是 token 成本、工具上下文、模型选择和会话失控一起冒出来。Uber 则是把AI 编程真正当成一座“软件工厂”来运营。这篇博客将介绍他们如何思考软件工厂：智能体会话运行的四个层次、他们用于分解支出的成本公式、他们如何衡量每一项，以及如何在每一层优化这些项。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:37:31.040095Z"
-        },
-        {
-          "id": "38f7cf9cdf793872bd4302a4ad5e01d47ff0bdb0",
-          "title": "这篇文章非常适合AI视频新手、短剧创作者看。作者用《大话西游》《盗梦空间》《闪灵》等经典片段做拉片，拆解了正反打、交叉剪辑、跳切、空镜、匹配剪辑、闪回这些常用手法，再落回到在AI漫剧里到底怎么用。快来一起探索下！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:37:31.040095Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "社区更新 · 2026-08-31"
-      ],
-      "items": [
-        {
-          "id": "e58a46decc18b7f8b22b7cd0dede756d2b5ef005",
-          "title": "AI 音乐行业正迎来版权风暴与产品创新的激烈碰撞。多起高额版权诉讼搅动行业根基，合规已经成为所有从业者绕不开的命题。Stability AI 获得巨头加持完成融资，多款工具落地分段编辑、对话修歌、实时音频生成等实用能力，还有多篇前沿音频论文发布。一起来看看AI音乐赛道的最新变化。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:37:31.040095Z"
-        },
-        {
-          "id": "95732a8b21b870532a55f3f388406b8303c4998a",
-          "title": "MiniMax H3 Max凭借超快的音视频生成速度，跨过实时AI直播的技术门槛。海外开发者借此打造出24 小时AI直播网站，观众发布弹幕指令即可实时改写剧情走向。虽然实时直播仍存在并发、画面一致性等等问题，但它把AI视频从一次性制作工具变成持续响应的动态内容系统，给创作者们也打开了全新交互的想象空间！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:37:31.040095Z"
-        },
-        {
-          "id": "e76cc291762bce3356e39ba5df9092606794425a",
-          "title": "做海报、封面、PPT、网页时，想让 AI 画得更准，或者和设计同事沟通得更清楚，都缺一套能直接指认的版式宝典。作者把原来整理的100种排版扩展到350种，按构图逻辑、视觉原则、网页UI、影视画面、中国传统构图、演示文稿等8类整理，还提供高清图、缩略图和CSV/JSON数据。找灵感、学构图、写提示词，都可以直接收藏这套开源图鉴。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:37:31.040095Z"
-        },
-        {
-          "id": "8aeec69765ef03d34b4828d767541208a2bf9a80",
-          "title": "很多人学AI、编程、写作时收藏教程、刷视频、记笔记，真要动手还是卡住。问题往往不在学得少，而是没有把知识变成可用能力。作者这篇文章把如何快速学习拆成7个原则：先动手做，尽快拿反馈；遇到问题先挣扎几分钟，再去问 AI；在真实问题里即时学习；用复述和教学检查自己是否真的懂了。快来从今天开始实操起来！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:37:31.040095Z"
-        },
-        {
-          "id": "af71c35f94490695cf27af6f1d202851943a0e97",
-          "title": "很多团队一用上Coding Agent，最先感受到的不是“效率飞升”，而是 token 成本、工具上下文、模型选择和会话失控一起冒出来。Uber 则是把AI 编程真正当成一座“软件工厂”来运营。这篇博客将介绍他们如何思考软件工厂：智能体会话运行的四个层次、他们用于分解支出的成本公式、他们如何衡量每一项，以及如何在每一层优化这些项。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:37:31.040095Z"
-        },
-        {
-          "id": "38f7cf9cdf793872bd4302a4ad5e01d47ff0bdb0",
-          "title": "这篇文章非常适合AI视频新手、短剧创作者看。作者用《大话西游》《盗梦空间》《闪灵》等经典片段做拉片，拆解了正反打、交叉剪辑、跳切、空镜、匹配剪辑、闪回这些常用手法，再落回到在AI漫剧里到底怎么用。快来一起探索下！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-31",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-01T00:37:31.040095Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6363,
-      "importance": 0.6363,
-      "importance_score": 0.6363,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.8169,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-01T00:37:31.040095Z",
-      "latest_at": "2026-09-01T00:37:31.040095Z",
-      "primary_item": {
-        "id": "e58a46decc18b7f8b22b7cd0dede756d2b5ef005",
-        "title": "AI 音乐行业正迎来版权风暴与产品创新的激烈碰撞。多起高额版权诉讼搅动行业根基，合规已经成为所有从业者绕不开的命题。Stability AI 获得巨头加持完成融资，多款工具落地分段编辑、对话修歌、实时音频生成等实用能力，还有多篇前沿音频论文发布。一起来看看AI音乐赛道的最新变化。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-08-31",
-        "source_name": "WaytoAGI"
       }
     },
     {
@@ -856,15 +1037,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.8409,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -937,15 +1118,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.8409,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -965,81 +1146,101 @@
       }
     },
     {
-      "story_id": "story_662ad6a9f4e0",
-      "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码 / Debian won&#8217;t ban AI code from its Linux distribution",
-      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "primary_url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_507d9d771647",
+      "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+      "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+      "primary_url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+      "source": "www.eff.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "c31cbc534aeee356d5e6e09febb9ce1bd7582231",
-          "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码 / Debian won&#8217;t ban AI code from its Linux distribution",
-          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-31T15:34:58Z"
+          "id": "2f891399b124d83d293d2152de6d981224719664",
+          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+          "source": "www.eff.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T14:41:25.376000Z"
         },
         {
-          "id": "af4e926d239e04b788a903a3bcf33f3bb3867157",
-          "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码 / Debian won’t ban AI code from its Linux distribution",
-          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-          "source": "The Verge",
+          "id": "39b94c93291404147770c6191455460b32be04e2",
+          "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "url": "https://news.ycombinator.com/item?id=49521315",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-01T13:12:12.420000Z"
+        },
+        {
+          "id": "1e103f3140fdd2b48b23170ea85c03917f2f41dd",
+          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法 / EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-31T15:34:58Z"
+          "published_at": "2026-09-01T12:53:51Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "The Verge"
+        "Hacker News",
+        "hackernews",
+        "www.eff.org"
       ],
       "items": [
         {
-          "id": "c31cbc534aeee356d5e6e09febb9ce1bd7582231",
-          "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码 / Debian won&#8217;t ban AI code from its Linux distribution",
-          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-31T15:34:58Z"
+          "id": "2f891399b124d83d293d2152de6d981224719664",
+          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+          "source": "www.eff.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T14:41:25.376000Z"
         },
         {
-          "id": "af4e926d239e04b788a903a3bcf33f3bb3867157",
-          "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码 / Debian won’t ban AI code from its Linux distribution",
-          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-          "source": "The Verge",
+          "id": "39b94c93291404147770c6191455460b32be04e2",
+          "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "url": "https://news.ycombinator.com/item?id=49521315",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-01T13:12:12.420000Z"
+        },
+        {
+          "id": "1e103f3140fdd2b48b23170ea85c03917f2f41dd",
+          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法 / EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-31T15:34:58Z"
+          "published_at": "2026-09-01T12:53:51Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5645,
-      "importance": 0.5645,
-      "importance_score": 0.5645,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5684,
+      "importance": 0.5684,
+      "importance_score": 0.5684,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.7169,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9866,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-31T15:34:58Z",
-      "latest_at": "2026-08-31T15:34:58Z",
+      "earliest_at": "2026-09-01T12:53:51Z",
+      "latest_at": "2026-09-01T14:41:25.376000Z",
       "primary_item": {
-        "id": "c31cbc534aeee356d5e6e09febb9ce1bd7582231",
-        "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码 / Debian won&#8217;t ban AI code from its Linux distribution",
-        "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "id": "2f891399b124d83d293d2152de6d981224719664",
+        "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+        "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+        "source": "www.eff.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1115,15 +1316,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5635,
-      "importance": 0.5635,
-      "importance_score": 0.5635,
+      "score": 0.561,
+      "importance": 0.561,
+      "importance_score": 0.561,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9594,
+        "recency": 0.9457,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1194,15 +1395,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8288,
+        "recency": 0.8169,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1275,15 +1476,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9895,
+        "recency": 0.9753,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1354,15 +1555,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9856,
+        "recency": 0.9715,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1377,85 +1578,6 @@
         "url": "https://zuzai.org",
         "source": "zuzai.org",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_507d9d771647",
-      "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-      "url": "https://news.ycombinator.com/item?id=49521315",
-      "primary_url": "https://news.ycombinator.com/item?id=49521315",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "39b94c93291404147770c6191455460b32be04e2",
-          "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-          "url": "https://news.ycombinator.com/item?id=49521315",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-01T13:12:12.420000Z"
-        },
-        {
-          "id": "1e103f3140fdd2b48b23170ea85c03917f2f41dd",
-          "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-01T12:53:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "39b94c93291404147770c6191455460b32be04e2",
-          "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-          "url": "https://news.ycombinator.com/item?id=49521315",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-01T13:12:12.420000Z"
-        },
-        {
-          "id": "1e103f3140fdd2b48b23170ea85c03917f2f41dd",
-          "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-01T12:53:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9797,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-01T12:53:51Z",
-      "latest_at": "2026-09-01T13:12:12.420000Z",
-      "primary_item": {
-        "id": "39b94c93291404147770c6191455460b32be04e2",
-        "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-        "url": "https://news.ycombinator.com/item?id=49521315",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1511,15 +1633,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9657,
+        "recency": 0.9518,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1534,85 +1656,6 @@
         "url": "https://www.anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_a11bf9f85c50",
-      "title": "Gitlawb / openclaude",
-      "url": "https://github.com/Gitlawb/openclaude",
-      "primary_url": "https://github.com/Gitlawb/openclaude",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "cb87ac141b7901ad2a0d848d04b180ec6ff1b15a",
-          "title": "Gitlawb / openclaude",
-          "url": "https://github.com/Gitlawb/openclaude",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c64c74bf6b057751a7f4e798c2d8c5ec5ab09b94",
-          "title": "Gitlawb /      openclaude",
-          "url": "https://github.com/Gitlawb/openclaude",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-01T11:21:53.032000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "cb87ac141b7901ad2a0d848d04b180ec6ff1b15a",
-          "title": "Gitlawb / openclaude",
-          "url": "https://github.com/Gitlawb/openclaude",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c64c74bf6b057751a7f4e798c2d8c5ec5ab09b94",
-          "title": "Gitlawb /      openclaude",
-          "url": "https://github.com/Gitlawb/openclaude",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-01T11:21:53.032000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9576,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-01T11:21:53.032000Z",
-      "latest_at": "2026-09-01T11:37:33.457242Z",
-      "primary_item": {
-        "id": "cb87ac141b7901ad2a0d848d04b180ec6ff1b15a",
-        "title": "Gitlawb / openclaude",
-        "url": "https://github.com/Gitlawb/openclaude",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
       }
     }
   ]
