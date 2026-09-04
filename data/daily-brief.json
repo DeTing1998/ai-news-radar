@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T17:37:37.113335Z",
+  "generated_at": "2026-09-04T07:37:34.541795Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -31,7 +31,7 @@
         },
         {
           "id": "d30e8179113b77a7d00648f683011d197469deac",
-          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "title": "隆重推出 WeatherNext 3，我们最先进、最准确的全球天气人工智能模型 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3",
           "source": "Readhub · AI",
           "source_name": "TopHub",
@@ -66,7 +66,7 @@
         },
         {
           "id": "d30e8179113b77a7d00648f683011d197469deac",
-          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "title": "隆重推出 WeatherNext 3，我们最先进、最准确的全球天气人工智能模型 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3",
           "source": "Readhub · AI",
           "source_name": "TopHub",
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8874,
-      "importance": 0.8874,
-      "importance_score": 0.8874,
+      "score": 0.8557,
+      "importance": 0.8557,
+      "importance_score": 0.8557,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9633,
+        "recency": 0.787,
         "story_heat": 0.5
       },
       "category": "official",
@@ -101,6 +101,88 @@
         "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
         "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
         "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5190d2a1dccd",
+      "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders: $1B to protect essential services",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "primary_url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5804d8c9d0b5ba16cf8a938e1785fb440e9402a2",
+          "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders: $1B to protect essential services",
+          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T13:15:00Z"
+        },
+        {
+          "id": "7badb4cb05132b3e750a7ab064265f6163d0eca6",
+          "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
+          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T13:15:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "5804d8c9d0b5ba16cf8a938e1785fb440e9402a2",
+          "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders: $1B to protect essential services",
+          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T13:15:00Z"
+        },
+        {
+          "id": "7badb4cb05132b3e750a7ab064265f6163d0eca6",
+          "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
+          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T13:15:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7669,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T13:15:00Z",
+      "latest_at": "2026-09-03T13:15:00Z",
+      "primary_item": {
+        "id": "5804d8c9d0b5ba16cf8a938e1785fb440e9402a2",
+        "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders: $1B to protect essential services",
+        "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -177,15 +259,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8605,
-      "importance": 0.8605,
-      "importance_score": 0.8605,
+      "score": 0.8302,
+      "importance": 0.8302,
+      "importance_score": 0.8302,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.91,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9219,
+        "recency": 0.7532,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -201,6 +283,187 @@
         "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
         "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
         "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fda8903abd0e",
+      "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
+          "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T18:50:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
+          "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T18:50:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8314,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T18:50:38Z",
+      "latest_at": "2026-09-03T18:50:38Z",
+      "primary_item": {
+        "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
+        "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e6a4832f97cd",
+      "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+      "url": "https://ifm.ai/blog/k2",
+      "primary_url": "https://ifm.ai/blog/k2",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bccf86bca547ad2854e02715a6fd8cb79de70012",
+          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+          "url": "https://ifm.ai/blog/k2",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T17:35:09.004000Z"
+        },
+        {
+          "id": "a358cf099e44b982be454303e9e521b6774fd746",
+          "title": "K2 Horizon：前沿性能，极致开放",
+          "url": "https://ifm.ai/blog/k2",
+          "source": "ifm.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-03T17:35:09.004000Z"
+        },
+        {
+          "id": "fb3b63c85ca3b40e5286916917da70cc4360812f",
+          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期 / K2 Horizon: A connected fleet of six open models",
+          "url": "https://ifm.ai/blog/k2",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-03T15:36:43Z"
+        },
+        {
+          "id": "7cfa6350b9aa58b9e7b373f7e8f88d414b6f392b",
+          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期 / K2 Horizon: Frontier Performance, Radically Open",
+          "url": "https://ifm.ai/blog/k2",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T15:36:43Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "ifm.ai"
+      ],
+      "items": [
+        {
+          "id": "bccf86bca547ad2854e02715a6fd8cb79de70012",
+          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+          "url": "https://ifm.ai/blog/k2",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T17:35:09.004000Z"
+        },
+        {
+          "id": "a358cf099e44b982be454303e9e521b6774fd746",
+          "title": "K2 Horizon：前沿性能，极致开放",
+          "url": "https://ifm.ai/blog/k2",
+          "source": "ifm.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-03T17:35:09.004000Z"
+        },
+        {
+          "id": "fb3b63c85ca3b40e5286916917da70cc4360812f",
+          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期 / K2 Horizon: A connected fleet of six open models",
+          "url": "https://ifm.ai/blog/k2",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-03T15:36:43Z"
+        },
+        {
+          "id": "7cfa6350b9aa58b9e7b373f7e8f88d414b6f392b",
+          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期 / K2 Horizon: Frontier Performance, Radically Open",
+          "url": "https://ifm.ai/blog/k2",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T15:36:43Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8165,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T15:36:43Z",
+      "latest_at": "2026-09-03T17:35:09.004000Z",
+      "primary_item": {
+        "id": "bccf86bca547ad2854e02715a6fd8cb79de70012",
+        "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+        "url": "https://ifm.ai/blog/k2",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -239,15 +502,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8489,
-      "importance": 0.8489,
-      "importance_score": 0.8489,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9385,
+        "recency": 0.7667,
         "story_heat": 0.0
       },
       "category": "official",
@@ -268,7 +531,7 @@
     },
     {
       "story_id": "story_bedb7b253059",
-      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "title": "适合初学者的 GitHub Copilot 应用程序：同时运行多个代理 / GitHub Copilot app for Beginners: Run several agents at once",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
       "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
       "source": "GitHub AI & ML",
@@ -276,7 +539,7 @@
       "sources": [
         {
           "id": "f989ccabdf30490b91437d7eac958d0034f29c12",
-          "title": "GitHub Copilot app for Beginners: Run several agents at once",
+          "title": "适合初学者的 GitHub Copilot 应用程序：同时运行多个代理 / GitHub Copilot app for Beginners: Run several agents at once",
           "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
           "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
@@ -291,7 +554,7 @@
       "items": [
         {
           "id": "f989ccabdf30490b91437d7eac958d0034f29c12",
-          "title": "GitHub Copilot app for Beginners: Run several agents at once",
+          "title": "适合初学者的 GitHub Copilot 应用程序：同时运行多个代理 / GitHub Copilot app for Beginners: Run several agents at once",
           "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
           "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
@@ -301,15 +564,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8478,
-      "importance": 0.8478,
-      "importance_score": 0.8478,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9768,
+        "recency": 0.798,
         "story_heat": 0.0
       },
       "category": "official",
@@ -322,71 +585,9 @@
       "latest_at": "2026-09-03T16:00:00Z",
       "primary_item": {
         "id": "f989ccabdf30490b91437d7eac958d0034f29c12",
-        "title": "GitHub Copilot app for Beginners: Run several agents at once",
+        "title": "适合初学者的 GitHub Copilot 应用程序：同时运行多个代理 / GitHub Copilot app for Beginners: Run several agents at once",
         "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_0f383ed58ca6",
-      "title": "Reopening Copilot Business and Enterprise signups",
-      "url": "https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups",
-      "primary_url": "https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "58c350b00aa87902ab0ee194138f013d6df316d3",
-          "title": "Reopening Copilot Business and Enterprise signups",
-          "url": "https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T14:40:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "58c350b00aa87902ab0ee194138f013d6df316d3",
-          "title": "Reopening Copilot Business and Enterprise signups",
-          "url": "https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T14:40:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8445,
-      "importance": 0.8445,
-      "importance_score": 0.8445,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9583,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T14:40:43Z",
-      "latest_at": "2026-09-03T14:40:43Z",
-      "primary_item": {
-        "id": "58c350b00aa87902ab0ee194138f013d6df316d3",
-        "title": "Reopening Copilot Business and Enterprise signups",
-        "url": "https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -444,15 +645,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9548,
+        "recency": 0.7801,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -472,87 +673,311 @@
       }
     },
     {
-      "story_id": "story_362ae46d9e3c",
-      "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
-      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
-      "primary_url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+      "story_id": "story_61dcf1445268",
+      "title": "Upcoming deprecation of selected GitHub Copilot models",
+      "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+      "primary_url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fedccde1eb5192d77c242bfdfbf6ca8980c40fec",
+          "title": "Upcoming deprecation of selected GitHub Copilot models",
+          "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T19:40:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "fedccde1eb5192d77c242bfdfbf6ca8980c40fec",
+          "title": "Upcoming deprecation of selected GitHub Copilot models",
+          "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T19:40:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8414,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T19:40:14Z",
+      "latest_at": "2026-09-03T19:40:14Z",
+      "primary_item": {
+        "id": "fedccde1eb5192d77c242bfdfbf6ca8980c40fec",
+        "title": "Upcoming deprecation of selected GitHub Copilot models",
+        "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_787cd86e8448",
+      "title": "AI 数据中心新贵 Crusoe 融资 30 亿美元：估值 300 亿，刚签下 130 亿美元大单",
+      "url": "https://www.aibase.com/news/30838",
+      "primary_url": "https://www.aibase.com/news/30838",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0c968cc49aba7c4ae7142d53f90163c750dc48b2",
+          "title": "AI 数据中心新贵 Crusoe 融资 30 亿美元：估值 300 亿，刚签下 130 亿美元大单",
+          "url": "https://www.aibase.com/news/30838",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-04T07:37:34.541795Z"
+        },
+        {
+          "id": "a29303a8a0309c59b5725f0ab9ea3a4c4cac4c42",
+          "title": "AI 数据中心新贵 Crusoe 融资 30 亿美元：估值 300 亿，刚签下 130 亿美元大单",
+          "url": "https://www.aibase.com/zh/news/30838",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0c968cc49aba7c4ae7142d53f90163c750dc48b2",
+          "title": "AI 数据中心新贵 Crusoe 融资 30 亿美元：估值 300 亿，刚签下 130 亿美元大单",
+          "url": "https://www.aibase.com/news/30838",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-04T07:37:34.541795Z"
+        },
+        {
+          "id": "a29303a8a0309c59b5725f0ab9ea3a4c4cac4c42",
+          "title": "AI 数据中心新贵 Crusoe 融资 30 亿美元：估值 300 亿，刚签下 130 亿美元大单",
+          "url": "https://www.aibase.com/zh/news/30838",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T07:37:34.541795Z",
+      "latest_at": "2026-09-04T07:37:34.541795Z",
+      "primary_item": {
+        "id": "0c968cc49aba7c4ae7142d53f90163c750dc48b2",
+        "title": "AI 数据中心新贵 Crusoe 融资 30 亿美元：估值 300 亿，刚签下 130 亿美元大单",
+        "url": "https://www.aibase.com/news/30838",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_72dc509d2911",
+      "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+      "primary_url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "69e08950184371e02181cb3758418f7128170d5f",
+          "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
+          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T18:01:45Z"
+        },
+        {
+          "id": "ebc7b6add10553056ab29a942d379a905bda06a3",
+          "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议 / OpenAI launches Astra, its powerful (and controversial) new model",
+          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-03T18:01:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "69e08950184371e02181cb3758418f7128170d5f",
+          "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
+          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T18:01:45Z"
+        },
+        {
+          "id": "ebc7b6add10553056ab29a942d379a905bda06a3",
+          "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议 / OpenAI launches Astra, its powerful (and controversial) new model",
+          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-03T18:01:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8217,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T18:01:45Z",
+      "latest_at": "2026-09-03T18:01:45Z",
+      "primary_item": {
+        "id": "69e08950184371e02181cb3758418f7128170d5f",
+        "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
+        "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_389074cdbd59",
+      "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+      "url": "https://arcprize.org/blog/astra",
+      "primary_url": "https://arcprize.org/blog/astra",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9fe52d94d5189dd53e827e208467121ac63298a6",
-          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
-          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "id": "c7796974a79b0dc31d9e17758cd7136e5b88aa6a",
+          "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "url": "https://arcprize.org/blog/astra",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-03T04:49:35.840000Z"
+          "published_at": "2026-09-04T00:07:48.532000Z"
         },
         {
-          "id": "c338a7bf29802a14025c81949bd12d16edac085f",
-          "title": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
-          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
-          "source": "metr.org",
+          "id": "a3e9b5238b02867c9479b2bbc573f770ecc91b0a",
+          "title": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
+          "url": "https://arcprize.org/blog/astra",
+          "source": "arcprize.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-03T04:49:35.840000Z"
+          "published_at": "2026-09-04T00:07:48.532000Z"
         },
         {
-          "id": "fd1c9c23263213b3b7f8e8c8a13e1650d407f7d2",
-          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告 / METR Report on OpenAI / Hugging Face Hacking Incident",
-          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-02T23:08:47Z"
+          "id": "8e70f720ad1e9aac50b1c898477f76bdd4aa4e86",
+          "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线 / OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "url": "https://arcprize.org/blog/astra",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T19:45:00Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News",
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "metr.org"
+        "arcprize.org"
       ],
       "items": [
         {
-          "id": "9fe52d94d5189dd53e827e208467121ac63298a6",
-          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
-          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "id": "c7796974a79b0dc31d9e17758cd7136e5b88aa6a",
+          "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "url": "https://arcprize.org/blog/astra",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-03T04:49:35.840000Z"
+          "published_at": "2026-09-04T00:07:48.532000Z"
         },
         {
-          "id": "c338a7bf29802a14025c81949bd12d16edac085f",
-          "title": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
-          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
-          "source": "metr.org",
+          "id": "a3e9b5238b02867c9479b2bbc573f770ecc91b0a",
+          "title": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
+          "url": "https://arcprize.org/blog/astra",
+          "source": "arcprize.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-03T04:49:35.840000Z"
+          "published_at": "2026-09-04T00:07:48.532000Z"
         },
         {
-          "id": "fd1c9c23263213b3b7f8e8c8a13e1650d407f7d2",
-          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告 / METR Report on OpenAI / Hugging Face Hacking Incident",
-          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-02T23:08:47Z"
+          "id": "8e70f720ad1e9aac50b1c898477f76bdd4aa4e86",
+          "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线 / OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "url": "https://arcprize.org/blog/astra",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T19:45:00Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.86,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8312,
+        "recency": 0.8974,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -561,204 +986,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-02T23:08:47Z",
-      "latest_at": "2026-09-03T04:49:35.840000Z",
+      "earliest_at": "2026-09-03T19:45:00Z",
+      "latest_at": "2026-09-04T00:07:48.532000Z",
       "primary_item": {
-        "id": "9fe52d94d5189dd53e827e208467121ac63298a6",
-        "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
-        "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+        "id": "c7796974a79b0dc31d9e17758cd7136e5b88aa6a",
+        "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+        "url": "https://arcprize.org/blog/astra",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.153.0 / Codex CLI 0.153.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
+      "story_id": "story_be4a3c542626",
+      "title": "Legora 使用 GPT-6 Astra 在几分钟内审查了 41 个文档 / Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "primary_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
-          "title": "法典 CLI 0.153.0 / Codex CLI 0.153.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
+          "title": "Legora 使用 GPT-6 Astra 在几分钟内审查了 41 个文档 / Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
+          "published_at": "2026-09-03T12:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
-          "title": "法典 CLI 0.153.0 / Codex CLI 0.153.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
+          "title": "Legora 使用 GPT-6 Astra 在几分钟内审查了 41 个文档 / Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
+          "published_at": "2026-09-03T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7753,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T00:00:00Z",
-      "latest_at": "2026-09-03T00:00:00Z",
-      "primary_item": {
-        "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
-        "title": "法典 CLI 0.153.0 / Codex CLI 0.153.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_86b47b47cb74",
-      "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层 / Give Your Coding Agents a Memory You Own",
-      "url": "https://huggingface.co/blog/funes",
-      "primary_url": "https://huggingface.co/blog/funes",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e80bb63911575b4bdfc0cecd7003ec089331352b",
-          "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层 / Give Your Coding Agents a Memory You Own",
-          "url": "https://huggingface.co/blog/funes",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        },
-        {
-          "id": "6aa15e10e47ed83879a1100362ce5c85340f5e66",
-          "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
-          "url": "https://huggingface.co/blog/funes",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e80bb63911575b4bdfc0cecd7003ec089331352b",
-          "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层 / Give Your Coding Agents a Memory You Own",
-          "url": "https://huggingface.co/blog/funes",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        },
-        {
-          "id": "6aa15e10e47ed83879a1100362ce5c85340f5e66",
-          "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
-          "url": "https://huggingface.co/blog/funes",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8445,
-      "importance": 0.8445,
-      "importance_score": 0.8445,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7753,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T00:00:00Z",
-      "latest_at": "2026-09-03T00:00:00Z",
-      "primary_item": {
-        "id": "e80bb63911575b4bdfc0cecd7003ec089331352b",
-        "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层 / Give Your Coding Agents a Memory You Own",
-        "url": "https://huggingface.co/blog/funes",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fa8fe6ff3059",
-      "title": "CodeQL 2.26.4 改进了 GitHub 操作安全检测 / CodeQL 2.26.4 improves GitHub actions security detections",
-      "url": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections",
-      "primary_url": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f7a1409b697d1b2c8889bd97dd00ee308a791264",
-          "title": "CodeQL 2.26.4 改进了 GitHub 操作安全检测 / CodeQL 2.26.4 improves GitHub actions security detections",
-          "url": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T14:04:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f7a1409b697d1b2c8889bd97dd00ee308a791264",
-          "title": "CodeQL 2.26.4 改进了 GitHub 操作安全检测 / CodeQL 2.26.4 improves GitHub actions security detections",
-          "url": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T14:04:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.835,
-      "importance": 0.835,
-      "importance_score": 0.835,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9501,
+        "recency": 0.7532,
         "story_heat": 0.0
       },
       "category": "official",
@@ -767,119 +1048,281 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T14:04:59Z",
-      "latest_at": "2026-09-03T14:04:59Z",
+      "earliest_at": "2026-09-03T12:00:00Z",
+      "latest_at": "2026-09-03T12:00:00Z",
       "primary_item": {
-        "id": "f7a1409b697d1b2c8889bd97dd00ee308a791264",
-        "title": "CodeQL 2.26.4 改进了 GitHub 操作安全检测 / CodeQL 2.26.4 improves GitHub actions security detections",
-        "url": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections",
-        "source": "GitHub Changelog",
+        "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
+        "title": "Legora 使用 GPT-6 Astra 在几分钟内审查了 41 个文档 / Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_ef02e4b156ea",
-      "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
+      "story_id": "story_802b31901bc5",
+      "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+      "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+      "primary_url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "264bb763f013e5868a70b4c5afb1043560d1c225",
-          "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T18:00:00Z"
-        },
-        {
-          "id": "7ef1a0850c49c5e081f7f6cb2be3988626111f6b",
-          "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-          "source": "GitHub Blog",
+          "id": "f5339e74c85067d67269ca03accd3a896f90c9fd",
+          "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+          "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-02T18:00:00Z"
+          "published_at": "2026-09-04T02:29:45Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "GitHub AI & ML",
-        "GitHub Blog"
+        "X：阿易 AI Notes (@AYi_AInotes)"
       ],
       "items": [
         {
-          "id": "264bb763f013e5868a70b4c5afb1043560d1c225",
-          "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T18:00:00Z"
-        },
-        {
-          "id": "7ef1a0850c49c5e081f7f6cb2be3988626111f6b",
-          "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-          "source": "GitHub Blog",
+          "id": "f5339e74c85067d67269ca03accd3a896f90c9fd",
+          "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+          "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-02T18:00:00Z"
+          "published_at": "2026-09-04T02:29:45Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
-      "importance_label": "官方更新",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7817,
+      "importance": 0.7817,
+      "importance_score": 0.7817,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7109,
-        "story_heat": 0.25
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9286,
+        "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-02T18:00:00Z",
-      "latest_at": "2026-09-02T18:00:00Z",
+      "earliest_at": "2026-09-04T02:29:45Z",
+      "latest_at": "2026-09-04T02:29:45Z",
       "primary_item": {
-        "id": "264bb763f013e5868a70b4c5afb1043560d1c225",
-        "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
+        "id": "f5339e74c85067d67269ca03accd3a896f90c9fd",
+        "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+        "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_3df1c2213630",
-      "title": "OpenAI宣布自研人形机器人 首款由乔纳森主导的AI终端拟于2027年发布",
-      "url": "https://www.aibase.com/news/30811",
-      "primary_url": "https://www.aibase.com/news/30811",
+      "story_id": "story_65b22040257e",
+      "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍",
+      "url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "90daac2c912a444025a044559d2234bb5f5c7e78",
+          "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍",
+          "url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T19:31:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "90daac2c912a444025a044559d2234bb5f5c7e78",
+          "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍",
+          "url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T19:31:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8396,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T19:31:13Z",
+      "latest_at": "2026-09-03T19:31:13Z",
+      "primary_item": {
+        "id": "90daac2c912a444025a044559d2234bb5f5c7e78",
+        "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍",
+        "url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4191638398ff",
+      "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra",
+      "url": "https://x.com/gdb/status/2095730639094079594",
+      "primary_url": "https://x.com/gdb/status/2095730639094079594",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8c305318b45ba86c5ff42dc1caab9c67afacb9fa",
+          "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra",
+          "url": "https://x.com/gdb/status/2095730639094079594",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T04:28:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Greg Brockman (@gdb)"
+      ],
+      "items": [
+        {
+          "id": "8c305318b45ba86c5ff42dc1caab9c67afacb9fa",
+          "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra",
+          "url": "https://x.com/gdb/status/2095730639094079594",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T04:28:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9555,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T04:28:15Z",
+      "latest_at": "2026-09-04T04:28:15Z",
+      "primary_item": {
+        "id": "8c305318b45ba86c5ff42dc1caab9c67afacb9fa",
+        "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra",
+        "url": "https://x.com/gdb/status/2095730639094079594",
+        "source": "X：Greg Brockman (@gdb)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_efb65c482f88",
+      "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
+      "url": "https://x.com/fchollet/status/2095598451115614371",
+      "primary_url": "https://x.com/fchollet/status/2095598451115614371",
+      "source": "X：Francois Chollet (@fchollet)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b87959710df4082dbf6573c19b9167a1210a7221",
+          "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
+          "url": "https://x.com/fchollet/status/2095598451115614371",
+          "source": "X：Francois Chollet (@fchollet)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T19:42:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Francois Chollet (@fchollet)"
+      ],
+      "items": [
+        {
+          "id": "b87959710df4082dbf6573c19b9167a1210a7221",
+          "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
+          "url": "https://x.com/fchollet/status/2095598451115614371",
+          "source": "X：Francois Chollet (@fchollet)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T19:42:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.842,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T19:42:59Z",
+      "latest_at": "2026-09-03T19:42:59Z",
+      "primary_item": {
+        "id": "b87959710df4082dbf6573c19b9167a1210a7221",
+        "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
+        "url": "https://x.com/fchollet/status/2095598451115614371",
+        "source": "X：Francois Chollet (@fchollet)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_30078c24b45a",
+      "title": "Vara获全球首个自主乳腺癌筛查AI认证",
+      "url": "https://www.aibase.com/news/30840",
+      "primary_url": "https://www.aibase.com/news/30840",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "632005871963f72efeb49e99c7bea5b99febc0f6",
-          "title": "OpenAI宣布自研人形机器人 首款由乔纳森主导的AI终端拟于2027年发布",
-          "url": "https://www.aibase.com/news/30811",
+          "id": "e2c90b07692dbeb6883fc9e25f6dc8d41d647285",
+          "title": "Vara获全球首个自主乳腺癌筛查AI认证",
+          "url": "https://www.aibase.com/news/30840",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-03T14:37:38.824442Z"
+          "published_at": "2026-09-04T07:37:34.541795Z"
         },
         {
-          "id": "b9506ce70e3eb1005e14af8979891b68b0a76f81",
-          "title": "OpenAI 宣布自研人形机器人，首款由乔纳森主导的 AI 终端拟于 2027 年发布",
-          "url": "https://www.aibase.com/zh/news/30811",
+          "id": "17a1cc4860c61901fb207087e5e41e707508a170",
+          "title": "Vara 获全球首个自主乳腺癌筛查 AI 认证",
+          "url": "https://www.aibase.com/zh/news/30840",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -893,18 +1336,18 @@
       ],
       "items": [
         {
-          "id": "632005871963f72efeb49e99c7bea5b99febc0f6",
-          "title": "OpenAI宣布自研人形机器人 首款由乔纳森主导的AI终端拟于2027年发布",
-          "url": "https://www.aibase.com/news/30811",
+          "id": "e2c90b07692dbeb6883fc9e25f6dc8d41d647285",
+          "title": "Vara获全球首个自主乳腺癌筛查AI认证",
+          "url": "https://www.aibase.com/news/30840",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-03T14:37:38.824442Z"
+          "published_at": "2026-09-04T07:37:34.541795Z"
         },
         {
-          "id": "b9506ce70e3eb1005e14af8979891b68b0a76f81",
-          "title": "OpenAI 宣布自研人形机器人，首款由乔纳森主导的 AI 终端拟于 2027 年发布",
-          "url": "https://www.aibase.com/zh/news/30811",
+          "id": "17a1cc4860c61901fb207087e5e41e707508a170",
+          "title": "Vara 获全球首个自主乳腺癌筛查 AI 认证",
+          "url": "https://www.aibase.com/zh/news/30840",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -913,15 +1356,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -930,376 +1373,93 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T14:37:38.824442Z",
-      "latest_at": "2026-09-03T14:37:38.824442Z",
+      "earliest_at": "2026-09-04T07:37:34.541795Z",
+      "latest_at": "2026-09-04T07:37:34.541795Z",
       "primary_item": {
-        "id": "632005871963f72efeb49e99c7bea5b99febc0f6",
-        "title": "OpenAI宣布自研人形机器人 首款由乔纳森主导的AI终端拟于2027年发布",
-        "url": "https://www.aibase.com/news/30811",
+        "id": "e2c90b07692dbeb6883fc9e25f6dc8d41d647285",
+        "title": "Vara获全球首个自主乳腺癌筛查AI认证",
+        "url": "https://www.aibase.com/news/30840",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b844bdeeb825",
-      "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "primary_url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
-          "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
-          "url": "https://huggingface.co/blog/train-to-paint-with-code",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        },
-        {
-          "id": "683633ba97a679d3af1e2a04324f1cf25c00ac2e",
-          "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
-          "url": "https://huggingface.co/blog/train-to-paint-with-code",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
-          "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
-          "url": "https://huggingface.co/blog/train-to-paint-with-code",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        },
-        {
-          "id": "683633ba97a679d3af1e2a04324f1cf25c00ac2e",
-          "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
-          "url": "https://huggingface.co/blog/train-to-paint-with-code",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8445,
-      "importance": 0.8445,
-      "importance_score": 0.8445,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7753,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T00:00:00Z",
-      "latest_at": "2026-09-03T00:00:00Z",
-      "primary_item": {
-        "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
-        "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
-        "url": "https://huggingface.co/blog/train-to-paint-with-code",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_df097f698cd7",
-      "title": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent",
-      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
-      "primary_url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
-      "source": "Google AI：DEV 作者专属（RSS）",
+      "story_id": "story_49e770d57ec7",
+      "title": "Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现",
+      "url": "https://x.com/rohanpaul_ai/status/2095616781880869271",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2095616781880869271",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "7644cc4f7c123462364a8d80cc849d1979a28df8",
-          "title": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent",
-          "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
-          "source": "Google AI：DEV 作者专属（RSS）",
+          "id": "02ee83fd257807ae53e2ccd7322431a802eedb7a",
+          "title": "Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现",
+          "url": "https://x.com/rohanpaul_ai/status/2095616781880869271",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-03T15:54:57Z"
+          "published_at": "2026-09-03T20:55:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI：DEV 作者专属（RSS）"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "items": [
         {
-          "id": "7644cc4f7c123462364a8d80cc849d1979a28df8",
-          "title": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent",
-          "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
-          "source": "Google AI：DEV 作者专属（RSS）",
+          "id": "02ee83fd257807ae53e2ccd7322431a802eedb7a",
+          "title": "Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现",
+          "url": "https://x.com/rohanpaul_ai/status/2095616781880869271",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-03T15:54:57Z"
+          "published_at": "2026-09-03T20:55:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9756,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T15:54:57Z",
-      "latest_at": "2026-09-03T15:54:57Z",
-      "primary_item": {
-        "id": "7644cc4f7c123462364a8d80cc849d1979a28df8",
-        "title": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent",
-        "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
-        "source": "Google AI：DEV 作者专属（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e6e5e5143ba1",
-      "title": "黄仁勋在 G20 喊话：别对 AI 过度恐惧和监管，被时代抛下才是最坏结果",
-      "url": "https://www.aibase.com/news/30807",
-      "primary_url": "https://www.aibase.com/news/30807",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "119546372a34e77b05a47bd827aac2a1889be3fd",
-          "title": "黄仁勋在 G20 喊话：别对 AI 过度恐惧和监管，被时代抛下才是最坏结果",
-          "url": "https://www.aibase.com/news/30807",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T14:37:38.824442Z"
-        },
-        {
-          "id": "a62544dd84e649fade93b19d472f24afb430eb94",
-          "title": "黄仁勋在 G20 喊话：别对 AI 过度恐惧和监管，被时代抛下才是最坏结果",
-          "url": "https://www.aibase.com/zh/news/30807",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "119546372a34e77b05a47bd827aac2a1889be3fd",
-          "title": "黄仁勋在 G20 喊话：别对 AI 过度恐惧和监管，被时代抛下才是最坏结果",
-          "url": "https://www.aibase.com/news/30807",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T14:37:38.824442Z"
-        },
-        {
-          "id": "a62544dd84e649fade93b19d472f24afb430eb94",
-          "title": "黄仁勋在 G20 喊话：别对 AI 过度恐惧和监管，被时代抛下才是最坏结果",
-          "url": "https://www.aibase.com/zh/news/30807",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T14:37:38.824442Z",
-      "latest_at": "2026-09-03T14:37:38.824442Z",
-      "primary_item": {
-        "id": "119546372a34e77b05a47bd827aac2a1889be3fd",
-        "title": "黄仁勋在 G20 喊话：别对 AI 过度恐惧和监管，被时代抛下才是最坏结果",
-        "url": "https://www.aibase.com/news/30807",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_63a7f1fab993",
-      "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
-      "url": "https://www.ithome.com/0/997/732.htm",
-      "primary_url": "https://www.ithome.com/0/997/732.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fad2dfd74493c51695248651d542e181fd7d16ca",
-          "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
-          "url": "https://www.ithome.com/0/997/732.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T23:50:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fad2dfd74493c51695248651d542e181fd7d16ca",
-          "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
-          "url": "https://www.ithome.com/0/997/732.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T23:50:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7734,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-02T23:50:05Z",
-      "latest_at": "2026-09-02T23:50:05Z",
-      "primary_item": {
-        "id": "fad2dfd74493c51695248651d542e181fd7d16ca",
-        "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
-        "url": "https://www.ithome.com/0/997/732.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bb8e9db98bdf",
-      "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
-      "url": "https://x.com/kimmonismus/status/2095265444999410146",
-      "primary_url": "https://x.com/kimmonismus/status/2095265444999410146",
-      "source": "X：Kim (@kimmonismus)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8d54c9435dccfb28ee0d5c0b588314b1b4d4257d",
-          "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
-          "url": "https://x.com/kimmonismus/status/2095265444999410146",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T21:39:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kim (@kimmonismus)"
-      ],
-      "items": [
-        {
-          "id": "8d54c9435dccfb28ee0d5c0b588314b1b4d4257d",
-          "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
-          "url": "https://x.com/kimmonismus/status/2095265444999410146",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T21:39:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7495,
+        "recency": 0.8569,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-02T21:39:44Z",
-      "latest_at": "2026-09-02T21:39:44Z",
+      "earliest_at": "2026-09-03T20:55:50Z",
+      "latest_at": "2026-09-03T20:55:50Z",
       "primary_item": {
-        "id": "8d54c9435dccfb28ee0d5c0b588314b1b4d4257d",
-        "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
-        "url": "https://x.com/kimmonismus/status/2095265444999410146",
-        "source": "X：Kim (@kimmonismus)",
+        "id": "02ee83fd257807ae53e2ccd7322431a802eedb7a",
+        "title": "Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现",
+        "url": "https://x.com/rohanpaul_ai/status/2095616781880869271",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_57ac748e3e56",
-      "title": "Content exclusions generally available in Copilot app and CLI",
-      "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-      "primary_url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
+      "story_id": "story_9bd483102428",
+      "title": "Multiple trusted publishing configurations for npm",
+      "url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
+      "primary_url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
-          "title": "Content exclusions generally available in Copilot app and CLI",
-          "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
+          "id": "bca5d6f0470bcdd4ec63c2492a192a3082d9d57e",
+          "title": "Multiple trusted publishing configurations for npm",
+          "url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-02T18:14:23Z"
+          "published_at": "2026-09-03T20:34:34Z"
         }
       ],
       "source_count": 1,
@@ -1308,168 +1468,26 @@
       ],
       "items": [
         {
-          "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
-          "title": "Content exclusions generally available in Copilot app and CLI",
-          "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
+          "id": "bca5d6f0470bcdd4ec63c2492a192a3082d9d57e",
+          "title": "Multiple trusted publishing configurations for npm",
+          "url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-02T18:14:23Z"
+          "published_at": "2026-09-03T20:34:34Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8004,
-      "importance": 0.8004,
-      "importance_score": 0.8004,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7134,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T18:14:23Z",
-      "latest_at": "2026-09-02T18:14:23Z",
-      "primary_item": {
-        "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
-        "title": "Content exclusions generally available in Copilot app and CLI",
-        "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3e603eb7bfd7",
-      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-      "url": "https://x.com/claudeai/status/2095226833293685100",
-      "primary_url": "https://x.com/claudeai/status/2095226833293685100",
-      "source": "X：Claude (@claudeai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
-          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-          "url": "https://x.com/claudeai/status/2095226833293685100",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T19:06:19Z"
-        },
-        {
-          "id": "8776f547892fba51390e8accae55f5eb6dc5fbe1",
-          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
-          "url": "https://x.com/claudeai/status/2095226833293685100",
-          "source": "Follow Builders · X · Claude",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-02T19:06:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Claude",
-        "X：Claude (@claudeai)"
-      ],
-      "items": [
-        {
-          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
-          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-          "url": "https://x.com/claudeai/status/2095226833293685100",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T19:06:19Z"
-        },
-        {
-          "id": "8776f547892fba51390e8accae55f5eb6dc5fbe1",
-          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
-          "url": "https://x.com/claudeai/status/2095226833293685100",
-          "source": "Follow Builders · X · Claude",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-02T19:06:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7224,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-02T19:06:19Z",
-      "latest_at": "2026-09-02T19:06:19Z",
-      "primary_item": {
-        "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
-        "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-        "url": "https://x.com/claudeai/status/2095226833293685100",
-        "source": "X：Claude (@claudeai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_87d57cde9876",
-      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-      "primary_url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
-          "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T21:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
-          "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T21:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7424,
+        "recency": 0.8525,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1478,13 +1496,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-02T21:00:00Z",
-      "latest_at": "2026-09-02T21:00:00Z",
+      "earliest_at": "2026-09-03T20:34:34Z",
+      "latest_at": "2026-09-03T20:34:34Z",
       "primary_item": {
-        "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
-        "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-        "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-        "source": "GitHub AI & ML",
+        "id": "bca5d6f0470bcdd4ec63c2492a192a3082d9d57e",
+        "title": "Multiple trusted publishing configurations for npm",
+        "url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     }
