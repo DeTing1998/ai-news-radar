@@ -1,8 +1,89 @@
 {
-  "generated_at": "2026-09-06T06:37:36.516964Z",
+  "generated_at": "2026-09-06T08:37:36.539399Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_ec06a66103fb",
+      "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+      "url": "https://www.ithome.com/0/998/927.htm",
+      "primary_url": "https://www.ithome.com/0/998/927.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
+          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+          "url": "https://www.ithome.com/0/998/927.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T06:46:16Z"
+        },
+        {
+          "id": "78ccc313f78c15d5f9130b5e1513e0673e4eaf7c",
+          "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
+          "url": "https://www.ithome.com/0/998/927.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T06:46:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
+          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+          "url": "https://www.ithome.com/0/998/927.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T06:46:16Z"
+        },
+        {
+          "id": "78ccc313f78c15d5f9130b5e1513e0673e4eaf7c",
+          "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
+          "url": "https://www.ithome.com/0/998/927.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T06:46:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8028,
+      "importance": 0.8028,
+      "importance_score": 0.8028,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9736,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-06T06:46:16Z",
+      "latest_at": "2026-09-06T06:46:16Z",
+      "primary_item": {
+        "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
+        "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+        "url": "https://www.ithome.com/0/998/927.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_1cb48b3f4151",
       "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
@@ -57,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8344,
+        "recency": 0.8107,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -156,15 +237,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7895,
-      "importance": 0.7895,
-      "importance_score": 0.7895,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7605,
+        "recency": 0.7388,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -237,15 +318,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7847,
-      "importance": 0.7847,
-      "importance_score": 0.7847,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7561,
+        "recency": 0.7346,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -261,168 +342,6 @@
         "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
         "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
         "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fdab4dad7ac0",
-      "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-      "url": "https://www.ithome.com/0/998/814.htm",
-      "primary_url": "https://www.ithome.com/0/998/814.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
-          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-          "url": "https://www.ithome.com/0/998/814.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:43:16Z"
-        },
-        {
-          "id": "c65181578f0b81966af424b1fc0ad36bb3b9d44c",
-          "title": "OpenAI 回应旗下智能体攻进德国网站：将彻底改革“AI 模型攻击”事件披露机制",
-          "url": "https://www.ithome.com/0/998/814.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T11:43:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
-          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-          "url": "https://www.ithome.com/0/998/814.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:43:16Z"
-        },
-        {
-          "id": "c65181578f0b81966af424b1fc0ad36bb3b9d44c",
-          "title": "OpenAI 回应旗下智能体攻进德国网站：将彻底改革“AI 模型攻击”事件披露机制",
-          "url": "https://www.ithome.com/0/998/814.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T11:43:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7611,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T11:43:16Z",
-      "latest_at": "2026-09-05T11:43:16Z",
-      "primary_item": {
-        "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
-        "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-        "url": "https://www.ithome.com/0/998/814.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_61744e8cf204",
-      "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
-      "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
-      "primary_url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
-          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
-          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T07:41:03Z"
-        },
-        {
-          "id": "34bb7ac591aae9d385061aa2e2715b26d555eb47",
-          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-05T07:41:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
-          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
-          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T07:41:03Z"
-        },
-        {
-          "id": "34bb7ac591aae9d385061aa2e2715b26d555eb47",
-          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-05T07:41:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.718,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T07:41:03Z",
-      "latest_at": "2026-09-05T07:41:03Z",
-      "primary_item": {
-        "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
-        "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
-        "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
-        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -461,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8386,
+        "recency": 0.8147,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -484,148 +403,6 @@
         "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
         "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e46c6749700e",
-      "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-      "url": "https://x.com/testingcatalog/status/2096350628054176240",
-      "primary_url": "https://x.com/testingcatalog/status/2096350628054176240",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
-          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-          "url": "https://x.com/testingcatalog/status/2096350628054176240",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T21:31:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Testing Catalog (@testingcatalog)"
-      ],
-      "items": [
-        {
-          "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
-          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-          "url": "https://x.com/testingcatalog/status/2096350628054176240",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T21:31:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8769,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T21:31:52Z",
-      "latest_at": "2026-09-05T21:31:52Z",
-      "primary_item": {
-        "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
-        "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-        "url": "https://x.com/testingcatalog/status/2096350628054176240",
-        "source": "X：Testing Catalog (@testingcatalog)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6379d9ed9541",
-      "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
-      "url": "https://www.ithome.com/0/998/758.htm",
-      "primary_url": "https://www.ithome.com/0/998/758.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1adb3448d4f2a91e09c9c5c6502214442d76848f",
-          "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
-          "url": "https://www.ithome.com/0/998/758.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T07:53:01Z"
-        },
-        {
-          "id": "fcb606b93fc438c5006decc12e77bf7088987e8d",
-          "title": "ChatGPT 卷入校园枪击案，OpenAI 面临诉讼数量已超 50 起",
-          "url": "https://www.ithome.com/0/998/758.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家（RSS）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1adb3448d4f2a91e09c9c5c6502214442d76848f",
-          "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
-          "url": "https://www.ithome.com/0/998/758.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T07:53:01Z"
-        },
-        {
-          "id": "fcb606b93fc438c5006decc12e77bf7088987e8d",
-          "title": "ChatGPT 卷入校园枪击案，OpenAI 面临诉讼数量已超 50 起",
-          "url": "https://www.ithome.com/0/998/758.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7201,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T07:53:01Z",
-      "latest_at": "2026-09-05T08:37:36.730971Z",
-      "primary_item": {
-        "id": "1adb3448d4f2a91e09c9c5c6502214442d76848f",
-        "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
-        "url": "https://www.ithome.com/0/998/758.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -683,15 +460,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7712,
-      "importance": 0.7712,
-      "importance_score": 0.7712,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7811,
+        "recency": 0.7589,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -711,71 +488,153 @@
       }
     },
     {
-      "story_id": "story_2ed23ceecfed",
-      "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
-      "url": "https://github.com/anthropics/fermats-last-theorem",
-      "primary_url": "https://github.com/anthropics/fermats-last-theorem",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_e46c6749700e",
+      "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+      "url": "https://x.com/testingcatalog/status/2096350628054176240",
+      "primary_url": "https://x.com/testingcatalog/status/2096350628054176240",
+      "source": "X：Testing Catalog (@testingcatalog)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ed60dc93c20939e6d91f28a81eeb2ac41ea2a900",
-          "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
-          "url": "https://github.com/anthropics/fermats-last-theorem",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
+          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+          "url": "https://x.com/testingcatalog/status/2096350628054176240",
+          "source": "X：Testing Catalog (@testingcatalog)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-05T07:56:50.597000Z"
+          "published_at": "2026-09-05T21:31:52Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "X：Testing Catalog (@testingcatalog)"
       ],
       "items": [
         {
-          "id": "ed60dc93c20939e6d91f28a81eeb2ac41ea2a900",
-          "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
-          "url": "https://github.com/anthropics/fermats-last-theorem",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
+          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+          "url": "https://x.com/testingcatalog/status/2096350628054176240",
+          "source": "X：Testing Catalog (@testingcatalog)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-05T07:56:50.597000Z"
+          "published_at": "2026-09-05T21:31:52Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7207,
+        "recency": 0.8519,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-05T07:56:50.597000Z",
-      "latest_at": "2026-09-05T07:56:50.597000Z",
+      "earliest_at": "2026-09-05T21:31:52Z",
+      "latest_at": "2026-09-05T21:31:52Z",
       "primary_item": {
-        "id": "ed60dc93c20939e6d91f28a81eeb2ac41ea2a900",
-        "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
-        "url": "https://github.com/anthropics/fermats-last-theorem",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
+        "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+        "url": "https://x.com/testingcatalog/status/2096350628054176240",
+        "source": "X：Testing Catalog (@testingcatalog)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fdab4dad7ac0",
+      "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+      "url": "https://www.ithome.com/0/998/814.htm",
+      "primary_url": "https://www.ithome.com/0/998/814.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
+          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+          "url": "https://www.ithome.com/0/998/814.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T11:43:16Z"
+        },
+        {
+          "id": "c65181578f0b81966af424b1fc0ad36bb3b9d44c",
+          "title": "OpenAI 回应旗下智能体攻进德国网站：将彻底改革“AI 模型攻击”事件披露机制",
+          "url": "https://www.ithome.com/0/998/814.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T11:43:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
+          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+          "url": "https://www.ithome.com/0/998/814.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T11:43:16Z"
+        },
+        {
+          "id": "c65181578f0b81966af424b1fc0ad36bb3b9d44c",
+          "title": "OpenAI 回应旗下智能体攻进德国网站：将彻底改革“AI 模型攻击”事件披露机制",
+          "url": "https://www.ithome.com/0/998/814.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T11:43:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7394,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T11:43:16Z",
+      "latest_at": "2026-09-05T11:43:16Z",
+      "primary_item": {
+        "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
+        "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+        "url": "https://www.ithome.com/0/998/814.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "这篇文章把吴恩达对AI工程技能的判断讲的很清晰：用Codex、Claude Code、Cursor这类编码工具的核心在于先规划需求、拆任务、控制智能体自主程度、验证结果、部署监控，再通过AGENTS.md、Skills、MCP 等方式持续优化环境。",
+      "title": "作者实测了 HuggingFace 上两款开源语音模型：Hojo-ASR-Multi-V1 负责“听”，普通话、粤语和多语种表现不错，但四川话、专有名词和强噪声容易翻车；Hojo-TTS-Light-40M 负责“说”，体积小、CPU 可跑，适合端侧轻量合成。适合想本地部署 ASR/TTS 的开发者和创作者看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-04",
+      "source": "社区更新 · 2026-09-05",
       "source_name": "WaytoAGI",
       "sources": [
         {
@@ -813,65 +672,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-09-05T17:37:30.893442Z"
-        },
-        {
-          "id": "54e6b006f6ff09367a8b472a3d4b9de8cfbb2d04",
-          "title": "DeepSeek Harness的 \"一切皆插件\" 背后，跑的是一个叫 Cordis 的框架——原本服务于第三方 QQ 机器人，如今被 DeepSeek 用作整个 Agent 运行时的地基。这篇文章，作者用通俗易懂的语言，把 Cordis 的魅力介绍给大家！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-05T07:39:25.687109Z"
-        },
-        {
-          "id": "7e0f0d50376579f81e276701027585ca6d473b64",
-          "title": "GEO 项目最容易卡在验收：服务商拿出一条提及率曲线，品牌方却还是说不清，这钱到底花得值不值。这篇文章把GEO验收拆成了三层：先看 AI 可见度，品牌有没有出现、排第几、有没有交易卡片；再看内容质量，AI 有没有说对、核心卖点有没有出来、服务商内容有没有被引用；最后看业务结果，成交、线索、官网回流能不能追到来源。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-05T07:39:25.687109Z"
-        },
-        {
-          "id": "767f0f47ea12becd1db24cd665eec5e094978717",
-          "title": "作者把6年 Obsidian 经验讲得很透：从本地 Markdown、双链、常青笔记，到 AI 辅助知识库的 raw / wiki / outputs 分层、AI 输出落文件、定期健康检查。想做个人知识管理、内容输出、AI 知识库的小白和创作者值得收藏慢慢啃。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-05T07:39:25.687109Z"
-        },
-        {
-          "id": "b25c3eaa6cb236f09aaf8f8d307f39d9c083d04f",
-          "title": "小歪整理了GPT‑6 Astra 的超全案例合集、还有详细的跑分变化、价格和体验入口。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-05T07:39:25.687109Z"
-        },
-        {
-          "id": "a43488a488d5cf09c8d60653518c4ef7e42adba4",
-          "title": "很多人学机器学习，卡住的地方并不是资料不够，而是路线图太满。这篇文章把8个月拆成4个阶段。想转行机器学习工程师、又不想被无数个技术名词劝退的人不容错过！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-05T07:39:25.687109Z"
-        },
-        {
-          "id": "d84e74ba69960bc410bebd9239a3b6d6c54da769",
-          "title": "这篇文章把吴恩达对AI工程技能的判断讲的很清晰：用Codex、Claude Code、Cursor这类编码工具的核心在于先规划需求、拆任务、控制智能体自主程度、验证结果、部署监控，再通过AGENTS.md、Skills、MCP 等方式持续优化环境。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-05T07:39:25.687109Z"
         }
       ],
-      "source_count": 10,
+      "source_count": 4,
       "source_names": [
-        "社区更新 · 2026-09-04",
         "社区更新 · 2026-09-05"
       ],
       "items": [
@@ -910,86 +714,32 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-09-05T17:37:30.893442Z"
-        },
-        {
-          "id": "54e6b006f6ff09367a8b472a3d4b9de8cfbb2d04",
-          "title": "DeepSeek Harness的 \"一切皆插件\" 背后，跑的是一个叫 Cordis 的框架——原本服务于第三方 QQ 机器人，如今被 DeepSeek 用作整个 Agent 运行时的地基。这篇文章，作者用通俗易懂的语言，把 Cordis 的魅力介绍给大家！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-05T07:39:25.687109Z"
-        },
-        {
-          "id": "7e0f0d50376579f81e276701027585ca6d473b64",
-          "title": "GEO 项目最容易卡在验收：服务商拿出一条提及率曲线，品牌方却还是说不清，这钱到底花得值不值。这篇文章把GEO验收拆成了三层：先看 AI 可见度，品牌有没有出现、排第几、有没有交易卡片；再看内容质量，AI 有没有说对、核心卖点有没有出来、服务商内容有没有被引用；最后看业务结果，成交、线索、官网回流能不能追到来源。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-05T07:39:25.687109Z"
-        },
-        {
-          "id": "767f0f47ea12becd1db24cd665eec5e094978717",
-          "title": "作者把6年 Obsidian 经验讲得很透：从本地 Markdown、双链、常青笔记，到 AI 辅助知识库的 raw / wiki / outputs 分层、AI 输出落文件、定期健康检查。想做个人知识管理、内容输出、AI 知识库的小白和创作者值得收藏慢慢啃。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-05T07:39:25.687109Z"
-        },
-        {
-          "id": "b25c3eaa6cb236f09aaf8f8d307f39d9c083d04f",
-          "title": "小歪整理了GPT‑6 Astra 的超全案例合集、还有详细的跑分变化、价格和体验入口。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-05T07:39:25.687109Z"
-        },
-        {
-          "id": "a43488a488d5cf09c8d60653518c4ef7e42adba4",
-          "title": "很多人学机器学习，卡住的地方并不是资料不够，而是路线图太满。这篇文章把8个月拆成4个阶段。想转行机器学习工程师、又不想被无数个技术名词劝退的人不容错过！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-05T07:39:25.687109Z"
-        },
-        {
-          "id": "d84e74ba69960bc410bebd9239a3b6d6c54da769",
-          "title": "这篇文章把吴恩达对AI工程技能的判断讲的很清晰：用Codex、Claude Code、Cursor这类编码工具的核心在于先规划需求、拆任务、控制智能体自主程度、验证结果、部署监控，再通过AGENTS.md、Skills、MCP 等方式持续优化环境。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-05T07:39:25.687109Z"
         }
       ],
-      "item_count": 10,
-      "duplicate_count": 10,
-      "score": 0.6392,
-      "importance": 0.6392,
-      "importance_score": 0.6392,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6091,
+      "importance": 0.6091,
+      "importance_score": 0.6091,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.504,
+        "editorial": 0.468,
         "source_tier": 0.54,
-        "ai_relevance": 0.7,
-        "recency": 0.7177,
-        "story_heat": 1.0
+        "ai_relevance": 0.65,
+        "recency": 0.8052,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-05T07:39:25.687109Z",
+      "earliest_at": "2026-09-05T17:37:30.893442Z",
       "latest_at": "2026-09-05T17:37:30.893442Z",
       "primary_item": {
-        "id": "d84e74ba69960bc410bebd9239a3b6d6c54da769",
-        "title": "这篇文章把吴恩达对AI工程技能的判断讲的很清晰：用Codex、Claude Code、Cursor这类编码工具的核心在于先规划需求、拆任务、控制智能体自主程度、验证结果、部署监控，再通过AGENTS.md、Skills、MCP 等方式持续优化环境。",
+        "id": "a10393e1d3b481f49edc1f6c0f6949a9f762883c",
+        "title": "作者实测了 HuggingFace 上两款开源语音模型：Hojo-ASR-Multi-V1 负责“听”，普通话、粤语和多语种表现不错，但四川话、专有名词和强噪声容易翻车；Hojo-TTS-Light-40M 负责“说”，体积小、CPU 可跑，适合端侧轻量合成。适合想本地部署 ASR/TTS 的开发者和创作者看！",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-04",
+        "source": "社区更新 · 2026-09-05",
         "source_name": "WaytoAGI"
       }
     },
@@ -1066,15 +816,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5665,
-      "importance": 0.5665,
-      "importance_score": 0.5665,
+      "score": 0.5615,
+      "importance": 0.5615,
+      "importance_score": 0.5615,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9759,
+        "recency": 0.9481,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1163,15 +913,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5505,
-      "importance": 0.5505,
-      "importance_score": 0.5505,
+      "score": 0.5459,
+      "importance": 0.5459,
+      "importance_score": 0.5459,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8871,
+        "recency": 0.8619,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1189,8 +939,87 @@
       }
     },
     {
+      "story_id": "story_826679545639",
+      "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题",
+      "url": "https://mathstodon.xyz/@tao/117207856734787448",
+      "primary_url": "https://mathstodon.xyz/@tao/117207856734787448",
+      "source": "mathstodon.xyz",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "856183ebde749a684f67f599ef0d4ce69a0b934a",
+          "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题",
+          "url": "https://mathstodon.xyz/@tao/117207856734787448",
+          "source": "mathstodon.xyz",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T07:48:53.501000Z"
+        },
+        {
+          "id": "05d96717a15c645dcd388f6c95f9d86c0a480984",
+          "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题 / Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
+          "url": "https://mathstodon.xyz/@tao/117207856734787448",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T07:45:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "mathstodon.xyz"
+      ],
+      "items": [
+        {
+          "id": "856183ebde749a684f67f599ef0d4ce69a0b934a",
+          "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题",
+          "url": "https://mathstodon.xyz/@tao/117207856734787448",
+          "source": "mathstodon.xyz",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T07:48:53.501000Z"
+        },
+        {
+          "id": "05d96717a15c645dcd388f6c95f9d86c0a480984",
+          "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题 / Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
+          "url": "https://mathstodon.xyz/@tao/117207856734787448",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T07:45:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5437,
+      "importance": 0.5437,
+      "importance_score": 0.5437,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9883,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T07:45:24Z",
+      "latest_at": "2026-09-06T07:48:53.501000Z",
+      "primary_item": {
+        "id": "856183ebde749a684f67f599ef0d4ce69a0b934a",
+        "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题",
+        "url": "https://mathstodon.xyz/@tao/117207856734787448",
+        "source": "mathstodon.xyz",
+        "source_name": "Buzzing"
+      }
+    },
+    {
       "story_id": "story_774f7412d1a3",
-      "title": "Isar Aerospace launch into orbit [video]",
+      "title": "Isar Aerospace成功入轨 [视频] / Isar Aerospace launch into orbit [video]",
       "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
       "primary_url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
       "source": "Hacker News · 24h最热",
@@ -1198,7 +1027,7 @@
       "sources": [
         {
           "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
-          "title": "Isar Aerospace launch into orbit [video]",
+          "title": "Isar Aerospace成功入轨 [视频] / Isar Aerospace launch into orbit [video]",
           "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1232,7 +1061,7 @@
       "items": [
         {
           "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
-          "title": "Isar Aerospace launch into orbit [video]",
+          "title": "Isar Aerospace成功入轨 [视频] / Isar Aerospace launch into orbit [video]",
           "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1260,15 +1089,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5461,
-      "importance": 0.5461,
-      "importance_score": 0.5461,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.863,
+        "recency": 0.8384,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1279,7 +1108,7 @@
       "latest_at": "2026-09-05T20:25:30Z",
       "primary_item": {
         "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
-        "title": "Isar Aerospace launch into orbit [video]",
+        "title": "Isar Aerospace成功入轨 [视频] / Isar Aerospace launch into orbit [video]",
         "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
@@ -1339,15 +1168,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9715,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1418,15 +1247,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9015,
+        "recency": 0.8758,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1515,15 +1344,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5266,
-      "importance": 0.5266,
-      "importance_score": 0.5266,
+      "score": 0.5227,
+      "importance": 0.5227,
+      "importance_score": 0.5227,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7543,
+        "recency": 0.7328,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1537,6 +1366,85 @@
         "title": "AI 处理事件，工程师与系统脱节",
         "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
         "source": "www.sylvainkalache.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cc15feb485e7",
+      "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案",
+      "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+      "primary_url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+      "source": "www.theopenlake.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "af2a6cb05d3d44e853735d3a192957c0f5664202",
+          "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案",
+          "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+          "source": "www.theopenlake.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T17:35:49.695000Z"
+        },
+        {
+          "id": "8390f6866622ca297ba2ff53f8660c8f525a35d8",
+          "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案 / Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+          "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T17:32:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.theopenlake.com"
+      ],
+      "items": [
+        {
+          "id": "af2a6cb05d3d44e853735d3a192957c0f5664202",
+          "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案",
+          "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+          "source": "www.theopenlake.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T17:35:49.695000Z"
+        },
+        {
+          "id": "8390f6866622ca297ba2ff53f8660c8f525a35d8",
+          "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案 / Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+          "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T17:32:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5107,
+      "importance": 0.5107,
+      "importance_score": 0.5107,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8049,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T17:32:20Z",
+      "latest_at": "2026-09-05T17:35:49.695000Z",
+      "primary_item": {
+        "id": "af2a6cb05d3d44e853735d3a192957c0f5664202",
+        "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案",
+        "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+        "source": "www.theopenlake.com",
         "source_name": "Buzzing"
       }
     },
@@ -1594,15 +1502,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9715,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1617,85 +1525,6 @@
         "url": "https://www.huxiu.com/article/4888906.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_cc15feb485e7",
-      "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案",
-      "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
-      "primary_url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
-      "source": "www.theopenlake.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "af2a6cb05d3d44e853735d3a192957c0f5664202",
-          "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案",
-          "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
-          "source": "www.theopenlake.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T17:35:49.695000Z"
-        },
-        {
-          "id": "8390f6866622ca297ba2ff53f8660c8f525a35d8",
-          "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案 / Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
-          "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T17:32:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.theopenlake.com"
-      ],
-      "items": [
-        {
-          "id": "af2a6cb05d3d44e853735d3a192957c0f5664202",
-          "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案",
-          "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
-          "source": "www.theopenlake.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T17:35:49.695000Z"
-        },
-        {
-          "id": "8390f6866622ca297ba2ff53f8660c8f525a35d8",
-          "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案 / Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
-          "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T17:32:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5149,
-      "importance": 0.5149,
-      "importance_score": 0.5149,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8285,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T17:32:20Z",
-      "latest_at": "2026-09-05T17:35:49.695000Z",
-      "primary_item": {
-        "id": "af2a6cb05d3d44e853735d3a192957c0f5664202",
-        "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案",
-        "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
-        "source": "www.theopenlake.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1752,15 +1581,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5144,
-      "importance": 0.5144,
-      "importance_score": 0.5144,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8256,
+        "recency": 0.8021,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1774,6 +1603,85 @@
         "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度 - Reuters",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6993de6f2e8a",
+      "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
+      "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+      "primary_url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4e6c7327e3738359eff052733767c670dd48f81d",
+          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
+          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T16:18:47.467000Z"
+        },
+        {
+          "id": "4e55fd6a71d454fdf05417e47d286e4ac4229daa",
+          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式 / OpenAI says it will change how it informs the public when its AI agents go off the rails",
+          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T16:09:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "4e6c7327e3738359eff052733767c670dd48f81d",
+          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
+          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T16:18:47.467000Z"
+        },
+        {
+          "id": "4e55fd6a71d454fdf05417e47d286e4ac4229daa",
+          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式 / OpenAI says it will change how it informs the public when its AI agents go off the rails",
+          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T16:09:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.508,
+      "importance": 0.508,
+      "importance_score": 0.508,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7901,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T16:09:59Z",
+      "latest_at": "2026-09-05T16:18:47.467000Z",
+      "primary_item": {
+        "id": "4e6c7327e3738359eff052733767c670dd48f81d",
+        "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
+        "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
