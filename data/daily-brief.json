@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T18:37:38.925930Z",
+  "generated_at": "2026-09-06T19:37:36.572786Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8786,
-      "importance": 0.8786,
-      "importance_score": 0.8786,
+      "score": 0.8764,
+      "importance": 0.8764,
+      "importance_score": 0.8764,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8702,
+        "recency": 0.8577,
         "story_heat": 0.5
       },
       "category": "official",
@@ -158,15 +158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8514,
-      "importance": 0.8514,
-      "importance_score": 0.8514,
+      "score": 0.8492,
+      "importance": 0.8492,
+      "importance_score": 0.8492,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8577,
+        "recency": 0.8454,
         "story_heat": 0.25
       },
       "category": "official",
@@ -184,6 +184,67 @@
         "url": "https://openai.com/index/research-acceleration-view-inside-openai",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6f9290dbd1a1",
+      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
+          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T18:23:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
+          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T18:23:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9823,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-06T18:23:14Z",
+      "latest_at": "2026-09-06T18:23:14Z",
+      "primary_item": {
+        "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
+        "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+        "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -240,15 +301,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
+      "score": 0.7771,
+      "importance": 0.7771,
+      "importance_score": 0.7771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8426,
+        "recency": 0.8306,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -302,15 +363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
+      "score": 0.7304,
+      "importance": 0.7304,
+      "importance_score": 0.7304,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7374,
+        "recency": 0.7268,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -452,15 +513,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6666,
+      "importance": 0.6666,
+      "importance_score": 0.6666,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -495,6 +556,15 @@
           "published_at": "2026-09-06T17:15:48.239000Z"
         },
         {
+          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
+          "title": "How we monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T16:37:55Z"
+        },
+        {
           "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
           "title": "OpenAI: We monitor internal coding agents for misalignment",
           "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
@@ -513,10 +583,11 @@
           "published_at": "2026-09-06T16:37:55Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Hacker News",
         "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -530,6 +601,15 @@
           "published_at": "2026-09-06T17:15:48.239000Z"
         },
         {
+          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
+          "title": "How we monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T16:37:55Z"
+        },
+        {
           "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
           "title": "OpenAI: We monitor internal coding agents for misalignment",
           "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
@@ -548,18 +628,18 @@
           "published_at": "2026-09-06T16:37:55Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5673,
-      "importance": 0.5673,
-      "importance_score": 0.5673,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5898,
+      "importance": 0.5898,
+      "importance_score": 0.5898,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9805,
-        "story_heat": 0.5
+        "recency": 0.9664,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -648,15 +728,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5646,
-      "importance": 0.5646,
-      "importance_score": 0.5646,
+      "score": 0.5621,
+      "importance": 0.5621,
+      "importance_score": 0.5621,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9656,
+        "recency": 0.9518,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -727,15 +807,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5429,
-      "importance": 0.5429,
-      "importance_score": 0.5429,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9841,
+        "recency": 0.97,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -806,15 +886,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
+      "score": 0.5384,
+      "importance": 0.5384,
+      "importance_score": 0.5384,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9728,
+        "recency": 0.9589,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -885,15 +965,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -983,15 +1063,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.5364,
+      "importance": 0.5364,
+      "importance_score": 0.5364,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8206,
+        "recency": 0.8089,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1062,15 +1142,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.955,
+        "recency": 0.9413,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1141,15 +1221,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9443,
+        "recency": 0.9308,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1184,18 +1264,18 @@
           "published_at": "2026-09-06T14:22:15.057000Z"
         },
         {
-          "id": "13b8eae4cc6359941073f2142dff6e8ccd6ecc22",
+          "id": "e6a117139ac9a62ac1e51219b4f29fc25f582df3",
           "title": "人工智能、工具与转型 / AI, Tools and Transformation",
           "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-06T02:12:46Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "www.ben-evans.com"
       ],
       "items": [
@@ -1209,26 +1289,26 @@
           "published_at": "2026-09-06T14:22:15.057000Z"
         },
         {
-          "id": "13b8eae4cc6359941073f2142dff6e8ccd6ecc22",
+          "id": "e6a117139ac9a62ac1e51219b4f29fc25f582df3",
           "title": "人工智能、工具与转型 / AI, Tools and Transformation",
           "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-06T02:12:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9404,
+        "recency": 0.9269,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1299,15 +1379,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5333,
-      "importance": 0.5333,
-      "importance_score": 0.5333,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9303,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1377,15 +1457,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5292,
-      "importance": 0.5292,
-      "importance_score": 0.5292,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.908,
+        "recency": 0.895,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1456,15 +1536,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9038,
+        "recency": 0.8909,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1553,15 +1633,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.746,
+        "recency": 0.7353,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1632,15 +1712,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5198,
-      "importance": 0.5198,
-      "importance_score": 0.5198,
+      "score": 0.5176,
+      "importance": 0.5176,
+      "importance_score": 0.5176,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8554,
+        "recency": 0.8432,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1655,84 +1735,6 @@
         "url": "https://mathstodon.xyz/@tao/117207856734787448",
         "source": "mathstodon.xyz",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "David Baker 启动 AI BioDesign 项目：按功能设计蛋白质等生物分子",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "a4a94b2df13ba65ce4175b164f9ff944e2315e75",
-          "title": "David Baker 启动 AI BioDesign 项目：按功能设计蛋白质等生物分子",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f033073f5f9302d9922d2cd3ce433f07bbecf908",
-          "title": "谷歌让 AI 互怼几天！小模型竟复现 3 道博士级难题",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652723377&idx=2&sn=58fb4dbd0753589cf4e5b8d290062326",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a4a94b2df13ba65ce4175b164f9ff944e2315e75",
-          "title": "David Baker 启动 AI BioDesign 项目：按功能设计蛋白质等生物分子",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f033073f5f9302d9922d2cd3ce433f07bbecf908",
-          "title": "谷歌让 AI 互怼几天！小模型竟复现 3 道博士级难题",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652723377&idx=2&sn=58fb4dbd0753589cf4e5b8d290062326",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9038,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T04:37:34.782314Z",
-      "latest_at": "2026-09-06T11:37:35.648330Z",
-      "primary_item": {
-        "id": "a4a94b2df13ba65ce4175b164f9ff944e2315e75",
-        "title": "David Baker 启动 AI BioDesign 项目：按功能设计蛋白质等生物分子",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
