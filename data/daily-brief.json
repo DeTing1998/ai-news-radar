@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T02:37:38.915665Z",
+  "generated_at": "2026-09-07T03:37:39.852237Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8615,
-      "importance": 0.8615,
-      "importance_score": 0.8615,
+      "score": 0.8595,
+      "importance": 0.8595,
+      "importance_score": 0.8595,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7753,
+        "recency": 0.7641,
         "story_heat": 0.5
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8595,
-      "importance": 0.8595,
-      "importance_score": 0.8595,
+      "score": 0.8576,
+      "importance": 0.8576,
+      "importance_score": 0.8576,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7641,
+        "recency": 0.7532,
         "story_heat": 0.5
       },
       "category": "official",
@@ -277,15 +277,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9646,
+        "recency": 0.9508,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -301,6 +301,371 @@
         "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
         "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
         "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_21d43493cdd1",
+      "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
+      "url": "https://www.aibase.com/news/30863",
+      "primary_url": "https://www.aibase.com/news/30863",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5cdc5c20823f86dee9823f7e709e0d8cf36a6c97",
+          "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
+          "url": "https://www.aibase.com/news/30863",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T03:37:39.852237Z"
+        },
+        {
+          "id": "219f6d38c256f339acd846b77eae1a38d7bedb6a",
+          "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 元跌至几百元，行业转向拼内容",
+          "url": "https://www.aibase.com/zh/news/30863",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5cdc5c20823f86dee9823f7e709e0d8cf36a6c97",
+          "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
+          "url": "https://www.aibase.com/news/30863",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T03:37:39.852237Z"
+        },
+        {
+          "id": "219f6d38c256f339acd846b77eae1a38d7bedb6a",
+          "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 元跌至几百元，行业转向拼内容",
+          "url": "https://www.aibase.com/zh/news/30863",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T03:37:39.852237Z",
+      "latest_at": "2026-09-07T03:37:39.852237Z",
+      "primary_item": {
+        "id": "5cdc5c20823f86dee9823f7e709e0d8cf36a6c97",
+        "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
+        "url": "https://www.aibase.com/news/30863",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6f9290dbd1a1",
+      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
+          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T18:23:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
+          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T18:23:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8751,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-06T18:23:14Z",
+      "latest_at": "2026-09-06T18:23:14Z",
+      "primary_item": {
+        "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
+        "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+        "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2f0075a3b653",
+      "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
+          "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-07T03:26:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
+          "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-07T03:26:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9974,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T03:26:50Z",
+      "latest_at": "2026-09-07T03:26:50Z",
+      "primary_item": {
+        "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
+        "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_e7fc2c23cd20",
+      "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
+      "url": "https://www.aibase.com/news/30864",
+      "primary_url": "https://www.aibase.com/news/30864",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
+          "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
+          "url": "https://www.aibase.com/news/30864",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T03:37:39.852237Z"
+        },
+        {
+          "id": "7e5b2fcce2ce53792145dee33071d4457944619a",
+          "title": "千亿算力大战背后：OpenAI Astra 暴烧百亿美元，国产大模型与美企差距在哪",
+          "url": "https://www.aibase.com/zh/news/30864",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
+          "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
+          "url": "https://www.aibase.com/news/30864",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T03:37:39.852237Z"
+        },
+        {
+          "id": "7e5b2fcce2ce53792145dee33071d4457944619a",
+          "title": "千亿算力大战背后：OpenAI Astra 暴烧百亿美元，国产大模型与美企差距在哪",
+          "url": "https://www.aibase.com/zh/news/30864",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T03:37:39.852237Z",
+      "latest_at": "2026-09-07T03:37:39.852237Z",
+      "primary_item": {
+        "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
+        "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
+        "url": "https://www.aibase.com/news/30864",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ec06a66103fb",
+      "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+      "url": "https://www.ithome.com/0/998/927.htm",
+      "primary_url": "https://www.ithome.com/0/998/927.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
+          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+          "url": "https://www.ithome.com/0/998/927.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T06:46:16Z"
+        },
+        {
+          "id": "78ccc313f78c15d5f9130b5e1513e0673e4eaf7c",
+          "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
+          "url": "https://www.ithome.com/0/998/927.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T06:46:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
+          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+          "url": "https://www.ithome.com/0/998/927.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T06:46:16Z"
+        },
+        {
+          "id": "78ccc313f78c15d5f9130b5e1513e0673e4eaf7c",
+          "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
+          "url": "https://www.ithome.com/0/998/927.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T06:46:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7399,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-06T06:46:16Z",
+      "latest_at": "2026-09-06T06:46:16Z",
+      "primary_item": {
+        "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
+        "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+        "url": "https://www.ithome.com/0/998/927.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -358,15 +723,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -383,148 +748,6 @@
         "url": "https://www.aibase.com/news/30859",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6f9290dbd1a1",
-      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T18:23:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T18:23:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8878,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-06T18:23:14Z",
-      "latest_at": "2026-09-06T18:23:14Z",
-      "primary_item": {
-        "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-        "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-        "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ec06a66103fb",
-      "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-      "url": "https://www.ithome.com/0/998/927.htm",
-      "primary_url": "https://www.ithome.com/0/998/927.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
-          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T06:46:16Z"
-        },
-        {
-          "id": "78ccc313f78c15d5f9130b5e1513e0673e4eaf7c",
-          "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T06:46:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
-          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T06:46:16Z"
-        },
-        {
-          "id": "78ccc313f78c15d5f9130b5e1513e0673e4eaf7c",
-          "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T06:46:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7507,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-06T06:46:16Z",
-      "latest_at": "2026-09-06T06:46:16Z",
-      "primary_item": {
-        "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
-        "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-        "url": "https://www.ithome.com/0/998/927.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -581,15 +804,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -609,26 +832,26 @@
       }
     },
     {
-      "story_id": "story_02b2f9c3fb90",
-      "title": "告别全屏交互，谷歌Gemini升级悬浮气泡推动AI助手轻量化演进",
-      "url": "https://www.aibase.com/news/30857",
-      "primary_url": "https://www.aibase.com/news/30857",
+      "story_id": "story_a8f23d61db73",
+      "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
+      "url": "https://www.aibase.com/news/30861",
+      "primary_url": "https://www.aibase.com/news/30861",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "606f256c98c054194ea97ac39e1a4ec8f820c2b3",
-          "title": "告别全屏交互，谷歌Gemini升级悬浮气泡推动AI助手轻量化演进",
-          "url": "https://www.aibase.com/news/30857",
+          "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
+          "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
+          "url": "https://www.aibase.com/news/30861",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-07T02:37:38.915665Z"
         },
         {
-          "id": "e8e86b947fe8c8ac03fa5fb1bc835ec0f87434f2",
-          "title": "告别全屏交互，谷歌 Gemini 升级悬浮气泡推动 AI 助手轻量化演进",
-          "url": "https://www.aibase.com/zh/news/30857",
+          "id": "e896806147c7e9210a8502971ab7396d7c2a4e94",
+          "title": "努比亚 NaviX Ultra 定档 9 月 16 日发布，搭载豆包手机助手",
+          "url": "https://www.aibase.com/zh/news/30861",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -642,18 +865,18 @@
       ],
       "items": [
         {
-          "id": "606f256c98c054194ea97ac39e1a4ec8f820c2b3",
-          "title": "告别全屏交互，谷歌Gemini升级悬浮气泡推动AI助手轻量化演进",
-          "url": "https://www.aibase.com/news/30857",
+          "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
+          "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
+          "url": "https://www.aibase.com/news/30861",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-07T02:37:38.915665Z"
         },
         {
-          "id": "e8e86b947fe8c8ac03fa5fb1bc835ec0f87434f2",
-          "title": "告别全屏交互，谷歌 Gemini 升级悬浮气泡推动 AI 助手轻量化演进",
-          "url": "https://www.aibase.com/zh/news/30857",
+          "id": "e896806147c7e9210a8502971ab7396d7c2a4e94",
+          "title": "努比亚 NaviX Ultra 定档 9 月 16 日发布，搭载豆包手机助手",
+          "url": "https://www.aibase.com/zh/news/30861",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -662,15 +885,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -680,173 +903,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-09-07T02:37:38.915665Z",
-      "latest_at": "2026-09-07T02:37:38.915665Z",
+      "latest_at": "2026-09-07T03:37:39.852237Z",
       "primary_item": {
-        "id": "606f256c98c054194ea97ac39e1a4ec8f820c2b3",
-        "title": "告别全屏交互，谷歌Gemini升级悬浮气泡推动AI助手轻量化演进",
-        "url": "https://www.aibase.com/news/30857",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e832ef89a30b",
-      "title": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
-      "url": "https://www.aibase.com/news/30852",
-      "primary_url": "https://www.aibase.com/news/30852",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "75912c1da02a2511e0161b6b88ab9805b57e2aef",
-          "title": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
-          "url": "https://www.aibase.com/news/30852",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T01:37:34.622701Z"
-        },
-        {
-          "id": "ba272c6d1050214af4e2e05113c8cc534c2bf918",
-          "title": "GPT-6 Astra 测试数据罗生门：OpenAI 频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
-          "url": "https://www.aibase.com/zh/news/30852",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "75912c1da02a2511e0161b6b88ab9805b57e2aef",
-          "title": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
-          "url": "https://www.aibase.com/news/30852",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T01:37:34.622701Z"
-        },
-        {
-          "id": "ba272c6d1050214af4e2e05113c8cc534c2bf918",
-          "title": "GPT-6 Astra 测试数据罗生门：OpenAI 频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
-          "url": "https://www.aibase.com/zh/news/30852",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9856,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T01:37:34.622701Z",
-      "latest_at": "2026-09-07T01:37:34.622701Z",
-      "primary_item": {
-        "id": "75912c1da02a2511e0161b6b88ab9805b57e2aef",
-        "title": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
-        "url": "https://www.aibase.com/news/30852",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e2b65dabe321",
-      "title": "OpenAI证实“维基事件”智能体脱控，将制定安全信息披露新框架",
-      "url": "https://www.aibase.com/news/30851",
-      "primary_url": "https://www.aibase.com/news/30851",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "08211d91740c3dc8d3b27f4e720f29302ed01534",
-          "title": "OpenAI证实“维基事件”智能体脱控，将制定安全信息披露新框架",
-          "url": "https://www.aibase.com/news/30851",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T01:37:34.622701Z"
-        },
-        {
-          "id": "77389c34238a164c596733d19921130895361632",
-          "title": "OpenAI 证实「维基事件」智能体脱控，将制定安全信息披露新框架",
-          "url": "https://www.aibase.com/zh/news/30851",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "08211d91740c3dc8d3b27f4e720f29302ed01534",
-          "title": "OpenAI证实“维基事件”智能体脱控，将制定安全信息披露新框架",
-          "url": "https://www.aibase.com/news/30851",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T01:37:34.622701Z"
-        },
-        {
-          "id": "77389c34238a164c596733d19921130895361632",
-          "title": "OpenAI 证实「维基事件」智能体脱控，将制定安全信息披露新框架",
-          "url": "https://www.aibase.com/zh/news/30851",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9856,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T01:37:34.622701Z",
-      "latest_at": "2026-09-07T01:37:34.622701Z",
-      "primary_item": {
-        "id": "08211d91740c3dc8d3b27f4e720f29302ed01534",
-        "title": "OpenAI证实“维基事件”智能体脱控，将制定安全信息披露新框架",
-        "url": "https://www.aibase.com/news/30851",
+        "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
+        "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
+        "url": "https://www.aibase.com/news/30861",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -976,15 +1037,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6496,
-      "importance": 0.6496,
-      "importance_score": 0.6496,
+      "score": 0.6473,
+      "importance": 0.6473,
+      "importance_score": 0.6473,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8909,
+        "recency": 0.8781,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1002,26 +1063,26 @@
       }
     },
     {
-      "story_id": "story_60e85370b99d",
-      "title": "微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%",
-      "url": "https://www.aibase.com/news/30853",
-      "primary_url": "https://www.aibase.com/news/30853",
+      "story_id": "story_02b2f9c3fb90",
+      "title": "告别全屏交互，谷歌Gemini升级悬浮气泡推动AI助手轻量化演进",
+      "url": "https://www.aibase.com/news/30857",
+      "primary_url": "https://www.aibase.com/news/30857",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "54c0098ec076fae6dd785ba33b8ee6215398952e",
-          "title": "微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%",
-          "url": "https://www.aibase.com/news/30853",
+          "id": "606f256c98c054194ea97ac39e1a4ec8f820c2b3",
+          "title": "告别全屏交互，谷歌Gemini升级悬浮气泡推动AI助手轻量化演进",
+          "url": "https://www.aibase.com/news/30857",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T01:37:34.622701Z"
+          "published_at": "2026-09-07T02:37:38.915665Z"
         },
         {
-          "id": "ee739cdf42096205f19867e5528999535f5c1b76",
-          "title": "微软发布 MAI-Image-2.6-Flash：图像生成速度提升 2.8 倍，成本降低逾 50%",
-          "url": "https://www.aibase.com/zh/news/30853",
+          "id": "e8e86b947fe8c8ac03fa5fb1bc835ec0f87434f2",
+          "title": "告别全屏交互，谷歌 Gemini 升级悬浮气泡推动 AI 助手轻量化演进",
+          "url": "https://www.aibase.com/zh/news/30857",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1035,18 +1096,18 @@
       ],
       "items": [
         {
-          "id": "54c0098ec076fae6dd785ba33b8ee6215398952e",
-          "title": "微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%",
-          "url": "https://www.aibase.com/news/30853",
+          "id": "606f256c98c054194ea97ac39e1a4ec8f820c2b3",
+          "title": "告别全屏交互，谷歌Gemini升级悬浮气泡推动AI助手轻量化演进",
+          "url": "https://www.aibase.com/news/30857",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T01:37:34.622701Z"
+          "published_at": "2026-09-07T02:37:38.915665Z"
         },
         {
-          "id": "ee739cdf42096205f19867e5528999535f5c1b76",
-          "title": "微软发布 MAI-Image-2.6-Flash：图像生成速度提升 2.8 倍，成本降低逾 50%",
-          "url": "https://www.aibase.com/zh/news/30853",
+          "id": "e8e86b947fe8c8ac03fa5fb1bc835ec0f87434f2",
+          "title": "告别全屏交互，谷歌 Gemini 升级悬浮气泡推动 AI 助手轻量化演进",
+          "url": "https://www.aibase.com/zh/news/30857",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1063,7 +1124,88 @@
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9857,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T02:37:38.915665Z",
+      "latest_at": "2026-09-07T02:37:38.915665Z",
+      "primary_item": {
+        "id": "606f256c98c054194ea97ac39e1a4ec8f820c2b3",
+        "title": "告别全屏交互，谷歌Gemini升级悬浮气泡推动AI助手轻量化演进",
+        "url": "https://www.aibase.com/news/30857",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e832ef89a30b",
+      "title": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
+      "url": "https://www.aibase.com/news/30852",
+      "primary_url": "https://www.aibase.com/news/30852",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "75912c1da02a2511e0161b6b88ab9805b57e2aef",
+          "title": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
+          "url": "https://www.aibase.com/news/30852",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T01:37:34.622701Z"
+        },
+        {
+          "id": "ba272c6d1050214af4e2e05113c8cc534c2bf918",
+          "title": "GPT-6 Astra 测试数据罗生门：OpenAI 频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
+          "url": "https://www.aibase.com/zh/news/30852",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "75912c1da02a2511e0161b6b88ab9805b57e2aef",
+          "title": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
+          "url": "https://www.aibase.com/news/30852",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T01:37:34.622701Z"
+        },
+        {
+          "id": "ba272c6d1050214af4e2e05113c8cc534c2bf918",
+          "title": "GPT-6 Astra 测试数据罗生门：OpenAI 频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
+          "url": "https://www.aibase.com/zh/news/30852",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9715,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1073,72 +1215,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-09-07T01:37:34.622701Z",
-      "latest_at": "2026-09-07T02:37:38.915665Z",
+      "latest_at": "2026-09-07T01:37:34.622701Z",
       "primary_item": {
-        "id": "54c0098ec076fae6dd785ba33b8ee6215398952e",
-        "title": "微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%",
-        "url": "https://www.aibase.com/news/30853",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a8f23d61db73",
-      "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
-      "url": "https://www.aibase.com/news/30861",
-      "primary_url": "https://www.aibase.com/news/30861",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
-          "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
-          "url": "https://www.aibase.com/news/30861",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T02:37:38.915665Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
-          "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
-          "url": "https://www.aibase.com/news/30861",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T02:37:38.915665Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T02:37:38.915665Z",
-      "latest_at": "2026-09-07T02:37:38.915665Z",
-      "primary_item": {
-        "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
-        "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
-        "url": "https://www.aibase.com/news/30861",
+        "id": "75912c1da02a2511e0161b6b88ab9805b57e2aef",
+        "title": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
+        "url": "https://www.aibase.com/news/30852",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1235,15 +1316,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5809,
-      "importance": 0.5809,
-      "importance_score": 0.5809,
+      "score": 0.5785,
+      "importance": 0.5785,
+      "importance_score": 0.5785,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.917,
+        "recency": 0.9038,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1261,116 +1342,217 @@
       }
     },
     {
-      "story_id": "story_629a973f4e94",
-      "title": "空间推理优势不复存在！OpenAI高管直言Astra模型补齐人类最后短板，AGI时代真的来了吗",
-      "url": "https://www.aibase.com/news/30860",
-      "primary_url": "https://www.aibase.com/news/30860",
+      "story_id": "story_e2b65dabe321",
+      "title": "OpenAI证实“维基事件”智能体脱控，将制定安全信息披露新框架",
+      "url": "https://www.aibase.com/news/30851",
+      "primary_url": "https://www.aibase.com/news/30851",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "90c78a2521949cc38056d7cddfc8eef667c56391",
-          "title": "空间推理优势不复存在！OpenAI高管直言Astra模型补齐人类最后短板，AGI时代真的来了吗",
-          "url": "https://www.aibase.com/news/30860",
+          "id": "08211d91740c3dc8d3b27f4e720f29302ed01534",
+          "title": "OpenAI证实“维基事件”智能体脱控，将制定安全信息披露新框架",
+          "url": "https://www.aibase.com/news/30851",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T02:37:38.915665Z"
+          "published_at": "2026-09-07T01:37:34.622701Z"
+        },
+        {
+          "id": "77389c34238a164c596733d19921130895361632",
+          "title": "OpenAI 证实「维基事件」智能体脱控，将制定安全信息披露新框架",
+          "url": "https://www.aibase.com/zh/news/30851",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "90c78a2521949cc38056d7cddfc8eef667c56391",
-          "title": "空间推理优势不复存在！OpenAI高管直言Astra模型补齐人类最后短板，AGI时代真的来了吗",
-          "url": "https://www.aibase.com/news/30860",
+          "id": "08211d91740c3dc8d3b27f4e720f29302ed01534",
+          "title": "OpenAI证实“维基事件”智能体脱控，将制定安全信息披露新框架",
+          "url": "https://www.aibase.com/news/30851",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T02:37:38.915665Z"
+          "published_at": "2026-09-07T01:37:34.622701Z"
+        },
+        {
+          "id": "77389c34238a164c596733d19921130895361632",
+          "title": "OpenAI 证实「维基事件」智能体脱控，将制定安全信息披露新框架",
+          "url": "https://www.aibase.com/zh/news/30851",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9715,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T02:37:38.915665Z",
-      "latest_at": "2026-09-07T02:37:38.915665Z",
+      "earliest_at": "2026-09-07T01:37:34.622701Z",
+      "latest_at": "2026-09-07T01:37:34.622701Z",
       "primary_item": {
-        "id": "90c78a2521949cc38056d7cddfc8eef667c56391",
-        "title": "空间推理优势不复存在！OpenAI高管直言Astra模型补齐人类最后短板，AGI时代真的来了吗",
-        "url": "https://www.aibase.com/news/30860",
+        "id": "08211d91740c3dc8d3b27f4e720f29302ed01534",
+        "title": "OpenAI证实“维基事件”智能体脱控，将制定安全信息披露新框架",
+        "url": "https://www.aibase.com/news/30851",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_8bb7f24fe47b",
-      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-      "url": "https://news.ycombinator.com/item?id=49592366",
-      "primary_url": "https://news.ycombinator.com/item?id=49592366",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_60e85370b99d",
+      "title": "微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%",
+      "url": "https://www.aibase.com/news/30853",
+      "primary_url": "https://www.aibase.com/news/30853",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
-          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "url": "https://news.ycombinator.com/item?id=49592366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T02:38:20.052000Z"
+          "id": "54c0098ec076fae6dd785ba33b8ee6215398952e",
+          "title": "微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%",
+          "url": "https://www.aibase.com/news/30853",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T01:37:34.622701Z"
         },
         {
-          "id": "c22177f87262abed8a9ed95e89aab8b83d840fbe",
-          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "url": "https://github.com/Staatsgeheim/MathKernel",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T00:21:01Z"
+          "id": "ee739cdf42096205f19867e5528999535f5c1b76",
+          "title": "微软发布 MAI-Image-2.6-Flash：图像生成速度提升 2.8 倍，成本降低逾 50%",
+          "url": "https://www.aibase.com/zh/news/30853",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
-          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "url": "https://news.ycombinator.com/item?id=49592366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T02:38:20.052000Z"
+          "id": "54c0098ec076fae6dd785ba33b8ee6215398952e",
+          "title": "微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%",
+          "url": "https://www.aibase.com/news/30853",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T01:37:34.622701Z"
         },
         {
-          "id": "c22177f87262abed8a9ed95e89aab8b83d840fbe",
-          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "url": "https://github.com/Staatsgeheim/MathKernel",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T00:21:01Z"
+          "id": "ee739cdf42096205f19867e5528999535f5c1b76",
+          "title": "微软发布 MAI-Image-2.6-Flash：图像生成速度提升 2.8 倍，成本降低逾 50%",
+          "url": "https://www.aibase.com/zh/news/30853",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9715,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T01:37:34.622701Z",
+      "latest_at": "2026-09-07T02:37:38.915665Z",
+      "primary_item": {
+        "id": "54c0098ec076fae6dd785ba33b8ee6215398952e",
+        "title": "微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%",
+        "url": "https://www.aibase.com/news/30853",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cbebafe1bae2",
+      "title": "盖茨的AI警告说对了一半",
+      "url": "https://www.36kr.com/p/3971565038458496",
+      "primary_url": "https://www.36kr.com/p/3971565038458496",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "cee02342ad150ee3a8cc8f355e20fe9e8a4f560b",
+          "title": "盖茨的AI警告说对了一半",
+          "url": "https://www.36kr.com/p/3971565038458496",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "30c902c9b2e5fb7e903448bafbcc683036e4c6da",
+          "title": "盖茨的 AI 警告说对了一半",
+          "url": "https://www.36kr.com/p/3971565038458496",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 · 24小时热榜",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cee02342ad150ee3a8cc8f355e20fe9e8a4f560b",
+          "title": "盖茨的AI警告说对了一半",
+          "url": "https://www.36kr.com/p/3971565038458496",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "30c902c9b2e5fb7e903448bafbcc683036e4c6da",
+          "title": "盖茨的 AI 警告说对了一半",
+          "url": "https://www.36kr.com/p/3971565038458496",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
@@ -1390,14 +1572,14 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-07T00:21:01Z",
-      "latest_at": "2026-09-07T02:38:20.052000Z",
+      "earliest_at": "2026-09-06T08:37:36.539399Z",
+      "latest_at": "2026-09-07T03:37:39.852237Z",
       "primary_item": {
-        "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
-        "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-        "url": "https://news.ycombinator.com/item?id=49592366",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "cee02342ad150ee3a8cc8f355e20fe9e8a4f560b",
+        "title": "盖茨的AI警告说对了一半",
+        "url": "https://www.36kr.com/p/3971565038458496",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1473,15 +1655,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5456,
-      "importance": 0.5456,
-      "importance_score": 0.5456,
+      "score": 0.5434,
+      "importance": 0.5434,
+      "importance_score": 0.5434,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8602,
+        "recency": 0.8479,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1499,258 +1681,82 @@
       }
     },
     {
-      "story_id": "story_b391499c714e",
-      "title": "人工智能时代下的PL教育：专访施里拉姆·克里希纳穆尔蒂",
-      "url": "https://www.typetheoryforall.com/episodes/pl-education-in-the-age-of-ai",
-      "primary_url": "https://www.typetheoryforall.com/episodes/pl-education-in-the-age-of-ai",
-      "source": "www.typetheoryforall.com",
-      "source_name": "Buzzing",
+      "story_id": "story_8bb7f24fe47b",
+      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+      "url": "https://news.ycombinator.com/item?id=49592366",
+      "primary_url": "https://news.ycombinator.com/item?id=49592366",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "eb3e44997f1c37113b1e67878286def475465f7a",
-          "title": "人工智能时代下的PL教育：专访施里拉姆·克里希纳穆尔蒂",
-          "url": "https://www.typetheoryforall.com/episodes/pl-education-in-the-age-of-ai",
-          "source": "www.typetheoryforall.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T02:24:55.052000Z"
+          "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
+          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "url": "https://news.ycombinator.com/item?id=49592366",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T02:38:20.052000Z"
         },
         {
-          "id": "94b2aa94fa46c8804f7fc89a7bcde8cc26cf67a4",
-          "title": "人工智能时代下的PL教育：专访施里拉姆·克里希纳穆尔蒂 / PL Education in the Age of AI: Interview with Shriram Krishnamurthi",
-          "url": "https://www.typetheoryforall.com/episodes/pl-education-in-the-age-of-ai",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-07T02:15:34Z"
+          "id": "c22177f87262abed8a9ed95e89aab8b83d840fbe",
+          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "url": "https://github.com/Staatsgeheim/MathKernel",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T00:21:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "www.typetheoryforall.com"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "eb3e44997f1c37113b1e67878286def475465f7a",
-          "title": "人工智能时代下的PL教育：专访施里拉姆·克里希纳穆尔蒂",
-          "url": "https://www.typetheoryforall.com/episodes/pl-education-in-the-age-of-ai",
-          "source": "www.typetheoryforall.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T02:24:55.052000Z"
+          "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
+          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "url": "https://news.ycombinator.com/item?id=49592366",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T02:38:20.052000Z"
         },
         {
-          "id": "94b2aa94fa46c8804f7fc89a7bcde8cc26cf67a4",
-          "title": "人工智能时代下的PL教育：专访施里拉姆·克里希纳穆尔蒂 / PL Education in the Age of AI: Interview with Shriram Krishnamurthi",
-          "url": "https://www.typetheoryforall.com/episodes/pl-education-in-the-age-of-ai",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-07T02:15:34Z"
+          "id": "c22177f87262abed8a9ed95e89aab8b83d840fbe",
+          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "url": "https://github.com/Staatsgeheim/MathKernel",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T00:21:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9969,
+        "recency": 0.9858,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-07T02:15:34Z",
-      "latest_at": "2026-09-07T02:24:55.052000Z",
+      "earliest_at": "2026-09-07T00:21:01Z",
+      "latest_at": "2026-09-07T02:38:20.052000Z",
       "primary_item": {
-        "id": "eb3e44997f1c37113b1e67878286def475465f7a",
-        "title": "人工智能时代下的PL教育：专访施里拉姆·克里希纳穆尔蒂",
-        "url": "https://www.typetheoryforall.com/episodes/pl-education-in-the-age-of-ai",
-        "source": "www.typetheoryforall.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7737bba1b986",
-      "title": "人工智能关机——保持人性",
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-      "primary_url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-      "source": "keepitfree.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
-          "title": "人工智能关机——保持人性",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "keepitfree.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T15:26:17.429000Z"
-        },
-        {
-          "id": "d99d9067ae36803e05aadde62718427389c1660f",
-          "title": "人工智能关机——保持人性 / A/I shuts down",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T14:34:34Z"
-        },
-        {
-          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
-          "title": "人工智能关机——保持人性 / A/I shuts down – Stay human",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T14:34:34Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "keepitfree.ai"
-      ],
-      "items": [
-        {
-          "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
-          "title": "人工智能关机——保持人性",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "keepitfree.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T15:26:17.429000Z"
-        },
-        {
-          "id": "d99d9067ae36803e05aadde62718427389c1660f",
-          "title": "人工智能关机——保持人性 / A/I shuts down",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T14:34:34Z"
-        },
-        {
-          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
-          "title": "人工智能关机——保持人性 / A/I shuts down – Stay human",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T14:34:34Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8508,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T14:34:34Z",
-      "latest_at": "2026-09-06T15:26:17.429000Z",
-      "primary_item": {
-        "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
-        "title": "人工智能关机——保持人性",
-        "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-        "source": "keepitfree.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-      "primary_url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "560f9814bdee3b63089792e1b8cffb055b7d2e65",
-          "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-          "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T00:22:04Z"
-        },
-        {
-          "id": "dfd484836e43929ff8c02f370d5ebd55a986c3e9",
-          "title": "Show HN: 《Deviant》——一部关于人工智能威胁与希望的科幻惊悚片",
-          "url": "https://www.youtube.com/watch?v=WTbYRsC8NZw",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T21:12:05.876000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.youtube.com"
-      ],
-      "items": [
-        {
-          "id": "560f9814bdee3b63089792e1b8cffb055b7d2e65",
-          "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-          "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T00:22:04Z"
-        },
-        {
-          "id": "dfd484836e43929ff8c02f370d5ebd55a986c3e9",
-          "title": "Show HN: 《Deviant》——一部关于人工智能威胁与希望的科幻惊悚片",
-          "url": "https://www.youtube.com/watch?v=WTbYRsC8NZw",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T21:12:05.876000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9679,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T21:12:05.876000Z",
-      "latest_at": "2026-09-07T00:22:04Z",
-      "primary_item": {
-        "id": "560f9814bdee3b63089792e1b8cffb055b7d2e65",
-        "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-        "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
+        "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+        "url": "https://news.ycombinator.com/item?id=49592366",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
