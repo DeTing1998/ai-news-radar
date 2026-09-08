@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T11:37:40.129977Z",
+  "generated_at": "2026-09-08T12:37:36.115698Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8618,
-      "importance": 0.8618,
-      "importance_score": 0.8618,
+      "score": 0.8594,
+      "importance": 0.8594,
+      "importance_score": 0.8594,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9399,
+        "recency": 0.9264,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -214,15 +214,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
+      "score": 0.8261,
+      "importance": 0.8261,
+      "importance_score": 0.8261,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9216,
+        "recency": 0.9084,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -295,15 +295,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9716,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -376,15 +376,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7646,
-      "importance": 0.7646,
-      "importance_score": 0.7646,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7776,
+        "recency": 0.7665,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -400,6 +400,67 @@
         "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
         "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1d18c2369bbc6958848b9af98310580002d1fcf7",
+          "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T00:17:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "1d18c2369bbc6958848b9af98310580002d1fcf7",
+          "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T00:17:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8368,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T00:17:23Z",
+      "latest_at": "2026-09-08T00:17:23Z",
+      "primary_item": {
+        "id": "1d18c2369bbc6958848b9af98310580002d1fcf7",
+        "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -457,15 +518,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -482,67 +543,6 @@
         "url": "https://www.aibase.com/news/30904",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1d18c2369bbc6958848b9af98310580002d1fcf7",
-          "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T00:17:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "1d18c2369bbc6958848b9af98310580002d1fcf7",
-          "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T00:17:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.849,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T00:17:23Z",
-      "latest_at": "2026-09-08T00:17:23Z",
-      "primary_item": {
-        "id": "1d18c2369bbc6958848b9af98310580002d1fcf7",
-        "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -580,15 +580,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9093,
+        "recency": 0.8963,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -659,15 +659,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.8781,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -740,15 +740,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -821,15 +821,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -937,15 +937,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.62,
-      "importance": 0.62,
-      "importance_score": 0.62,
+      "score": 0.6178,
+      "importance": 0.6178,
+      "importance_score": 0.6178,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8655,
+        "recency": 0.8531,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1016,15 +1016,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1097,15 +1097,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1122,6 +1122,103 @@
         "url": "https://www.aibase.com/news/30890",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "Show HN: 用于 Google Play 应用提交的 AI 代理 [视频]",
+      "url": "https://www.youtube.com/watch?v=tSSPdkp0QVI",
+      "primary_url": "https://www.youtube.com/watch?v=tSSPdkp0QVI",
+      "source": "www.youtube.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1891759774adb9ebafc6a855668f4a04d04248c2",
+          "title": "Show HN: 用于 Google Play 应用提交的 AI 代理 [视频]",
+          "url": "https://www.youtube.com/watch?v=tSSPdkp0QVI",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T12:04:49.614000Z"
+        },
+        {
+          "id": "669e2cb0550a158c0acba9b2597218843997bbd8",
+          "title": "Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
+          "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T02:53:51Z"
+        },
+        {
+          "id": "e078b438e5b60831561f859f25279a793fbe55c8",
+          "title": "2026 年 9 月 Emacs 聚会回顾 [视频] / September 2026 Emacs meetup recap [video]",
+          "url": "https://www.youtube.com/watch?v=RatVp4YLwiM",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T00:40:45Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "1891759774adb9ebafc6a855668f4a04d04248c2",
+          "title": "Show HN: 用于 Google Play 应用提交的 AI 代理 [视频]",
+          "url": "https://www.youtube.com/watch?v=tSSPdkp0QVI",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T12:04:49.614000Z"
+        },
+        {
+          "id": "669e2cb0550a158c0acba9b2597218843997bbd8",
+          "title": "Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
+          "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T02:53:51Z"
+        },
+        {
+          "id": "e078b438e5b60831561f859f25279a793fbe55c8",
+          "title": "2026 年 9 月 Emacs 聚会回顾 [视频] / September 2026 Emacs meetup recap [video]",
+          "url": "https://www.youtube.com/watch?v=RatVp4YLwiM",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T00:40:45Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5694,
+      "importance": 0.5694,
+      "importance_score": 0.5694,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9921,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-08T00:40:45Z",
+      "latest_at": "2026-09-08T12:04:49.614000Z",
+      "primary_item": {
+        "id": "1891759774adb9ebafc6a855668f4a04d04248c2",
+        "title": "Show HN: 用于 Google Play 应用提交的 AI 代理 [视频]",
+        "url": "https://www.youtube.com/watch?v=tSSPdkp0QVI",
+        "source": "www.youtube.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1178,15 +1275,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1277,15 +1374,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5525,
-      "importance": 0.5525,
-      "importance_score": 0.5525,
+      "score": 0.5502,
+      "importance": 0.5502,
+      "importance_score": 0.5502,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8982,
+        "recency": 0.8854,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1300,6 +1397,84 @@
         "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
         "source": "mcpherrin.ca",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_669533dd3ec5",
+      "title": "清华学霸开源 Agent 学习法：看不懂的 PDF 可自动生成互动课程",
+      "url": "https://hub.baai.ac.cn/view/57790",
+      "primary_url": "https://hub.baai.ac.cn/view/57790",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "4f12ea1159d8fbf53fa83339903688b565a54c32",
+          "title": "清华学霸开源 Agent 学习法：看不懂的 PDF 可自动生成互动课程",
+          "url": "https://hub.baai.ac.cn/view/57790",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2b39867dfb5aa28f30346ae683d5ff963ec5d4df",
+          "title": "清华学霸开源 Agent 学习法！看不懂的 PDF 扔过去，直接开出互动课程",
+          "url": "https://hub.baai.ac.cn/view/57790",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4f12ea1159d8fbf53fa83339903688b565a54c32",
+          "title": "清华学霸开源 Agent 学习法：看不懂的 PDF 可自动生成互动课程",
+          "url": "https://hub.baai.ac.cn/view/57790",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2b39867dfb5aa28f30346ae683d5ff963ec5d4df",
+          "title": "清华学霸开源 Agent 学习法！看不懂的 PDF 扔过去，直接开出互动课程",
+          "url": "https://hub.baai.ac.cn/view/57790",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-08T11:37:40.129977Z",
+      "latest_at": "2026-09-08T12:37:36.115698Z",
+      "primary_item": {
+        "id": "4f12ea1159d8fbf53fa83339903688b565a54c32",
+        "title": "清华学霸开源 Agent 学习法：看不懂的 PDF 可自动生成互动课程",
+        "url": "https://hub.baai.ac.cn/view/57790",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1356,15 +1531,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1435,15 +1610,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5443,
-      "importance": 0.5443,
-      "importance_score": 0.5443,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9915,
+        "recency": 0.9773,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1533,15 +1708,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5429,
-      "importance": 0.5429,
-      "importance_score": 0.5429,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.845,
+        "recency": 0.8329,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1556,164 +1731,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
         "source": "www.bbc.co.uk",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0124adb44450",
-      "title": "投资者对推动人工智能热潮的营收主张越来越持怀疑态度。",
-      "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
-      "primary_url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d103dee57bda1982181544a93aed2a22876cc344",
-          "title": "投资者对推动人工智能热潮的营收主张越来越持怀疑态度。",
-          "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T09:25:47.650000Z"
-        },
-        {
-          "id": "d3e851657dae28a7e9b7c8be50e8951cf8521736",
-          "title": "投资者对推动人工智能热潮的营收主张越来越持怀疑态度。 / 'There's no accountability;' AI startups keep claiming huge revenue. VCs say the math is getting 'murky.'",
-          "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T09:00:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "d103dee57bda1982181544a93aed2a22876cc344",
-          "title": "投资者对推动人工智能热潮的营收主张越来越持怀疑态度。",
-          "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T09:25:47.650000Z"
-        },
-        {
-          "id": "d3e851657dae28a7e9b7c8be50e8951cf8521736",
-          "title": "投资者对推动人工智能热潮的营收主张越来越持怀疑态度。 / 'There's no accountability;' AI startups keep claiming huge revenue. VCs say the math is getting 'murky.'",
-          "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T09:00:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9688,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-08T09:00:03Z",
-      "latest_at": "2026-09-08T09:25:47.650000Z",
-      "primary_item": {
-        "id": "d103dee57bda1982181544a93aed2a22876cc344",
-        "title": "投资者对推动人工智能热潮的营收主张越来越持怀疑态度。",
-        "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ef587e79e402",
-      "title": "[分享发现] OrcaTerm 发布新版：加入命令预测、AI 纠错与任务状态通知",
-      "url": "https://www.v2ex.com/t/1240456",
-      "primary_url": "https://www.v2ex.com/t/1240456",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "f2c31a40274f494de7641848e6b8c4471f84c16f",
-          "title": "[分享发现] OrcaTerm 发布新版：加入命令预测、AI 纠错与任务状态通知",
-          "url": "https://www.v2ex.com/t/1240456",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-08T09:20:08Z"
-        },
-        {
-          "id": "cdbbb6dfd9582a6f651ccf0c8f30ae58b969b6a5",
-          "title": "OrcaTerm 发布新版：加入命令预测、AI 纠错与任务状态通知",
-          "url": "https://www.oschina.net/news/502379",
-          "source": "开源中国 · 热门资讯",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)",
-        "开源中国 · 热门资讯"
-      ],
-      "items": [
-        {
-          "id": "f2c31a40274f494de7641848e6b8c4471f84c16f",
-          "title": "[分享发现] OrcaTerm 发布新版：加入命令预测、AI 纠错与任务状态通知",
-          "url": "https://www.v2ex.com/t/1240456",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-08T09:20:08Z"
-        },
-        {
-          "id": "cdbbb6dfd9582a6f651ccf0c8f30ae58b969b6a5",
-          "title": "OrcaTerm 发布新版：加入命令预测、AI 纠错与任务状态通知",
-          "url": "https://www.oschina.net/news/502379",
-          "source": "开源中国 · 热门资讯",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9674,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-08T08:37:34.628644Z",
-      "latest_at": "2026-09-08T09:20:08Z",
-      "primary_item": {
-        "id": "f2c31a40274f494de7641848e6b8c4471f84c16f",
-        "title": "[分享发现] OrcaTerm 发布新版：加入命令预测、AI 纠错与任务状态通知",
-        "url": "https://www.v2ex.com/t/1240456",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
       }
     }
   ]
