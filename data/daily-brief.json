@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-09-10T14:37:35.794082Z",
+  "generated_at": "2026-09-10T15:37:34.315893Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_1ef5285e671d",
+      "title": "OpenAI 与 GSA 合作，为美国联邦及地方政府提供 AI 访问与网络防御支持 / Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "primary_url": "https://openai.com/index/expanding-ai-access-us-government",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bdf77751802f84701ddbf73176dd6fd1aa229872",
+          "title": "OpenAI 与 GSA 合作，为美国联邦及地方政府提供 AI 访问与网络防御支持 / Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+          "url": "https://openai.com/index/expanding-ai-access-us-government",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T07:00:00Z"
+        },
+        {
+          "id": "d27814d6c390dfd3a3308c1b40e93ce20515ac16",
+          "title": "OpenAI 与 GSA 合作，为美国联邦及地方政府提供 AI 访问与网络防御支持",
+          "url": "https://openai.com/index/expanding-ai-access-us-government",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bdf77751802f84701ddbf73176dd6fd1aa229872",
+          "title": "OpenAI 与 GSA 合作，为美国联邦及地方政府提供 AI 访问与网络防御支持 / Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+          "url": "https://openai.com/index/expanding-ai-access-us-government",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T07:00:00Z"
+        },
+        {
+          "id": "d27814d6c390dfd3a3308c1b40e93ce20515ac16",
+          "title": "OpenAI 与 GSA 合作，为美国联邦及地方政府提供 AI 访问与网络防御支持",
+          "url": "https://openai.com/index/expanding-ai-access-us-government",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8559,
+      "importance": 0.8559,
+      "importance_score": 0.8559,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8829,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T07:00:00Z",
+      "latest_at": "2026-09-10T15:37:34.315893Z",
+      "primary_item": {
+        "id": "bdf77751802f84701ddbf73176dd6fd1aa229872",
+        "title": "OpenAI 与 GSA 合作，为美国联邦及地方政府提供 AI 访问与网络防御支持 / Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+        "url": "https://openai.com/index/expanding-ai-access-us-government",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_cb50b0c3c856",
       "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能 / Rebuilding AUTOMATIC1111 with Gradio Workflow",
@@ -57,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8507,
-      "importance": 0.8507,
-      "importance_score": 0.8507,
+      "score": 0.8486,
+      "importance": 0.8486,
+      "importance_score": 0.8486,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8096,
+        "recency": 0.798,
         "story_heat": 0.25
       },
       "category": "official",
@@ -82,6 +164,68 @@
         "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能 / Rebuilding AUTOMATIC1111 with Gradio Workflow",
         "url": "https://huggingface.co/blog/gradio-workflow-1111",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4d4e7920d8a7",
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "primary_url": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "324abe5a685dd53afc46c15fe0abbfaa534dc52e",
+          "title": "Now everyone can put data to work",
+          "url": "https://openai.com/index/put-data-to-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "324abe5a685dd53afc46c15fe0abbfaa534dc52e",
+          "title": "Now everyone can put data to work",
+          "url": "https://openai.com/index/put-data-to-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8504,
+      "importance": 0.8504,
+      "importance_score": 0.8504,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.991,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T15:00:00Z",
+      "latest_at": "2026-09-10T15:00:00Z",
+      "primary_item": {
+        "id": "324abe5a685dd53afc46c15fe0abbfaa534dc52e",
+        "title": "Now everyone can put data to work",
+        "url": "https://openai.com/index/put-data-to-work",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -120,15 +264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7657,
+        "recency": 0.7547,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +345,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
+      "score": 0.8061,
+      "importance": 0.8061,
+      "importance_score": 0.8061,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9723,
+        "recency": 0.9584,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -229,65 +373,64 @@
       }
     },
     {
-      "story_id": "story_534907e0d31e",
-      "title": "Paul Christiano 加入 OpenAI 基金会董事会 / Paul Christiano joins OpenAI Foundation Board",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "primary_url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_596fcd5035ef",
+      "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
+      "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
+      "primary_url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
-          "title": "Paul Christiano 加入 OpenAI 基金会董事会 / Paul Christiano joins OpenAI Foundation Board",
-          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T17:00:00Z"
+          "id": "cad5f5e91f4e5574a2ede74b951752b010e889e1",
+          "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
+          "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T07:31:01Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
-          "title": "Paul Christiano 加入 OpenAI 基金会董事会 / Paul Christiano joins OpenAI Foundation Board",
-          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T17:00:00Z"
+          "id": "cad5f5e91f4e5574a2ede74b951752b010e889e1",
+          "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
+          "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T07:31:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
-      "importance_label": "官方更新",
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7318,
+        "editorial": 0.87,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8895,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T17:00:00Z",
-      "latest_at": "2026-09-09T17:00:00Z",
+      "earliest_at": "2026-09-10T07:31:01Z",
+      "latest_at": "2026-09-10T07:31:01Z",
       "primary_item": {
-        "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
-        "title": "Paul Christiano 加入 OpenAI 基金会董事会 / Paul Christiano joins OpenAI Foundation Board",
-        "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "cad5f5e91f4e5574a2ede74b951752b010e889e1",
+        "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
+        "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -344,15 +487,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9469,
+        "recency": 0.9333,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -368,67 +511,6 @@
         "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
         "url": "https://cognition.com/blog/factoring-rsa-260",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_596fcd5035ef",
-      "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
-      "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
-      "primary_url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cad5f5e91f4e5574a2ede74b951752b010e889e1",
-          "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
-          "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T07:31:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "cad5f5e91f4e5574a2ede74b951752b010e889e1",
-          "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
-          "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T07:31:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.87,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9024,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T07:31:01Z",
-      "latest_at": "2026-09-10T07:31:01Z",
-      "primary_item": {
-        "id": "cad5f5e91f4e5574a2ede74b951752b010e889e1",
-        "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
-        "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
-        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -467,15 +549,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7938,
-      "importance": 0.7938,
-      "importance_score": 0.7938,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7213,
+        "recency": 0.7109,
         "story_heat": 0.0
       },
       "category": "official",
@@ -548,15 +630,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -573,68 +655,6 @@
         "url": "https://www.aibase.com/news/30955",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e8608e40b722",
-      "title": "IBM 发布具有商业友好许可证的 SOTA Granite Time Series PatchTST-FM-r2 模型 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "primary_url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fd91534dca51075721031b57097e5f9315f7f497",
-          "title": "IBM 发布具有商业友好许可证的 SOTA Granite Time Series PatchTST-FM-r2 模型 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T15:36:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "fd91534dca51075721031b57097e5f9315f7f497",
-          "title": "IBM 发布具有商业友好许可证的 SOTA Granite Time Series PatchTST-FM-r2 模型 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T15:36:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7172,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T15:36:24Z",
-      "latest_at": "2026-09-09T15:36:24Z",
-      "primary_item": {
-        "id": "fd91534dca51075721031b57097e5f9315f7f497",
-        "title": "IBM 发布具有商业友好许可证的 SOTA Granite Time Series PatchTST-FM-r2 模型 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-        "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -672,15 +692,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7837,
+        "recency": 0.7725,
         "story_heat": 0.0
       },
       "category": "official",
@@ -734,15 +754,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7705,
+      "importance": 0.7705,
+      "importance_score": 0.7705,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9123,
+        "recency": 0.8992,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -795,15 +815,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7674,
-      "importance": 0.7674,
-      "importance_score": 0.7674,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.8698,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -875,15 +895,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7583,
+        "recency": 0.7475,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -937,15 +957,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7938,
-      "importance": 0.7938,
-      "importance_score": 0.7938,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7213,
+        "recency": 0.7109,
         "story_heat": 0.0
       },
       "category": "official",
@@ -962,87 +982,6 @@
         "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_44084287147f",
-      "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻",
-      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "primary_url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fc2f781a539d4533c21adbe07315e18aa4ef900b",
-          "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻",
-          "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T14:37:47Z"
-        },
-        {
-          "id": "fc984bb67d95b41f15bab23b8b6e9c3cca4f3ef6",
-          "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻 / GPT-6 Astra, looped transformers, and hidden reasoning",
-          "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-09T14:37:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News：AI 热帖"
-      ],
-      "items": [
-        {
-          "id": "fc2f781a539d4533c21adbe07315e18aa4ef900b",
-          "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻",
-          "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T14:37:47Z"
-        },
-        {
-          "id": "fc984bb67d95b41f15bab23b8b6e9c3cca4f3ef6",
-          "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻 / GPT-6 Astra, looped transformers, and hidden reasoning",
-          "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-09T14:37:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7071,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T14:37:47Z",
-      "latest_at": "2026-09-09T14:37:47Z",
-      "primary_item": {
-        "id": "fc2f781a539d4533c21adbe07315e18aa4ef900b",
-        "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻",
-        "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1080,15 +1019,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7411,
+        "recency": 0.7305,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1160,15 +1099,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1222,21 +1161,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.996,
+        "recency": 0.9818,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-10T14:21:06Z",
       "latest_at": "2026-09-10T14:21:06Z",
@@ -1246,6 +1184,68 @@
         "url": "https://x.com/SiliconFlowAI/status/2098054160176545821",
         "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_534907e0d31e",
+      "title": "Paul Christiano 加入 OpenAI 基金会董事会 / Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "primary_url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
+          "title": "Paul Christiano 加入 OpenAI 基金会董事会 / Paul Christiano joins OpenAI Foundation Board",
+          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
+          "title": "Paul Christiano 加入 OpenAI 基金会董事会 / Paul Christiano joins OpenAI Foundation Board",
+          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7213,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T17:00:00Z",
+      "latest_at": "2026-09-09T17:00:00Z",
+      "primary_item": {
+        "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
+        "title": "Paul Christiano 加入 OpenAI 基金会董事会 / Paul Christiano joins OpenAI Foundation Board",
+        "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1283,15 +1283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7711,
-      "importance": 0.7711,
-      "importance_score": 0.7711,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9197,
+        "recency": 0.9065,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1344,15 +1344,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7968,
-      "importance": 0.7968,
-      "importance_score": 0.7968,
+      "score": 0.7949,
+      "importance": 0.7949,
+      "importance_score": 0.7949,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7377,
+        "recency": 0.7271,
         "story_heat": 0.0
       },
       "category": "official",
