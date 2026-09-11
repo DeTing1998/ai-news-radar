@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T13:37:34.187174Z",
+  "generated_at": "2026-09-11T14:37:36.549738Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7213,
+        "recency": 0.7109,
         "story_heat": 0.25
       },
       "category": "official",
@@ -83,6 +83,87 @@
         "url": "https://openai.com/index/put-data-to-work",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_11bf04e0fb9c",
+      "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
+      "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+      "primary_url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e4b7f842e6f992b30f1c3f0e089721de19e4284c",
+          "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
+          "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T13:50:28Z"
+        },
+        {
+          "id": "f2ba85b0a06eff9811d7f1e893918c758ce7387f",
+          "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
+          "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-11T13:50:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e4b7f842e6f992b30f1c3f0e089721de19e4284c",
+          "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
+          "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T13:50:28Z"
+        },
+        {
+          "id": "f2ba85b0a06eff9811d7f1e893918c758ce7387f",
+          "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
+          "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-11T13:50:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9887,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T13:50:28Z",
+      "latest_at": "2026-09-11T13:50:28Z",
+      "primary_item": {
+        "id": "e4b7f842e6f992b30f1c3f0e089721de19e4284c",
+        "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
+        "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -120,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7925,
+        "recency": 0.7811,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +263,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7917,
+        "recency": 0.7804,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,15 +325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7318,
+        "recency": 0.7213,
         "story_heat": 0.0
       },
       "category": "official",
@@ -272,102 +353,84 @@
       }
     },
     {
-      "story_id": "story_e0bea100c91b",
-      "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-      "url": "https://shopify.engineering/back-to-native",
-      "primary_url": "https://shopify.engineering/back-to-native",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_00e01bcf1dac",
+      "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+      "url": "https://www.aibase.com/news/31002",
+      "primary_url": "https://www.aibase.com/news/31002",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
-          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-          "url": "https://shopify.engineering/back-to-native",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T15:04:41.487000Z"
+          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
+          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "url": "https://www.aibase.com/news/31002",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T14:37:36.549738Z"
         },
         {
-          "id": "919cb537c88be6b4e4bd360a8378ac0f197c2b4f",
-          "title": "Shopify 从 React Native 重新回归到原生开发 / Shopify is moving from React Native back to Swift and Kotlin",
-          "url": "https://shopify.engineering/back-to-native",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-10T14:09:31Z"
-        },
-        {
-          "id": "0b5e6098b6676c21f931f4cbd7ee75ff9732efc0",
-          "title": "Shopify 从 React Native 重新回归到原生开发 / Shopify moves back to Native from React Native",
-          "url": "https://shopify.engineering/back-to-native",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-10T14:09:31Z"
+          "id": "a1f92dc8eed5a34798b580b3e9451105de3ebd48",
+          "title": "具身智能的「ChatGPT 时刻」何时到来？百亿具身 CEO 与青年创业者外滩大会热议",
+          "url": "https://www.aibase.com/zh/news/31002",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
-          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-          "url": "https://shopify.engineering/back-to-native",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T15:04:41.487000Z"
+          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
+          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "url": "https://www.aibase.com/news/31002",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T14:37:36.549738Z"
         },
         {
-          "id": "919cb537c88be6b4e4bd360a8378ac0f197c2b4f",
-          "title": "Shopify 从 React Native 重新回归到原生开发 / Shopify is moving from React Native back to Swift and Kotlin",
-          "url": "https://shopify.engineering/back-to-native",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-10T14:09:31Z"
-        },
-        {
-          "id": "0b5e6098b6676c21f931f4cbd7ee75ff9732efc0",
-          "title": "Shopify 从 React Native 重新回归到原生开发 / Shopify moves back to Native from React Native",
-          "url": "https://shopify.engineering/back-to-native",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-10T14:09:31Z"
+          "id": "a1f92dc8eed5a34798b580b3e9451105de3ebd48",
+          "title": "具身智能的「ChatGPT 时刻」何时到来？百亿具身 CEO 与青年创业者外滩大会热议",
+          "url": "https://www.aibase.com/zh/news/31002",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7946,
-      "importance": 0.7946,
-      "importance_score": 0.7946,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7221,
-        "story_heat": 0.5
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-10T14:09:31Z",
-      "latest_at": "2026-09-10T15:04:41.487000Z",
+      "earliest_at": "2026-09-11T14:37:36.549738Z",
+      "latest_at": "2026-09-11T14:37:36.549738Z",
       "primary_item": {
-        "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
-        "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-        "url": "https://shopify.engineering/back-to-native",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
+        "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+        "url": "https://www.aibase.com/news/31002",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -405,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7318,
+        "recency": 0.7213,
         "story_heat": 0.0
       },
       "category": "official",
@@ -430,87 +493,6 @@
         "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_99f356f6efc1",
-      "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-      "url": "https://www.aibase.com/news/30999",
-      "primary_url": "https://www.aibase.com/news/30999",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
-          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-          "url": "https://www.aibase.com/news/30999",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T10:37:33.635382Z"
-        },
-        {
-          "id": "89fd0df19d7b7f24bc427963d0b7a8bf71aa1544",
-          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-          "url": "https://www.aibase.com/zh/news/30999",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
-          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-          "url": "https://www.aibase.com/news/30999",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T10:37:33.635382Z"
-        },
-        {
-          "id": "89fd0df19d7b7f24bc427963d0b7a8bf71aa1544",
-          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-          "url": "https://www.aibase.com/zh/news/30999",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T10:37:33.635382Z",
-      "latest_at": "2026-09-11T10:37:33.635382Z",
-      "primary_item": {
-        "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
-        "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
-        "url": "https://www.aibase.com/news/30999",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -567,15 +549,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7761,
+      "importance": 0.7761,
+      "importance_score": 0.7761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7861,
+        "recency": 0.7748,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -629,15 +611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
+      "score": 0.8022,
+      "importance": 0.8022,
+      "importance_score": 0.8022,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7792,
+        "recency": 0.768,
         "story_heat": 0.0
       },
       "category": "official",
@@ -654,6 +636,208 @@
         "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "75b9e770438f92296d66b37e1b8f03368d074325",
+          "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T04:24:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "75b9e770438f92296d66b37e1b8f03368d074325",
+          "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T04:24:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8628,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T04:24:28Z",
+      "latest_at": "2026-09-11T04:24:28Z",
+      "primary_item": {
+        "id": "75b9e770438f92296d66b37e1b8f03368d074325",
+        "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+        "source": "公众号：卡尔的AI沃茨",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_99f356f6efc1",
+      "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+      "url": "https://www.aibase.com/news/30999",
+      "primary_url": "https://www.aibase.com/news/30999",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
+          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "url": "https://www.aibase.com/news/30999",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T10:37:33.635382Z"
+        },
+        {
+          "id": "89fd0df19d7b7f24bc427963d0b7a8bf71aa1544",
+          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "url": "https://www.aibase.com/zh/news/30999",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
+          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "url": "https://www.aibase.com/news/30999",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T10:37:33.635382Z"
+        },
+        {
+          "id": "89fd0df19d7b7f24bc427963d0b7a8bf71aa1544",
+          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "url": "https://www.aibase.com/zh/news/30999",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9439,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T10:37:33.635382Z",
+      "latest_at": "2026-09-11T10:37:33.635382Z",
+      "primary_item": {
+        "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
+        "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+        "url": "https://www.aibase.com/news/30999",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e0bea100c91b",
+      "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+      "url": "https://shopify.engineering/back-to-native",
+      "primary_url": "https://shopify.engineering/back-to-native",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
+          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+          "url": "https://shopify.engineering/back-to-native",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T15:04:41.487000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
+          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+          "url": "https://shopify.engineering/back-to-native",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T15:04:41.487000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7117,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-10T15:04:41.487000Z",
+      "latest_at": "2026-09-10T15:04:41.487000Z",
+      "primary_item": {
+        "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
+        "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+        "url": "https://shopify.engineering/back-to-native",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -710,15 +894,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7694,
-      "importance": 0.7694,
-      "importance_score": 0.7694,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7377,
+        "recency": 0.7271,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -738,63 +922,124 @@
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-      "source": "公众号：卡尔的AI沃茨",
-      "source_name": "AI HOT",
+      "story_id": "story_4997b35dbc97",
+      "title": "使用缓存模式控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
+      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+      "primary_url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "75b9e770438f92296d66b37e1b8f03368d074325",
-          "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T04:24:28Z"
+          "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
+          "title": "使用缓存模式控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
+          "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T17:26:59Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：卡尔的AI沃茨"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "75b9e770438f92296d66b37e1b8f03368d074325",
-          "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T04:24:28Z"
+          "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
+          "title": "使用缓存模式控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
+          "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T17:26:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7365,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T17:26:59Z",
+      "latest_at": "2026-09-10T17:26:59Z",
+      "primary_item": {
+        "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
+        "title": "使用缓存模式控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
+        "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b007b558c779",
+      "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "primary_url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
+          "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+          "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T17:28:52.100000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
+          "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+          "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T17:28:52.100000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8754,
+        "recency": 0.7369,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-11T04:24:28Z",
-      "latest_at": "2026-09-11T04:24:28Z",
+      "earliest_at": "2026-09-10T17:28:52.100000Z",
+      "latest_at": "2026-09-10T17:28:52.100000Z",
       "primary_item": {
-        "id": "75b9e770438f92296d66b37e1b8f03368d074325",
-        "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-        "source": "公众号：卡尔的AI沃茨",
+        "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
+        "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+        "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+        "source": "Anthropic：Research（发表成果 · 网页）",
         "source_name": "AI HOT"
       }
     },
@@ -852,15 +1097,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -877,128 +1122,6 @@
         "url": "https://www.aibase.com/news/30993",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4997b35dbc97",
-      "title": "使用缓存模式控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
-      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
-      "primary_url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
-          "title": "使用缓存模式控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
-          "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T17:26:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
-          "title": "使用缓存模式控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
-          "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T17:26:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7985,
-      "importance": 0.7985,
-      "importance_score": 0.7985,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7472,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T17:26:59Z",
-      "latest_at": "2026-09-10T17:26:59Z",
-      "primary_item": {
-        "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
-        "title": "使用缓存模式控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
-        "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b007b558c779",
-      "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
-      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-      "primary_url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
-          "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
-          "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T17:28:52.100000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "items": [
-        {
-          "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
-          "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
-          "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T17:28:52.100000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7476,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-10T17:28:52.100000Z",
-      "latest_at": "2026-09-10T17:28:52.100000Z",
-      "primary_item": {
-        "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
-        "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
-        "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1036,15 +1159,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7974,
-      "importance": 0.7974,
-      "importance_score": 0.7974,
+      "score": 0.7955,
+      "importance": 0.7955,
+      "importance_score": 0.7955,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7413,
+        "recency": 0.7307,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1059,6 +1182,68 @@
         "id": "49996d91daf133b08baf8b309cf10c513bf5c54c",
         "title": "MAI-Code-1-Flash 已弃用 / MAI-Code-1-Flash deprecated",
         "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_61aac319f1d5",
+      "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
+      "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
+      "primary_url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
+          "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
+          "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T15:15:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
+          "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
+          "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T15:15:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7136,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T15:15:36Z",
+      "latest_at": "2026-09-10T15:15:36Z",
+      "primary_item": {
+        "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
+        "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
+        "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -1098,15 +1283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1122,68 +1307,6 @@
         "url": "https://www.aibase.com/news/30988",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_61aac319f1d5",
-      "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
-      "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-      "primary_url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
-          "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
-          "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T15:15:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
-          "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
-          "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T15:15:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.724,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T15:15:36Z",
-      "latest_at": "2026-09-10T15:15:36Z",
-      "primary_item": {
-        "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
-        "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
-        "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1221,15 +1344,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1245,163 +1368,6 @@
         "url": "https://www.aibase.com/news/30995",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bdd28cb00a5e",
-      "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
-      "url": "https://www.aibase.com/news/30994",
-      "primary_url": "https://www.aibase.com/news/30994",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3b2ee09acb93ba3ec7dcc800c8f83a5d8e19a201",
-          "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
-          "url": "https://www.aibase.com/news/30994",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T10:37:33.635382Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3b2ee09acb93ba3ec7dcc800c8f83a5d8e19a201",
-          "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
-          "url": "https://www.aibase.com/news/30994",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T10:37:33.635382Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T10:37:33.635382Z",
-      "latest_at": "2026-09-11T10:37:33.635382Z",
-      "primary_item": {
-        "id": "3b2ee09acb93ba3ec7dcc800c8f83a5d8e19a201",
-        "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
-        "url": "https://www.aibase.com/news/30994",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-10",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "bc28cb0c34c1d37a31fffe01cd8ba32cb04e55fe",
-          "title": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-11T10:37:33.635382Z"
-        },
-        {
-          "id": "c515ecac8b0a88c77b7cbacb344048506e31ae2c",
-          "title": "小互这份文章拆解了 GPT Image 2.5 全套官方实操指南，附带 API 参数规范、8大提示词心法与 22 个实战案例。而且还提供了可直接参考的工程级提示词模板与落地工具包。快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-11T10:37:33.635382Z"
-        },
-        {
-          "id": "b8e417a270df85b8b8290b6ee81347b1ab7648b3",
-          "title": "苹果发布了首款折叠屏 iPhone，也更新了耳机和手表。借着这场发布会，我们一起来探索下：做 AI 硬件，我们能向苹果偷师什么？从功能放在哪台设备上，到用户怎么检查 AI 的结果，这些具体设计里，有不少值得拆开看的产品思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-11T10:37:33.635382Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "社区更新 · 2026-09-10"
-      ],
-      "items": [
-        {
-          "id": "bc28cb0c34c1d37a31fffe01cd8ba32cb04e55fe",
-          "title": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-11T10:37:33.635382Z"
-        },
-        {
-          "id": "c515ecac8b0a88c77b7cbacb344048506e31ae2c",
-          "title": "小互这份文章拆解了 GPT Image 2.5 全套官方实操指南，附带 API 参数规范、8大提示词心法与 22 个实战案例。而且还提供了可直接参考的工程级提示词模板与落地工具包。快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-11T10:37:33.635382Z"
-        },
-        {
-          "id": "b8e417a270df85b8b8290b6ee81347b1ab7648b3",
-          "title": "苹果发布了首款折叠屏 iPhone，也更新了耳机和手表。借着这场发布会，我们一起来探索下：做 AI 硬件，我们能向苹果偷师什么？从功能放在哪台设备上，到用户怎么检查 AI 的结果，这些具体设计里，有不少值得拆开看的产品思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-11T10:37:33.635382Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6116,
-      "importance": 0.6116,
-      "importance_score": 0.6116,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9576,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T10:37:33.635382Z",
-      "latest_at": "2026-09-11T10:37:33.635382Z",
-      "primary_item": {
-        "id": "bc28cb0c34c1d37a31fffe01cd8ba32cb04e55fe",
-        "title": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-10",
-        "source_name": "WaytoAGI"
       }
     }
   ]
