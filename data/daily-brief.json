@@ -1,90 +1,8 @@
 {
-  "generated_at": "2026-09-11T14:37:36.549738Z",
+  "generated_at": "2026-09-11T15:37:33.110661Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_4d4e7920d8a7",
-      "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "primary_url": "https://openai.com/index/put-data-to-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "324abe5a685dd53afc46c15fe0abbfaa534dc52e",
-          "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
-          "url": "https://openai.com/index/put-data-to-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T15:00:00Z"
-        },
-        {
-          "id": "30d9f261e11999a051d32e7f5edab745d2ba7c11",
-          "title": "OpenAI 在 ChatGPT Work 中推出 Data agent",
-          "url": "https://openai.com/index/put-data-to-work",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T15:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "324abe5a685dd53afc46c15fe0abbfaa534dc52e",
-          "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
-          "url": "https://openai.com/index/put-data-to-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T15:00:00Z"
-        },
-        {
-          "id": "30d9f261e11999a051d32e7f5edab745d2ba7c11",
-          "title": "OpenAI 在 ChatGPT Work 中推出 Data agent",
-          "url": "https://openai.com/index/put-data-to-work",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T15:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7109,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T15:00:00Z",
-      "latest_at": "2026-09-10T15:00:00Z",
-      "primary_item": {
-        "id": "324abe5a685dd53afc46c15fe0abbfaa534dc52e",
-        "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
-        "url": "https://openai.com/index/put-data-to-work",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
     {
       "story_id": "story_11bf04e0fb9c",
       "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
@@ -139,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9887,
+        "recency": 0.9746,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -164,6 +82,130 @@
         "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_014159943e4d",
+      "title": "研究人员如何使用 Codex 和 ChatGPT 寻找新的抗菌分子 / How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "primary_url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a3b78437e92fb6a33cdc8b6fb400b1a8253ada5a",
+          "title": "研究人员如何使用 Codex 和 ChatGPT 寻找新的抗菌分子 / How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+          "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "a3b78437e92fb6a33cdc8b6fb400b1a8253ada5a",
+          "title": "研究人员如何使用 Codex 和 ChatGPT 寻找新的抗菌分子 / How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+          "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.7109,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T16:00:00Z",
+      "latest_at": "2026-09-10T16:00:00Z",
+      "primary_item": {
+        "id": "a3b78437e92fb6a33cdc8b6fb400b1a8253ada5a",
+        "title": "研究人员如何使用 Codex 和 ChatGPT 寻找新的抗菌分子 / How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+        "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6ecf9c52fc09",
+      "title": "GitHub Copilot 每周发布 — 9 月 7 日 / GitHub Copilot weekly releases — September 7",
+      "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+      "primary_url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "646ce98f87d3f93fae127844fb008182b9d79aca",
+          "title": "GitHub Copilot 每周发布 — 9 月 7 日 / GitHub Copilot weekly releases — September 7",
+          "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T22:55:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "646ce98f87d3f93fae127844fb008182b9d79aca",
+          "title": "GitHub Copilot 每周发布 — 9 月 7 日 / GitHub Copilot weekly releases — September 7",
+          "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T22:55:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7856,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T22:55:07Z",
+      "latest_at": "2026-09-10T22:55:07Z",
+      "primary_item": {
+        "id": "646ce98f87d3f93fae127844fb008182b9d79aca",
+        "title": "GitHub Copilot 每周发布 — 9 月 7 日 / GitHub Copilot weekly releases — September 7",
+        "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -201,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8126,
-      "importance": 0.8126,
-      "importance_score": 0.8126,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7811,
+        "recency": 0.7699,
         "story_heat": 0.0
       },
       "category": "official",
@@ -225,68 +267,6 @@
         "title": "适合初学者的 GitHub Copilot 应用程序：使用 diff、终端和浏览器 / GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
         "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_437450430f85",
-      "title": "公开预览中刷新的存储库拉取请求页面 / Refreshed repository pull requests page in public preview",
-      "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
-          "title": "公开预览中刷新的存储库拉取请求页面 / Refreshed repository pull requests page in public preview",
-          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T21:27:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
-          "title": "公开预览中刷新的存储库拉取请求页面 / Refreshed repository pull requests page in public preview",
-          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T21:27:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8045,
-      "importance": 0.8045,
-      "importance_score": 0.8045,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7804,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T21:27:17Z",
-      "latest_at": "2026-09-10T21:27:17Z",
-      "primary_item": {
-        "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
-        "title": "公开预览中刷新的存储库拉取请求页面 / Refreshed repository pull requests page in public preview",
-        "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -325,15 +305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7938,
-      "importance": 0.7938,
-      "importance_score": 0.7938,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7213,
+        "recency": 0.7109,
         "story_heat": 0.0
       },
       "category": "official",
@@ -406,15 +386,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -431,68 +411,6 @@
         "url": "https://www.aibase.com/news/31002",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_014159943e4d",
-      "title": "研究人员如何使用 Codex 和 ChatGPT 寻找新的抗菌分子 / How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "primary_url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a3b78437e92fb6a33cdc8b6fb400b1a8253ada5a",
-          "title": "研究人员如何使用 Codex 和 ChatGPT 寻找新的抗菌分子 / How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-          "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "a3b78437e92fb6a33cdc8b6fb400b1a8253ada5a",
-          "title": "研究人员如何使用 Codex 和 ChatGPT 寻找新的抗菌分子 / How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-          "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8178,
-      "importance": 0.8178,
-      "importance_score": 0.8178,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7213,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T16:00:00Z",
-      "latest_at": "2026-09-10T16:00:00Z",
-      "primary_item": {
-        "id": "a3b78437e92fb6a33cdc8b6fb400b1a8253ada5a",
-        "title": "研究人员如何使用 Codex 和 ChatGPT 寻找新的抗菌分子 / How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-        "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -549,15 +467,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7748,
+        "recency": 0.7637,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -577,21 +495,21 @@
       }
     },
     {
-      "story_id": "story_4aaaad58edea",
-      "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
-      "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+      "story_id": "story_437450430f85",
+      "title": "公开预览中刷新的存储库拉取请求页面 / Refreshed repository pull requests page in public preview",
+      "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
-          "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
-          "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
+          "title": "公开预览中刷新的存储库拉取请求页面 / Refreshed repository pull requests page in public preview",
+          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-10T20:20:58Z"
+          "published_at": "2026-09-10T21:27:17Z"
         }
       ],
       "source_count": 1,
@@ -600,26 +518,26 @@
       ],
       "items": [
         {
-          "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
-          "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
-          "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
+          "title": "公开预览中刷新的存储库拉取请求页面 / Refreshed repository pull requests page in public preview",
+          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-10T20:20:58Z"
+          "published_at": "2026-09-10T21:27:17Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.768,
+        "recency": 0.7692,
         "story_heat": 0.0
       },
       "category": "official",
@@ -628,12 +546,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-10T20:20:58Z",
-      "latest_at": "2026-09-10T20:20:58Z",
+      "earliest_at": "2026-09-10T21:27:17Z",
+      "latest_at": "2026-09-10T21:27:17Z",
       "primary_item": {
-        "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
-        "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
-        "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+        "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
+        "title": "公开预览中刷新的存储库拉取请求页面 / Refreshed repository pull requests page in public preview",
+        "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -673,15 +591,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8628,
+        "recency": 0.8504,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -753,15 +671,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -781,63 +699,65 @@
       }
     },
     {
-      "story_id": "story_e0bea100c91b",
-      "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-      "url": "https://shopify.engineering/back-to-native",
-      "primary_url": "https://shopify.engineering/back-to-native",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_4aaaad58edea",
+      "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
+      "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
-          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-          "url": "https://shopify.engineering/back-to-native",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T15:04:41.487000Z"
+          "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
+          "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
+          "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T20:20:58Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
-          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-          "url": "https://shopify.engineering/back-to-native",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T15:04:41.487000Z"
+          "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
+          "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
+          "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T20:20:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
-      "importance_label": "行业动态",
+      "score": 0.8003,
+      "importance": 0.8003,
+      "importance_score": 0.8003,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7117,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.757,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-10T15:04:41.487000Z",
-      "latest_at": "2026-09-10T15:04:41.487000Z",
+      "earliest_at": "2026-09-10T20:20:58Z",
+      "latest_at": "2026-09-10T20:20:58Z",
       "primary_item": {
-        "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
-        "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-        "url": "https://shopify.engineering/back-to-native",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
+        "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
+        "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -894,15 +814,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7271,
+        "recency": 0.7167,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -919,68 +839,6 @@
         "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4997b35dbc97",
-      "title": "使用缓存模式控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
-      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
-      "primary_url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
-          "title": "使用缓存模式控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
-          "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T17:26:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
-          "title": "使用缓存模式控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
-          "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T17:26:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7966,
-      "importance": 0.7966,
-      "importance_score": 0.7966,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7365,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T17:26:59Z",
-      "latest_at": "2026-09-10T17:26:59Z",
-      "primary_item": {
-        "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
-        "title": "使用缓存模式控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
-        "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1018,15 +876,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7369,
+        "recency": 0.7263,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1097,15 +955,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1120,6 +978,129 @@
         "id": "57d3c33a3bb2c0ef39a5659f92590a45e62e76af",
         "title": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
         "url": "https://www.aibase.com/news/30993",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4997b35dbc97",
+      "title": "使用缓存模式控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
+      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+      "primary_url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
+          "title": "使用缓存模式控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
+          "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T17:26:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
+          "title": "使用缓存模式控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
+          "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T17:26:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.726,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T17:26:59Z",
+      "latest_at": "2026-09-10T17:26:59Z",
+      "primary_item": {
+        "id": "461bda39ca84e7ac8434484871e669a57ccd95eb",
+        "title": "使用缓存模式控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
+        "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_30a50a2636d6",
+      "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+      "url": "https://www.aibase.com/news/31003",
+      "primary_url": "https://www.aibase.com/news/31003",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
+          "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+          "url": "https://www.aibase.com/news/31003",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T15:37:33.110661Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
+          "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+          "url": "https://www.aibase.com/news/31003",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T15:37:33.110661Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T15:37:33.110661Z",
+      "latest_at": "2026-09-11T15:37:33.110661Z",
+      "primary_item": {
+        "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
+        "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+        "url": "https://www.aibase.com/news/31003",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1159,15 +1140,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7955,
-      "importance": 0.7955,
-      "importance_score": 0.7955,
+      "score": 0.7936,
+      "importance": 0.7936,
+      "importance_score": 0.7936,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7307,
+        "recency": 0.7202,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1182,68 +1163,6 @@
         "id": "49996d91daf133b08baf8b309cf10c513bf5c54c",
         "title": "MAI-Code-1-Flash 已弃用 / MAI-Code-1-Flash deprecated",
         "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_61aac319f1d5",
-      "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
-      "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-      "primary_url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
-          "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
-          "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T15:15:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
-          "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
-          "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T15:15:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7136,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T15:15:36Z",
-      "latest_at": "2026-09-10T15:15:36Z",
-      "primary_item": {
-        "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
-        "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
-        "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -1283,15 +1202,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1310,64 +1229,177 @@
       }
     },
     {
-      "story_id": "story_50aac7f48f59",
-      "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-      "url": "https://www.aibase.com/news/30995",
-      "primary_url": "https://www.aibase.com/news/30995",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_62d35db41d4e",
+      "title": "Meta 表示，在提出侵入性个人问题后，它正在改变人工智能建议 / Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "primary_url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "source": "The Verge",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "24e5638082baa39083cdb3eaf7788d85c5450ab1",
-          "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-          "url": "https://www.aibase.com/news/30995",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T10:37:33.635382Z"
+          "id": "ee641a3edd208e4cd6878f246be1b8bb3a551d17",
+          "title": "Meta 表示，在提出侵入性个人问题后，它正在改变人工智能建议 / Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-11T14:25:21Z"
+        },
+        {
+          "id": "bc2d26d53888fa61645b8177bb96977879220bc6",
+          "title": "Meta 表示，在提出侵入性个人问题后，它正在改变人工智能建议 / Meta says it’s changing AI suggestions after posing invasive personal questions",
+          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T14:25:21Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "24e5638082baa39083cdb3eaf7788d85c5450ab1",
-          "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-          "url": "https://www.aibase.com/news/30995",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
+          "id": "ee641a3edd208e4cd6878f246be1b8bb3a551d17",
+          "title": "Meta 表示，在提出侵入性个人问题后，它正在改变人工智能建议 / Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-11T14:25:21Z"
+        },
+        {
+          "id": "bc2d26d53888fa61645b8177bb96977879220bc6",
+          "title": "Meta 表示，在提出侵入性个人问题后，它正在改变人工智能建议 / Meta says it’s changing AI suggestions after posing invasive personal questions",
+          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T14:25:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6124,
+      "importance": 0.6124,
+      "importance_score": 0.6124,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9828,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T14:25:21Z",
+      "latest_at": "2026-09-11T14:25:21Z",
+      "primary_item": {
+        "id": "ee641a3edd208e4cd6878f246be1b8bb3a551d17",
+        "title": "Meta 表示，在提出侵入性个人问题后，它正在改变人工智能建议 / Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+        "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-09-10",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "bc28cb0c34c1d37a31fffe01cd8ba32cb04e55fe",
+          "title": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-11T10:37:33.635382Z"
+        },
+        {
+          "id": "c515ecac8b0a88c77b7cbacb344048506e31ae2c",
+          "title": "小互这份文章拆解了 GPT Image 2.5 全套官方实操指南，附带 API 参数规范、8大提示词心法与 22 个实战案例。而且还提供了可直接参考的工程级提示词模板与落地工具包。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-11T10:37:33.635382Z"
+        },
+        {
+          "id": "b8e417a270df85b8b8290b6ee81347b1ab7648b3",
+          "title": "苹果发布了首款折叠屏 iPhone，也更新了耳机和手表。借着这场发布会，我们一起来探索下：做 AI 硬件，我们能向苹果偷师什么？从功能放在哪台设备上，到用户怎么检查 AI 的结果，这些具体设计里，有不少值得拆开看的产品思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
           "published_at": "2026-09-11T10:37:33.635382Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
-      "importance_label": "行业动态",
+      "source_count": 3,
+      "source_names": [
+        "社区更新 · 2026-09-10"
+      ],
+      "items": [
+        {
+          "id": "bc28cb0c34c1d37a31fffe01cd8ba32cb04e55fe",
+          "title": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-11T10:37:33.635382Z"
+        },
+        {
+          "id": "c515ecac8b0a88c77b7cbacb344048506e31ae2c",
+          "title": "小互这份文章拆解了 GPT Image 2.5 全套官方实操指南，附带 API 参数规范、8大提示词心法与 22 个实战案例。而且还提供了可直接参考的工程级提示词模板与落地工具包。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-11T10:37:33.635382Z"
+        },
+        {
+          "id": "b8e417a270df85b8b8290b6ee81347b1ab7648b3",
+          "title": "苹果发布了首款折叠屏 iPhone，也更新了耳机和手表。借着这场发布会，我们一起来探索下：做 AI 硬件，我们能向苹果偷师什么？从功能放在哪台设备上，到用户怎么检查 AI 的结果，这些具体设计里，有不少值得拆开看的产品思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-11T10:37:33.635382Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6067,
+      "importance": 0.6067,
+      "importance_score": 0.6067,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9439,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9303,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
       "earliest_at": "2026-09-11T10:37:33.635382Z",
       "latest_at": "2026-09-11T10:37:33.635382Z",
       "primary_item": {
-        "id": "24e5638082baa39083cdb3eaf7788d85c5450ab1",
-        "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-        "url": "https://www.aibase.com/news/30995",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "bc28cb0c34c1d37a31fffe01cd8ba32cb04e55fe",
+        "title": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-09-10",
+        "source_name": "WaytoAGI"
       }
     }
   ]
