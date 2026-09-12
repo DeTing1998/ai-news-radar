@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T05:37:32.250630Z",
+  "generated_at": "2026-09-12T06:37:31.214272Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8421,
-      "importance": 0.8421,
-      "importance_score": 0.8421,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8508,
+        "recency": 0.8386,
         "story_heat": 0.25
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
+      "score": 0.8298,
+      "importance": 0.8298,
+      "importance_score": 0.8298,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8894,
+        "recency": 0.8766,
         "story_heat": 0.0
       },
       "category": "official",
@@ -282,15 +282,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8315,
-      "importance": 0.8315,
-      "importance_score": 0.8315,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9274,
+        "recency": 0.9141,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -382,15 +382,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
+      "score": 0.8239,
+      "importance": 0.8239,
+      "importance_score": 0.8239,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9314,
+        "recency": 0.9181,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -463,15 +463,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8528,
-      "importance": 0.8528,
-      "importance_score": 0.8528,
+      "score": 0.8507,
+      "importance": 0.8507,
+      "importance_score": 0.8507,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8214,
+        "recency": 0.8096,
         "story_heat": 0.25
       },
       "category": "official",
@@ -489,6 +489,106 @@
         "url": "https://openai.com/index/cognition-devin-testing-with-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_09e50792b59f",
+      "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "primary_url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T02:39:39Z"
+        },
+        {
+          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
+          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "www.minitap.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T05:37:39.339000Z"
+        },
+        {
+          "id": "547fe29e99656d699e77deefeed82874b5ec0e55",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T02:39:39Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News：AI 热帖",
+        "www.minitap.ai"
+      ],
+      "items": [
+        {
+          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T02:39:39Z"
+        },
+        {
+          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
+          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "www.minitap.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T05:37:39.339000Z"
+        },
+        {
+          "id": "547fe29e99656d699e77deefeed82874b5ec0e55",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T02:39:39Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8196,
+      "importance": 0.8196,
+      "importance_score": 0.8196,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9444,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T02:39:39Z",
+      "latest_at": "2026-09-12T05:37:39.339000Z",
+      "primary_item": {
+        "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
+        "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+        "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -526,15 +626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8286,
-      "importance": 0.8286,
-      "importance_score": 0.8286,
+      "score": 0.8264,
+      "importance": 0.8264,
+      "importance_score": 0.8264,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8703,
+        "recency": 0.8578,
         "story_heat": 0.0
       },
       "category": "official",
@@ -551,87 +651,6 @@
         "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_09e50792b59f",
-      "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "primary_url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T02:39:39Z"
-        },
-        {
-          "id": "547fe29e99656d699e77deefeed82874b5ec0e55",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T02:39:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News：AI 热帖"
-      ],
-      "items": [
-        {
-          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T02:39:39Z"
-        },
-        {
-          "id": "547fe29e99656d699e77deefeed82874b5ec0e55",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T02:39:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7971,
-      "importance": 0.7971,
-      "importance_score": 0.7971,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9581,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-12T02:39:39Z",
-      "latest_at": "2026-09-12T02:39:39Z",
-      "primary_item": {
-        "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
-        "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-        "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -688,15 +707,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7921,
-      "importance": 0.7921,
-      "importance_score": 0.7921,
+      "score": 0.7897,
+      "importance": 0.7897,
+      "importance_score": 0.7897,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9137,
+        "recency": 0.9006,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -769,15 +788,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7889,
-      "importance": 0.7889,
-      "importance_score": 0.7889,
+      "score": 0.7869,
+      "importance": 0.7869,
+      "importance_score": 0.7869,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7962,
+        "recency": 0.7848,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -850,15 +869,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8406,
-      "importance": 0.8406,
-      "importance_score": 0.8406,
+      "score": 0.8386,
+      "importance": 0.8386,
+      "importance_score": 0.8386,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7532,
+        "recency": 0.7424,
         "story_heat": 0.25
       },
       "category": "official",
@@ -932,15 +951,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8053,
+        "recency": 0.7937,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1013,15 +1032,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.827,
+        "recency": 0.8151,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1093,15 +1112,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7601,
+        "recency": 0.7492,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1173,15 +1192,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7601,
+        "recency": 0.7492,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1234,15 +1253,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.817,
+        "recency": 0.8053,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1294,15 +1313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7601,
+        "recency": 0.7492,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1372,15 +1391,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.58,
-      "importance": 0.58,
-      "importance_score": 0.58,
+      "score": 0.5779,
+      "importance": 0.5779,
+      "importance_score": 0.5779,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8029,
+        "recency": 0.7914,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1468,15 +1487,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.576,
-      "importance": 0.576,
-      "importance_score": 0.576,
+      "score": 0.574,
+      "importance": 0.574,
+      "importance_score": 0.574,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7601,
+        "recency": 0.7492,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1528,15 +1547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7601,
+        "recency": 0.7492,
         "story_heat": 0.0
       },
       "category": "industry",
