@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T07:37:31.318928Z",
+  "generated_at": "2026-09-13T08:38:08.469984Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -66,6 +66,106 @@
       }
     },
     {
+      "story_id": "story_c63b548b0537",
+      "title": "英伟达是人工智能领域的\"中央银行\"",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "primary_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
+          "title": "英伟达是人工智能领域的\"中央银行\"",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+          "title": "英伟达是人工智能领域的“中央银行”",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
+          "title": "英伟达是人工智能领域的\"中央银行\" / Nvidia is the central bank of AI",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T15:08:27Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.economist.com"
+      ],
+      "items": [
+        {
+          "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
+          "title": "英伟达是人工智能领域的\"中央银行\"",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+          "title": "英伟达是人工智能领域的“中央银行”",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
+          "title": "英伟达是人工智能领域的\"中央银行\" / Nvidia is the central bank of AI",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T15:08:27Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7936,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T15:08:27Z",
+      "latest_at": "2026-09-12T16:37:21.932000Z",
+      "primary_item": {
+        "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
+        "title": "英伟达是人工智能领域的\"中央银行\"",
+        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
       "story_id": "story_c5db4791b13f",
       "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
       "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
@@ -100,15 +200,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7813,
-      "importance": 0.7813,
-      "importance_score": 0.7813,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9759,
+        "recency": 0.9617,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -180,15 +280,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7762,
-      "importance": 0.7762,
-      "importance_score": 0.7762,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7424,
+        "recency": 0.7317,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -261,15 +361,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8039,
+        "recency": 0.7923,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -342,15 +442,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8428,
+        "recency": 0.8306,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -404,15 +504,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8161,
+        "recency": 0.8043,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -465,15 +565,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8493,
+        "recency": 0.837,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -487,66 +587,6 @@
         "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
         "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
         "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fc4b9c1c0950",
-      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-      "url": "https://suno.com/blog/introducing-v6",
-      "primary_url": "https://suno.com/blog/introducing-v6",
-      "source": "Suno：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
-          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-          "url": "https://suno.com/blog/introducing-v6",
-          "source": "Suno：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:39:24.855000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Suno：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
-          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-          "url": "https://suno.com/blog/introducing-v6",
-          "source": "Suno：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:39:24.855000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8056,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-12T16:39:24.855000Z",
-      "latest_at": "2026-09-12T16:39:24.855000Z",
-      "primary_item": {
-        "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
-        "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-        "url": "https://suno.com/blog/introducing-v6",
-        "source": "Suno：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -585,15 +625,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8864,
+        "recency": 0.8736,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -717,15 +757,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6634,
-      "importance": 0.6634,
-      "importance_score": 0.6634,
+      "score": 0.6612,
+      "importance": 0.6612,
+      "importance_score": 0.6612,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.8288,
+        "recency": 0.8168,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -796,15 +836,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6341,
-      "importance": 0.6341,
-      "importance_score": 0.6341,
+      "score": 0.6319,
+      "importance": 0.6319,
+      "importance_score": 0.6319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8494,
+        "recency": 0.8371,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -874,15 +914,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6325,
-      "importance": 0.6325,
-      "importance_score": 0.6325,
+      "score": 0.6303,
+      "importance": 0.6303,
+      "importance_score": 0.6303,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8403,
+        "recency": 0.8282,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -989,15 +1029,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5639,
-      "importance": 0.5639,
-      "importance_score": 0.5639,
+      "score": 0.5618,
+      "importance": 0.5618,
+      "importance_score": 0.5618,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8228,
+        "recency": 0.8109,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1086,15 +1126,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5633,
-      "importance": 0.5633,
-      "importance_score": 0.5633,
+      "score": 0.5608,
+      "importance": 0.5608,
+      "importance_score": 0.5608,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9585,
+        "recency": 0.9446,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1183,15 +1223,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.557,
-      "importance": 0.557,
-      "importance_score": 0.557,
+      "score": 0.5546,
+      "importance": 0.5546,
+      "importance_score": 0.5546,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9231,
+        "recency": 0.9097,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1281,15 +1321,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5532,
-      "importance": 0.5532,
-      "importance_score": 0.5532,
+      "score": 0.5508,
+      "importance": 0.5508,
+      "importance_score": 0.5508,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9022,
+        "recency": 0.8891,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1304,6 +1344,164 @@
         "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
         "source": "tedium.co",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_dc53106d2da7",
+      "title": "上市五年首次中报盈利，商汤生成式 AI 成色几何",
+      "url": "https://www.huxiu.com/article/4890777.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4890777.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "bf8356f3b4136a20eade6fac0d0990968d1e80a7",
+          "title": "上市五年首次中报盈利，商汤生成式 AI 成色几何",
+          "url": "https://www.huxiu.com/article/4890777.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "78f9b148fec34482750018c6eb7bcdd6c11c54aa",
+          "title": "上市五年首次中报盈利，商汤生成式AI成色几何",
+          "url": "https://www.huxiu.com/article/4890777.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T07:11:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "bf8356f3b4136a20eade6fac0d0990968d1e80a7",
+          "title": "上市五年首次中报盈利，商汤生成式 AI 成色几何",
+          "url": "https://www.huxiu.com/article/4890777.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "78f9b148fec34482750018c6eb7bcdd6c11c54aa",
+          "title": "上市五年首次中报盈利，商汤生成式AI成色几何",
+          "url": "https://www.huxiu.com/article/4890777.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T07:11:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T07:11:20Z",
+      "latest_at": "2026-09-13T08:38:08.469984Z",
+      "primary_item": {
+        "id": "bf8356f3b4136a20eade6fac0d0990968d1e80a7",
+        "title": "上市五年首次中报盈利，商汤生成式 AI 成色几何",
+        "url": "https://www.huxiu.com/article/4890777.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_701d87d89551",
+      "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "6f35bb7a5da5d768da117750916180a339bb4f58",
+          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T08:07:36Z"
+        },
+        {
+          "id": "7a169d441a67991a51904134e1a940d1e441d651",
+          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T17:28:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "6f35bb7a5da5d768da117750916180a339bb4f58",
+          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T08:07:36Z"
+        },
+        {
+          "id": "7a169d441a67991a51904134e1a940d1e441d651",
+          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T17:28:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9927,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T17:28:53Z",
+      "latest_at": "2026-09-13T08:07:36Z",
+      "primary_item": {
+        "id": "6f35bb7a5da5d768da117750916180a339bb4f58",
+        "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1360,15 +1558,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9951,
+        "recency": 0.9807,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1439,15 +1637,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
+      "score": 0.5277,
+      "importance": 0.5277,
+      "importance_score": 0.5277,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9129,
+        "recency": 0.8997,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1462,163 +1660,6 @@
         "url": "https://withspecific.com/benchmarks/real-swe",
         "source": "withspecific.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7528306ec91b",
-      "title": "育儿博主曝光 Meta AI 可抓取日常数据汇总生成隐私家庭信息，官方紧急修复",
-      "url": "https://www.ithome.com/1/001/685.htm",
-      "primary_url": "https://www.ithome.com/1/001/685.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "051da9b38dcaccf6c22e0265fe008adec256a6ca",
-          "title": "育儿博主曝光 Meta AI 可抓取日常数据汇总生成隐私家庭信息，官方紧急修复",
-          "url": "https://www.ithome.com/1/001/685.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1244772aeac55e80158cc4780b2ecc460b7cdf78",
-          "title": "育儿博主曝光 Meta AI 可抓取日常数据“汇总生成隐私家庭信息”，官方紧急修复",
-          "url": "https://www.ithome.com/1/001/685.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T23:40:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "051da9b38dcaccf6c22e0265fe008adec256a6ca",
-          "title": "育儿博主曝光 Meta AI 可抓取日常数据汇总生成隐私家庭信息，官方紧急修复",
-          "url": "https://www.ithome.com/1/001/685.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1244772aeac55e80158cc4780b2ecc460b7cdf78",
-          "title": "育儿博主曝光 Meta AI 可抓取日常数据“汇总生成隐私家庭信息”，官方紧急修复",
-          "url": "https://www.ithome.com/1/001/685.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T23:40:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9039,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T23:40:32Z",
-      "latest_at": "2026-09-13T00:37:31.824653Z",
-      "primary_item": {
-        "id": "051da9b38dcaccf6c22e0265fe008adec256a6ca",
-        "title": "育儿博主曝光 Meta AI 可抓取日常数据汇总生成隐私家庭信息，官方紧急修复",
-        "url": "https://www.ithome.com/1/001/685.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_bffdbd6628a2",
-      "title": "不要成为脱节的功夫大师 / Don't be the out of touch Kung Fu master",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
-      "primary_url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "4b89d190c71f1b917f86ebe20f22e5c894ff0ac1",
-          "title": "不要成为脱节的功夫大师 / Don't be the out of touch Kung Fu master",
-          "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T21:51:43Z"
-        },
-        {
-          "id": "fe3b44a0408a1a839488b6ab0fe3930467959908",
-          "title": "不要成为脱离实际的功夫大师——约翰·卡马克 / Don't be the out of touch Kung Fu master – John Carmack",
-          "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T21:51:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "4b89d190c71f1b917f86ebe20f22e5c894ff0ac1",
-          "title": "不要成为脱节的功夫大师 / Don't be the out of touch Kung Fu master",
-          "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T21:51:43Z"
-        },
-        {
-          "id": "fe3b44a0408a1a839488b6ab0fe3930467959908",
-          "title": "不要成为脱离实际的功夫大师——约翰·卡马克 / Don't be the out of touch Kung Fu master – John Carmack",
-          "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T21:51:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5221,
-      "importance": 0.5221,
-      "importance_score": 0.5221,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8685,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T21:51:43Z",
-      "latest_at": "2026-09-12T21:51:43Z",
-      "primary_item": {
-        "id": "4b89d190c71f1b917f86ebe20f22e5c894ff0ac1",
-        "title": "不要成为脱节的功夫大师 / Don't be the out of touch Kung Fu master",
-        "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
