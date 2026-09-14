@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T13:37:34.482745Z",
+  "generated_at": "2026-09-14T14:37:35.700445Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8278,
-      "importance": 0.8278,
-      "importance_score": 0.8278,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8214,
+        "recency": 0.8096,
         "story_heat": 0.0
       },
       "category": "official",
@@ -63,106 +63,6 @@
         "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_7f49d82031d8",
-      "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
-      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-      "primary_url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "233ba3a473d4d2792fa6ebaf00eff4c46865c136",
-          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
-          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-13T14:15:40Z"
-        },
-        {
-          "id": "7f299b30d52237ce6261a680c2602bab219491ce",
-          "title": "胡塞武装利用Claude代码开发导弹制导软件：Anthropic",
-          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-          "source": "clashreport.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T11:00:31.508000Z"
-        },
-        {
-          "id": "144fcecd03d83e78d373a11af8be21ea668d2ae0",
-          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
-          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T14:15:40Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News：AI 热帖",
-        "clashreport.com"
-      ],
-      "items": [
-        {
-          "id": "233ba3a473d4d2792fa6ebaf00eff4c46865c136",
-          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
-          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-13T14:15:40Z"
-        },
-        {
-          "id": "7f299b30d52237ce6261a680c2602bab219491ce",
-          "title": "胡塞武装利用Claude代码开发导弹制导软件：Anthropic",
-          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-          "source": "clashreport.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T11:00:31.508000Z"
-        },
-        {
-          "id": "144fcecd03d83e78d373a11af8be21ea668d2ae0",
-          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
-          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T14:15:40Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7136,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-13T14:15:40Z",
-      "latest_at": "2026-09-14T11:00:31.508000Z",
-      "primary_item": {
-        "id": "233ba3a473d4d2792fa6ebaf00eff4c46865c136",
-        "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
-        "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -219,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -300,15 +200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -362,15 +262,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9488,
+        "recency": 0.9351,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -441,15 +341,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -522,15 +422,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -603,15 +503,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -684,15 +584,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8909,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -821,15 +721,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6016,
-      "importance": 0.6016,
-      "importance_score": 0.6016,
+      "score": 0.5993,
+      "importance": 0.5993,
+      "importance_score": 0.5993,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8932,
+        "recency": 0.8804,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -935,15 +835,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.601,
-      "importance": 0.601,
-      "importance_score": 0.601,
+      "score": 0.599,
+      "importance": 0.599,
+      "importance_score": 0.599,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.76,
+        "recency": 0.7491,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -958,6 +858,120 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-09-13",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_5c30ba8a42b1",
+      "title": "受人工智能放缓担忧影响，芯片制造商股价下跌：市场综述",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "993f816775eadc79238823fd7f16e5a0509959d8",
+          "title": "受人工智能放缓担忧影响，芯片制造商股价下跌：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T13:54:22.589000Z"
+        },
+        {
+          "id": "94d182b1c85afdf6543a275c3b5a4d2b6fca451c",
+          "title": "受人工智能放缓担忧影响，股市下跌，油价上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T02:07:13.390000Z"
+        },
+        {
+          "id": "dee382a605db153ea8b3c859dbfb66ef0cc3d419",
+          "title": "受人工智能相关预警影响，股市回落，油价上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T01:03:30.910000Z"
+        },
+        {
+          "id": "4500084fefa573275d79d8f80e6c9c6ed7be0e30",
+          "title": "受人工智能担忧影响，美股期货下跌，油价上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T23:29:16.467000Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "993f816775eadc79238823fd7f16e5a0509959d8",
+          "title": "受人工智能放缓担忧影响，芯片制造商股价下跌：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T13:54:22.589000Z"
+        },
+        {
+          "id": "94d182b1c85afdf6543a275c3b5a4d2b6fca451c",
+          "title": "受人工智能放缓担忧影响，股市下跌，油价上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T02:07:13.390000Z"
+        },
+        {
+          "id": "dee382a605db153ea8b3c859dbfb66ef0cc3d419",
+          "title": "受人工智能相关预警影响，股市回落，油价上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T01:03:30.910000Z"
+        },
+        {
+          "id": "4500084fefa573275d79d8f80e6c9c6ed7be0e30",
+          "title": "受人工智能担忧影响，美股期货下跌，油价上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T23:29:16.467000Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5939,
+      "importance": 0.5939,
+      "importance_score": 0.5939,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9897,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T23:29:16.467000Z",
+      "latest_at": "2026-09-14T13:54:22.589000Z",
+      "primary_item": {
+        "id": "993f816775eadc79238823fd7f16e5a0509959d8",
+        "title": "受人工智能放缓担忧影响，芯片制造商股价下跌：市场综述",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1014,15 +1028,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8655,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1095,15 +1109,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8655,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1123,98 +1137,316 @@
       }
     },
     {
-      "story_id": "story_5c30ba8a42b1",
-      "title": "受人工智能放缓担忧影响，股市下跌，油价上涨：市场综述",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-      "source": "www.bloomberg.com",
+      "story_id": "story_309ab432f884",
+      "title": "纳斯达克拖累华尔街，因对人工智能放缓的担忧重创英伟达及芯片制造商",
+      "url": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14",
+      "primary_url": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14",
+      "source": "www.reuters.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "94d182b1c85afdf6543a275c3b5a4d2b6fca451c",
-          "title": "受人工智能放缓担忧影响，股市下跌，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
+          "id": "66efe395a6961499e503e49dc3a2ca87771af83b",
+          "title": "纳斯达克拖累华尔街，因对人工智能放缓的担忧重创英伟达及芯片制造商",
+          "url": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14",
+          "source": "www.reuters.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-14T02:07:13.390000Z"
+          "published_at": "2026-09-14T14:26:37.467000Z"
         },
         {
-          "id": "dee382a605db153ea8b3c859dbfb66ef0cc3d419",
-          "title": "受人工智能相关预警影响，股市回落，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
+          "id": "a9cd10e7c558ffb47ddfb3752a3ca2bb3a0cca99",
+          "title": "人工智能相关预警拖累纳斯达克期货，给科技股带来压力",
+          "url": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14",
+          "source": "www.reuters.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-14T01:03:30.910000Z"
-        },
-        {
-          "id": "4500084fefa573275d79d8f80e6c9c6ed7be0e30",
-          "title": "受人工智能担忧影响，美股期货下跌，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T23:29:16.467000Z"
+          "published_at": "2026-09-14T09:27:16.949000Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "www.bloomberg.com"
+        "www.reuters.com"
       ],
       "items": [
         {
-          "id": "94d182b1c85afdf6543a275c3b5a4d2b6fca451c",
-          "title": "受人工智能放缓担忧影响，股市下跌，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
+          "id": "66efe395a6961499e503e49dc3a2ca87771af83b",
+          "title": "纳斯达克拖累华尔街，因对人工智能放缓的担忧重创英伟达及芯片制造商",
+          "url": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14",
+          "source": "www.reuters.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-14T02:07:13.390000Z"
+          "published_at": "2026-09-14T14:26:37.467000Z"
         },
         {
-          "id": "dee382a605db153ea8b3c859dbfb66ef0cc3d419",
-          "title": "受人工智能相关预警影响，股市回落，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
+          "id": "a9cd10e7c558ffb47ddfb3752a3ca2bb3a0cca99",
+          "title": "人工智能相关预警拖累纳斯达克期货，给科技股带来压力",
+          "url": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14",
+          "source": "www.reuters.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-14T01:03:30.910000Z"
-        },
-        {
-          "id": "4500084fefa573275d79d8f80e6c9c6ed7be0e30",
-          "title": "受人工智能担忧影响，美股期货下跌，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T23:29:16.467000Z"
+          "published_at": "2026-09-14T09:27:16.949000Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8469,
-        "story_heat": 0.5
+        "recency": 0.9974,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-13T23:29:16.467000Z",
-      "latest_at": "2026-09-14T02:07:13.390000Z",
+      "earliest_at": "2026-09-14T09:27:16.949000Z",
+      "latest_at": "2026-09-14T14:26:37.467000Z",
       "primary_item": {
-        "id": "94d182b1c85afdf6543a275c3b5a4d2b6fca451c",
-        "title": "受人工智能放缓担忧影响，股市下跌，油价上涨：市场综述",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-        "source": "www.bloomberg.com",
+        "id": "66efe395a6961499e503e49dc3a2ca87771af83b",
+        "title": "纳斯达克拖累华尔街，因对人工智能放缓的担忧重创英伟达及芯片制造商",
+        "url": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5d637772aa95",
+      "title": "代码显示，苹果的Siri人工智能可被Claude或ChatGPT取代",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+      "primary_url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+      "source": "www.macrumors.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "006e3387b4d75bc7eb9a02058cd2a9ee779f7b7d",
+          "title": "代码显示，苹果的Siri人工智能可被Claude或ChatGPT取代",
+          "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+          "source": "www.macrumors.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T14:10:25.991000Z"
+        },
+        {
+          "id": "218d72f08d4f7a29730754290d38a98d3c522d71",
+          "title": "代码显示，苹果的Siri人工智能可被Claude或ChatGPT取代 / Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+          "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T12:01:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.macrumors.com"
+      ],
+      "items": [
+        {
+          "id": "006e3387b4d75bc7eb9a02058cd2a9ee779f7b7d",
+          "title": "代码显示，苹果的Siri人工智能可被Claude或ChatGPT取代",
+          "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+          "source": "www.macrumors.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T14:10:25.991000Z"
+        },
+        {
+          "id": "218d72f08d4f7a29730754290d38a98d3c522d71",
+          "title": "代码显示，苹果的Siri人工智能可被Claude或ChatGPT取代 / Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+          "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T12:01:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9935,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-14T12:01:32Z",
+      "latest_at": "2026-09-14T14:10:25.991000Z",
+      "primary_item": {
+        "id": "006e3387b4d75bc7eb9a02058cd2a9ee779f7b7d",
+        "title": "代码显示，苹果的Siri人工智能可被Claude或ChatGPT取代",
+        "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+        "source": "www.macrumors.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0f632e4eadd1",
+      "title": "微软发布 37 页人文主义 AI 行为准则：“人比 AI 更重要”",
+      "url": "https://www.ithome.com/1/002/297.htm",
+      "primary_url": "https://www.ithome.com/1/002/297.htm",
+      "source": "IT之家 (ITHome)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "35db4804180cc36e895e72a3cc0788cd6e394ac6",
+          "title": "微软发布 37 页人文主义 AI 行为准则：“人比 AI 更重要”",
+          "url": "https://www.ithome.com/1/002/297.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T13:29:21Z"
+        },
+        {
+          "id": "5f95bf09aa95b6b6fb68e6285f3bc5aa5ab4d37a",
+          "title": "微软发布 37 页人文主义 AI 行为准则：强调“人比 AI 重要”，拒绝追逐无边界超级智能",
+          "url": "https://www.ithome.com/1/002/297.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T13:29:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "35db4804180cc36e895e72a3cc0788cd6e394ac6",
+          "title": "微软发布 37 页人文主义 AI 行为准则：“人比 AI 更重要”",
+          "url": "https://www.ithome.com/1/002/297.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T13:29:21Z"
+        },
+        {
+          "id": "5f95bf09aa95b6b6fb68e6285f3bc5aa5ab4d37a",
+          "title": "微软发布 37 页人文主义 AI 行为准则：强调“人比 AI 重要”，拒绝追逐无边界超级智能",
+          "url": "https://www.ithome.com/1/002/297.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T13:29:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9837,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-14T13:29:21Z",
+      "latest_at": "2026-09-14T13:29:21Z",
+      "primary_item": {
+        "id": "35db4804180cc36e895e72a3cc0788cd6e394ac6",
+        "title": "微软发布 37 页人文主义 AI 行为准则：“人比 AI 更重要”",
+        "url": "https://www.ithome.com/1/002/297.htm",
+        "source": "IT之家 (ITHome)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_4e0878cba57a",
+      "title": "Show HN: 我开发了 Otis，这是一个开箱即用、可运行本地模型的极简人工智能代理",
+      "url": "https://triangllabs.ai/otis",
+      "primary_url": "https://triangllabs.ai/otis",
+      "source": "triangllabs.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2a2095e2a65de6bc340f9197150e21b41e936b96",
+          "title": "Show HN: 我开发了 Otis，这是一个开箱即用、可运行本地模型的极简人工智能代理",
+          "url": "https://triangllabs.ai/otis",
+          "source": "triangllabs.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T13:06:45.595000Z"
+        },
+        {
+          "id": "b2daf37f8a2d03f5dc3fb88347092816b2a8eb8b",
+          "title": "Show HN: 我开发了 Otis，这是一个开箱即用、可运行本地模型的极简人工智能代理 / Show HN: I built Otis, a minimal AI agent that runs local models out of the box",
+          "url": "https://triangllabs.ai/otis",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T12:58:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "triangllabs.ai"
+      ],
+      "items": [
+        {
+          "id": "2a2095e2a65de6bc340f9197150e21b41e936b96",
+          "title": "Show HN: 我开发了 Otis，这是一个开箱即用、可运行本地模型的极简人工智能代理",
+          "url": "https://triangllabs.ai/otis",
+          "source": "triangllabs.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T13:06:45.595000Z"
+        },
+        {
+          "id": "b2daf37f8a2d03f5dc3fb88347092816b2a8eb8b",
+          "title": "Show HN: 我开发了 Otis，这是一个开箱即用、可运行本地模型的极简人工智能代理 / Show HN: I built Otis, a minimal AI agent that runs local models out of the box",
+          "url": "https://triangllabs.ai/otis",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T12:58:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9784,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-14T12:58:32Z",
+      "latest_at": "2026-09-14T13:06:45.595000Z",
+      "primary_item": {
+        "id": "2a2095e2a65de6bc340f9197150e21b41e936b96",
+        "title": "Show HN: 我开发了 Otis，这是一个开箱即用、可运行本地模型的极简人工智能代理",
+        "url": "https://triangllabs.ai/otis",
+        "source": "triangllabs.ai",
         "source_name": "Buzzing"
       }
     },
@@ -1272,15 +1504,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9852,
+        "recency": 0.971,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1351,15 +1583,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5411,
-      "importance": 0.5411,
-      "importance_score": 0.5411,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.974,
+        "recency": 0.9601,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1394,18 +1626,18 @@
           "published_at": "2026-09-14T11:32:55.669000Z"
         },
         {
-          "id": "683b609f633a0fcf4b5324bfb7b0de47005e272a",
+          "id": "0b0880b6a7e607cd9fdec45a232f4ae2c6a32538",
           "title": "Show HN: StemJSON——一种让大型语言模型（LLM）能够实时扩展原生移动应用的语言 / Show HN: StemJSON – a language for LLMs to extend native mobile apps on the fly",
           "url": "https://stemjson.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-09-14T11:26:45Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "stemjson.com"
       ],
       "items": [
@@ -1419,26 +1651,26 @@
           "published_at": "2026-09-14T11:32:55.669000Z"
         },
         {
-          "id": "683b609f633a0fcf4b5324bfb7b0de47005e272a",
+          "id": "0b0880b6a7e607cd9fdec45a232f4ae2c6a32538",
           "title": "Show HN: StemJSON——一种让大型语言模型（LLM）能够实时扩展原生移动应用的语言 / Show HN: StemJSON – a language for LLMs to extend native mobile apps on the fly",
           "url": "https://stemjson.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-09-14T11:26:45Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9704,
+        "recency": 0.9565,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1453,262 +1685,6 @@
         "url": "https://stemjson.com",
         "source": "stemjson.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ea4e0ef977c9",
-      "title": "谁来制定人工智能的规则？",
-      "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-      "primary_url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-      "source": "cohere.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7911a2271f08266e201e1e9cbeb42dd81d7ba09a",
-          "title": "谁来制定人工智能的规则？",
-          "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-          "source": "cohere.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T09:12:16.798000Z"
-        },
-        {
-          "id": "449b0af1c29d4b419068385d1a4e0e30ac428a95",
-          "title": "谁来制定人工智能的规则？ / Who Gets to Define the Rules for AI?",
-          "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T08:58:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "cohere.com"
-      ],
-      "items": [
-        {
-          "id": "7911a2271f08266e201e1e9cbeb42dd81d7ba09a",
-          "title": "谁来制定人工智能的规则？",
-          "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-          "source": "cohere.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T09:12:16.798000Z"
-        },
-        {
-          "id": "449b0af1c29d4b419068385d1a4e0e30ac428a95",
-          "title": "谁来制定人工智能的规则？ / Who Gets to Define the Rules for AI?",
-          "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T08:58:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9381,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-14T08:58:42Z",
-      "latest_at": "2026-09-14T09:12:16.798000Z",
-      "primary_item": {
-        "id": "7911a2271f08266e201e1e9cbeb42dd81d7ba09a",
-        "title": "谁来制定人工智能的规则？",
-        "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-        "source": "cohere.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3149e64f7f8b",
-      "title": "开源人工智能与开放模型推荐书单",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "primary_url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "source": "www.interconnects.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "67b4175957bca8a2deecf552a44ee79eb0c43ded",
-          "title": "开源人工智能与开放模型推荐书单",
-          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-          "source": "www.interconnects.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T08:25:17.847000Z"
-        },
-        {
-          "id": "b8404eaa070943cf34c1baf8dd1e89c2d5da104b",
-          "title": "开源人工智能与开放模型推荐书单 / Open-Source AI and Open Models Reading List",
-          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T00:22:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "www.interconnects.ai"
-      ],
-      "items": [
-        {
-          "id": "67b4175957bca8a2deecf552a44ee79eb0c43ded",
-          "title": "开源人工智能与开放模型推荐书单",
-          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-          "source": "www.interconnects.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T08:25:17.847000Z"
-        },
-        {
-          "id": "b8404eaa070943cf34c1baf8dd1e89c2d5da104b",
-          "title": "开源人工智能与开放模型推荐书单 / Open-Source AI and Open Models Reading List",
-          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T00:22:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9276,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-14T00:22:51Z",
-      "latest_at": "2026-09-14T08:25:17.847000Z",
-      "primary_item": {
-        "id": "67b4175957bca8a2deecf552a44ee79eb0c43ded",
-        "title": "开源人工智能与开放模型推荐书单",
-        "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-        "source": "www.interconnects.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_85bf9f141842",
-      "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险 / Trump downplays warnings of AI risks, citing rivalry with China",
-      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News (世界新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "7f61c8f744a8238ea68b360e8a27b778ece89c16",
-          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险 / Trump downplays warnings of AI risks, citing rivalry with China",
-          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T18:03:44Z"
-        },
-        {
-          "id": "9906357a88d58c48bc40d091137125c5838ebc37",
-          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险",
-          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T16:40:21.025000Z"
-        },
-        {
-          "id": "50bb1cbdb2831407affe726db24e3e5940f6d810",
-          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险 / Trump downplays AI risks after dire expert warnings and calls to slow development down",
-          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T16:29:27Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BBC News",
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "7f61c8f744a8238ea68b360e8a27b778ece89c16",
-          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险 / Trump downplays warnings of AI risks, citing rivalry with China",
-          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T18:03:44Z"
-        },
-        {
-          "id": "9906357a88d58c48bc40d091137125c5838ebc37",
-          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险",
-          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T16:40:21.025000Z"
-        },
-        {
-          "id": "50bb1cbdb2831407affe726db24e3e5940f6d810",
-          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险 / Trump downplays AI risks after dire expert warnings and calls to slow development down",
-          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T16:29:27Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7539,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T16:29:27Z",
-      "latest_at": "2026-09-13T18:03:44Z",
-      "primary_item": {
-        "id": "7f61c8f744a8238ea68b360e8a27b778ece89c16",
-        "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险 / Trump downplays warnings of AI risks, citing rivalry with China",
-        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News (世界新闻)",
-        "source_name": "Info Flow"
       }
     }
   ]
