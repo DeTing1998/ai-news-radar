@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T13:37:34.772938Z",
+  "generated_at": "2026-09-16T14:37:35.417394Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -114,15 +114,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9058,
-      "importance": 0.9058,
-      "importance_score": 0.9058,
+      "score": 0.9039,
+      "importance": 0.9039,
+      "importance_score": 0.9039,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7435,
+        "recency": 0.7328,
         "story_heat": 1.0
       },
       "category": "official",
@@ -167,10 +167,20 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-09-16T13:00:00Z"
+        },
+        {
+          "id": "25913d43045f9d0cc5b4778d3f4500926d133469",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-16T13:51:15Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
+        "Hacker News (黑客新闻)",
         "OpenAI News",
         "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
@@ -192,20 +202,29 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-09-16T13:00:00Z"
+        },
+        {
+          "id": "25913d43045f9d0cc5b4778d3f4500926d133469",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-16T13:51:15Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8754,
-      "importance": 0.8754,
-      "importance_score": 0.8754,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8978,
+      "importance": 0.8978,
+      "importance_score": 0.8978,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.991,
-        "story_heat": 0.25
+        "recency": 0.9768,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
@@ -215,12 +234,74 @@
         "high_importance"
       ],
       "earliest_at": "2026-09-16T13:00:00Z",
-      "latest_at": "2026-09-16T13:00:00Z",
+      "latest_at": "2026-09-16T13:51:15Z",
       "primary_item": {
         "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
         "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
         "url": "https://openai.com/index/reimagining-advertising-with-ai",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_892303a4f464",
+      "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "primary_url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T13:26:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T13:26:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8409,
+      "importance": 0.8409,
+      "importance_score": 0.8409,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9829,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T13:26:06Z",
+      "latest_at": "2026-09-16T13:26:06Z",
+      "primary_item": {
+        "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+        "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -278,15 +359,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8207,
-      "importance": 0.8207,
-      "importance_score": 0.8207,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7318,
+        "recency": 0.7213,
         "story_heat": 0.25
       },
       "category": "official",
@@ -341,15 +422,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8117,
-      "importance": 0.8117,
-      "importance_score": 0.8117,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7319,
+        "recency": 0.7214,
         "story_heat": 0.0
       },
       "category": "official",
@@ -365,68 +446,6 @@
         "title": "您的代理人完成了任务。它会再次这样做吗？ / Your Agent Aced the Task. Will It Do It Again?",
         "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e594f69ef387",
-      "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-      "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-      "primary_url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T19:07:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T19:07:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7656,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T19:07:47Z",
-      "latest_at": "2026-09-15T19:07:47Z",
-      "primary_item": {
-        "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-        "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-        "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -484,15 +503,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -512,21 +531,21 @@
       }
     },
     {
-      "story_id": "story_12ae08f337ea",
-      "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
-      "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
-      "primary_url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+      "story_id": "story_e594f69ef387",
+      "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+      "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+      "primary_url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-          "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
-          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
+          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T19:31:58Z"
+          "published_at": "2026-09-15T19:07:47Z"
         }
       ],
       "source_count": 1,
@@ -535,26 +554,26 @@
       ],
       "items": [
         {
-          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-          "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
-          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
+          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T19:31:58Z"
+          "published_at": "2026-09-15T19:07:47Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7701,
+        "ai_relevance": 0.91,
+        "recency": 0.7546,
         "story_heat": 0.0
       },
       "category": "official",
@@ -563,14 +582,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T19:31:58Z",
-      "latest_at": "2026-09-15T19:31:58Z",
+      "earliest_at": "2026-09-15T19:07:47Z",
+      "latest_at": "2026-09-15T19:07:47Z",
       "primary_item": {
-        "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-        "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
-        "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+        "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
+        "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+        "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9930cd9b8250",
+      "title": "何夕2077 AI 深度信号周报 2026 W37",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+          "title": "何夕2077 AI 深度信号周报 2026 W37",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-16T13:29:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+          "title": "何夕2077 AI 深度信号周报 2026 W37",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-16T13:29:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9838,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T13:29:54Z",
+      "latest_at": "2026-09-16T13:29:54Z",
+      "primary_item": {
+        "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+        "title": "何夕2077 AI 深度信号周报 2026 W37",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     },
     {
@@ -608,15 +688,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7318,
+        "recency": 0.7213,
         "story_heat": 0.0
       },
       "category": "official",
@@ -633,6 +713,67 @@
         "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b70dd0029148",
+      "title": "微软 AI CEO 警告\"模型福利\"论调",
+      "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+      "primary_url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
+          "title": "微软 AI CEO 警告\"模型福利\"论调",
+          "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T14:01:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
+      ],
+      "items": [
+        {
+          "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
+          "title": "微软 AI CEO 警告\"模型福利\"论调",
+          "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T14:01:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9914,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T14:01:39Z",
+      "latest_at": "2026-09-16T14:01:39Z",
+      "primary_item": {
+        "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
+        "title": "微软 AI CEO 警告\"模型福利\"论调",
+        "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+        "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -689,15 +830,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -714,6 +855,68 @@
         "url": "https://www.aibase.com/news/31098",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_12ae08f337ea",
+      "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
+      "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+      "primary_url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
+          "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
+          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T19:31:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
+          "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
+          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T19:31:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.759,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T19:31:58Z",
+      "latest_at": "2026-09-15T19:31:58Z",
+      "primary_item": {
+        "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
+        "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
+        "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -751,15 +954,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7285,
+        "recency": 0.7181,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -774,68 +977,6 @@
         "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
         "source": "Pragmatic Engineer（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_10a67c97a758",
-      "title": "GitHub Sunset 上 HTTPS 中的 SHA-1 / SHA-1 in HTTPS on GitHub sunset",
-      "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-      "primary_url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-          "title": "GitHub Sunset 上 HTTPS 中的 SHA-1 / SHA-1 in HTTPS on GitHub sunset",
-          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:47:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-          "title": "GitHub Sunset 上 HTTPS 中的 SHA-1 / SHA-1 in HTTPS on GitHub sunset",
-          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:47:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7972,
-      "importance": 0.7972,
-      "importance_score": 0.7972,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7401,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T16:47:20Z",
-      "latest_at": "2026-09-15T16:47:20Z",
-      "primary_item": {
-        "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-        "title": "GitHub Sunset 上 HTTPS 中的 SHA-1 / SHA-1 in HTTPS on GitHub sunset",
-        "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -873,15 +1014,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7318,
+        "recency": 0.7213,
         "story_heat": 0.0
       },
       "category": "official",
@@ -954,15 +1095,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -979,6 +1120,68 @@
         "url": "https://www.aibase.com/news/31091",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_10a67c97a758",
+      "title": "GitHub Sunset 上 HTTPS 中的 SHA-1 / SHA-1 in HTTPS on GitHub sunset",
+      "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+      "primary_url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
+          "title": "GitHub Sunset 上 HTTPS 中的 SHA-1 / SHA-1 in HTTPS on GitHub sunset",
+          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T16:47:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
+          "title": "GitHub Sunset 上 HTTPS 中的 SHA-1 / SHA-1 in HTTPS on GitHub sunset",
+          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T16:47:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7295,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T16:47:20Z",
+      "latest_at": "2026-09-15T16:47:20Z",
+      "primary_item": {
+        "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
+        "title": "GitHub Sunset 上 HTTPS 中的 SHA-1 / SHA-1 in HTTPS on GitHub sunset",
+        "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1016,15 +1219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1149,15 +1352,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6567,
-      "importance": 0.6567,
-      "importance_score": 0.6567,
+      "score": 0.6543,
+      "importance": 0.6543,
+      "importance_score": 0.6543,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9303,
+        "recency": 0.917,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1209,15 +1412,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1270,15 +1473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1294,263 +1497,6 @@
         "url": "https://www.aibase.com/news/31100",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c990136e64cf",
-      "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
-      "url": "https://www.aibase.com/news/31103",
-      "primary_url": "https://www.aibase.com/news/31103",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d55d3dfe6fd894d4194861d7275ccaec7850a5c1",
-          "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
-          "url": "https://www.aibase.com/news/31103",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T09:37:36.652243Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d55d3dfe6fd894d4194861d7275ccaec7850a5c1",
-          "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
-          "url": "https://www.aibase.com/news/31103",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T09:37:36.652243Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9439,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T09:37:36.652243Z",
-      "latest_at": "2026-09-16T09:37:36.652243Z",
-      "primary_item": {
-        "id": "d55d3dfe6fd894d4194861d7275ccaec7850a5c1",
-        "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
-        "url": "https://www.aibase.com/news/31103",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_59db4bf11ea9",
-      "title": "在大语言模型时代学习编程",
-      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-      "primary_url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-      "source": "blog.ploeh.dk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
-          "title": "在大语言模型时代学习编程",
-          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-          "source": "blog.ploeh.dk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T12:57:28.012000Z"
-        },
-        {
-          "id": "d415ffe6ac8db10d6bcce3967f3711877c3c04a7",
-          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
-          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T09:12:34Z"
-        },
-        {
-          "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
-          "title": "在法学硕士时代学习编程 / Learning Programming in an Age of LLMs",
-          "url": "https://news.ycombinator.com/item?id=49723873",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T09:12:34Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "blog.ploeh.dk",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
-          "title": "在大语言模型时代学习编程",
-          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-          "source": "blog.ploeh.dk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T12:57:28.012000Z"
-        },
-        {
-          "id": "d415ffe6ac8db10d6bcce3967f3711877c3c04a7",
-          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
-          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T09:12:34Z"
-        },
-        {
-          "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
-          "title": "在法学硕士时代学习编程 / Learning Programming in an Age of LLMs",
-          "url": "https://news.ycombinator.com/item?id=49723873",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T09:12:34Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5691,
-      "importance": 0.5691,
-      "importance_score": 0.5691,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9904,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-16T09:12:34Z",
-      "latest_at": "2026-09-16T12:57:28.012000Z",
-      "primary_item": {
-        "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
-        "title": "在大语言模型时代学习编程",
-        "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-        "source": "blog.ploeh.dk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_cbc158125a42",
-      "title": "Mistral X Mozilla：私密、多语言的 AI 浏览体验",
-      "url": "https://mistral.ai/news/mistral-x-mozilla",
-      "primary_url": "https://mistral.ai/news/mistral-x-mozilla",
-      "source": "mistral.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "fc048b3573d49f5eee49a9fcbc2e4b61c12d8e9a",
-          "title": "Mistral X Mozilla：私密、多语言的 AI 浏览体验",
-          "url": "https://mistral.ai/news/mistral-x-mozilla",
-          "source": "mistral.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T11:55:14.283000Z"
-        },
-        {
-          "id": "2c542338121337a83c8d63e9f2f7d45cbe9399bf",
-          "title": "Mistral X Mozilla：私密、多语言的 AI 浏览体验 / Mistral X Mozilla: Private, Multilingual AI Browsing",
-          "url": "https://mistral.ai/news/mistral-x-mozilla",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T08:08:57Z"
-        },
-        {
-          "id": "09c4997e42c5a9f8e4e831c36b3173e585f3cf0b",
-          "title": "Mistral X Mozilla：私密、多语言 AI ​​浏览 / Mistral X Mozilla: Private, Multilingual AI Browsing",
-          "url": "https://news.ycombinator.com/item?id=49723408",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T08:08:57Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "mistral.ai"
-      ],
-      "items": [
-        {
-          "id": "fc048b3573d49f5eee49a9fcbc2e4b61c12d8e9a",
-          "title": "Mistral X Mozilla：私密、多语言的 AI 浏览体验",
-          "url": "https://mistral.ai/news/mistral-x-mozilla",
-          "source": "mistral.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T11:55:14.283000Z"
-        },
-        {
-          "id": "2c542338121337a83c8d63e9f2f7d45cbe9399bf",
-          "title": "Mistral X Mozilla：私密、多语言的 AI 浏览体验 / Mistral X Mozilla: Private, Multilingual AI Browsing",
-          "url": "https://mistral.ai/news/mistral-x-mozilla",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T08:08:57Z"
-        },
-        {
-          "id": "09c4997e42c5a9f8e4e831c36b3173e585f3cf0b",
-          "title": "Mistral X Mozilla：私密、多语言 AI ​​浏览 / Mistral X Mozilla: Private, Multilingual AI Browsing",
-          "url": "https://news.ycombinator.com/item?id=49723408",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T08:08:57Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5664,
-      "importance": 0.5664,
-      "importance_score": 0.5664,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9757,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-16T08:08:57Z",
-      "latest_at": "2026-09-16T11:55:14.283000Z",
-      "primary_item": {
-        "id": "fc048b3573d49f5eee49a9fcbc2e4b61c12d8e9a",
-        "title": "Mistral X Mozilla：私密、多语言的 AI 浏览体验",
-        "url": "https://mistral.ai/news/mistral-x-mozilla",
-        "source": "mistral.ai",
-        "source_name": "Buzzing"
       }
     }
   ]
