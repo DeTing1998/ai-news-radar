@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-09-17T19:37:33.792025Z",
+  "generated_at": "2026-09-17T20:37:32.332965Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_df4ade904b04",
+      "title": "Making global data easier to explore",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
+          "title": "Making global data easier to explore",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T20:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
+          "title": "Making global data easier to explore",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T20:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8424,
+      "importance": 0.8424,
+      "importance_score": 0.8424,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.991,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T20:00:00Z",
+      "latest_at": "2026-09-17T20:00:00Z",
+      "primary_item": {
+        "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
+        "title": "Making global data easier to explore",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_a4ef61465bc2",
       "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8359,
-      "importance": 0.8359,
-      "importance_score": 0.8359,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9552,
+        "recency": 0.9415,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8335,
-      "importance": 0.8335,
-      "importance_score": 0.8335,
+      "score": 0.8315,
+      "importance": 0.8315,
+      "importance_score": 0.8315,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7581,
+        "recency": 0.7472,
         "story_heat": 0.25
       },
       "category": "official",
@@ -145,6 +207,250 @@
         "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_363bbead77de",
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "primary_url": "https://openai.com/index/astra-for-law",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a47b1e647923f49f3c4fdc41e4d0ea81c4a12116",
+          "title": "Introducing Astra for Law",
+          "url": "https://openai.com/index/astra-for-law",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:00:00Z"
+        },
+        {
+          "id": "4ee22efc4580668bff754510f5a913b2be1c9ebc",
+          "title": "Astra for Law",
+          "url": "https://openai.com/index/astra-for-law",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-17T20:17:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "a47b1e647923f49f3c4fdc41e4d0ea81c4a12116",
+          "title": "Introducing Astra for Law",
+          "url": "https://openai.com/index/astra-for-law",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:00:00Z"
+        },
+        {
+          "id": "4ee22efc4580668bff754510f5a913b2be1c9ebc",
+          "title": "Astra for Law",
+          "url": "https://openai.com/index/astra-for-law",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-17T20:17:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7424,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T00:00:00Z",
+      "latest_at": "2026-09-17T20:17:48Z",
+      "primary_item": {
+        "id": "a47b1e647923f49f3c4fdc41e4d0ea81c4a12116",
+        "title": "Introducing Astra for Law",
+        "url": "https://openai.com/index/astra-for-law",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5ff94f8b654c",
+      "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+      "primary_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
+          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T19:46:08Z"
+        },
+        {
+          "id": "4e1edba42df1e265ddffa29ab343f4eb5d23cbf0",
+          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-17T19:46:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
+          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T19:46:08Z"
+        },
+        {
+          "id": "4e1edba42df1e265ddffa29ab343f4eb5d23cbf0",
+          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-17T19:46:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8144,
+      "importance": 0.8144,
+      "importance_score": 0.8144,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9877,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T19:46:08Z",
+      "latest_at": "2026-09-17T19:46:08Z",
+      "primary_item": {
+        "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
+        "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_539c5a96bbf4",
+      "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "75904b2fddfb99197aaad0a486f575bb90f423bd",
+          "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T19:28:24Z"
+        },
+        {
+          "id": "1e15816ac75cf5b47bc1cf3ca8f82f4cf019ab84",
+          "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对 / The AI Superintelligence Slowdown",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-17T19:28:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "75904b2fddfb99197aaad0a486f575bb90f423bd",
+          "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T19:28:24Z"
+        },
+        {
+          "id": "1e15816ac75cf5b47bc1cf3ca8f82f4cf019ab84",
+          "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对 / The AI Superintelligence Slowdown",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-17T19:28:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9835,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T19:28:24Z",
+      "latest_at": "2026-09-17T19:28:24Z",
+      "primary_item": {
+        "id": "75904b2fddfb99197aaad0a486f575bb90f423bd",
+        "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -182,15 +488,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9457,
+        "recency": 0.9321,
         "story_heat": 0.0
       },
       "category": "official",
@@ -282,15 +588,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7823,
+        "recency": 0.7711,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -344,15 +650,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.967,
+        "recency": 0.9531,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -371,49 +677,49 @@
       }
     },
     {
-      "story_id": "story_bb65895bed05",
-      "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
-      "url": "https://www.dwarkesh.com/p/noam-brown",
-      "primary_url": "https://www.dwarkesh.com/p/noam-brown",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "story_id": "story_fb225a3bcd84",
+      "title": "Anthropic 发布三项测量指标，公开 AI 驱动 AI 研发的进度数据",
+      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "primary_url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "source": "Anthropic：Newsroom（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
-          "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
-          "url": "https://www.dwarkesh.com/p/noam-brown",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "id": "bec8b59308017e4670b3078c37b17fc268d9e132",
+          "title": "Anthropic 发布三项测量指标，公开 AI 驱动 AI 研发的进度数据",
+          "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+          "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-17T15:38:13Z"
+          "published_at": "2026-09-17T20:21:17.196000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
+        "Anthropic：Newsroom（网页）"
       ],
       "items": [
         {
-          "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
-          "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
-          "url": "https://www.dwarkesh.com/p/noam-brown",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "id": "bec8b59308017e4670b3078c37b17fc268d9e132",
+          "title": "Anthropic 发布三项测量指标，公开 AI 驱动 AI 研发的进度数据",
+          "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+          "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-17T15:38:13Z"
+          "published_at": "2026-09-17T20:21:17.196000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.944,
+        "recency": 0.9961,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -421,13 +727,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T15:38:13Z",
-      "latest_at": "2026-09-17T15:38:13Z",
+      "earliest_at": "2026-09-17T20:21:17.196000Z",
+      "latest_at": "2026-09-17T20:21:17.196000Z",
       "primary_item": {
-        "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
-        "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
-        "url": "https://www.dwarkesh.com/p/noam-brown",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "id": "bec8b59308017e4670b3078c37b17fc268d9e132",
+        "title": "Anthropic 发布三项测量指标，公开 AI 驱动 AI 研发的进度数据",
+        "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0389b68f0dfb",
+      "title": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码",
+      "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+      "primary_url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "85b1d750ee667e6121c9b6cc95f26edb10480315",
+          "title": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码",
+          "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T19:49:41.095000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "85b1d750ee667e6121c9b6cc95f26edb10480315",
+          "title": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码",
+          "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T19:49:41.095000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9885,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T19:49:41.095000Z",
+      "latest_at": "2026-09-17T19:49:41.095000Z",
+      "primary_item": {
+        "id": "85b1d750ee667e6121c9b6cc95f26edb10480315",
+        "title": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码",
+        "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+        "source": "Anthropic：Research（发表成果 · 网页）",
         "source_name": "AI HOT"
       }
     },
@@ -466,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7422,
+        "recency": 0.7316,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -489,6 +856,67 @@
         "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
         "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
         "source": "X：AI Safety Memes (@AISafetyMemes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bb65895bed05",
+      "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
+      "url": "https://www.dwarkesh.com/p/noam-brown",
+      "primary_url": "https://www.dwarkesh.com/p/noam-brown",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
+          "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
+          "url": "https://www.dwarkesh.com/p/noam-brown",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T15:38:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Dwarkesh Patel：Podcast & Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
+          "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
+          "url": "https://www.dwarkesh.com/p/noam-brown",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T15:38:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9305,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T15:38:13Z",
+      "latest_at": "2026-09-17T15:38:13Z",
+      "primary_item": {
+        "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
+        "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
+        "url": "https://www.dwarkesh.com/p/noam-brown",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -527,15 +955,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9578,
+        "recency": 0.9441,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -625,15 +1053,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.7601,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -687,15 +1115,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9749,
+        "recency": 0.961,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -747,15 +1175,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9361,
+        "recency": 0.9227,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -773,65 +1201,63 @@
       }
     },
     {
-      "story_id": "story_aaa1a76c6763",
-      "title": "副驾驶预算增加请求普遍可用 / Copilot budget increase requests are generally available",
-      "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_d21528aab7f9",
+      "title": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致",
+      "url": "https://epoch.ai/data-insights/malaysia-china-chip-smuggling",
+      "primary_url": "https://epoch.ai/data-insights/malaysia-china-chip-smuggling",
+      "source": "Epoch AI：研究、数据与评测",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
-          "title": "副驾驶预算增加请求普遍可用 / Copilot budget increase requests are generally available",
-          "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:17:18Z"
+          "id": "996726a9ac53981eb863eccd8e5c018833bfdf77",
+          "title": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致",
+          "url": "https://epoch.ai/data-insights/malaysia-china-chip-smuggling",
+          "source": "Epoch AI：研究、数据与评测",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Epoch AI：研究、数据与评测"
       ],
       "items": [
         {
-          "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
-          "title": "副驾驶预算增加请求普遍可用 / Copilot budget increase requests are generally available",
-          "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:17:18Z"
+          "id": "996726a9ac53981eb863eccd8e5c018833bfdf77",
+          "title": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致",
+          "url": "https://epoch.ai/data-insights/malaysia-china-chip-smuggling",
+          "source": "Epoch AI：研究、数据与评测",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
-      "importance_label": "官方更新",
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7139,
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7424,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-16T20:17:18Z",
-      "latest_at": "2026-09-16T20:17:18Z",
+      "earliest_at": "2026-09-17T00:00:00Z",
+      "latest_at": "2026-09-17T00:00:00Z",
       "primary_item": {
-        "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
-        "title": "副驾驶预算增加请求普遍可用 / Copilot budget increase requests are generally available",
-        "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "996726a9ac53981eb863eccd8e5c018833bfdf77",
+        "title": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致",
+        "url": "https://epoch.ai/data-insights/malaysia-china-chip-smuggling",
+        "source": "Epoch AI：研究、数据与评测",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -888,15 +1314,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.8781,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -913,68 +1339,6 @@
         "url": "https://www.aibase.com/news/31131",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4df4917d3964",
-      "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
-      "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-      "primary_url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
-          "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
-          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:19:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
-          "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
-          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:19:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7144,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T20:19:58Z",
-      "latest_at": "2026-09-16T20:19:58Z",
-      "primary_item": {
-        "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
-        "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
-        "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1031,15 +1395,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.8781,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1054,423 +1418,6 @@
         "id": "8102b6352c1872eefe6efca1d00b79c4bb0aca39",
         "title": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
         "url": "https://www.aibase.com/news/31135",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_70ff7b63d5f5",
-      "title": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
-      "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-      "primary_url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
-          "title": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
-          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:20:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
-          "title": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
-          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:20:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7144,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T20:20:16Z",
-      "latest_at": "2026-09-16T20:20:16Z",
-      "primary_item": {
-        "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
-        "title": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
-        "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6bf22bb7c7b5",
-      "title": "谷歌、英伟达和 Anthropic 希望 Emerald AI 在网格上为更多数据中心找到空间 / Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
-      "primary_url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "08a3486876684fc6dae9eff278a64cf2c6666095",
-          "title": "谷歌、英伟达和 Anthropic 希望 Emerald AI 在网格上为更多数据中心找到空间 / Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-          "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-17T13:38:33Z"
-        },
-        {
-          "id": "b98499d5c6492768d69c139cdd1019bad168d6b9",
-          "title": "谷歌、英伟达和 Anthropic 希望 Emerald AI 在网格上为更多数据中心找到空间 / Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
-          "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-17T13:38:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "08a3486876684fc6dae9eff278a64cf2c6666095",
-          "title": "谷歌、英伟达和 Anthropic 希望 Emerald AI 在网格上为更多数据中心找到空间 / Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-          "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-17T13:38:33Z"
-        },
-        {
-          "id": "b98499d5c6492768d69c139cdd1019bad168d6b9",
-          "title": "谷歌、英伟达和 Anthropic 希望 Emerald AI 在网格上为更多数据中心找到空间 / Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
-          "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-17T13:38:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6463,
-      "importance": 0.6463,
-      "importance_score": 0.6463,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.9172,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-17T13:38:33Z",
-      "latest_at": "2026-09-17T13:38:33Z",
-      "primary_item": {
-        "id": "08a3486876684fc6dae9eff278a64cf2c6666095",
-        "title": "谷歌、英伟达和 Anthropic 希望 Emerald AI 在网格上为更多数据中心找到空间 / Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-        "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "4000人齐聚上海外滩大会，奔赴AI虚拟偶像Yuri的首场线下百米巨幕音乐会。来一起回顾下一个虚拟IP走进现实世界的背后故事！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-17",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "609ba40a6d8a20a6efce292b88923c4cc92eb802",
-          "title": "4000人齐聚上海外滩大会，奔赴AI虚拟偶像Yuri的首场线下百米巨幕音乐会。来一起回顾下一个虚拟IP走进现实世界的背后故事！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-17",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-17T19:37:33.792025Z"
-        },
-        {
-          "id": "dc0ae7db830e3cc4b6fffd13905760e9582ea939",
-          "title": "AI FDE已然成为当下 AI 领域高薪热门岗位，海外岗位暴涨729%，国内大厂也密集放出高薪岗位。作者基于Anthropic工程师的分享，拆解了FDE底层逻辑、落地流程，带你读懂热潮背后客户依赖的深层风险。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-17",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-17T19:37:33.792025Z"
-        },
-        {
-          "id": "f3a5cf516a9ce657a39001bf7c9e899e6abd02a1",
-          "title": "这是一篇写给普通人、零基础新手、刚接触 AI 工具的大家的实战入门教学。你会在这篇教程里看到很多截图、案例、提示词示例和常见错误说明。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-17",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-17T19:37:33.792025Z"
-        },
-        {
-          "id": "05b5fa38cd8dd660a0111d763567154a7fa83ef5",
-          "title": "这期 YC Paper Club 谈的是 Harness，也就是让模型使用工具、管理记忆并持续工作的运行框架。Prime Intellect 的 Seth Karten、斯坦福的 Jon Saad-Falcon，以及 YC 的 Josh France 和 Regan Bell，分别带来研究、本地 AI 和公司内部协作的实践。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-17",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-17T19:37:33.792025Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "社区更新 · 2026-09-17"
-      ],
-      "items": [
-        {
-          "id": "609ba40a6d8a20a6efce292b88923c4cc92eb802",
-          "title": "4000人齐聚上海外滩大会，奔赴AI虚拟偶像Yuri的首场线下百米巨幕音乐会。来一起回顾下一个虚拟IP走进现实世界的背后故事！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-17",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-17T19:37:33.792025Z"
-        },
-        {
-          "id": "dc0ae7db830e3cc4b6fffd13905760e9582ea939",
-          "title": "AI FDE已然成为当下 AI 领域高薪热门岗位，海外岗位暴涨729%，国内大厂也密集放出高薪岗位。作者基于Anthropic工程师的分享，拆解了FDE底层逻辑、落地流程，带你读懂热潮背后客户依赖的深层风险。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-17",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-17T19:37:33.792025Z"
-        },
-        {
-          "id": "f3a5cf516a9ce657a39001bf7c9e899e6abd02a1",
-          "title": "这是一篇写给普通人、零基础新手、刚接触 AI 工具的大家的实战入门教学。你会在这篇教程里看到很多截图、案例、提示词示例和常见错误说明。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-17",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-17T19:37:33.792025Z"
-        },
-        {
-          "id": "05b5fa38cd8dd660a0111d763567154a7fa83ef5",
-          "title": "这期 YC Paper Club 谈的是 Harness，也就是让模型使用工具、管理记忆并持续工作的运行框架。Prime Intellect 的 Seth Karten、斯坦福的 Jon Saad-Falcon，以及 YC 的 Josh France 和 Regan Bell，分别带来研究、本地 AI 和公司内部协作的实践。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-17",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-17T19:37:33.792025Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6442,
-      "importance": 0.6442,
-      "importance_score": 0.6442,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-17T19:37:33.792025Z",
-      "latest_at": "2026-09-17T19:37:33.792025Z",
-      "primary_item": {
-        "id": "609ba40a6d8a20a6efce292b88923c4cc92eb802",
-        "title": "4000人齐聚上海外滩大会，奔赴AI虚拟偶像Yuri的首场线下百米巨幕音乐会。来一起回顾下一个虚拟IP走进现实世界的背后故事！",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-17",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_f9725c0e797e",
-      "title": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
-      "url": "https://www.aibase.com/news/31126",
-      "primary_url": "https://www.aibase.com/news/31126",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d524f84ca7359f8f78912e11258744d0ce0d5429",
-          "title": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
-          "url": "https://www.aibase.com/news/31126",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T06:37:36.346186Z"
-        },
-        {
-          "id": "3e3d704f6f3d2055262d45d82faa5fa6c986744e",
-          "title": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
-          "url": "https://www.aibase.com/zh/news/31126",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d524f84ca7359f8f78912e11258744d0ce0d5429",
-          "title": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
-          "url": "https://www.aibase.com/news/31126",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T06:37:36.346186Z"
-        },
-        {
-          "id": "3e3d704f6f3d2055262d45d82faa5fa6c986744e",
-          "title": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
-          "url": "https://www.aibase.com/zh/news/31126",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8288,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T06:37:36.346186Z",
-      "latest_at": "2026-09-17T06:37:36.346186Z",
-      "primary_item": {
-        "id": "d524f84ca7359f8f78912e11258744d0ce0d5429",
-        "title": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
-        "url": "https://www.aibase.com/news/31126",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_eaf91b3376a9",
-      "title": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
-      "url": "https://www.aibase.com/news/31122",
-      "primary_url": "https://www.aibase.com/news/31122",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cfbd3d5ec25b05171243e43a477599ef057dec04",
-          "title": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
-          "url": "https://www.aibase.com/news/31122",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T04:37:32.314643Z"
-        },
-        {
-          "id": "22a0b5a8bc80c1d6db74ec5172356d4b3714177d",
-          "title": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
-          "url": "https://www.aibase.com/zh/news/31122",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "cfbd3d5ec25b05171243e43a477599ef057dec04",
-          "title": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
-          "url": "https://www.aibase.com/news/31122",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T04:37:32.314643Z"
-        },
-        {
-          "id": "22a0b5a8bc80c1d6db74ec5172356d4b3714177d",
-          "title": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
-          "url": "https://www.aibase.com/zh/news/31122",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8052,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T04:37:32.314643Z",
-      "latest_at": "2026-09-17T04:37:32.314643Z",
-      "primary_item": {
-        "id": "cfbd3d5ec25b05171243e43a477599ef057dec04",
-        "title": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
-        "url": "https://www.aibase.com/news/31122",
         "source": "AIbase",
         "source_name": "AIbase"
       }
