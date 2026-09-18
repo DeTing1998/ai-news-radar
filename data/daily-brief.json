@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T02:37:33.343758Z",
+  "generated_at": "2026-09-18T04:37:36.413738Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8399,
-      "importance": 0.8399,
-      "importance_score": 0.8399,
+      "score": 0.8351,
+      "importance": 0.8351,
+      "importance_score": 0.8351,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9326,
+        "recency": 0.906,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8276,
-      "importance": 0.8276,
-      "importance_score": 0.8276,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9088,
+        "recency": 0.8829,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8096,
+        "recency": 0.7865,
         "story_heat": 0.0
       },
       "category": "official",
@@ -243,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.7968,
+      "importance": 0.7968,
+      "importance_score": 0.7968,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9163,
+        "recency": 0.8902,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -305,15 +305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
+      "score": 0.8256,
+      "importance": 0.8256,
+      "importance_score": 0.8256,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9239,
+        "recency": 0.8976,
         "story_heat": 0.0
       },
       "category": "official",
@@ -330,6 +330,87 @@
         "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_20afc1366eb7",
+      "title": "Claude 写掉 Anthropic 八成代码，CI 半年暴涨 25 倍差点被\"砸瘫\"",
+      "url": "https://www.aibase.com/news/31157",
+      "primary_url": "https://www.aibase.com/news/31157",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "da7acd22c78663df0fd71900fcf0c2f7c8aab264",
+          "title": "Claude 写掉 Anthropic 八成代码，CI 半年暴涨 25 倍差点被\"砸瘫\"",
+          "url": "https://www.aibase.com/news/31157",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T04:37:36.413738Z"
+        },
+        {
+          "id": "960ef1983d566268479cf89b2ec26b213a283dd9",
+          "title": "Claude 写掉 Anthropic 八成代码，CI 半年暴涨 25 倍差点被「砸瘫」",
+          "url": "https://www.aibase.com/zh/news/31157",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "da7acd22c78663df0fd71900fcf0c2f7c8aab264",
+          "title": "Claude 写掉 Anthropic 八成代码，CI 半年暴涨 25 倍差点被\"砸瘫\"",
+          "url": "https://www.aibase.com/news/31157",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T04:37:36.413738Z"
+        },
+        {
+          "id": "960ef1983d566268479cf89b2ec26b213a283dd9",
+          "title": "Claude 写掉 Anthropic 八成代码，CI 半年暴涨 25 倍差点被「砸瘫」",
+          "url": "https://www.aibase.com/zh/news/31157",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T04:37:36.413738Z",
+      "latest_at": "2026-09-18T04:37:36.413738Z",
+      "primary_item": {
+        "id": "da7acd22c78663df0fd71900fcf0c2f7c8aab264",
+        "title": "Claude 写掉 Anthropic 八成代码，CI 半年暴涨 25 倍差点被\"砸瘫\"",
+        "url": "https://www.aibase.com/news/31157",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -386,15 +467,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
+      "score": 0.7883,
+      "importance": 0.7883,
+      "importance_score": 0.7883,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9019,
+        "recency": 0.8762,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -411,87 +492,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d00888d7de8c",
-      "title": "加速进化人形机器人Booster K1 探索版开售 京东标价38999 元",
-      "url": "https://www.aibase.com/news/31147",
-      "primary_url": "https://www.aibase.com/news/31147",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "13fc2cf8f4bf91b74bbbc804a6f67a31fbf14483",
-          "title": "加速进化人形机器人Booster K1 探索版开售 京东标价38999 元",
-          "url": "https://www.aibase.com/news/31147",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T02:37:33.343758Z"
-        },
-        {
-          "id": "3cde25c0f6be501fa2ea2fe3bdd37d501c92c8e5",
-          "title": "加速进化人形机器人 Booster K1 探索版开售 京东标价 38999 元",
-          "url": "https://www.aibase.com/zh/news/31147",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "13fc2cf8f4bf91b74bbbc804a6f67a31fbf14483",
-          "title": "加速进化人形机器人Booster K1 探索版开售 京东标价38999 元",
-          "url": "https://www.aibase.com/news/31147",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T02:37:33.343758Z"
-        },
-        {
-          "id": "3cde25c0f6be501fa2ea2fe3bdd37d501c92c8e5",
-          "title": "加速进化人形机器人 Booster K1 探索版开售 京东标价 38999 元",
-          "url": "https://www.aibase.com/zh/news/31147",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T02:37:33.343758Z",
-      "latest_at": "2026-09-18T02:37:33.343758Z",
-      "primary_item": {
-        "id": "13fc2cf8f4bf91b74bbbc804a6f67a31fbf14483",
-        "title": "加速进化人形机器人Booster K1 探索版开售 京东标价38999 元",
-        "url": "https://www.aibase.com/news/31147",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -548,15 +548,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7849,
-      "importance": 0.7849,
-      "importance_score": 0.7849,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.874,
+        "recency": 0.8491,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -629,15 +629,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9195,
+        "recency": 0.8934,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -691,15 +691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7692,
+      "importance": 0.7692,
+      "importance_score": 0.7692,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9358,
+        "recency": 0.9091,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -771,15 +771,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9057,
+        "recency": 0.8799,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -799,26 +799,26 @@
       }
     },
     {
-      "story_id": "story_5491ad9bd775",
-      "title": "苹果 AI 服务器曝光：代号 Baltra、搭自研 M8 Ultra，或采用英伟达 NVLink Fusion",
-      "url": "https://www.aibase.com/news/31149",
-      "primary_url": "https://www.aibase.com/news/31149",
+      "story_id": "story_5768e296ef17",
+      "title": "​OpenAI、微软高管内部承认 AI 可替代新闻文章，法院文件曝光",
+      "url": "https://www.aibase.com/news/31153",
+      "primary_url": "https://www.aibase.com/news/31153",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7004d47c5a84311ee652fc39e8659877f00784ab",
-          "title": "苹果 AI 服务器曝光：代号 Baltra、搭自研 M8 Ultra，或采用英伟达 NVLink Fusion",
-          "url": "https://www.aibase.com/news/31149",
+          "id": "1c500bf0d1dedb7337cc6432136388e44efd5522",
+          "title": "​OpenAI、微软高管内部承认 AI 可替代新闻文章，法院文件曝光",
+          "url": "https://www.aibase.com/news/31153",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-18T02:37:33.343758Z"
+          "published_at": "2026-09-18T04:37:36.413738Z"
         },
         {
-          "id": "0e7e89b760b4a4077f4e3c0a0a9c111ab0e95b74",
-          "title": "苹果 AI 服务器曝光：代号 Baltra、搭自研 M8 Ultra，或采用英伟达 NVLink Fusion",
-          "url": "https://www.aibase.com/zh/news/31149",
+          "id": "07ebf5b62c4ca580627ab0e86dde4d52e11519de",
+          "title": "OpenAI、微软高管内部承认 AI 可替代新闻文章，法院文件曝光",
+          "url": "https://www.aibase.com/zh/news/31153",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -832,18 +832,18 @@
       ],
       "items": [
         {
-          "id": "7004d47c5a84311ee652fc39e8659877f00784ab",
-          "title": "苹果 AI 服务器曝光：代号 Baltra、搭自研 M8 Ultra，或采用英伟达 NVLink Fusion",
-          "url": "https://www.aibase.com/news/31149",
+          "id": "1c500bf0d1dedb7337cc6432136388e44efd5522",
+          "title": "​OpenAI、微软高管内部承认 AI 可替代新闻文章，法院文件曝光",
+          "url": "https://www.aibase.com/news/31153",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-18T02:37:33.343758Z"
+          "published_at": "2026-09-18T04:37:36.413738Z"
         },
         {
-          "id": "0e7e89b760b4a4077f4e3c0a0a9c111ab0e95b74",
-          "title": "苹果 AI 服务器曝光：代号 Baltra、搭自研 M8 Ultra，或采用英伟达 NVLink Fusion",
-          "url": "https://www.aibase.com/zh/news/31149",
+          "id": "07ebf5b62c4ca580627ab0e86dde4d52e11519de",
+          "title": "OpenAI、微软高管内部承认 AI 可替代新闻文章，法院文件曝光",
+          "url": "https://www.aibase.com/zh/news/31153",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -869,12 +869,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-18T02:37:33.343758Z",
-      "latest_at": "2026-09-18T02:37:33.343758Z",
+      "earliest_at": "2026-09-18T04:37:36.413738Z",
+      "latest_at": "2026-09-18T04:37:36.413738Z",
       "primary_item": {
-        "id": "7004d47c5a84311ee652fc39e8659877f00784ab",
-        "title": "苹果 AI 服务器曝光：代号 Baltra、搭自研 M8 Ultra，或采用英伟达 NVLink Fusion",
-        "url": "https://www.aibase.com/news/31149",
+        "id": "1c500bf0d1dedb7337cc6432136388e44efd5522",
+        "title": "​OpenAI、微软高管内部承认 AI 可替代新闻文章，法院文件曝光",
+        "url": "https://www.aibase.com/news/31153",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -914,15 +914,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8634,
+        "recency": 0.8388,
         "story_heat": 0.0
       },
       "category": "official",
@@ -976,21 +976,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9573,
+        "recency": 0.9301,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-17T23:36:26Z",
       "latest_at": "2026-09-17T23:36:26Z",
@@ -1037,15 +1036,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9646,
+        "recency": 0.9372,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1097,15 +1096,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7448,
-      "importance": 0.7448,
-      "importance_score": 0.7448,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9065,
+        "recency": 0.8807,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1157,15 +1156,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7338,
+      "importance": 0.7338,
+      "importance_score": 0.7338,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8533,
+        "recency": 0.829,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1183,26 +1182,26 @@
       }
     },
     {
-      "story_id": "story_a69aa431c48d",
-      "title": "谷歌最强 Gemini 4 Pro 开测 SVG 生图惊艳",
-      "url": "https://www.aibase.com/news/31148",
-      "primary_url": "https://www.aibase.com/news/31148",
+      "story_id": "story_015b20257f18",
+      "title": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
+      "url": "https://www.aibase.com/news/31156",
+      "primary_url": "https://www.aibase.com/news/31156",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "887d1f6dd0ba4c8661d0d6cef78ea2e66760e83f",
-          "title": "谷歌最强 Gemini 4 Pro 开测 SVG 生图惊艳",
-          "url": "https://www.aibase.com/news/31148",
+          "id": "cfdb2bb7c1737a7a72341d89c17a0e2e3bb4b688",
+          "title": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
+          "url": "https://www.aibase.com/news/31156",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-18T02:37:33.343758Z"
+          "published_at": "2026-09-18T04:37:36.413738Z"
         },
         {
-          "id": "de2305a12c318397135eb62b0b83454d402721e7",
-          "title": "谷歌最强 Gemini 4 Pro 开测 SVG 生图惊艳",
-          "url": "https://www.aibase.com/zh/news/31148",
+          "id": "4aae245a124b6b574486665ad1d2163099c9a8c7",
+          "title": "千问上线 Qwen3.8-Omni-Flash：1M 上下文，30 项评测平均提升超 26%",
+          "url": "https://www.aibase.com/zh/news/31156",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1216,18 +1215,18 @@
       ],
       "items": [
         {
-          "id": "887d1f6dd0ba4c8661d0d6cef78ea2e66760e83f",
-          "title": "谷歌最强 Gemini 4 Pro 开测 SVG 生图惊艳",
-          "url": "https://www.aibase.com/news/31148",
+          "id": "cfdb2bb7c1737a7a72341d89c17a0e2e3bb4b688",
+          "title": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
+          "url": "https://www.aibase.com/news/31156",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-18T02:37:33.343758Z"
+          "published_at": "2026-09-18T04:37:36.413738Z"
         },
         {
-          "id": "de2305a12c318397135eb62b0b83454d402721e7",
-          "title": "谷歌最强 Gemini 4 Pro 开测 SVG 生图惊艳",
-          "url": "https://www.aibase.com/zh/news/31148",
+          "id": "4aae245a124b6b574486665ad1d2163099c9a8c7",
+          "title": "千问上线 Qwen3.8-Omni-Flash：1M 上下文，30 项评测平均提升超 26%",
+          "url": "https://www.aibase.com/zh/news/31156",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1253,12 +1252,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-18T02:37:33.343758Z",
-      "latest_at": "2026-09-18T02:37:33.343758Z",
+      "earliest_at": "2026-09-18T04:37:36.413738Z",
+      "latest_at": "2026-09-18T04:37:36.413738Z",
       "primary_item": {
-        "id": "887d1f6dd0ba4c8661d0d6cef78ea2e66760e83f",
-        "title": "谷歌最强 Gemini 4 Pro 开测 SVG 生图惊艳",
-        "url": "https://www.aibase.com/news/31148",
+        "id": "cfdb2bb7c1737a7a72341d89c17a0e2e3bb4b688",
+        "title": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
+        "url": "https://www.aibase.com/news/31156",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1298,15 +1297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8657,
+        "recency": 0.8411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1358,15 +1357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
+      "score": 0.7255,
+      "importance": 0.7255,
+      "importance_score": 0.7255,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9429,
+        "recency": 0.9161,
         "story_heat": 0.0
       },
       "category": "industry",
