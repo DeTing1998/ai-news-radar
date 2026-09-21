@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T06:37:35.494678Z",
+  "generated_at": "2026-09-21T08:37:34.430488Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8248,
-      "importance": 0.8248,
-      "importance_score": 0.8248,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8345,
+        "recency": 0.8107,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -213,15 +213,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7642,
+        "recency": 0.7424,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -238,6 +238,613 @@
         "url": "https://qwen.ai/blog?id=qwen-image-2.1",
         "source": "Qwen：Blog Retrieval（API）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6f2ad66232ac",
+      "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+      "url": "https://www.aibase.com/news/31237",
+      "primary_url": "https://www.aibase.com/news/31237",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
+          "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "url": "https://www.aibase.com/news/31237",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:37:34.430488Z"
+        },
+        {
+          "id": "6589852a9f152866de4099eb6348e6a681b34ead",
+          "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "url": "https://www.aibase.com/zh/news/31237",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
+          "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "url": "https://www.aibase.com/news/31237",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:37:34.430488Z"
+        },
+        {
+          "id": "6589852a9f152866de4099eb6348e6a681b34ead",
+          "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "url": "https://www.aibase.com/zh/news/31237",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T08:37:34.430488Z",
+      "latest_at": "2026-09-21T08:37:34.430488Z",
+      "primary_item": {
+        "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
+        "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+        "url": "https://www.aibase.com/news/31237",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+      "source": "公众号：月之暗面（Kimi）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "db5c34aadee5e59351366b04dbf21e0d4feb57ca",
+          "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+          "source": "公众号：月之暗面（Kimi）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T07:54:32Z"
+        },
+        {
+          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T01:52:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "公众号：数字生命卡兹克",
+        "公众号：月之暗面（Kimi）"
+      ],
+      "items": [
+        {
+          "id": "db5c34aadee5e59351366b04dbf21e0d4feb57ca",
+          "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+          "source": "公众号：月之暗面（Kimi）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T07:54:32Z"
+        },
+        {
+          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T01:52:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9897,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T01:52:57Z",
+      "latest_at": "2026-09-21T07:54:32Z",
+      "primary_item": {
+        "id": "db5c34aadee5e59351366b04dbf21e0d4feb57ca",
+        "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+        "source": "公众号：月之暗面（Kimi）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0f8570f5c4b6",
+      "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+      "url": "https://www.aibase.com/news/31234",
+      "primary_url": "https://www.aibase.com/news/31234",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
+          "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+          "url": "https://www.aibase.com/news/31234",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:37:34.430488Z"
+        },
+        {
+          "id": "f857388ab8fd42f08d5a883c4627c4c14def6811",
+          "title": "开发者实锤 OpenAI 广告追踪链条：ChatGPT 账号正悄悄绑定你的全网浏览足迹",
+          "url": "https://www.aibase.com/zh/news/31234",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
+          "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+          "url": "https://www.aibase.com/news/31234",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:37:34.430488Z"
+        },
+        {
+          "id": "f857388ab8fd42f08d5a883c4627c4c14def6811",
+          "title": "开发者实锤 OpenAI 广告追踪链条：ChatGPT 账号正悄悄绑定你的全网浏览足迹",
+          "url": "https://www.aibase.com/zh/news/31234",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T08:37:34.430488Z",
+      "latest_at": "2026-09-21T08:37:34.430488Z",
+      "primary_item": {
+        "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
+        "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+        "url": "https://www.aibase.com/news/31234",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fcca394b788e",
+      "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+      "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "primary_url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T20:20:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T20:20:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8375,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T20:20:56Z",
+      "latest_at": "2026-09-20T20:20:56Z",
+      "primary_item": {
+        "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+        "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+        "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bb5dceabc7e5",
+      "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+      "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T02:50:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T02:50:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9199,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T02:50:40Z",
+      "latest_at": "2026-09-21T02:50:40Z",
+      "primary_item": {
+        "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+        "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+        "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_85b0b9bb1d20",
+      "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+      "url": "https://www.aibase.com/news/31238",
+      "primary_url": "https://www.aibase.com/news/31238",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
+          "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "url": "https://www.aibase.com/news/31238",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:37:34.430488Z"
+        },
+        {
+          "id": "8aded8b178f5718b5d80e919c3d6c677b8b34541",
+          "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "url": "https://www.aibase.com/zh/news/31238",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
+          "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "url": "https://www.aibase.com/news/31238",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:37:34.430488Z"
+        },
+        {
+          "id": "8aded8b178f5718b5d80e919c3d6c677b8b34541",
+          "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "url": "https://www.aibase.com/zh/news/31238",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T08:37:34.430488Z",
+      "latest_at": "2026-09-21T08:37:34.430488Z",
+      "primary_item": {
+        "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
+        "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+        "url": "https://www.aibase.com/news/31238",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fe9b8db9865d",
+      "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
+      "url": "https://www.aibase.com/news/31236",
+      "primary_url": "https://www.aibase.com/news/31236",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "347b285ee3b2634946f60950a426ce43abf8850d",
+          "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
+          "url": "https://www.aibase.com/news/31236",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:37:34.430488Z"
+        },
+        {
+          "id": "d93b5702376fa0679c7eb8fe14a93661ff034743",
+          "title": "百度文库网盘宣布 AI 办公出海，库库 AI 全球月活超 4000 万",
+          "url": "https://www.aibase.com/zh/news/31236",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "347b285ee3b2634946f60950a426ce43abf8850d",
+          "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
+          "url": "https://www.aibase.com/news/31236",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:37:34.430488Z"
+        },
+        {
+          "id": "d93b5702376fa0679c7eb8fe14a93661ff034743",
+          "title": "百度文库网盘宣布 AI 办公出海，库库 AI 全球月活超 4000 万",
+          "url": "https://www.aibase.com/zh/news/31236",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T08:37:34.430488Z",
+      "latest_at": "2026-09-21T08:37:34.430488Z",
+      "primary_item": {
+        "id": "347b285ee3b2634946f60950a426ce43abf8850d",
+        "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
+        "url": "https://www.aibase.com/news/31236",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_62ef79af4c6f",
+      "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+      "url": "https://www.aibase.com/news/31233",
+      "primary_url": "https://www.aibase.com/news/31233",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
+          "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "url": "https://www.aibase.com/news/31233",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:37:34.430488Z"
+        },
+        {
+          "id": "9bf7acc80de4207fe8277796dc6730ad46250660",
+          "title": "阿里换帅 Qwen 团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "url": "https://www.aibase.com/zh/news/31233",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
+          "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "url": "https://www.aibase.com/news/31233",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:37:34.430488Z"
+        },
+        {
+          "id": "9bf7acc80de4207fe8277796dc6730ad46250660",
+          "title": "阿里换帅 Qwen 团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "url": "https://www.aibase.com/zh/news/31233",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T08:37:34.430488Z",
+      "latest_at": "2026-09-21T08:37:34.430488Z",
+      "primary_item": {
+        "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
+        "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+        "url": "https://www.aibase.com/news/31233",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -294,15 +901,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9715,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -322,589 +929,81 @@
       }
     },
     {
-      "story_id": "story_fcca394b788e",
-      "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-      "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-      "primary_url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_4b01b728af1e",
+      "title": "智能体时代加速到来，IDC评估范式 AI 算力管理能力四项维度领先，评分位列第一",
+      "url": "https://www.infoq.cn/article/mMNcVfyGXtyFhPM0sKvN",
+      "primary_url": "https://www.infoq.cn/article/mMNcVfyGXtyFhPM0sKvN",
+      "source": "InfoQ CN",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
-          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T20:20:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
-          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T20:20:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8621,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T20:20:56Z",
-      "latest_at": "2026-09-20T20:20:56Z",
-      "primary_item": {
-        "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
-        "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-        "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_febf34851806",
-      "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
-      "url": "https://www.aibase.com/news/31227",
-      "primary_url": "https://www.aibase.com/news/31227",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b48d7b82ff56111dc01651b15447ba4b0f5b0554",
-          "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
-          "url": "https://www.aibase.com/news/31227",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:37:31.557903Z"
+          "id": "a826e4dff1e3517b8571a358504bb1605358bb26",
+          "title": "IDC评估中国 AI算力管理平台：范式综合评分位列第一",
+          "url": "https://www.infoq.cn/article/mMNcVfyGXtyFhPM0sKvN",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-21T14:10:36Z"
         },
         {
-          "id": "3ac4e484336027a100f3aaba063b98329d2feea4",
-          "title": "阿里 70 亿参数图像模型 Qwen-Image-2.1 开源发布，号称以瘦身之躯叫板闭源巨头",
-          "url": "https://www.aibase.com/zh/news/31227",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "fb84a9a1dc300f4827d58edea9d36839ab85c986",
+          "title": "智能体时代加速到来，IDC评估范式 AI 算力管理能力四项维度领先，评分位列第一",
+          "url": "https://www.infoq.cn/article/mMNcVfyGXtyFhPM0sKvN",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-21T14:10:35Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "InfoQ CN"
       ],
       "items": [
         {
-          "id": "b48d7b82ff56111dc01651b15447ba4b0f5b0554",
-          "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
-          "url": "https://www.aibase.com/news/31227",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T04:37:31.557903Z"
+          "id": "a826e4dff1e3517b8571a358504bb1605358bb26",
+          "title": "IDC评估中国 AI算力管理平台：范式综合评分位列第一",
+          "url": "https://www.infoq.cn/article/mMNcVfyGXtyFhPM0sKvN",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-21T14:10:36Z"
         },
         {
-          "id": "3ac4e484336027a100f3aaba063b98329d2feea4",
-          "title": "阿里 70 亿参数图像模型 Qwen-Image-2.1 开源发布，号称以瘦身之躯叫板闭源巨头",
-          "url": "https://www.aibase.com/zh/news/31227",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "fb84a9a1dc300f4827d58edea9d36839ab85c986",
+          "title": "智能体时代加速到来，IDC评估范式 AI 算力管理能力四项维度领先，评分位列第一",
+          "url": "https://www.infoq.cn/article/mMNcVfyGXtyFhPM0sKvN",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-21T14:10:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
-      "importance_label": "行业动态",
+      "score": 0.627,
+      "importance": 0.627,
+      "importance_score": 0.627,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "editorial": 0.54,
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 1.0,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-21T04:37:31.557903Z",
-      "latest_at": "2026-09-21T04:37:31.557903Z",
+      "earliest_at": "2026-09-21T14:10:35Z",
+      "latest_at": "2026-09-21T14:10:36Z",
       "primary_item": {
-        "id": "b48d7b82ff56111dc01651b15447ba4b0f5b0554",
-        "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
-        "url": "https://www.aibase.com/news/31227",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bb5dceabc7e5",
-      "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-      "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
-          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T02:50:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
-          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T02:50:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9468,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T02:50:40Z",
-      "latest_at": "2026-09-21T02:50:40Z",
-      "primary_item": {
-        "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
-        "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-        "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
-          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T01:52:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
-          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T01:52:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9338,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T01:52:57Z",
-      "latest_at": "2026-09-21T01:52:57Z",
-      "primary_item": {
-        "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
-        "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_db8813acc5dd",
-      "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-      "url": "https://www.aibase.com/news/31211",
-      "primary_url": "https://www.aibase.com/news/31211",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
-          "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-          "url": "https://www.aibase.com/news/31211",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T03:37:37.032431Z"
-        },
-        {
-          "id": "b52bfb0e23c51bd7c9cfc75ea26466c1e4b551e5",
-          "title": "Gemini Notebook 迎返校更新：讲座录音、AI 复习和 60 秒视频一站完成",
-          "url": "https://www.aibase.com/zh/news/31211",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
-          "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-          "url": "https://www.aibase.com/news/31211",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T03:37:37.032431Z"
-        },
-        {
-          "id": "b52bfb0e23c51bd7c9cfc75ea26466c1e4b551e5",
-          "title": "Gemini Notebook 迎返校更新：讲座录音、AI 复习和 60 秒视频一站完成",
-          "url": "https://www.aibase.com/zh/news/31211",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T03:37:37.032431Z",
-      "latest_at": "2026-09-21T03:37:37.032431Z",
-      "primary_item": {
-        "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
-        "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-        "url": "https://www.aibase.com/news/31211",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1a380ea379e4",
-      "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-      "url": "https://www.aibase.com/news/31215",
-      "primary_url": "https://www.aibase.com/news/31215",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
-          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-          "url": "https://www.aibase.com/news/31215",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T03:37:37.032431Z"
-        },
-        {
-          "id": "ee71a056abcbd969cb78ea0a33c660de446b8645",
-          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-          "url": "https://www.aibase.com/zh/news/31215",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
-          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-          "url": "https://www.aibase.com/news/31215",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T03:37:37.032431Z"
-        },
-        {
-          "id": "ee71a056abcbd969cb78ea0a33c660de446b8645",
-          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-          "url": "https://www.aibase.com/zh/news/31215",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T03:37:37.032431Z",
-      "latest_at": "2026-09-21T03:37:37.032431Z",
-      "primary_item": {
-        "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
-        "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-        "url": "https://www.aibase.com/news/31215",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_57be872527ef",
-      "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-      "url": "https://www.aibase.com/news/31226",
-      "primary_url": "https://www.aibase.com/news/31226",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
-          "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-          "url": "https://www.aibase.com/news/31226",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T03:37:37.032431Z"
-        },
-        {
-          "id": "c33704da4cf3b0466893264427c64bdedfb996e7",
-          "title": "中国大模型周调用量达 67.46 万亿 Token，连续 21 周领先美国",
-          "url": "https://www.aibase.com/zh/news/31226",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
-          "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-          "url": "https://www.aibase.com/news/31226",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T03:37:37.032431Z"
-        },
-        {
-          "id": "c33704da4cf3b0466893264427c64bdedfb996e7",
-          "title": "中国大模型周调用量达 67.46 万亿 Token，连续 21 周领先美国",
-          "url": "https://www.aibase.com/zh/news/31226",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T03:37:37.032431Z",
-      "latest_at": "2026-09-21T04:37:31.557903Z",
-      "primary_item": {
-        "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
-        "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-        "url": "https://www.aibase.com/news/31226",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4fad2905f6d2",
-      "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-      "url": "https://www.aibase.com/news/31216",
-      "primary_url": "https://www.aibase.com/news/31216",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
-          "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "url": "https://www.aibase.com/news/31216",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T03:37:37.032431Z"
-        },
-        {
-          "id": "f9cd2029b371f73aa8797d1ac58de514944b803e",
-          "title": "微软 Copilot 桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "url": "https://www.aibase.com/zh/news/31216",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
-          "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "url": "https://www.aibase.com/news/31216",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T03:37:37.032431Z"
-        },
-        {
-          "id": "f9cd2029b371f73aa8797d1ac58de514944b803e",
-          "title": "微软 Copilot 桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "url": "https://www.aibase.com/zh/news/31216",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T03:37:37.032431Z",
-      "latest_at": "2026-09-21T03:37:37.032431Z",
-      "primary_item": {
-        "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
-        "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-        "url": "https://www.aibase.com/news/31216",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "fb84a9a1dc300f4827d58edea9d36839ab85c986",
+        "title": "智能体时代加速到来，IDC评估范式 AI 算力管理能力四项维度领先，评分位列第一",
+        "url": "https://www.infoq.cn/article/mMNcVfyGXtyFhPM0sKvN",
+        "source": "InfoQ CN",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -960,15 +1059,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.627,
-      "importance": 0.627,
-      "importance_score": 0.627,
+      "score": 0.6225,
+      "importance": 0.6225,
+      "importance_score": 0.6225,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8789,
+        "recency": 0.8539,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1074,15 +1173,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6178,
-      "importance": 0.6178,
-      "importance_score": 0.6178,
+      "score": 0.6134,
+      "importance": 0.6134,
+      "importance_score": 0.6134,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8531,
+        "recency": 0.8289,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1100,26 +1199,26 @@
       }
     },
     {
-      "story_id": "story_9431f6c40685",
-      "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-      "url": "https://www.aibase.com/news/31224",
-      "primary_url": "https://www.aibase.com/news/31224",
+      "story_id": "story_febf34851806",
+      "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
+      "url": "https://www.aibase.com/news/31227",
+      "primary_url": "https://www.aibase.com/news/31227",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
-          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-          "url": "https://www.aibase.com/news/31224",
+          "id": "b48d7b82ff56111dc01651b15447ba4b0f5b0554",
+          "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
+          "url": "https://www.aibase.com/news/31227",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T03:37:37.032431Z"
+          "published_at": "2026-09-21T04:37:31.557903Z"
         },
         {
-          "id": "8eca55882f34970bd5b3f6d433f5d1c3f08798d5",
-          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成「实时」",
-          "url": "https://www.aibase.com/zh/news/31224",
+          "id": "3ac4e484336027a100f3aaba063b98329d2feea4",
+          "title": "阿里 70 亿参数图像模型 Qwen-Image-2.1 开源发布，号称以瘦身之躯叫板闭源巨头",
+          "url": "https://www.aibase.com/zh/news/31227",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1133,18 +1232,18 @@
       ],
       "items": [
         {
-          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
-          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-          "url": "https://www.aibase.com/news/31224",
+          "id": "b48d7b82ff56111dc01651b15447ba4b0f5b0554",
+          "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
+          "url": "https://www.aibase.com/news/31227",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T03:37:37.032431Z"
+          "published_at": "2026-09-21T04:37:31.557903Z"
         },
         {
-          "id": "8eca55882f34970bd5b3f6d433f5d1c3f08798d5",
-          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成「实时」",
-          "url": "https://www.aibase.com/zh/news/31224",
+          "id": "3ac4e484336027a100f3aaba063b98329d2feea4",
+          "title": "阿里 70 亿参数图像模型 Qwen-Image-2.1 开源发布，号称以瘦身之躯叫板闭源巨头",
+          "url": "https://www.aibase.com/zh/news/31227",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1153,15 +1252,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1170,12 +1269,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T03:37:37.032431Z",
-      "latest_at": "2026-09-21T03:37:37.032431Z",
+      "earliest_at": "2026-09-21T04:37:31.557903Z",
+      "latest_at": "2026-09-21T04:37:31.557903Z",
       "primary_item": {
-        "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
-        "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-        "url": "https://www.aibase.com/news/31224",
+        "id": "b48d7b82ff56111dc01651b15447ba4b0f5b0554",
+        "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
+        "url": "https://www.aibase.com/news/31227",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1198,17 +1297,17 @@
           "published_at": "2026-09-21T06:27:15.988000Z"
         },
         {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea",
+          "id": "a8836802839bf9e87e6335e7329f75f79314ca92",
+          "title": "为什么MCP一直都是个糟糕的主意？ / MCP was always a bad idea?",
           "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-20T19:44:40Z"
         },
         {
-          "id": "2149610d8f15e4ea172f60188b1af67746f92c92",
-          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
+          "id": "bf420e078f94036ff7501edd85d2459e390cdd8d",
+          "title": "MCP was always a bad idea?",
           "url": "https://news.ycombinator.com/item?id=49779329",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -1216,12 +1315,12 @@
           "published_at": "2026-09-20T19:44:40Z"
         },
         {
-          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
-          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea?",
+          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea",
           "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-09-20T19:44:40Z"
         }
       ],
@@ -1243,17 +1342,17 @@
           "published_at": "2026-09-21T06:27:15.988000Z"
         },
         {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea",
+          "id": "a8836802839bf9e87e6335e7329f75f79314ca92",
+          "title": "为什么MCP一直都是个糟糕的主意？ / MCP was always a bad idea?",
           "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-20T19:44:40Z"
         },
         {
-          "id": "2149610d8f15e4ea172f60188b1af67746f92c92",
-          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
+          "id": "bf420e078f94036ff7501edd85d2459e390cdd8d",
+          "title": "MCP was always a bad idea?",
           "url": "https://news.ycombinator.com/item?id=49779329",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -1261,26 +1360,26 @@
           "published_at": "2026-09-20T19:44:40Z"
         },
         {
-          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
-          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea?",
+          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea",
           "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-09-20T19:44:40Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5954,
-      "importance": 0.5954,
-      "importance_score": 0.5954,
+      "score": 0.5902,
+      "importance": 0.5902,
+      "importance_score": 0.5902,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9975,
+        "recency": 0.9691,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1299,15 +1398,15 @@
     },
     {
       "story_id": "story_cb03d7f13be9",
-      "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "primary_url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "source": "The Verge",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "id": "aa74037c27e35223b4e6af22c96a05a08cf1e958",
+          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
           "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
           "source": "The Verge",
           "source_name": "Curated Media",
@@ -1330,8 +1429,8 @@
       ],
       "items": [
         {
-          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "id": "aa74037c27e35223b4e6af22c96a05a08cf1e958",
+          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
           "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
           "source": "The Verge",
           "source_name": "Curated Media",
@@ -1350,15 +1449,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5873,
-      "importance": 0.5873,
-      "importance_score": 0.5873,
+      "score": 0.583,
+      "importance": 0.583,
+      "importance_score": 0.583,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8435,
+        "recency": 0.8195,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1368,34 +1467,34 @@
       "earliest_at": "2026-09-20T18:50:18Z",
       "latest_at": "2026-09-20T18:50:18Z",
       "primary_item": {
-        "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-        "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+        "id": "aa74037c27e35223b4e6af22c96a05a08cf1e958",
+        "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
         "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
         "source": "The Verge",
         "source_name": "Curated Media"
       }
     },
     {
-      "story_id": "story_d263354c1f0a",
-      "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-      "url": "https://www.aibase.com/news/31213",
-      "primary_url": "https://www.aibase.com/news/31213",
+      "story_id": "story_db8813acc5dd",
+      "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+      "url": "https://www.aibase.com/news/31211",
+      "primary_url": "https://www.aibase.com/news/31211",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
-          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "url": "https://www.aibase.com/news/31213",
+          "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
+          "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+          "url": "https://www.aibase.com/news/31211",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-21T03:37:37.032431Z"
         },
         {
-          "id": "4ed1d31bdb4a306e4ea776b5a1ac80e937f3f841",
-          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "url": "https://www.aibase.com/zh/news/31213",
+          "id": "b52bfb0e23c51bd7c9cfc75ea26466c1e4b551e5",
+          "title": "Gemini Notebook 迎返校更新：讲座录音、AI 复习和 60 秒视频一站完成",
+          "url": "https://www.aibase.com/zh/news/31211",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1409,18 +1508,18 @@
       ],
       "items": [
         {
-          "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
-          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "url": "https://www.aibase.com/news/31213",
+          "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
+          "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+          "url": "https://www.aibase.com/news/31211",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-21T03:37:37.032431Z"
         },
         {
-          "id": "4ed1d31bdb4a306e4ea776b5a1ac80e937f3f841",
-          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "url": "https://www.aibase.com/zh/news/31213",
+          "id": "b52bfb0e23c51bd7c9cfc75ea26466c1e4b551e5",
+          "title": "Gemini Notebook 迎返校更新：讲座录音、AI 复习和 60 秒视频一站完成",
+          "url": "https://www.aibase.com/zh/news/31211",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1429,15 +1528,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9304,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1449,248 +1548,169 @@
       "earliest_at": "2026-09-21T03:37:37.032431Z",
       "latest_at": "2026-09-21T03:37:37.032431Z",
       "primary_item": {
-        "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
-        "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-        "url": "https://www.aibase.com/news/31213",
+        "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
+        "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+        "url": "https://www.aibase.com/news/31211",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_9df129320ed5",
-      "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
-      "url": "https://www.qbitai.com/2026/09/493109.html",
-      "primary_url": "https://www.qbitai.com/2026/09/493109.html",
-      "source": "量子位 · 每日最新",
-      "source_name": "TopHub",
+      "story_id": "story_2239e8187ba0",
+      "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+      "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
+      "primary_url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "54c5e1bd8540fe47501210d0c82766d97ab40c9e",
-          "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
-          "url": "https://www.qbitai.com/2026/09/493109.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "c46950eb4d577031047fe029fd3e6e18d2f7f524",
+          "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+          "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-21T07:59:18Z"
         },
         {
-          "id": "e557af618cd1fedea5042f2852c5be897dc66d5f",
-          "title": "IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分",
-          "url": "https://www.qbitai.com/2026/09/493109.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "4cf847b3f03758828dcfffa050817f5a3b92f563",
+          "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+          "url": "https://news.ycombinator.com/item?id=49784366",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T07:59:18Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "量子位 · 每日最新"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "54c5e1bd8540fe47501210d0c82766d97ab40c9e",
-          "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
-          "url": "https://www.qbitai.com/2026/09/493109.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "c46950eb4d577031047fe029fd3e6e18d2f7f524",
+          "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+          "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-21T07:59:18Z"
         },
         {
-          "id": "e557af618cd1fedea5042f2852c5be897dc66d5f",
-          "title": "IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分",
-          "url": "https://www.qbitai.com/2026/09/493109.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "4cf847b3f03758828dcfffa050817f5a3b92f563",
+          "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+          "url": "https://news.ycombinator.com/item?id=49784366",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T07:59:18Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5441,
+      "importance": 0.5441,
+      "importance_score": 0.5441,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9908,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-21T04:37:31.557903Z",
-      "latest_at": "2026-09-21T06:37:35.494678Z",
+      "earliest_at": "2026-09-21T07:59:18Z",
+      "latest_at": "2026-09-21T07:59:18Z",
       "primary_item": {
-        "id": "54c5e1bd8540fe47501210d0c82766d97ab40c9e",
-        "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
-        "url": "https://www.qbitai.com/2026/09/493109.html",
-        "source": "量子位 · 每日最新",
-        "source_name": "TopHub"
+        "id": "c46950eb4d577031047fe029fd3e6e18d2f7f524",
+        "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+        "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
-      "story_id": "story_bca151d4e3ae",
-      "title": "杰弗里斯分析师发泄不满，因AI“劫持”了二氧化碳谈判",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
-      "source": "www.bloomberg.com",
+      "story_id": "story_d038b146ea0d",
+      "title": "中美在特朗普与习近平峰会前讨论人工智能安全计划",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+      "source": "www.bbc.co.uk",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "0b7123c904475f1aa668c30d71a588ac4b8d18bb",
-          "title": "杰弗里斯分析师发泄不满，因AI“劫持”了二氧化碳谈判",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
-          "source": "www.bloomberg.com",
+          "id": "d637be9d9fa281f4fcba6eb33ee21b3ae00bb699",
+          "title": "中美在特朗普与习近平峰会前讨论人工智能安全计划",
+          "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-21T06:27:16.053000Z"
+          "published_at": "2026-09-21T07:30:16.035000Z"
         },
         {
-          "id": "872c9ebd4ee65a740385d7b3c8c8067067482007",
-          "title": "杰弗里斯分析师因人工智能主导二氧化碳议题而发泄不满",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T10:14:37.898000Z"
+          "id": "4a0f2f06980e2b6f584865c2f269ee5696287b9b",
+          "title": "中美在特朗普与习近平峰会前讨论人工智能安全计划 / US and China discuss AI safety plan ahead of Trump-Xi summit",
+          "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T05:50:56Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "www.bloomberg.com"
+        "BBC News",
+        "www.bbc.co.uk"
       ],
       "items": [
         {
-          "id": "0b7123c904475f1aa668c30d71a588ac4b8d18bb",
-          "title": "杰弗里斯分析师发泄不满，因AI“劫持”了二氧化碳谈判",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
-          "source": "www.bloomberg.com",
+          "id": "d637be9d9fa281f4fcba6eb33ee21b3ae00bb699",
+          "title": "中美在特朗普与习近平峰会前讨论人工智能安全计划",
+          "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-21T06:27:16.053000Z"
+          "published_at": "2026-09-21T07:30:16.035000Z"
         },
         {
-          "id": "872c9ebd4ee65a740385d7b3c8c8067067482007",
-          "title": "杰弗里斯分析师因人工智能主导二氧化碳议题而发泄不满",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T10:14:37.898000Z"
+          "id": "4a0f2f06980e2b6f584865c2f269ee5696287b9b",
+          "title": "中美在特朗普与习近平峰会前讨论人工智能安全计划 / US and China discuss AI safety plan ahead of Trump-Xi summit",
+          "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T05:50:56Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5454,
-      "importance": 0.5454,
-      "importance_score": 0.5454,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9975,
+        "recency": 0.9839,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T10:14:37.898000Z",
-      "latest_at": "2026-09-21T06:27:16.053000Z",
+      "earliest_at": "2026-09-21T05:50:56Z",
+      "latest_at": "2026-09-21T07:30:16.035000Z",
       "primary_item": {
-        "id": "0b7123c904475f1aa668c30d71a588ac4b8d18bb",
-        "title": "杰弗里斯分析师发泄不满，因AI“劫持”了二氧化碳谈判",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
-        "source": "www.bloomberg.com",
+        "id": "d637be9d9fa281f4fcba6eb33ee21b3ae00bb699",
+        "title": "中美在特朗普与习近平峰会前讨论人工智能安全计划",
+        "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+        "source": "www.bbc.co.uk",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ef35bc03a618",
-      "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-      "url": "https://www.aibase.com/news/31225",
-      "primary_url": "https://www.aibase.com/news/31225",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "af67cb8bc44d8a6ac398c7d0a3edd776e235e7b3",
-          "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-          "url": "https://www.aibase.com/news/31225",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T03:37:37.032431Z"
-        },
-        {
-          "id": "1a031b74ca658a937127af0e5d88ad60890dd9fc",
-          "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-          "url": "https://www.aibase.com/zh/news/31225",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "af67cb8bc44d8a6ac398c7d0a3edd776e235e7b3",
-          "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-          "url": "https://www.aibase.com/news/31225",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T03:37:37.032431Z"
-        },
-        {
-          "id": "1a031b74ca658a937127af0e5d88ad60890dd9fc",
-          "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-          "url": "https://www.aibase.com/zh/news/31225",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T03:37:37.032431Z",
-      "latest_at": "2026-09-21T03:37:37.032431Z",
-      "primary_item": {
-        "id": "af67cb8bc44d8a6ac398c7d0a3edd776e235e7b3",
-        "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
-        "url": "https://www.aibase.com/news/31225",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
