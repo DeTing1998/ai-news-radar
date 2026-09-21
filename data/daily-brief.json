@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T00:37:33.322904Z",
+  "generated_at": "2026-09-21T03:37:37.032431Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8384,
-      "importance": 0.8384,
-      "importance_score": 0.8384,
+      "score": 0.8315,
+      "importance": 0.8315,
+      "importance_score": 0.8315,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.91,
+        "recency": 0.8714,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -213,15 +213,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8126,
-      "importance": 0.8126,
-      "importance_score": 0.8126,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8333,
+        "recency": 0.798,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -238,6 +238,87 @@
         "url": "https://qwen.ai/blog?id=qwen-image-2.1",
         "source": "Qwen：Blog Retrieval（API）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_db8813acc5dd",
+      "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+      "url": "https://www.aibase.com/news/31211",
+      "primary_url": "https://www.aibase.com/news/31211",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
+          "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+          "url": "https://www.aibase.com/news/31211",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T03:37:37.032431Z"
+        },
+        {
+          "id": "b52bfb0e23c51bd7c9cfc75ea26466c1e4b551e5",
+          "title": "Gemini Notebook 迎返校更新：讲座录音、AI 复习和 60 秒视频一站完成",
+          "url": "https://www.aibase.com/zh/news/31211",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
+          "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+          "url": "https://www.aibase.com/news/31211",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T03:37:37.032431Z"
+        },
+        {
+          "id": "b52bfb0e23c51bd7c9cfc75ea26466c1e4b551e5",
+          "title": "Gemini Notebook 迎返校更新：讲座录音、AI 复习和 60 秒视频一站完成",
+          "url": "https://www.aibase.com/zh/news/31211",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T03:37:37.032431Z",
+      "latest_at": "2026-09-21T03:37:37.032431Z",
+      "primary_item": {
+        "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
+        "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+        "url": "https://www.aibase.com/news/31211",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -275,15 +356,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9401,
+        "recency": 0.9002,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -302,68 +383,68 @@
       }
     },
     {
-      "story_id": "story_b8f596441c84",
-      "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-      "url": "https://www.aibase.com/news/31203",
-      "primary_url": "https://www.aibase.com/news/31203",
+      "story_id": "story_1a380ea379e4",
+      "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+      "url": "https://www.aibase.com/news/31215",
+      "primary_url": "https://www.aibase.com/news/31215",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "url": "https://www.aibase.com/news/31203",
+          "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
+          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+          "url": "https://www.aibase.com/news/31215",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T11:37:32.620394Z"
+          "published_at": "2026-09-21T03:37:37.032431Z"
         },
         {
-          "id": "323c43aa24ca76d1c20009012d1a02f2506f1082",
-          "title": "特朗普要给“人工智能”改名：超 18 万人投票，“卓越智能”票数暂领先",
-          "url": "https://www.ithome.com/1/004/829.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T07:46:36Z"
+          "id": "ee71a056abcbd969cb78ea0a33c660de446b8645",
+          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+          "url": "https://www.aibase.com/zh/news/31215",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
         "AIbase",
-        "IT之家 (ITHome)"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "url": "https://www.aibase.com/news/31203",
+          "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
+          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+          "url": "https://www.aibase.com/news/31215",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T11:37:32.620394Z"
+          "published_at": "2026-09-21T03:37:37.032431Z"
         },
         {
-          "id": "323c43aa24ca76d1c20009012d1a02f2506f1082",
-          "title": "特朗普要给“人工智能”改名：超 18 万人投票，“卓越智能”票数暂领先",
-          "url": "https://www.ithome.com/1/004/829.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T07:46:36Z"
+          "id": "ee71a056abcbd969cb78ea0a33c660de446b8645",
+          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+          "url": "https://www.aibase.com/zh/news/31215",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8288,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -372,12 +453,295 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T07:46:36Z",
-      "latest_at": "2026-09-20T11:37:32.620394Z",
+      "earliest_at": "2026-09-21T03:37:37.032431Z",
+      "latest_at": "2026-09-21T03:37:37.032431Z",
       "primary_item": {
-        "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-        "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-        "url": "https://www.aibase.com/news/31203",
+        "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
+        "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+        "url": "https://www.aibase.com/news/31215",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_bb5dceabc7e5",
+      "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+      "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T02:50:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T02:50:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9888,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T02:50:40Z",
+      "latest_at": "2026-09-21T02:50:40Z",
+      "primary_item": {
+        "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+        "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+        "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T01:52:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T01:52:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9751,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T01:52:57Z",
+      "latest_at": "2026-09-21T01:52:57Z",
+      "primary_item": {
+        "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+        "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4fad2905f6d2",
+      "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
+      "url": "https://www.aibase.com/news/31216",
+      "primary_url": "https://www.aibase.com/news/31216",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
+          "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
+          "url": "https://www.aibase.com/news/31216",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T03:37:37.032431Z"
+        },
+        {
+          "id": "f9cd2029b371f73aa8797d1ac58de514944b803e",
+          "title": "微软 Copilot 桌面版新增内置浏览器，支持多标签与全屏浏览",
+          "url": "https://www.aibase.com/zh/news/31216",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
+          "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
+          "url": "https://www.aibase.com/news/31216",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T03:37:37.032431Z"
+        },
+        {
+          "id": "f9cd2029b371f73aa8797d1ac58de514944b803e",
+          "title": "微软 Copilot 桌面版新增内置浏览器，支持多标签与全屏浏览",
+          "url": "https://www.aibase.com/zh/news/31216",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T03:37:37.032431Z",
+      "latest_at": "2026-09-21T03:37:37.032431Z",
+      "primary_item": {
+        "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
+        "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
+        "url": "https://www.aibase.com/news/31216",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9431f6c40685",
+      "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+      "url": "https://www.aibase.com/news/31224",
+      "primary_url": "https://www.aibase.com/news/31224",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "url": "https://www.aibase.com/news/31224",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T03:37:37.032431Z"
+        },
+        {
+          "id": "8eca55882f34970bd5b3f6d433f5d1c3f08798d5",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成「实时」",
+          "url": "https://www.aibase.com/zh/news/31224",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "url": "https://www.aibase.com/news/31224",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T03:37:37.032431Z"
+        },
+        {
+          "id": "8eca55882f34970bd5b3f6d433f5d1c3f08798d5",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成「实时」",
+          "url": "https://www.aibase.com/zh/news/31224",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T03:37:37.032431Z",
+      "latest_at": "2026-09-21T03:37:37.032431Z",
+      "primary_item": {
+        "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+        "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+        "url": "https://www.aibase.com/news/31224",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -417,15 +781,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7262,
+      "importance": 0.7262,
+      "importance_score": 0.7262,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8562,
+        "recency": 0.8199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -443,26 +807,26 @@
       }
     },
     {
-      "story_id": "story_11175d628d3c",
-      "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-      "url": "https://www.aibase.com/news/31199",
-      "primary_url": "https://www.aibase.com/news/31199",
+      "story_id": "story_d263354c1f0a",
+      "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+      "url": "https://www.aibase.com/news/31213",
+      "primary_url": "https://www.aibase.com/news/31213",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "url": "https://www.aibase.com/news/31199",
+          "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
+          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+          "url": "https://www.aibase.com/news/31213",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T08:38:19.319247Z"
+          "published_at": "2026-09-21T03:37:37.032431Z"
         },
         {
-          "id": "59f955d25c72598c34697ccac8eb16dde164b9d9",
-          "title": "Anthropic 将 IPO 推迟至 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前「护身符」",
-          "url": "https://www.aibase.com/zh/news/31199",
+          "id": "4ed1d31bdb4a306e4ea776b5a1ac80e937f3f841",
+          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+          "url": "https://www.aibase.com/zh/news/31213",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -476,18 +840,18 @@
       ],
       "items": [
         {
-          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "url": "https://www.aibase.com/news/31199",
+          "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
+          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+          "url": "https://www.aibase.com/news/31213",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T08:38:19.319247Z"
+          "published_at": "2026-09-21T03:37:37.032431Z"
         },
         {
-          "id": "59f955d25c72598c34697ccac8eb16dde164b9d9",
-          "title": "Anthropic 将 IPO 推迟至 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前「护身符」",
-          "url": "https://www.aibase.com/zh/news/31199",
+          "id": "4ed1d31bdb4a306e4ea776b5a1ac80e937f3f841",
+          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+          "url": "https://www.aibase.com/zh/news/31213",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -496,15 +860,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7938,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -513,37 +877,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T08:38:19.319247Z",
-      "latest_at": "2026-09-20T08:38:19.319247Z",
+      "earliest_at": "2026-09-21T03:37:37.032431Z",
+      "latest_at": "2026-09-21T03:37:37.032431Z",
       "primary_item": {
-        "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-        "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-        "url": "https://www.aibase.com/news/31199",
+        "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
+        "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+        "url": "https://www.aibase.com/news/31213",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_ef0a886eb4a4",
-      "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-      "url": "https://www.aibase.com/news/31201",
-      "primary_url": "https://www.aibase.com/news/31201",
+      "story_id": "story_ef35bc03a618",
+      "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
+      "url": "https://www.aibase.com/news/31225",
+      "primary_url": "https://www.aibase.com/news/31225",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
-          "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-          "url": "https://www.aibase.com/news/31201",
+          "id": "af67cb8bc44d8a6ac398c7d0a3edd776e235e7b3",
+          "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
+          "url": "https://www.aibase.com/news/31225",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T08:38:19.319247Z"
+          "published_at": "2026-09-21T03:37:37.032431Z"
         },
         {
-          "id": "fd0fd51afc417873c5f26bff2c788d99f2ea7220",
-          "title": "微信 AI 团队开源 WeKnora：知识库不再只「动嘴」，还能在沙箱里「动手」",
-          "url": "https://www.aibase.com/zh/news/31201",
+          "id": "1a031b74ca658a937127af0e5d88ad60890dd9fc",
+          "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
+          "url": "https://www.aibase.com/zh/news/31225",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -557,18 +921,18 @@
       ],
       "items": [
         {
-          "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
-          "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-          "url": "https://www.aibase.com/news/31201",
+          "id": "af67cb8bc44d8a6ac398c7d0a3edd776e235e7b3",
+          "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
+          "url": "https://www.aibase.com/news/31225",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T08:38:19.319247Z"
+          "published_at": "2026-09-21T03:37:37.032431Z"
         },
         {
-          "id": "fd0fd51afc417873c5f26bff2c788d99f2ea7220",
-          "title": "微信 AI 团队开源 WeKnora：知识库不再只「动嘴」，还能在沙箱里「动手」",
-          "url": "https://www.aibase.com/zh/news/31201",
+          "id": "1a031b74ca658a937127af0e5d88ad60890dd9fc",
+          "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
+          "url": "https://www.aibase.com/zh/news/31225",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -577,15 +941,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7938,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -594,93 +958,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T08:38:19.319247Z",
-      "latest_at": "2026-09-20T11:37:32.620394Z",
+      "earliest_at": "2026-09-21T03:37:37.032431Z",
+      "latest_at": "2026-09-21T03:37:37.032431Z",
       "primary_item": {
-        "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
-        "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-        "url": "https://www.aibase.com/news/31201",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_06067dc9dffc",
-      "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-      "url": "https://www.aibase.com/news/31195",
-      "primary_url": "https://www.aibase.com/news/31195",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
-          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-          "url": "https://www.aibase.com/news/31195",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:37:39.723855Z"
-        },
-        {
-          "id": "535656a3ef2580fd2b00a3404a7757bed209b22e",
-          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-          "url": "https://www.aibase.com/zh/news/31195",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
-          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-          "url": "https://www.aibase.com/news/31195",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:37:39.723855Z"
-        },
-        {
-          "id": "535656a3ef2580fd2b00a3404a7757bed209b22e",
-          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-          "url": "https://www.aibase.com/zh/news/31195",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7823,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T07:37:39.723855Z",
-      "latest_at": "2026-09-20T07:37:39.723855Z",
-      "primary_item": {
-        "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
-        "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-        "url": "https://www.aibase.com/news/31195",
+        "id": "af67cb8bc44d8a6ac398c7d0a3edd776e235e7b3",
+        "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
+        "url": "https://www.aibase.com/news/31225",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -738,15 +1021,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6413,
-      "importance": 0.6413,
-      "importance_score": 0.6413,
+      "score": 0.634,
+      "importance": 0.634,
+      "importance_score": 0.634,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9584,
+        "recency": 0.9178,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -761,87 +1044,6 @@
         "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_f484ce02acfc",
-      "title": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
-      "url": "https://www.aibase.com/news/31197",
-      "primary_url": "https://www.aibase.com/news/31197",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e911ec89ea4fbded8d128d97c960893fbf1e1fc0",
-          "title": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
-          "url": "https://www.aibase.com/news/31197",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:37:39.723855Z"
-        },
-        {
-          "id": "2cee712c04f8419b692994cac945141efcbda4cf",
-          "title": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
-          "url": "https://www.aibase.com/zh/news/31197",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e911ec89ea4fbded8d128d97c960893fbf1e1fc0",
-          "title": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
-          "url": "https://www.aibase.com/news/31197",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:37:39.723855Z"
-        },
-        {
-          "id": "2cee712c04f8419b692994cac945141efcbda4cf",
-          "title": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
-          "url": "https://www.aibase.com/zh/news/31197",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7823,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T07:37:39.723855Z",
-      "latest_at": "2026-09-20T08:38:19.319247Z",
-      "primary_item": {
-        "id": "e911ec89ea4fbded8d128d97c960893fbf1e1fc0",
-        "title": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
-        "url": "https://www.aibase.com/news/31197",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -933,15 +1135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6317,
-      "importance": 0.6317,
-      "importance_score": 0.6317,
+      "score": 0.6246,
+      "importance": 0.6246,
+      "importance_score": 0.6246,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9304,
+        "recency": 0.8909,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -956,6 +1158,87 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-09-20",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_b82ab3accd97",
+      "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+      "url": "https://www.aibase.com/news/31219",
+      "primary_url": "https://www.aibase.com/news/31219",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c14fc668a3c930153a9b31b69b580ff0383e6587",
+          "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+          "url": "https://www.aibase.com/news/31219",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T03:37:37.032431Z"
+        },
+        {
+          "id": "bdacb6fe5f5c6304ed825d4c46bdb97fafeb747f",
+          "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入「种土豆」循环",
+          "url": "https://www.aibase.com/zh/news/31219",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c14fc668a3c930153a9b31b69b580ff0383e6587",
+          "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+          "url": "https://www.aibase.com/news/31219",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T03:37:37.032431Z"
+        },
+        {
+          "id": "bdacb6fe5f5c6304ed825d4c46bdb97fafeb747f",
+          "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入「种土豆」循环",
+          "url": "https://www.aibase.com/zh/news/31219",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T03:37:37.032431Z",
+      "latest_at": "2026-09-21T03:37:37.032431Z",
+      "primary_item": {
+        "id": "c14fc668a3c930153a9b31b69b580ff0383e6587",
+        "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+        "url": "https://www.aibase.com/news/31219",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1011,15 +1294,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.601,
-      "importance": 0.601,
-      "importance_score": 0.601,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9198,
+        "recency": 0.8808,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1037,26 +1320,26 @@
       }
     },
     {
-      "story_id": "story_8905851ba602",
-      "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-      "url": "https://www.aibase.com/news/31189",
-      "primary_url": "https://www.aibase.com/news/31189",
+      "story_id": "story_f2553f493237",
+      "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+      "url": "https://www.aibase.com/news/31212",
+      "primary_url": "https://www.aibase.com/news/31212",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
-          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "url": "https://www.aibase.com/news/31189",
+          "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
+          "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+          "url": "https://www.aibase.com/news/31212",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T03:37:39.734611Z"
+          "published_at": "2026-09-21T03:37:37.032431Z"
         },
         {
-          "id": "c2f016ed45cebd8c13aacc4dc3a10d8e051b000e",
-          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "url": "https://www.aibase.com/zh/news/31189",
+          "id": "037ee18eecf1b569fbea96fb0b3d2d3bb804e865",
+          "title": "通义千问开源 Qwen-Image-2.1：7B 参数实现文生图与图像编辑一体化",
+          "url": "https://www.aibase.com/zh/news/31212",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1070,18 +1353,18 @@
       ],
       "items": [
         {
-          "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
-          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "url": "https://www.aibase.com/news/31189",
+          "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
+          "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+          "url": "https://www.aibase.com/news/31212",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T03:37:39.734611Z"
+          "published_at": "2026-09-21T03:37:37.032431Z"
         },
         {
-          "id": "c2f016ed45cebd8c13aacc4dc3a10d8e051b000e",
-          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "url": "https://www.aibase.com/zh/news/31189",
+          "id": "037ee18eecf1b569fbea96fb0b3d2d3bb804e865",
+          "title": "通义千问开源 Qwen-Image-2.1：7B 参数实现文生图与图像编辑一体化",
+          "url": "https://www.aibase.com/zh/news/31212",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1090,53 +1373,54 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7384,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-20T03:37:39.734611Z",
-      "latest_at": "2026-09-20T04:37:33.820908Z",
+      "earliest_at": "2026-09-21T03:37:37.032431Z",
+      "latest_at": "2026-09-21T03:37:37.032431Z",
       "primary_item": {
-        "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
-        "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-        "url": "https://www.aibase.com/news/31189",
+        "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
+        "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+        "url": "https://www.aibase.com/news/31212",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_f3bebdd05345",
-      "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-      "url": "https://www.aibase.com/news/31188",
-      "primary_url": "https://www.aibase.com/news/31188",
+      "story_id": "story_ae830d6d086c",
+      "title": "黄仁勋驳斥 AI 末日叙事：吓唬人不负责任，2030 年是世界末日概率为 0%",
+      "url": "https://www.aibase.com/news/31214",
+      "primary_url": "https://www.aibase.com/news/31214",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e183d27ed4cc78b69a3f36ac35f6a633adb28374",
-          "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-          "url": "https://www.aibase.com/news/31188",
+          "id": "63fe6753b1b4138ad1b37e6c2cc682470eed819b",
+          "title": "黄仁勋驳斥 AI 末日叙事：吓唬人不负责任，2030 年是世界末日概率为 0%",
+          "url": "https://www.aibase.com/news/31214",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T03:37:39.734611Z"
+          "published_at": "2026-09-21T03:37:37.032431Z"
         },
         {
-          "id": "5b790cf3dd9d5fe741e591319b2571ff31eae233",
-          "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-          "url": "https://www.aibase.com/zh/news/31188",
+          "id": "09abff05c8b61fd7c61eb4f88fb4edcde90e86e5",
+          "title": "黄仁勋驳斥 AI 末日叙事：2030 年世界末日概率为 0%",
+          "url": "https://www.aibase.com/zh/news/31214",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1150,18 +1434,18 @@
       ],
       "items": [
         {
-          "id": "e183d27ed4cc78b69a3f36ac35f6a633adb28374",
-          "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-          "url": "https://www.aibase.com/news/31188",
+          "id": "63fe6753b1b4138ad1b37e6c2cc682470eed819b",
+          "title": "黄仁勋驳斥 AI 末日叙事：吓唬人不负责任，2030 年是世界末日概率为 0%",
+          "url": "https://www.aibase.com/news/31214",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T03:37:39.734611Z"
+          "published_at": "2026-09-21T03:37:37.032431Z"
         },
         {
-          "id": "5b790cf3dd9d5fe741e591319b2571ff31eae233",
-          "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-          "url": "https://www.aibase.com/zh/news/31188",
+          "id": "09abff05c8b61fd7c61eb4f88fb4edcde90e86e5",
+          "title": "黄仁勋驳斥 AI 末日叙事：2030 年世界末日概率为 0%",
+          "url": "https://www.aibase.com/zh/news/31214",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1170,30 +1454,129 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7384,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-20T03:37:39.734611Z",
-      "latest_at": "2026-09-20T03:37:39.734611Z",
+      "earliest_at": "2026-09-21T03:37:37.032431Z",
+      "latest_at": "2026-09-21T03:37:37.032431Z",
       "primary_item": {
-        "id": "e183d27ed4cc78b69a3f36ac35f6a633adb28374",
-        "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-        "url": "https://www.aibase.com/news/31188",
+        "id": "63fe6753b1b4138ad1b37e6c2cc682470eed819b",
+        "title": "黄仁勋驳斥 AI 末日叙事：吓唬人不负责任，2030 年是世界末日概率为 0%",
+        "url": "https://www.aibase.com/news/31214",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ef6362531a2e",
+      "title": "Why MCP Was Always a Bad Idea",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+          "title": "Why MCP Was Always a Bad Idea",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "2149610d8f15e4ea172f60188b1af67746f92c92",
+          "title": "Why MCP Was Always a Bad Idea",
+          "url": "https://news.ycombinator.com/item?id=49779329",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
+          "title": "Why MCP Was Always a Bad Idea?",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T19:44:40Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+          "title": "Why MCP Was Always a Bad Idea",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "2149610d8f15e4ea172f60188b1af67746f92c92",
+          "title": "Why MCP Was Always a Bad Idea",
+          "url": "https://news.ycombinator.com/item?id=49779329",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
+          "title": "Why MCP Was Always a Bad Idea?",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T19:44:40Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5514,
+      "importance": 0.5514,
+      "importance_score": 0.5514,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8924,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T19:44:40Z",
+      "latest_at": "2026-09-20T19:44:40Z",
+      "primary_item": {
+        "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+        "title": "Why MCP Was Always a Bad Idea",
+        "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
       }
     },
     {
@@ -1269,15 +1652,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5522,
-      "importance": 0.5522,
-      "importance_score": 0.5522,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8964,
+        "recency": 0.8584,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1291,421 +1674,6 @@
         "title": "“海盗脸”拯救了大语言模型免遭删除",
         "url": "https://pirateface.co",
         "source": "pirateface.co",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_af1376b878c4",
-      "title": "Vals AI 用《我的世界》评测 OpenAI GPT‑6 Astra：AI 遇重大变故可能陷入行为僵局",
-      "url": "https://www.ithome.com/1/005/026.htm",
-      "primary_url": "https://www.ithome.com/1/005/026.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "96b165c81d9323bbb575647ba1c0526819ba1bcb",
-          "title": "Vals AI 用《我的世界》评测 OpenAI GPT‑6 Astra：AI 遇重大变故可能陷入行为僵局",
-          "url": "https://www.ithome.com/1/005/026.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "64d73c6407bbde68dadc6fe9d868bc37153d8e00",
-          "title": "Vals AI 使用《我的世界》评测 Open GPT‑6 Astra 模型：显示 AI 遇重大变故可能陷入行为僵局",
-          "url": "https://www.ithome.com/1/005/026.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T23:45:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "96b165c81d9323bbb575647ba1c0526819ba1bcb",
-          "title": "Vals AI 用《我的世界》评测 OpenAI GPT‑6 Astra：AI 遇重大变故可能陷入行为僵局",
-          "url": "https://www.ithome.com/1/005/026.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "64d73c6407bbde68dadc6fe9d868bc37153d8e00",
-          "title": "Vals AI 使用《我的世界》评测 Open GPT‑6 Astra 模型：显示 AI 遇重大变故可能陷入行为僵局",
-          "url": "https://www.ithome.com/1/005/026.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T23:45:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T23:45:34Z",
-      "latest_at": "2026-09-21T00:37:33.322904Z",
-      "primary_item": {
-        "id": "96b165c81d9323bbb575647ba1c0526819ba1bcb",
-        "title": "Vals AI 用《我的世界》评测 OpenAI GPT‑6 Astra：AI 遇重大变故可能陷入行为僵局",
-        "url": "https://www.ithome.com/1/005/026.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_5d316fdb66cf",
-      "title": "人工智能与“知识共享”的瓦解",
-      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-      "primary_url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-      "source": "www.chesterwisniewski.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
-          "title": "人工智能与“知识共享”的瓦解",
-          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "www.chesterwisniewski.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T12:50:12.972000Z"
-        },
-        {
-          "id": "c3d6b1a7c9be9799bda91fd866e9e2214ea3f055",
-          "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
-          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T10:07:51Z"
-        },
-        {
-          "id": "2f14c09bbcc2c0bbbcc43982591753c4c9f214b9",
-          "title": "人工智能与知识共享的破坏 / AI and the Destruction of the Creative Commons",
-          "url": "https://news.ycombinator.com/item?id=49774329",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T10:07:51Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.chesterwisniewski.com"
-      ],
-      "items": [
-        {
-          "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
-          "title": "人工智能与“知识共享”的瓦解",
-          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "www.chesterwisniewski.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T12:50:12.972000Z"
-        },
-        {
-          "id": "c3d6b1a7c9be9799bda91fd866e9e2214ea3f055",
-          "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
-          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T10:07:51Z"
-        },
-        {
-          "id": "2f14c09bbcc2c0bbbcc43982591753c4c9f214b9",
-          "title": "人工智能与知识共享的破坏 / AI and the Destruction of the Creative Commons",
-          "url": "https://news.ycombinator.com/item?id=49774329",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T10:07:51Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8435,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T10:07:51Z",
-      "latest_at": "2026-09-20T12:50:12.972000Z",
-      "primary_item": {
-        "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
-        "title": "人工智能与“知识共享”的瓦解",
-        "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-        "source": "www.chesterwisniewski.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1f424ad01265",
-      "title": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
-      "url": "https://www.aibase.com/news/31187",
-      "primary_url": "https://www.aibase.com/news/31187",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e622a50e2161652dc095545f41ed25067f8ab0a6",
-          "title": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
-          "url": "https://www.aibase.com/news/31187",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T03:37:39.734611Z"
-        },
-        {
-          "id": "121f6524b5296b162e904ab6cf1df60c89b51784",
-          "title": "阶跃星辰发布 Step5Preview，单任务成本仅为 Claude Opus5 的 1/8",
-          "url": "https://www.aibase.com/zh/news/31187",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e622a50e2161652dc095545f41ed25067f8ab0a6",
-          "title": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
-          "url": "https://www.aibase.com/news/31187",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T03:37:39.734611Z"
-        },
-        {
-          "id": "121f6524b5296b162e904ab6cf1df60c89b51784",
-          "title": "阶跃星辰发布 Step5Preview，单任务成本仅为 Claude Opus5 的 1/8",
-          "url": "https://www.aibase.com/zh/news/31187",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7384,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T03:37:39.734611Z",
-      "latest_at": "2026-09-20T03:37:39.734611Z",
-      "primary_item": {
-        "id": "e622a50e2161652dc095545f41ed25067f8ab0a6",
-        "title": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
-        "url": "https://www.aibase.com/news/31187",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2da09961cf12",
-      "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
-      "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
-      "primary_url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
-          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
-          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T20:32:43Z"
-        },
-        {
-          "id": "c558f647f87148c7e2c88675443ab7db36998518",
-          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报",
-          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T16:00:21.385000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
-          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
-          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T20:32:43Z"
-        },
-        {
-          "id": "c558f647f87148c7e2c88675443ab7db36998518",
-          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报",
-          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T16:00:21.385000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9428,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T16:00:21.385000Z",
-      "latest_at": "2026-09-20T20:32:43Z",
-      "primary_item": {
-        "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
-        "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
-        "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_df407510d6b3",
-      "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-      "url": "https://github.com/marciob/openmsg",
-      "primary_url": "https://github.com/marciob/openmsg",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d0cc68106b560836c0498079914fb9e186255f6a",
-          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-          "url": "https://github.com/marciob/openmsg",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T20:25:27.018000Z"
-        },
-        {
-          "id": "a4c32f8fc2ab4ffd6259d09474f59c31b8f2ae7d",
-          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode / Show HN: Openmsg, agent-to-agent talk while they run, Claude<>Codex<>OpenCode",
-          "url": "https://github.com/marciob/openmsg",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-20T20:10:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "d0cc68106b560836c0498079914fb9e186255f6a",
-          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-          "url": "https://github.com/marciob/openmsg",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T20:25:27.018000Z"
-        },
-        {
-          "id": "a4c32f8fc2ab4ffd6259d09474f59c31b8f2ae7d",
-          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode / Show HN: Openmsg, agent-to-agent talk while they run, Claude<>Codex<>OpenCode",
-          "url": "https://github.com/marciob/openmsg",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-20T20:10:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9411,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T20:10:39Z",
-      "latest_at": "2026-09-20T20:25:27.018000Z",
-      "primary_item": {
-        "id": "d0cc68106b560836c0498079914fb9e186255f6a",
-        "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
-        "url": "https://github.com/marciob/openmsg",
-        "source": "github.com",
         "source_name": "Buzzing"
       }
     }
