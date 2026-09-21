@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:37:36.085321Z",
+  "generated_at": "2026-09-21T15:37:35.768135Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8657,
-      "importance": 0.8657,
-      "importance_score": 0.8657,
+      "score": 0.8632,
+      "importance": 0.8632,
+      "importance_score": 0.8632,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9873,
+        "recency": 0.9732,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8096,
+        "recency": 0.798,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,125 +125,6 @@
         "url": "https://openai.com/index/v7",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c14c68917721",
-      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "4b57c8fb05258bd4822a5db427680cde377eb344",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T17:43:10Z"
-        },
-        {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "url": "https://news.ycombinator.com/item?id=49776729",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Lobsters (技术社区)",
-        "hackernews",
-        "www.buchodi.com"
-      ],
-      "items": [
-        {
-          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "4b57c8fb05258bd4822a5db427680cde377eb344",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T17:43:10Z"
-        },
-        {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "url": "https://news.ycombinator.com/item?id=49776729",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7434,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T15:18:44Z",
-      "latest_at": "2026-09-20T18:05:38.317000Z",
-      "primary_item": {
-        "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-        "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -300,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8036,
-      "importance": 0.8036,
-      "importance_score": 0.8036,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9611,
+        "recency": 0.9473,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -362,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8096,
+        "recency": 0.798,
         "story_heat": 0.0
       },
       "category": "official",
@@ -387,6 +268,106 @@
         "url": "https://huggingface.co/blog/tokenizers-v1",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_81b3da03dd64",
+      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "www.buchodi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "4b57c8fb05258bd4822a5db427680cde377eb344",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T17:43:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Lobsters (技术社区)",
+        "www.buchodi.com"
+      ],
+      "items": [
+        {
+          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "www.buchodi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "4b57c8fb05258bd4822a5db427680cde377eb344",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T17:43:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7815,
+      "importance": 0.7815,
+      "importance_score": 0.7815,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7328,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T17:43:10Z",
+      "latest_at": "2026-09-20T18:05:38.317000Z",
+      "primary_item": {
+        "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+        "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -443,15 +424,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -524,15 +505,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9075,
+        "recency": 0.8945,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -605,15 +586,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -667,15 +648,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.768,
+        "recency": 0.757,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -727,15 +708,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8435,
+        "recency": 0.8315,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -806,15 +787,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -887,15 +868,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -968,15 +949,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1049,15 +1030,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1129,15 +1110,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6258,
-      "importance": 0.6258,
-      "importance_score": 0.6258,
+      "score": 0.6233,
+      "importance": 0.6233,
+      "importance_score": 0.6233,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.9935,
+        "recency": 0.9793,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1207,15 +1188,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6129,
-      "importance": 0.6129,
-      "importance_score": 0.6129,
+      "score": 0.6103,
+      "importance": 0.6103,
+      "importance_score": 0.6103,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9855,
+        "recency": 0.9714,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1321,15 +1302,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.601,
-      "importance": 0.601,
-      "importance_score": 0.601,
+      "score": 0.599,
+      "importance": 0.599,
+      "importance_score": 0.599,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7601,
+        "recency": 0.7492,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1400,15 +1381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1519,15 +1500,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5758,
-      "importance": 0.5758,
-      "importance_score": 0.5758,
+      "score": 0.5735,
+      "importance": 0.5735,
+      "importance_score": 0.5735,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8887,
+        "recency": 0.8759,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1598,15 +1579,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "industry",
