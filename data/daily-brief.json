@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T05:38:10.780469Z",
+  "generated_at": "2026-09-21T06:37:35.494678Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8248,
+      "importance": 0.8248,
+      "importance_score": 0.8248,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8465,
+        "recency": 0.8345,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -213,15 +213,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7752,
+        "recency": 0.7642,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -237,6 +237,148 @@
         "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
         "url": "https://qwen.ai/blog?id=qwen-image-2.1",
         "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e205f1c31513",
+      "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+      "url": "https://www.aibase.com/news/31228",
+      "primary_url": "https://www.aibase.com/news/31228",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "url": "https://www.aibase.com/news/31228",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T06:37:35.494678Z"
+        },
+        {
+          "id": "cbf7c299e9416e4fc0ef854ba50c8d8d22f56874",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "url": "https://www.aibase.com/zh/news/31228",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "url": "https://www.aibase.com/news/31228",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T06:37:35.494678Z"
+        },
+        {
+          "id": "cbf7c299e9416e4fc0ef854ba50c8d8d22f56874",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "url": "https://www.aibase.com/zh/news/31228",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T06:37:35.494678Z",
+      "latest_at": "2026-09-21T06:37:35.494678Z",
+      "primary_item": {
+        "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+        "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+        "url": "https://www.aibase.com/news/31228",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fcca394b788e",
+      "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+      "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "primary_url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T20:20:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T20:20:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8621,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T20:20:56Z",
+      "latest_at": "2026-09-20T20:20:56Z",
+      "primary_item": {
+        "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+        "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+        "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -294,15 +436,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9855,
+        "recency": 0.9715,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -322,63 +464,122 @@
       }
     },
     {
-      "story_id": "story_fcca394b788e",
-      "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-      "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-      "primary_url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-      "source": "MarkTechPost（RSS）",
+      "story_id": "story_bb5dceabc7e5",
+      "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+      "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
-          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-          "source": "MarkTechPost（RSS）",
+          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-20T20:20:56Z"
+          "published_at": "2026-09-21T02:50:40Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "MarkTechPost（RSS）"
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
       ],
       "items": [
         {
-          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
-          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-          "source": "MarkTechPost（RSS）",
+          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-20T20:20:56Z"
+          "published_at": "2026-09-21T02:50:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8745,
+        "recency": 0.9468,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-20T20:20:56Z",
-      "latest_at": "2026-09-20T20:20:56Z",
+      "earliest_at": "2026-09-21T02:50:40Z",
+      "latest_at": "2026-09-21T02:50:40Z",
       "primary_item": {
-        "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
-        "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-        "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-        "source": "MarkTechPost（RSS）",
+        "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+        "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+        "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T01:52:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T01:52:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9338,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T01:52:57Z",
+      "latest_at": "2026-09-21T01:52:57Z",
+      "primary_item": {
+        "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+        "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -436,15 +637,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9714,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -461,127 +662,6 @@
         "url": "https://www.aibase.com/news/31211",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bb5dceabc7e5",
-      "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-      "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
-          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T02:50:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
-          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T02:50:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9605,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T02:50:40Z",
-      "latest_at": "2026-09-21T02:50:40Z",
-      "primary_item": {
-        "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
-        "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-        "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
-          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T01:52:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
-          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T01:52:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9472,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T01:52:57Z",
-      "latest_at": "2026-09-21T01:52:57Z",
-      "primary_item": {
-        "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
-        "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -638,15 +718,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9714,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -719,15 +799,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9714,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -744,66 +824,6 @@
         "url": "https://www.aibase.com/news/31226",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7652446ef5af",
-      "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-      "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T13:52:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T13:52:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.722,
-      "importance": 0.722,
-      "importance_score": 0.722,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7964,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T13:52:24Z",
-      "latest_at": "2026-09-20T13:52:24Z",
-      "primary_item": {
-        "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-        "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-        "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -860,15 +880,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9714,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -883,87 +903,6 @@
         "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
         "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
         "url": "https://www.aibase.com/news/31216",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9431f6c40685",
-      "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-      "url": "https://www.aibase.com/news/31224",
-      "primary_url": "https://www.aibase.com/news/31224",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
-          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-          "url": "https://www.aibase.com/news/31224",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T03:37:37.032431Z"
-        },
-        {
-          "id": "8eca55882f34970bd5b3f6d433f5d1c3f08798d5",
-          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成「实时」",
-          "url": "https://www.aibase.com/zh/news/31224",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
-          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-          "url": "https://www.aibase.com/news/31224",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T03:37:37.032431Z"
-        },
-        {
-          "id": "8eca55882f34970bd5b3f6d433f5d1c3f08798d5",
-          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成「实时」",
-          "url": "https://www.aibase.com/zh/news/31224",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9714,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T03:37:37.032431Z",
-      "latest_at": "2026-09-21T03:37:37.032431Z",
-      "primary_item": {
-        "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
-        "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-        "url": "https://www.aibase.com/news/31224",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1021,15 +960,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6292,
-      "importance": 0.6292,
-      "importance_score": 0.6292,
+      "score": 0.627,
+      "importance": 0.627,
+      "importance_score": 0.627,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8915,
+        "recency": 0.8789,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1135,15 +1074,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.62,
-      "importance": 0.62,
-      "importance_score": 0.62,
+      "score": 0.6178,
+      "importance": 0.6178,
+      "importance_score": 0.6178,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8654,
+        "recency": 0.8531,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1158,6 +1097,282 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-09-20",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_9431f6c40685",
+      "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+      "url": "https://www.aibase.com/news/31224",
+      "primary_url": "https://www.aibase.com/news/31224",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "url": "https://www.aibase.com/news/31224",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T03:37:37.032431Z"
+        },
+        {
+          "id": "8eca55882f34970bd5b3f6d433f5d1c3f08798d5",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成「实时」",
+          "url": "https://www.aibase.com/zh/news/31224",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "url": "https://www.aibase.com/news/31224",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T03:37:37.032431Z"
+        },
+        {
+          "id": "8eca55882f34970bd5b3f6d433f5d1c3f08798d5",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成「实时」",
+          "url": "https://www.aibase.com/zh/news/31224",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9576,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T03:37:37.032431Z",
+      "latest_at": "2026-09-21T03:37:37.032431Z",
+      "primary_item": {
+        "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+        "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+        "url": "https://www.aibase.com/news/31224",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ef6362531a2e",
+      "title": "为什么MCP一直都是个糟糕的主意？",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "source": "maharship.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9b227d0da245bf83211ed24f258db8b09df3d4a6",
+          "title": "为什么MCP一直都是个糟糕的主意？",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "maharship.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T06:27:15.988000Z"
+        },
+        {
+          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "2149610d8f15e4ea172f60188b1af67746f92c92",
+          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
+          "url": "https://news.ycombinator.com/item?id=49779329",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
+          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea?",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T19:44:40Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "maharship.com"
+      ],
+      "items": [
+        {
+          "id": "9b227d0da245bf83211ed24f258db8b09df3d4a6",
+          "title": "为什么MCP一直都是个糟糕的主意？",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "maharship.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T06:27:15.988000Z"
+        },
+        {
+          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "2149610d8f15e4ea172f60188b1af67746f92c92",
+          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
+          "url": "https://news.ycombinator.com/item?id=49779329",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
+          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea?",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T19:44:40Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5954,
+      "importance": 0.5954,
+      "importance_score": 0.5954,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9975,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T19:44:40Z",
+      "latest_at": "2026-09-21T06:27:15.988000Z",
+      "primary_item": {
+        "id": "9b227d0da245bf83211ed24f258db8b09df3d4a6",
+        "title": "为什么MCP一直都是个糟糕的主意？",
+        "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+        "source": "maharship.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cb03d7f13be9",
+      "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T18:50:18Z"
+        },
+        {
+          "id": "4c2db2373e60e802256489099a61485b7afa431a",
+          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T18:50:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T18:50:18Z"
+        },
+        {
+          "id": "4c2db2373e60e802256489099a61485b7afa431a",
+          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T18:50:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5873,
+      "importance": 0.5873,
+      "importance_score": 0.5873,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.8435,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T18:50:18Z",
+      "latest_at": "2026-09-20T18:50:18Z",
+      "primary_item": {
+        "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+        "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -1214,15 +1429,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9714,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1242,81 +1457,159 @@
       }
     },
     {
-      "story_id": "story_cb03d7f13be9",
-      "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_9df129320ed5",
+      "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
+      "url": "https://www.qbitai.com/2026/09/493109.html",
+      "primary_url": "https://www.qbitai.com/2026/09/493109.html",
+      "source": "量子位 · 每日最新",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T18:50:18Z"
+          "id": "54c5e1bd8540fe47501210d0c82766d97ab40c9e",
+          "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
+          "url": "https://www.qbitai.com/2026/09/493109.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "4c2db2373e60e802256489099a61485b7afa431a",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T18:50:18Z"
+          "id": "e557af618cd1fedea5042f2852c5be897dc66d5f",
+          "title": "IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分",
+          "url": "https://www.qbitai.com/2026/09/493109.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Verge"
+        "量子位 · 每日最新"
       ],
       "items": [
         {
-          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-20T18:50:18Z"
+          "id": "54c5e1bd8540fe47501210d0c82766d97ab40c9e",
+          "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
+          "url": "https://www.qbitai.com/2026/09/493109.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "4c2db2373e60e802256489099a61485b7afa431a",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T18:50:18Z"
+          "id": "e557af618cd1fedea5042f2852c5be897dc66d5f",
+          "title": "IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分",
+          "url": "https://www.qbitai.com/2026/09/493109.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5895,
-      "importance": 0.5895,
-      "importance_score": 0.5895,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.8556,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T18:50:18Z",
-      "latest_at": "2026-09-20T18:50:18Z",
+      "earliest_at": "2026-09-21T04:37:31.557903Z",
+      "latest_at": "2026-09-21T06:37:35.494678Z",
       "primary_item": {
-        "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-        "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "id": "54c5e1bd8540fe47501210d0c82766d97ab40c9e",
+        "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
+        "url": "https://www.qbitai.com/2026/09/493109.html",
+        "source": "量子位 · 每日最新",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_bca151d4e3ae",
+      "title": "杰弗里斯分析师发泄不满，因AI“劫持”了二氧化碳谈判",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0b7123c904475f1aa668c30d71a588ac4b8d18bb",
+          "title": "杰弗里斯分析师发泄不满，因AI“劫持”了二氧化碳谈判",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T06:27:16.053000Z"
+        },
+        {
+          "id": "872c9ebd4ee65a740385d7b3c8c8067067482007",
+          "title": "杰弗里斯分析师因人工智能主导二氧化碳议题而发泄不满",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T10:14:37.898000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "0b7123c904475f1aa668c30d71a588ac4b8d18bb",
+          "title": "杰弗里斯分析师发泄不满，因AI“劫持”了二氧化碳谈判",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T06:27:16.053000Z"
+        },
+        {
+          "id": "872c9ebd4ee65a740385d7b3c8c8067067482007",
+          "title": "杰弗里斯分析师因人工智能主导二氧化碳议题而发泄不满",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T10:14:37.898000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9975,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T10:14:37.898000Z",
+      "latest_at": "2026-09-21T06:27:16.053000Z",
+      "primary_item": {
+        "id": "0b7123c904475f1aa668c30d71a588ac4b8d18bb",
+        "title": "杰弗里斯分析师发泄不满，因AI“劫持”了二氧化碳谈判",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1373,15 +1666,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9714,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1398,283 +1691,6 @@
         "url": "https://www.aibase.com/news/31225",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b82ab3accd97",
-      "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
-      "url": "https://www.aibase.com/news/31219",
-      "primary_url": "https://www.aibase.com/news/31219",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c14fc668a3c930153a9b31b69b580ff0383e6587",
-          "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
-          "url": "https://www.aibase.com/news/31219",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T03:37:37.032431Z"
-        },
-        {
-          "id": "bdacb6fe5f5c6304ed825d4c46bdb97fafeb747f",
-          "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入「种土豆」循环",
-          "url": "https://www.aibase.com/zh/news/31219",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c14fc668a3c930153a9b31b69b580ff0383e6587",
-          "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
-          "url": "https://www.aibase.com/news/31219",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T03:37:37.032431Z"
-        },
-        {
-          "id": "bdacb6fe5f5c6304ed825d4c46bdb97fafeb747f",
-          "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入「种土豆」循环",
-          "url": "https://www.aibase.com/zh/news/31219",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9714,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T03:37:37.032431Z",
-      "latest_at": "2026-09-21T03:37:37.032431Z",
-      "primary_item": {
-        "id": "c14fc668a3c930153a9b31b69b580ff0383e6587",
-        "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
-        "url": "https://www.aibase.com/news/31219",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ef6362531a2e",
-      "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-      "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "2149610d8f15e4ea172f60188b1af67746f92c92",
-          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-          "url": "https://news.ycombinator.com/item?id=49779329",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
-          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T19:44:40Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "2149610d8f15e4ea172f60188b1af67746f92c92",
-          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-          "url": "https://news.ycombinator.com/item?id=49779329",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
-          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T19:44:40Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5468,
-      "importance": 0.5468,
-      "importance_score": 0.5468,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8669,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T19:44:40Z",
-      "latest_at": "2026-09-20T19:44:40Z",
-      "primary_item": {
-        "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-        "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-        "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_8bfe2a2350a2",
-      "title": "“海盗脸”拯救了大语言模型免遭删除",
-      "url": "https://pirateface.co",
-      "primary_url": "https://pirateface.co",
-      "source": "pirateface.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "33be31ed44086715beae3f63dc914c2171dba0be",
-          "title": "“海盗脸”拯救了大语言模型免遭删除",
-          "url": "https://pirateface.co",
-          "source": "pirateface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T17:03:10.347000Z"
-        },
-        {
-          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
-          "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
-          "url": "https://pirateface.co",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T15:16:07Z"
-        },
-        {
-          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
-          "title": "海盗脸拯救了法学硕士模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
-          "url": "https://news.ycombinator.com/item?id=49776699",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:16:07Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "pirateface.co"
-      ],
-      "items": [
-        {
-          "id": "33be31ed44086715beae3f63dc914c2171dba0be",
-          "title": "“海盗脸”拯救了大语言模型免遭删除",
-          "url": "https://pirateface.co",
-          "source": "pirateface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T17:03:10.347000Z"
-        },
-        {
-          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
-          "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
-          "url": "https://pirateface.co",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T15:16:07Z"
-        },
-        {
-          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
-          "title": "海盗脸拯救了法学硕士模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
-          "url": "https://news.ycombinator.com/item?id=49776699",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:16:07Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8338,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T15:16:07Z",
-      "latest_at": "2026-09-20T17:03:10.347000Z",
-      "primary_item": {
-        "id": "33be31ed44086715beae3f63dc914c2171dba0be",
-        "title": "“海盗脸”拯救了大语言模型免遭删除",
-        "url": "https://pirateface.co",
-        "source": "pirateface.co",
-        "source_name": "Buzzing"
       }
     }
   ]
