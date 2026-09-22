@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T22:37:33.782482Z",
+  "generated_at": "2026-09-22T23:37:42.748451Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9234,
-      "importance": 0.9234,
-      "importance_score": 0.9234,
+      "score": 0.9209,
+      "importance": 0.9209,
+      "importance_score": 0.9209,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9354,
+        "recency": 0.9219,
         "story_heat": 0.75
       },
       "category": "official",
@@ -234,15 +234,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9006,
-      "importance": 0.9006,
-      "importance_score": 0.9006,
+      "score": 0.8981,
+      "importance": 0.8981,
+      "importance_score": 0.8981,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9498,
+        "recency": 0.9362,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -258,144 +258,6 @@
         "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
         "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
         "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5dc131998993",
-      "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-      "primary_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
-          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T19:29:49.288000Z"
-        },
-        {
-          "id": "ab5995d06b782bfdd43fe94bba41056bad108db1",
-          "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T14:35:15Z"
-        },
-        {
-          "id": "c4279a0d2e87f65f3e3bc441754f46afee2ab9e7",
-          "title": "Meta旗下特权极高的AI助手Muse存在一个严重的0day漏洞 / Meta’s Muse has a serious 0-day",
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-22T14:35:15Z"
-        },
-        {
-          "id": "1bf62a29d3b668ea594efb9f6671eefbd082761a",
-          "title": "Meta旗下特权极高的AI助手Muse存在一个严重的0day漏洞 / Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T14:35:15Z"
-        },
-        {
-          "id": "9d51278628e1f637d71fc288dc4592b75038b3ba",
-          "title": "Meta旗下特权极高的AI助手Muse存在一个严重的0day漏洞",
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T22:46:21.154000Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Hacker News：AI 热帖",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
-          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T19:29:49.288000Z"
-        },
-        {
-          "id": "ab5995d06b782bfdd43fe94bba41056bad108db1",
-          "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T14:35:15Z"
-        },
-        {
-          "id": "c4279a0d2e87f65f3e3bc441754f46afee2ab9e7",
-          "title": "Meta旗下特权极高的AI助手Muse存在一个严重的0day漏洞 / Meta’s Muse has a serious 0-day",
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-22T14:35:15Z"
-        },
-        {
-          "id": "1bf62a29d3b668ea594efb9f6671eefbd082761a",
-          "title": "Meta旗下特权极高的AI助手Muse存在一个严重的0day漏洞 / Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T14:35:15Z"
-        },
-        {
-          "id": "9d51278628e1f637d71fc288dc4592b75038b3ba",
-          "title": "Meta旗下特权极高的AI助手Muse存在一个严重的0day漏洞",
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T22:46:21.154000Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.8806,
-      "importance": 0.8806,
-      "importance_score": 0.8806,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9558,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T22:46:21.154000Z",
-      "latest_at": "2026-09-22T19:29:49.288000Z",
-      "primary_item": {
-        "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
-        "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-        "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -453,15 +315,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8888,
-      "importance": 0.8888,
-      "importance_score": 0.8888,
+      "score": 0.8863,
+      "importance": 0.8863,
+      "importance_score": 0.8863,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9768,
+        "recency": 0.9628,
         "story_heat": 0.25
       },
       "category": "official",
@@ -479,6 +341,125 @@
         "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5dc131998993",
+      "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "primary_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
+          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T19:29:49.288000Z"
+        },
+        {
+          "id": "ab5995d06b782bfdd43fe94bba41056bad108db1",
+          "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T14:35:15Z"
+        },
+        {
+          "id": "c4279a0d2e87f65f3e3bc441754f46afee2ab9e7",
+          "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌 / Meta’s Muse has a serious 0-day",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-22T14:35:15Z"
+        },
+        {
+          "id": "1bf62a29d3b668ea594efb9f6671eefbd082761a",
+          "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌 / Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T14:35:15Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Hacker News：AI 热帖"
+      ],
+      "items": [
+        {
+          "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
+          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T19:29:49.288000Z"
+        },
+        {
+          "id": "ab5995d06b782bfdd43fe94bba41056bad108db1",
+          "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T14:35:15Z"
+        },
+        {
+          "id": "c4279a0d2e87f65f3e3bc441754f46afee2ab9e7",
+          "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌 / Meta’s Muse has a serious 0-day",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-22T14:35:15Z"
+        },
+        {
+          "id": "1bf62a29d3b668ea594efb9f6671eefbd082761a",
+          "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌 / Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T14:35:15Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8532,
+      "importance": 0.8532,
+      "importance_score": 0.8532,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9421,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T14:35:15Z",
+      "latest_at": "2026-09-22T19:29:49.288000Z",
+      "primary_item": {
+        "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
+        "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+        "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -516,15 +497,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8464,
-      "importance": 0.8464,
-      "importance_score": 0.8464,
+      "score": 0.844,
+      "importance": 0.844,
+      "importance_score": 0.844,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9243,
+        "recency": 0.911,
         "story_heat": 0.0
       },
       "category": "official",
@@ -540,6 +521,87 @@
         "title": "Claude Opus 5.5 is now available in GitHub Copilot",
         "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "acbcbb1c55302ea2fb0cca047c430138e142a311",
+          "title": "Codex CLI 0.156.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        },
+        {
+          "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
+          "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "acbcbb1c55302ea2fb0cca047c430138e142a311",
+          "title": "Codex CLI 0.156.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        },
+        {
+          "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
+          "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7109,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T00:00:00Z",
+      "latest_at": "2026-09-22T00:00:00Z",
+      "primary_item": {
+        "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
+        "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -616,15 +678,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8453,
-      "importance": 0.8453,
-      "importance_score": 0.8453,
+      "score": 0.8429,
+      "importance": 0.8429,
+      "importance_score": 0.8429,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9205,
+        "recency": 0.9073,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -641,87 +703,6 @@
         "url": "https://www.anthropic.com/claude-opus-5-5",
         "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "acbcbb1c55302ea2fb0cca047c430138e142a311",
-          "title": "Codex CLI 0.156.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        },
-        {
-          "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
-          "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "acbcbb1c55302ea2fb0cca047c430138e142a311",
-          "title": "Codex CLI 0.156.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        },
-        {
-          "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
-          "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8448,
-      "importance": 0.8448,
-      "importance_score": 0.8448,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7213,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T00:00:00Z",
-      "latest_at": "2026-09-22T00:00:00Z",
-      "primary_item": {
-        "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
-        "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -778,15 +759,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8428,
-      "importance": 0.8428,
-      "importance_score": 0.8428,
+      "score": 0.841,
+      "importance": 0.841,
+      "importance_score": 0.841,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7213,
+        "recency": 0.7109,
         "story_heat": 0.25
       },
       "category": "official",
@@ -860,15 +841,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9489,
+        "recency": 0.9353,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -922,15 +903,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.846,
-      "importance": 0.846,
-      "importance_score": 0.846,
+      "score": 0.8436,
+      "importance": 0.8436,
+      "importance_score": 0.8436,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.922,
+        "recency": 0.9088,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1003,15 +984,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
+      "score": 0.8231,
+      "importance": 0.8231,
+      "importance_score": 0.8231,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9498,
+        "recency": 0.9362,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1065,15 +1046,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
+      "score": 0.7918,
+      "importance": 0.7918,
+      "importance_score": 0.7918,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9313,
+        "recency": 0.9179,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1126,15 +1107,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
+      "score": 0.7904,
+      "importance": 0.7904,
+      "importance_score": 0.7904,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9399,
+        "recency": 0.9264,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1187,15 +1168,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7213,
+        "recency": 0.7109,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1249,15 +1230,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7857,
-      "importance": 0.7857,
-      "importance_score": 0.7857,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9173,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1310,15 +1291,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8434,
-      "importance": 0.8434,
-      "importance_score": 0.8434,
+      "score": 0.8409,
+      "importance": 0.8409,
+      "importance_score": 0.8409,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9969,
+        "recency": 0.9826,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1372,15 +1353,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9657,
+        "recency": 0.9518,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1433,15 +1414,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8577,
+        "recency": 0.8454,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1495,15 +1476,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7719,
-      "importance": 0.7719,
-      "importance_score": 0.7719,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9407,
+        "recency": 0.9272,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1556,15 +1537,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9398,
+        "recency": 0.9263,
         "story_heat": 0.0
       },
       "category": "industry",
