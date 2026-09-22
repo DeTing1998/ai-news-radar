@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T14:37:36.646770Z",
+  "generated_at": "2026-09-22T15:37:36.188309Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8587,
-      "importance": 0.8587,
-      "importance_score": 0.8587,
+      "score": 0.8566,
+      "importance": 0.8566,
+      "importance_score": 0.8566,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8096,
+        "recency": 0.798,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9266,
+        "recency": 0.9134,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8096,
+        "recency": 0.798,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8265,
+        "recency": 0.8147,
         "story_heat": 0.0
       },
       "category": "official",
@@ -325,15 +325,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -350,6 +350,67 @@
         "url": "https://www.aibase.com/news/31275",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d647d6ac131e",
+      "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
+      "url": "https://x.com/arena/status/2102416020678008986",
+      "primary_url": "https://x.com/arena/status/2102416020678008986",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fca008f06bf1a076492eb09ceb87439522b46b0c",
+          "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
+          "url": "https://x.com/arena/status/2102416020678008986",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T15:13:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "fca008f06bf1a076492eb09ceb87439522b46b0c",
+          "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
+          "url": "https://x.com/arena/status/2102416020678008986",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T15:13:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9942,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T15:13:34Z",
+      "latest_at": "2026-09-22T15:13:34Z",
+      "primary_item": {
+        "id": "fca008f06bf1a076492eb09ceb87439522b46b0c",
+        "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
+        "url": "https://x.com/arena/status/2102416020678008986",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -406,15 +467,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8337,
+        "recency": 0.8218,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -468,15 +529,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8992,
+        "recency": 0.8863,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -528,15 +589,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.949,
+        "recency": 0.9354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -607,15 +668,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -632,6 +693,66 @@
         "url": "https://www.aibase.com/news/31264",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_035e6172b7a8",
+      "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
+      "url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026",
+      "primary_url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026",
+      "source": "LlamaIndex：产品、工程与评测",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8a68519c3be53242deeff32eac19d6f6b21d5a02",
+          "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
+          "url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026",
+          "source": "LlamaIndex：产品、工程与评测",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T14:38:40.870000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LlamaIndex：产品、工程与评测"
+      ],
+      "items": [
+        {
+          "id": "8a68519c3be53242deeff32eac19d6f6b21d5a02",
+          "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
+          "url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026",
+          "source": "LlamaIndex：产品、工程与评测",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T14:38:40.870000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9859,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-22T14:38:40.870000Z",
+      "latest_at": "2026-09-22T14:38:40.870000Z",
+      "primary_item": {
+        "id": "8a68519c3be53242deeff32eac19d6f6b21d5a02",
+        "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
+        "url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026",
+        "source": "LlamaIndex：产品、工程与评测",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -669,15 +790,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.804,
-      "importance": 0.804,
-      "importance_score": 0.804,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7778,
+        "recency": 0.7666,
         "story_heat": 0.0
       },
       "category": "official",
@@ -731,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7663,
+        "recency": 0.7553,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -810,15 +931,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.776,
+        "recency": 0.7649,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -871,15 +992,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9766,
+        "recency": 0.9626,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -931,15 +1052,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7736,
+        "recency": 0.7625,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -991,15 +1112,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7273,
-      "importance": 0.7273,
-      "importance_score": 0.7273,
+      "score": 0.7252,
+      "importance": 0.7252,
+      "importance_score": 0.7252,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8096,
+        "recency": 0.798,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1070,15 +1191,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1095,68 +1216,6 @@
         "url": "https://www.aibase.com/news/31268",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2761dd45b97c",
-      "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
-          "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T14:54:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
-          "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T14:54:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7099,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T14:54:12Z",
-      "latest_at": "2026-09-21T14:54:12Z",
-      "primary_item": {
-        "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
-        "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1213,15 +1272,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1294,15 +1353,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1317,87 +1376,6 @@
         "id": "be590ac0c2e7526aa423ee5700fd33688976ef4c",
         "title": "阿里千问办公发布 Agent 全家桶:从自动化脚本到\"有身份、担责任\"的数字员工",
         "url": "https://www.aibase.com/news/31273",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0f81c1733eb1",
-      "title": "阿里试水QwenBook AI设备，团队规模约150人",
-      "url": "https://www.aibase.com/news/31270",
-      "primary_url": "https://www.aibase.com/news/31270",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d557137f367f4e0ae6306b4b687687281f672d5c",
-          "title": "阿里试水QwenBook AI设备，团队规模约150人",
-          "url": "https://www.aibase.com/news/31270",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T08:37:35.872682Z"
-        },
-        {
-          "id": "5a84abf696788aa9932287dbb3c130ff1368fd8a",
-          "title": "阿里试水 QwenBook AI 设备，团队规模约 150 人",
-          "url": "https://www.aibase.com/zh/news/31270",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d557137f367f4e0ae6306b4b687687281f672d5c",
-          "title": "阿里试水QwenBook AI设备，团队规模约150人",
-          "url": "https://www.aibase.com/news/31270",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T08:37:35.872682Z"
-        },
-        {
-          "id": "5a84abf696788aa9932287dbb3c130ff1368fd8a",
-          "title": "阿里试水 QwenBook AI 设备，团队规模约 150 人",
-          "url": "https://www.aibase.com/zh/news/31270",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.917,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T08:37:35.872682Z",
-      "latest_at": "2026-09-22T08:37:35.872682Z",
-      "primary_item": {
-        "id": "d557137f367f4e0ae6306b4b687687281f672d5c",
-        "title": "阿里试水QwenBook AI设备，团队规模约150人",
-        "url": "https://www.aibase.com/news/31270",
         "source": "AIbase",
         "source_name": "AIbase"
       }
