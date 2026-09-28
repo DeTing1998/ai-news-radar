@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T17:37:35.817074Z",
+  "generated_at": "2026-09-28T18:37:36.526794Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8656,
-      "importance": 0.8656,
-      "importance_score": 0.8656,
+      "score": 0.8633,
+      "importance": 0.8633,
+      "importance_score": 0.8633,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8923,
+        "recency": 0.8795,
         "story_heat": 0.25
       },
       "category": "official",
@@ -83,6 +83,573 @@
         "url": "https://huggingface.co/blog/Hcompany/holo4",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_50e18c541984",
+      "title": "Anthropic 发布 Claude Sonnet 5.5，速度提升 30% 以上、多数任务成本降低 30%",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "primary_url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "09073df7459e0dff38fe1d3d97ee59b8a4391a4f",
+          "title": "Anthropic 发布 Claude Sonnet 5.5，速度提升 30% 以上、多数任务成本降低 30%",
+          "url": "https://www.anthropic.com/claude-sonnet-5-5",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T17:58:11Z"
+        },
+        {
+          "id": "450f039ff7fbc7c6e22d14ab968dcf076b3e3f26",
+          "title": "克劳德·索内特 5.5",
+          "url": "https://www.anthropic.com/claude-sonnet-5-5",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T18:28:19.833000Z"
+        },
+        {
+          "id": "fc736918c9ac3144ffbdeca4a83a48a839036dcc",
+          "title": "Anthropic 发布 Claude Sonnet 5.5，速度提升 30% 以上、多数任务成本降低 30% / Claude Sonnet 5.5",
+          "url": "https://www.anthropic.com/claude-sonnet-5-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-28T17:58:11Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News：AI 热帖",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "09073df7459e0dff38fe1d3d97ee59b8a4391a4f",
+          "title": "Anthropic 发布 Claude Sonnet 5.5，速度提升 30% 以上、多数任务成本降低 30%",
+          "url": "https://www.anthropic.com/claude-sonnet-5-5",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T17:58:11Z"
+        },
+        {
+          "id": "450f039ff7fbc7c6e22d14ab968dcf076b3e3f26",
+          "title": "克劳德·索内特 5.5",
+          "url": "https://www.anthropic.com/claude-sonnet-5-5",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T18:28:19.833000Z"
+        },
+        {
+          "id": "fc736918c9ac3144ffbdeca4a83a48a839036dcc",
+          "title": "Anthropic 发布 Claude Sonnet 5.5，速度提升 30% 以上、多数任务成本降低 30% / Claude Sonnet 5.5",
+          "url": "https://www.anthropic.com/claude-sonnet-5-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-28T17:58:11Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8609,
+      "importance": 0.8609,
+      "importance_score": 0.8609,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.87,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9906,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T17:58:11Z",
+      "latest_at": "2026-09-28T18:28:19.833000Z",
+      "primary_item": {
+        "id": "09073df7459e0dff38fe1d3d97ee59b8a4391a4f",
+        "title": "Anthropic 发布 Claude Sonnet 5.5，速度提升 30% 以上、多数任务成本降低 30%",
+        "url": "https://www.anthropic.com/claude-sonnet-5-5",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c579283ea8d7",
+      "title": "Claude Sonnet 5.5 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6ca7b84b71814e47e7dcc1f8dcf148c56a3b433e",
+          "title": "Claude Sonnet 5.5 in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T18:03:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6ca7b84b71814e47e7dcc1f8dcf148c56a3b433e",
+          "title": "Claude Sonnet 5.5 in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T18:03:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8585,
+      "importance": 0.8585,
+      "importance_score": 0.8585,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9919,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T18:03:57Z",
+      "latest_at": "2026-09-28T18:03:57Z",
+      "primary_item": {
+        "id": "6ca7b84b71814e47e7dcc1f8dcf148c56a3b433e",
+        "title": "Claude Sonnet 5.5 in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_dcd4b5a345a6",
+      "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
+      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+      "primary_url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0bf64889a787fbc056b176a548baf6f64f56cc86",
+          "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
+          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T16:43:18Z"
+        },
+        {
+          "id": "4cfff3e3943ceae86ec900d59a7bd4b2ff7e0622",
+          "title": "OpenAI 在接连发生多起智能体对齐失调事件后暂停了前沿模型的训练",
+          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T17:56:22.003000Z"
+        },
+        {
+          "id": "19bd7319507e3986d5e6a9e79a780eec197aa9fb",
+          "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件 / OpenAI halts frontier-model training amid string of agent misalignment incidents",
+          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-28T16:43:18Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Ars Technica",
+        "Ars Technica：AI（RSS）",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "0bf64889a787fbc056b176a548baf6f64f56cc86",
+          "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
+          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T16:43:18Z"
+        },
+        {
+          "id": "4cfff3e3943ceae86ec900d59a7bd4b2ff7e0622",
+          "title": "OpenAI 在接连发生多起智能体对齐失调事件后暂停了前沿模型的训练",
+          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T17:56:22.003000Z"
+        },
+        {
+          "id": "19bd7319507e3986d5e6a9e79a780eec197aa9fb",
+          "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件 / OpenAI halts frontier-model training amid string of agent misalignment incidents",
+          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-28T16:43:18Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9729,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T16:43:18Z",
+      "latest_at": "2026-09-28T17:56:22.003000Z",
+      "primary_item": {
+        "id": "0bf64889a787fbc056b176a548baf6f64f56cc86",
+        "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
+        "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4d987bc13622",
+      "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+      "primary_url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T17:09:02Z"
+        },
+        {
+          "id": "b87a6cba950200715e49e25edf4a1148e9a6bba2",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-28T17:09:02Z"
+        },
+        {
+          "id": "74d61dde94d7f981f67da55830e9af3abfb5d6bb",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-28T17:33:34Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T17:09:02Z"
+        },
+        {
+          "id": "b87a6cba950200715e49e25edf4a1148e9a6bba2",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-28T17:09:02Z"
+        },
+        {
+          "id": "74d61dde94d7f981f67da55830e9af3abfb5d6bb",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-28T17:33:34Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8258,
+      "importance": 0.8258,
+      "importance_score": 0.8258,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9789,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T17:09:02Z",
+      "latest_at": "2026-09-28T17:33:34Z",
+      "primary_item": {
+        "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
+        "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+        "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_216d56bba26c",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "primary_url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
+          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
+          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8242,
+      "importance": 0.8242,
+      "importance_score": 0.8242,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8454,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T07:00:00Z",
+      "latest_at": "2026-09-28T07:00:00Z",
+      "primary_item": {
+        "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
+        "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+        "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "Codex CLI 0.158.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
+          "title": "Codex CLI 0.158.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
+          "title": "Codex CLI 0.158.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7642,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T00:00:00Z",
+      "latest_at": "2026-09-28T00:00:00Z",
+      "primary_item": {
+        "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
+        "title": "Codex CLI 0.158.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_93c35a6c2a7e",
+      "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+      "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+      "primary_url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+      "source": "X：马东锡 NLP (@dongxi_nlp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "96722744e37e42d234a3ebce1480e63a7325506e",
+          "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+          "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+          "source": "X：马东锡 NLP (@dongxi_nlp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:08:04Z"
+        },
+        {
+          "id": "28c51564d01537f0b3ae0aa8adc42896a54998c6",
+          "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30%",
+          "url": "https://www.youtube.com/shorts/u-3cPWPvRUE",
+          "source": "Claude：YouTube（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:04:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Claude：YouTube（RSS）",
+        "X：马东锡 NLP (@dongxi_nlp)"
+      ],
+      "items": [
+        {
+          "id": "96722744e37e42d234a3ebce1480e63a7325506e",
+          "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+          "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+          "source": "X：马东锡 NLP (@dongxi_nlp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:08:04Z"
+        },
+        {
+          "id": "28c51564d01537f0b3ae0aa8adc42896a54998c6",
+          "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30%",
+          "url": "https://www.youtube.com/shorts/u-3cPWPvRUE",
+          "source": "Claude：YouTube（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:04:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9929,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T18:04:08Z",
+      "latest_at": "2026-09-28T18:08:04Z",
+      "primary_item": {
+        "id": "96722744e37e42d234a3ebce1480e63a7325506e",
+        "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+        "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+        "source": "X：马东锡 NLP (@dongxi_nlp)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -158,15 +725,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.833,
+      "importance": 0.833,
+      "importance_score": 0.833,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8647,
+        "recency": 0.8523,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -239,15 +806,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8901,
+        "recency": 0.8774,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -301,15 +868,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8855,
+        "recency": 0.8728,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -362,15 +929,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8574,
+        "recency": 0.8451,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -442,15 +1009,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8909,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -504,15 +1071,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.775,
-      "importance": 0.775,
-      "importance_score": 0.775,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9911,
+        "recency": 0.9769,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -527,67 +1094,6 @@
         "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
         "url": "https://x.com/arena/status/2104617283679379704",
         "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7808c62cb736",
-      "title": "404 Media 报道人类审阅员正在查看 Copilot 用户提示词与上传图片",
-      "url": "https://www.404media.co/humans-reading-copilot-prompts-images",
-      "primary_url": "https://www.404media.co/humans-reading-copilot-prompts-images",
-      "source": "404 Media（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6660cf706ad10c0df9bf4b23b00d7913cd943466",
-          "title": "404 Media 报道人类审阅员正在查看 Copilot 用户提示词与上传图片",
-          "url": "https://www.404media.co/humans-reading-copilot-prompts-images",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T13:26:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "404 Media（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6660cf706ad10c0df9bf4b23b00d7913cd943466",
-          "title": "404 Media 报道人类审阅员正在查看 Copilot 用户提示词与上传图片",
-          "url": "https://www.404media.co/humans-reading-copilot-prompts-images",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T13:26:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9414,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T13:26:31Z",
-      "latest_at": "2026-09-28T13:26:31Z",
-      "primary_item": {
-        "id": "6660cf706ad10c0df9bf4b23b00d7913cd943466",
-        "title": "404 Media 报道人类审阅员正在查看 Copilot 用户提示词与上传图片",
-        "url": "https://www.404media.co/humans-reading-copilot-prompts-images",
-        "source": "404 Media（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -626,15 +1132,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8288,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -649,6 +1155,67 @@
         "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
         "url": "https://api-docs.deepseek.com/zh-cn/updates",
         "source": "DeepSeek：API 更新日志",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7808c62cb736",
+      "title": "404 Media 报道人类审阅员正在查看 Copilot 用户提示词与上传图片",
+      "url": "https://www.404media.co/humans-reading-copilot-prompts-images",
+      "primary_url": "https://www.404media.co/humans-reading-copilot-prompts-images",
+      "source": "404 Media（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6660cf706ad10c0df9bf4b23b00d7913cd943466",
+          "title": "404 Media 报道人类审阅员正在查看 Copilot 用户提示词与上传图片",
+          "url": "https://www.404media.co/humans-reading-copilot-prompts-images",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T13:26:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "404 Media（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6660cf706ad10c0df9bf4b23b00d7913cd943466",
+          "title": "404 Media 报道人类审阅员正在查看 Copilot 用户提示词与上传图片",
+          "url": "https://www.404media.co/humans-reading-copilot-prompts-images",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T13:26:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9279,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T13:26:31Z",
+      "latest_at": "2026-09-28T13:26:31Z",
+      "primary_item": {
+        "id": "6660cf706ad10c0df9bf4b23b00d7913cd943466",
+        "title": "404 Media 报道人类审阅员正在查看 Copilot 用户提示词与上传图片",
+        "url": "https://www.404media.co/humans-reading-copilot-prompts-images",
+        "source": "404 Media（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -687,15 +1254,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.893,
+        "recency": 0.8802,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -748,15 +1315,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "score": 0.7622,
+      "importance": 0.7622,
+      "importance_score": 0.7622,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8829,
+        "recency": 0.8702,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -809,15 +1376,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8624,
+        "recency": 0.85,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -870,15 +1437,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8288,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -894,513 +1461,6 @@
         "url": "https://mimo.xiaomi.com/go/desktop",
         "source": "小米 MiMo：官网发布与博客",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2b106d23e153",
-      "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
-      "url": "https://x.com/AravSrinivas/status/2104597362475708781",
-      "primary_url": "https://x.com/AravSrinivas/status/2104597362475708781",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "562570b09efa2839bd00ee40c059e6dc5550cedf",
-          "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
-          "url": "https://x.com/AravSrinivas/status/2104597362475708781",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T15:41:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
-      ],
-      "items": [
-        {
-          "id": "562570b09efa2839bd00ee40c059e6dc5550cedf",
-          "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
-          "url": "https://x.com/AravSrinivas/status/2104597362475708781",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T15:41:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9724,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T15:41:27Z",
-      "latest_at": "2026-09-28T15:41:27Z",
-      "primary_item": {
-        "id": "562570b09efa2839bd00ee40c059e6dc5550cedf",
-        "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
-        "url": "https://x.com/AravSrinivas/status/2104597362475708781",
-        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_860e814a2864",
-      "title": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
-      "url": "https://www.aibase.com/news/31389",
-      "primary_url": "https://www.aibase.com/news/31389",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "76e82be4fec4e4adf6eb5c09024d7a5239a575d2",
-          "title": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
-          "url": "https://www.aibase.com/news/31389",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T10:37:39.819045Z"
-        },
-        {
-          "id": "8113ed70655a71c4814d503933d8d5d042edd35b",
-          "title": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
-          "url": "https://www.aibase.com/zh/news/31389",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "76e82be4fec4e4adf6eb5c09024d7a5239a575d2",
-          "title": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
-          "url": "https://www.aibase.com/news/31389",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T10:37:39.819045Z"
-        },
-        {
-          "id": "8113ed70655a71c4814d503933d8d5d042edd35b",
-          "title": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
-          "url": "https://www.aibase.com/zh/news/31389",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T10:37:39.819045Z",
-      "latest_at": "2026-09-28T10:37:39.819045Z",
-      "primary_item": {
-        "id": "76e82be4fec4e4adf6eb5c09024d7a5239a575d2",
-        "title": "曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一",
-        "url": "https://www.aibase.com/news/31389",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_36f194b0d7a3",
-      "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
-      "url": "https://x.com/arena/status/2104618173966504429",
-      "primary_url": "https://x.com/arena/status/2104618173966504429",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e723a225cecc65f1cb8a61f44c71209d67770e30",
-          "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
-          "url": "https://x.com/arena/status/2104618173966504429",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:04:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "e723a225cecc65f1cb8a61f44c71209d67770e30",
-          "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
-          "url": "https://x.com/arena/status/2104618173966504429",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:04:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.992,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T17:04:09Z",
-      "latest_at": "2026-09-28T17:04:09Z",
-      "primary_item": {
-        "id": "e723a225cecc65f1cb8a61f44c71209d67770e30",
-        "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
-        "url": "https://x.com/arena/status/2104618173966504429",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_945b7e0bdbdf",
-      "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-      "url": "https://www.ithome.com/1/007/767.htm",
-      "primary_url": "https://www.ithome.com/1/007/767.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b8dac7905383a680b9929d7f3f4afc92b76cb666",
-          "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-          "url": "https://www.ithome.com/1/007/767.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T04:31:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b8dac7905383a680b9929d7f3f4afc92b76cb666",
-          "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-          "url": "https://www.ithome.com/1/007/767.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T04:31:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8275,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T04:31:04Z",
-      "latest_at": "2026-09-28T04:31:04Z",
-      "primary_item": {
-        "id": "b8dac7905383a680b9929d7f3f4afc92b76cb666",
-        "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-        "url": "https://www.ithome.com/1/007/767.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6a821b8c2e98",
-      "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
-      "url": "https://www.aibase.com/news/31384",
-      "primary_url": "https://www.aibase.com/news/31384",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a02247fdf68446233c3477e7f0dd4a99dd665f25",
-          "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
-          "url": "https://www.aibase.com/news/31384",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:37:41.267991Z"
-        },
-        {
-          "id": "d46f528833e48d2cea5784d4c7be08e39b2ba1ee",
-          "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
-          "url": "https://www.aibase.com/zh/news/31384",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a02247fdf68446233c3477e7f0dd4a99dd665f25",
-          "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
-          "url": "https://www.aibase.com/news/31384",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T08:37:41.267991Z"
-        },
-        {
-          "id": "d46f528833e48d2cea5784d4c7be08e39b2ba1ee",
-          "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
-          "url": "https://www.aibase.com/zh/news/31384",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T08:37:41.267991Z",
-      "latest_at": "2026-09-28T08:37:41.267991Z",
-      "primary_item": {
-        "id": "a02247fdf68446233c3477e7f0dd4a99dd665f25",
-        "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
-        "url": "https://www.aibase.com/news/31384",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6f64c67742b4",
-      "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-      "url": "https://www.aibase.com/news/31379",
-      "primary_url": "https://www.aibase.com/news/31379",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
-          "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-          "url": "https://www.aibase.com/news/31379",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T06:37:36.921147Z"
-        },
-        {
-          "id": "e683df5299f7c8d8f92a79f31f6bb5baf2225f3a",
-          "title": "OpenAI 重排 Pro 档位：5x 和 20x 用量承诺下线",
-          "url": "https://www.aibase.com/zh/news/31379",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
-          "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-          "url": "https://www.aibase.com/news/31379",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T06:37:36.921147Z"
-        },
-        {
-          "id": "e683df5299f7c8d8f92a79f31f6bb5baf2225f3a",
-          "title": "OpenAI 重排 Pro 档位：5x 和 20x 用量承诺下线",
-          "url": "https://www.aibase.com/zh/news/31379",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8531,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T06:37:36.921147Z",
-      "latest_at": "2026-09-28T06:37:36.921147Z",
-      "primary_item": {
-        "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
-        "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-        "url": "https://www.aibase.com/news/31379",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7df05908ed08",
-      "title": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
-      "url": "https://www.aibase.com/news/31377",
-      "primary_url": "https://www.aibase.com/news/31377",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d7985784238219b19133489fd003b5f9b7b84887",
-          "title": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
-          "url": "https://www.aibase.com/news/31377",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T06:37:36.921147Z"
-        },
-        {
-          "id": "bb66d629cf805327beec0cd6f689b6a0e1f41377",
-          "title": "智谱 ZCode 落地新轮补偿：赠付费用户 8 张重置卡，已彻底移除代码快照上传链路",
-          "url": "https://www.aibase.com/zh/news/31377",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d7985784238219b19133489fd003b5f9b7b84887",
-          "title": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
-          "url": "https://www.aibase.com/news/31377",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T06:37:36.921147Z"
-        },
-        {
-          "id": "bb66d629cf805327beec0cd6f689b6a0e1f41377",
-          "title": "智谱 ZCode 落地新轮补偿：赠付费用户 8 张重置卡，已彻底移除代码快照上传链路",
-          "url": "https://www.aibase.com/zh/news/31377",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8531,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T06:37:36.921147Z",
-      "latest_at": "2026-09-28T06:37:36.921147Z",
-      "primary_item": {
-        "id": "d7985784238219b19133489fd003b5f9b7b84887",
-        "title": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
-        "url": "https://www.aibase.com/news/31377",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
