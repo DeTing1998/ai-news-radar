@@ -1,22 +1,8 @@
 {
-  "generated_at": "2026-09-28T16:37:36.968201Z",
+  "generated_at": "2026-09-28T17:37:35.817074Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 48,
+  "total_events": 51,
   "events": [
-    {
-      "story_id": "story_a9972c37e8d1",
-      "item_id": "8abaab6cb6aa609759d63b0e5a6f235374357d99",
-      "merged_into": "story_a9972c37e8d1",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "item_id": "221233d15f416eef397070c5cc84e201c5520703",
-      "merged_into": "story_774f7412d1a3",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
     {
       "story_id": "story_774f7412d1a3",
       "item_id": "044d0b211d8d40299a1650496fbd1cdcb1636ac4",
@@ -336,6 +322,41 @@
       "story_id": "story_b3c63653c45b",
       "item_id": "5c0c30114adf49ad744756c30b69f020bcaf0683",
       "merged_into": "story_b3c63653c45b",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_b3c63653c45b",
+      "item_id": "0357e1ac68f7d0af95935d49e15ad9d0a4b1b040",
+      "merged_into": "story_b3c63653c45b",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_c1277762aa17",
+      "item_id": "ebbcf2332c9e1a5f275cb23c13b71d44f5f4f177",
+      "merged_into": "story_c1277762aa17",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_c1277762aa17",
+      "item_id": "cd3dbdc60da57002b93849b878accb821f244c53",
+      "merged_into": "story_c1277762aa17",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_7da87b90b7b5",
+      "item_id": "9f8d2e095ff96a2a4317e387aede60b90656944c",
+      "merged_into": "story_7da87b90b7b5",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_a37b0826d622",
+      "item_id": "d3277f9a483ab5c5ce8b741e28f5bbd7393b951d",
+      "merged_into": "story_a37b0826d622",
       "reason": "canonical_url",
       "similarity": 1.0
     }
