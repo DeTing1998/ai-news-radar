@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T00:37:39.739336Z",
+  "generated_at": "2026-09-29T13:37:35.651623Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -113,15 +113,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8961,
-      "importance": 0.8961,
-      "importance_score": 0.8961,
+      "score": 0.8681,
+      "importance": 0.8681,
+      "importance_score": 0.8681,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9083,
+        "recency": 0.7529,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -138,6 +138,150 @@
         "url": "https://www.anthropic.com/claude-sonnet-5-5",
         "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_984223f109f3",
+      "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
+          "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T13:07:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
+          "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T13:07:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8667,
+      "importance": 0.8667,
+      "importance_score": 0.8667,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.9927,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T13:07:00Z",
+      "latest_at": "2026-09-29T13:07:00Z",
+      "primary_item": {
+        "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
+        "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_cfe8e900401f",
+      "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "primary_url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fe0a8a71338d71eb6a8ab393365bb8993319c9b3",
+          "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
+          "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T19:00:00Z"
+        },
+        {
+          "id": "b4460e4623f48639fbd8bd2364e8b15ab5fd0cae",
+          "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施",
+          "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T01:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "fe0a8a71338d71eb6a8ab393365bb8993319c9b3",
+          "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
+          "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T19:00:00Z"
+        },
+        {
+          "id": "b4460e4623f48639fbd8bd2364e8b15ab5fd0cae",
+          "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施",
+          "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T01:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8345,
+      "importance": 0.8345,
+      "importance_score": 0.8345,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7642,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T19:00:00Z",
+      "latest_at": "2026-09-29T01:00:00Z",
+      "primary_item": {
+        "id": "fe0a8a71338d71eb6a8ab393365bb8993319c9b3",
+        "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
+        "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -231,15 +375,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8592,
-      "importance": 0.8592,
-      "importance_score": 0.8592,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8921,
+        "recency": 0.7394,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -256,88 +400,6 @@
         "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9552195c964d",
-      "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "primary_url": "https://huggingface.co/blog/Hcompany/holo4",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
-          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T09:44:05Z"
-        },
-        {
-          "id": "0d6001e5b47158eac2111e56ff978269ce38ca40",
-          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T09:44:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
-          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T09:44:05Z"
-        },
-        {
-          "id": "0d6001e5b47158eac2111e56ff978269ce38ca40",
-          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T09:44:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8502,
-      "importance": 0.8502,
-      "importance_score": 0.8502,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8065,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T09:44:05Z",
-      "latest_at": "2026-09-28T09:44:05Z",
-      "primary_item": {
-        "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
-        "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-        "url": "https://huggingface.co/blog/Hcompany/holo4",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -375,15 +437,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9096,
+        "recency": 0.7539,
         "story_heat": 0.0
       },
       "category": "official",
@@ -494,15 +556,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
+      "score": 0.8085,
+      "importance": 0.8085,
+      "importance_score": 0.8085,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8977,
+        "recency": 0.744,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -556,15 +618,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.836,
-      "importance": 0.836,
-      "importance_score": 0.836,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9219,
+        "recency": 0.7642,
         "story_heat": 0.0
       },
       "category": "official",
@@ -637,15 +699,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9864,
+        "recency": 0.8176,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -661,6 +723,87 @@
         "title": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元",
         "url": "https://www.ithome.com/1/008/082.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_90ce2d26c785",
+      "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布",
+      "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+      "primary_url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0a791fa1cf3f088b80d71cfff074637794d2c64a",
+          "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布",
+          "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T08:26:38Z"
+        },
+        {
+          "id": "71c45771d87671bbab6ce7b11263d5ccdc76c412",
+          "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布 / GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet",
+          "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-29T08:26:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "0a791fa1cf3f088b80d71cfff074637794d2c64a",
+          "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布",
+          "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T08:26:38Z"
+        },
+        {
+          "id": "71c45771d87671bbab6ce7b11263d5ccdc76c412",
+          "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布 / GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet",
+          "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-29T08:26:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9279,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T08:26:38Z",
+      "latest_at": "2026-09-29T08:26:38Z",
+      "primary_item": {
+        "id": "0a791fa1cf3f088b80d71cfff074637794d2c64a",
+        "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布",
+        "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -737,15 +880,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8262,
-      "importance": 0.8262,
-      "importance_score": 0.8262,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9645,
+        "recency": 0.7995,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -765,87 +908,87 @@
       }
     },
     {
-      "story_id": "story_a7a3b674e644",
-      "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
-      "url": "https://www.worldlabs.ai/blog/amd-announcement",
-      "primary_url": "https://www.worldlabs.ai/blog/amd-announcement",
-      "source": "Hacker News：AI 热帖",
+      "story_id": "story_de35e53397fa",
+      "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
+      "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
+      "primary_url": "https://x.com/ClaudeDevs/status/2104641318555353400",
+      "source": "X：Claude Devs (@ClaudeDevs)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "89bb4ee9363c43dc8f9f5df4059e0b04ade055fe",
-          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
-          "url": "https://www.worldlabs.ai/blog/amd-announcement",
-          "source": "Hacker News：AI 热帖",
+          "id": "b719f447f05f438014ff5f0f328dcac723f043ef",
+          "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%",
+          "url": "https://x.com/trq212/status/2104660926373023830",
+          "source": "X：Thariq (@trq212)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T20:18:05Z"
+          "published_at": "2026-09-28T19:54:02Z"
         },
         {
-          "id": "60cddb973f9a6dc85895d36376743355c29e4fc7",
-          "title": "World Labs 将加入 AMD",
-          "url": "https://www.worldlabs.ai/blog/amd-announcement",
-          "source": "www.worldlabs.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T22:08:12.115000Z"
+          "id": "174b8f3b0886c612fa58740af5b9afabfa805433",
+          "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
+          "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:36:07Z"
         },
         {
-          "id": "b445dac6300d7a5282e2e28c2eff2b29c78e08a1",
-          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD",
-          "url": "https://www.worldlabs.ai/blog/amd-announcement",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T20:18:05Z"
+          "id": "2ce42eb3a75206e2cbb555e61385df53cfaba4b9",
+          "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30% / A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token cost. With Sonnet + Opus 5.5 I think this sort intelligence is should be very ava...",
+          "url": "https://x.com/trq212/status/2104660926373023830",
+          "source": "Follow Builders · X · Thariq",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-28T19:54:02Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
-        "Hacker News：AI 热帖",
-        "www.worldlabs.ai"
+        "Follow Builders · X · Thariq",
+        "X：Claude Devs (@ClaudeDevs)",
+        "X：Thariq (@trq212)"
       ],
       "items": [
         {
-          "id": "89bb4ee9363c43dc8f9f5df4059e0b04ade055fe",
-          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
-          "url": "https://www.worldlabs.ai/blog/amd-announcement",
-          "source": "Hacker News：AI 热帖",
+          "id": "b719f447f05f438014ff5f0f328dcac723f043ef",
+          "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%",
+          "url": "https://x.com/trq212/status/2104660926373023830",
+          "source": "X：Thariq (@trq212)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T20:18:05Z"
+          "published_at": "2026-09-28T19:54:02Z"
         },
         {
-          "id": "60cddb973f9a6dc85895d36376743355c29e4fc7",
-          "title": "World Labs 将加入 AMD",
-          "url": "https://www.worldlabs.ai/blog/amd-announcement",
-          "source": "www.worldlabs.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T22:08:12.115000Z"
+          "id": "174b8f3b0886c612fa58740af5b9afabfa805433",
+          "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
+          "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:36:07Z"
         },
         {
-          "id": "b445dac6300d7a5282e2e28c2eff2b29c78e08a1",
-          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD",
-          "url": "https://www.worldlabs.ai/blog/amd-announcement",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T20:18:05Z"
+          "id": "2ce42eb3a75206e2cbb555e61385df53cfaba4b9",
+          "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30% / A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token cost. With Sonnet + Opus 5.5 I think this sort intelligence is should be very ava...",
+          "url": "https://x.com/trq212/status/2104660926373023830",
+          "source": "Follow Builders · X · Thariq",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-28T19:54:02Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8457,
-      "importance": 0.8457,
-      "importance_score": 0.8457,
+      "score": 0.7954,
+      "importance": 0.7954,
+      "importance_score": 0.7954,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.85,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9394,
+        "recency": 0.7598,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -854,13 +997,255 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T20:18:05Z",
-      "latest_at": "2026-09-28T22:08:12.115000Z",
+      "earliest_at": "2026-09-28T18:36:07Z",
+      "latest_at": "2026-09-28T19:54:02Z",
       "primary_item": {
-        "id": "89bb4ee9363c43dc8f9f5df4059e0b04ade055fe",
-        "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
-        "url": "https://www.worldlabs.ai/blog/amd-announcement",
+        "id": "174b8f3b0886c612fa58740af5b9afabfa805433",
+        "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
+        "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_83a2221c61ae",
+      "title": "中国生成式 AI 用户破 7 亿，普及率过半，算力一年涨了 177%",
+      "url": "https://www.aibase.com/news/31411",
+      "primary_url": "https://www.aibase.com/news/31411",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "90cd2e2d9572a7a60cc90bc9d28786807b6833f6",
+          "title": "中国生成式 AI 用户破 7 亿，普及率过半，算力一年涨了 177%",
+          "url": "https://www.aibase.com/news/31411",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-29T13:37:35.651623Z"
+        },
+        {
+          "id": "7e01f6c3f5486867c106eeff87bfcf85801b7869",
+          "title": "中国生成式 AI 用户破 7 亿，普及率过半，算力一年涨了 177%",
+          "url": "https://www.aibase.com/zh/news/31411",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "90cd2e2d9572a7a60cc90bc9d28786807b6833f6",
+          "title": "中国生成式 AI 用户破 7 亿，普及率过半，算力一年涨了 177%",
+          "url": "https://www.aibase.com/news/31411",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-29T13:37:35.651623Z"
+        },
+        {
+          "id": "7e01f6c3f5486867c106eeff87bfcf85801b7869",
+          "title": "中国生成式 AI 用户破 7 亿，普及率过半，算力一年涨了 177%",
+          "url": "https://www.aibase.com/zh/news/31411",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T13:37:35.651623Z",
+      "latest_at": "2026-09-29T13:37:35.651623Z",
+      "primary_item": {
+        "id": "90cd2e2d9572a7a60cc90bc9d28786807b6833f6",
+        "title": "中国生成式 AI 用户破 7 亿，普及率过半，算力一年涨了 177%",
+        "url": "https://www.aibase.com/news/31411",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c92e39202c4c",
+      "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "primary_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T09:03:41Z"
+        },
+        {
+          "id": "d3b39233e64c02e402639ed208e37dde93ae87a7",
+          "title": "人工智能公司向广告商泄露数据 [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "jorgegarciaherrero.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T11:32:02.125000Z"
+        },
+        {
+          "id": "576b3216894b66cfea5852d425eaf9175b538262",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T09:03:41Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News：AI 热帖",
+        "jorgegarciaherrero.com"
+      ],
+      "items": [
+        {
+          "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T09:03:41Z"
+        },
+        {
+          "id": "d3b39233e64c02e402639ed208e37dde93ae87a7",
+          "title": "人工智能公司向广告商泄露数据 [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "jorgegarciaherrero.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T11:32:02.125000Z"
+        },
+        {
+          "id": "576b3216894b66cfea5852d425eaf9175b538262",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T09:03:41Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9362,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T09:03:41Z",
+      "latest_at": "2026-09-29T11:32:02.125000Z",
+      "primary_item": {
+        "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
+        "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+        "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
         "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5df2e2a85b6f",
+      "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
+      "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b6f3ba127f914db468cfcce760e4e719c98d7942",
+          "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
+          "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T02:21:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "b6f3ba127f914db468cfcce760e4e719c98d7942",
+          "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
+          "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T02:21:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.87,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8498,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T02:21:20Z",
+      "latest_at": "2026-09-29T02:21:20Z",
+      "primary_item": {
+        "id": "b6f3ba127f914db468cfcce760e4e719c98d7942",
+        "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
+        "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -918,15 +1303,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9562,
+        "recency": 0.7926,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -946,21 +1331,21 @@
       }
     },
     {
-      "story_id": "story_216d56bba26c",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "primary_url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "story_id": "story_cf468ec39dd6",
+      "title": "前沿人工智能训练的安全案例 / Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "primary_url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
-          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "id": "c1f808e273524bad08492a038dae36a455e222a3",
+          "title": "前沿人工智能训练的安全案例 / Towards safety cases for frontier AI training",
+          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-28T07:00:00Z"
+          "published_at": "2026-09-28T19:00:00Z"
         }
       ],
       "source_count": 1,
@@ -969,26 +1354,26 @@
       ],
       "items": [
         {
-          "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
-          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "id": "c1f808e273524bad08492a038dae36a455e222a3",
+          "title": "前沿人工智能训练的安全案例 / Towards safety cases for frontier AI training",
+          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-28T07:00:00Z"
+          "published_at": "2026-09-28T19:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7753,
+        "recency": 0.7642,
         "story_heat": 0.0
       },
       "category": "official",
@@ -997,95 +1382,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T07:00:00Z",
-      "latest_at": "2026-09-28T07:00:00Z",
+      "earliest_at": "2026-09-28T19:00:00Z",
+      "latest_at": "2026-09-28T19:00:00Z",
       "primary_item": {
-        "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
-        "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-        "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+        "id": "c1f808e273524bad08492a038dae36a455e222a3",
+        "title": "前沿人工智能训练的安全案例 / Towards safety cases for frontier AI training",
+        "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_65a1a7f184ca",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-      "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-      "primary_url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:02:10Z"
-        },
-        {
-          "id": "3687aad78aeb3ed0ba6b5eb99a34b5312c86bf4f",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-28T18:02:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:02:10Z"
-        },
-        {
-          "id": "3687aad78aeb3ed0ba6b5eb99a34b5312c86bf4f",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-28T18:02:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9092,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T18:02:10Z",
-      "latest_at": "2026-09-28T18:02:10Z",
-      "primary_item": {
-        "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
-        "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-        "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1123,15 +1427,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
+      "score": 0.8023,
+      "importance": 0.8023,
+      "importance_score": 0.8023,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.927,
+        "recency": 0.7684,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1151,68 +1455,68 @@
       }
     },
     {
-      "story_id": "story_de35e53397fa",
-      "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
-      "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
-      "primary_url": "https://x.com/ClaudeDevs/status/2104641318555353400",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
+      "story_id": "story_a2ca0e373fa2",
+      "title": "英伟达发布 AI 智能体安全工具 OpenShell，称可阻止 Hugging Face 入侵事件重演",
+      "url": "https://www.aibase.com/news/31409",
+      "primary_url": "https://www.aibase.com/news/31409",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "b719f447f05f438014ff5f0f328dcac723f043ef",
-          "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%",
-          "url": "https://x.com/trq212/status/2104660926373023830",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T19:54:02Z"
+          "id": "3e79abad4ed016e8e6c769035c64ee6d50834219",
+          "title": "英伟达发布 AI 智能体安全工具 OpenShell，称可阻止 Hugging Face 入侵事件重演",
+          "url": "https://www.aibase.com/news/31409",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-29T13:37:35.651623Z"
         },
         {
-          "id": "174b8f3b0886c612fa58740af5b9afabfa805433",
-          "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
-          "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:36:07Z"
+          "id": "75b6aa0f36f5f062587ded9cf25efc76af818175",
+          "title": "英伟达发布 AI 智能体安全工具 OpenShell，称可阻止 Hugging Face 入侵事件重演",
+          "url": "https://www.aibase.com/zh/news/31409",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "X：Claude Devs (@ClaudeDevs)",
-        "X：Thariq (@trq212)"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "b719f447f05f438014ff5f0f328dcac723f043ef",
-          "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%",
-          "url": "https://x.com/trq212/status/2104660926373023830",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T19:54:02Z"
+          "id": "3e79abad4ed016e8e6c769035c64ee6d50834219",
+          "title": "英伟达发布 AI 智能体安全工具 OpenShell，称可阻止 Hugging Face 入侵事件重演",
+          "url": "https://www.aibase.com/news/31409",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-29T13:37:35.651623Z"
         },
         {
-          "id": "174b8f3b0886c612fa58740af5b9afabfa805433",
-          "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
-          "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:36:07Z"
+          "id": "75b6aa0f36f5f062587ded9cf25efc76af818175",
+          "title": "英伟达发布 AI 智能体安全工具 OpenShell，称可阻止 Hugging Face 入侵事件重演",
+          "url": "https://www.aibase.com/zh/news/31409",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7986,
-      "importance": 0.7986,
-      "importance_score": 0.7986,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9167,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1221,13 +1525,94 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T18:36:07Z",
-      "latest_at": "2026-09-28T19:54:02Z",
+      "earliest_at": "2026-09-29T13:37:35.651623Z",
+      "latest_at": "2026-09-29T13:37:35.651623Z",
       "primary_item": {
-        "id": "174b8f3b0886c612fa58740af5b9afabfa805433",
-        "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
-        "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
-        "source": "X：Claude Devs (@ClaudeDevs)",
+        "id": "3e79abad4ed016e8e6c769035c64ee6d50834219",
+        "title": "英伟达发布 AI 智能体安全工具 OpenShell，称可阻止 Hugging Face 入侵事件重演",
+        "url": "https://www.aibase.com/news/31409",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_93c35a6c2a7e",
+      "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+      "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+      "primary_url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+      "source": "X：马东锡 NLP (@dongxi_nlp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "96722744e37e42d234a3ebce1480e63a7325506e",
+          "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+          "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+          "source": "X：马东锡 NLP (@dongxi_nlp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:08:04Z"
+        },
+        {
+          "id": "28c51564d01537f0b3ae0aa8adc42896a54998c6",
+          "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30%",
+          "url": "https://www.youtube.com/shorts/u-3cPWPvRUE",
+          "source": "Claude：YouTube（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:04:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Claude：YouTube（RSS）",
+        "X：马东锡 NLP (@dongxi_nlp)"
+      ],
+      "items": [
+        {
+          "id": "96722744e37e42d234a3ebce1480e63a7325506e",
+          "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+          "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+          "source": "X：马东锡 NLP (@dongxi_nlp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:08:04Z"
+        },
+        {
+          "id": "28c51564d01537f0b3ae0aa8adc42896a54998c6",
+          "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30%",
+          "url": "https://www.youtube.com/shorts/u-3cPWPvRUE",
+          "source": "Claude：YouTube（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:04:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7547,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T18:04:08Z",
+      "latest_at": "2026-09-28T18:08:04Z",
+      "primary_item": {
+        "id": "96722744e37e42d234a3ebce1480e63a7325506e",
+        "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+        "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+        "source": "X：马东锡 NLP (@dongxi_nlp)",
         "source_name": "AI HOT"
       }
     },
@@ -1285,15 +1670,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8186,
-      "importance": 0.8186,
-      "importance_score": 0.8186,
+      "score": 0.7895,
+      "importance": 0.7895,
+      "importance_score": 0.7895,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9443,
+        "recency": 0.7827,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1309,331 +1694,6 @@
         "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
         "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
         "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_93c35a6c2a7e",
-      "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-      "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-      "primary_url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-      "source": "X：马东锡 NLP (@dongxi_nlp)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "96722744e37e42d234a3ebce1480e63a7325506e",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-          "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-          "source": "X：马东锡 NLP (@dongxi_nlp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:08:04Z"
-        },
-        {
-          "id": "28c51564d01537f0b3ae0aa8adc42896a54998c6",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30%",
-          "url": "https://www.youtube.com/shorts/u-3cPWPvRUE",
-          "source": "Claude：YouTube（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:04:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Claude：YouTube（RSS）",
-        "X：马东锡 NLP (@dongxi_nlp)"
-      ],
-      "items": [
-        {
-          "id": "96722744e37e42d234a3ebce1480e63a7325506e",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-          "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-          "source": "X：马东锡 NLP (@dongxi_nlp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:08:04Z"
-        },
-        {
-          "id": "28c51564d01537f0b3ae0aa8adc42896a54998c6",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30%",
-          "url": "https://www.youtube.com/shorts/u-3cPWPvRUE",
-          "source": "Claude：YouTube（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:04:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9105,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T18:04:08Z",
-      "latest_at": "2026-09-28T18:08:04Z",
-      "primary_item": {
-        "id": "96722744e37e42d234a3ebce1480e63a7325506e",
-        "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-        "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-        "source": "X：马东锡 NLP (@dongxi_nlp)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d1837aae3f62",
-      "title": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD",
-      "url": "https://x.com/ClementDelangue/status/2104731591054660040",
-      "primary_url": "https://x.com/ClementDelangue/status/2104731591054660040",
-      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "37eb771650ca49374983284ba27269566300cb85",
-          "title": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD",
-          "url": "https://x.com/ClementDelangue/status/2104731591054660040",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T00:34:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
-      ],
-      "items": [
-        {
-          "id": "37eb771650ca49374983284ba27269566300cb85",
-          "title": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD",
-          "url": "https://x.com/ClementDelangue/status/2104731591054660040",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T00:34:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9993,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T00:34:49Z",
-      "latest_at": "2026-09-29T00:34:49Z",
-      "primary_item": {
-        "id": "37eb771650ca49374983284ba27269566300cb85",
-        "title": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD",
-        "url": "https://x.com/ClementDelangue/status/2104731591054660040",
-        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cb066b06879e",
-      "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
-      "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4cf4cd1540a25d4578a4d2f1780289652bba2584",
-          "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
-          "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T19:08:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "4cf4cd1540a25d4578a4d2f1780289652bba2584",
-          "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
-          "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T19:08:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7869,
-      "importance": 0.7869,
-      "importance_score": 0.7869,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9238,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T19:08:15Z",
-      "latest_at": "2026-09-28T19:08:15Z",
-      "primary_item": {
-        "id": "4cf4cd1540a25d4578a4d2f1780289652bba2584",
-        "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
-        "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b6574943f04d",
-      "title": "李飞飞宣布 World Labs 并入 AMD，出任执行副总裁兼首席科学家",
-      "url": "https://x.com/drfeifei/status/2104664403681632453",
-      "primary_url": "https://x.com/drfeifei/status/2104664403681632453",
-      "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5259641aa1ebda417008afc1e93bb9ebff128d1d",
-          "title": "李飞飞宣布 World Labs 并入 AMD，出任执行副总裁兼首席科学家",
-          "url": "https://x.com/drfeifei/status/2104664403681632453",
-          "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:07:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Fei-Fei Li (@drfeifei, World Labs)"
-      ],
-      "items": [
-        {
-          "id": "5259641aa1ebda417008afc1e93bb9ebff128d1d",
-          "title": "李飞飞宣布 World Labs 并入 AMD，出任执行副总裁兼首席科学家",
-          "url": "https://x.com/drfeifei/status/2104664403681632453",
-          "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:07:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7833,
-      "importance": 0.7833,
-      "importance_score": 0.7833,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9371,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T20:07:51Z",
-      "latest_at": "2026-09-28T20:07:51Z",
-      "primary_item": {
-        "id": "5259641aa1ebda417008afc1e93bb9ebff128d1d",
-        "title": "李飞飞宣布 World Labs 并入 AMD，出任执行副总裁兼首席科学家",
-        "url": "https://x.com/drfeifei/status/2104664403681632453",
-        "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d239d97168c3",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-      "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ca94cccd0c3586f5a94d867af37eee8487bd3da1",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-          "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:31:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "ca94cccd0c3586f5a94d867af37eee8487bd3da1",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-          "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:31:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9156,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T18:31:30Z",
-      "latest_at": "2026-09-28T18:31:30Z",
-      "primary_item": {
-        "id": "ca94cccd0c3586f5a94d867af37eee8487bd3da1",
-        "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-        "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
         "source_name": "AI HOT"
       }
     }
