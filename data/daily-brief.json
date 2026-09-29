@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T16:38:15.825596Z",
+  "generated_at": "2026-09-29T17:37:35.279632Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8821,
-      "importance": 0.8821,
-      "importance_score": 0.8821,
+      "score": 0.8796,
+      "importance": 0.8796,
+      "importance_score": 0.8796,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9839,
+        "recency": 0.9699,
         "story_heat": 0.25
       },
       "category": "official",
@@ -195,15 +195,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8624,
-      "importance": 0.8624,
-      "importance_score": 0.8624,
+      "score": 0.8605,
+      "importance": 0.8605,
+      "importance_score": 0.8605,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7208,
+        "recency": 0.7106,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -223,65 +223,265 @@
       }
     },
     {
-      "story_id": "story_984223f109f3",
-      "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "source": "Hugging Face Blog",
+      "story_id": "story_91992ed9f82d",
+      "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
-          "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-          "source": "Hugging Face Blog",
+          "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
+          "title": "Codex CLI 0.159.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-29T13:07:00Z"
+          "published_at": "2026-09-29T00:00:00Z"
+        },
+        {
+          "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
+          "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T00:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hugging Face Blog"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
-          "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-          "source": "Hugging Face Blog",
+          "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
+          "title": "Codex CLI 0.159.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-29T13:07:00Z"
+          "published_at": "2026-09-29T00:00:00Z"
+        },
+        {
+          "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
+          "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T00:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8591,
-      "importance": 0.8591,
-      "importance_score": 0.8591,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8545,
+      "importance": 0.8545,
+      "importance_score": 0.8545,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.9504,
-        "story_heat": 0.0
+        "ai_relevance": 1.0,
+        "recency": 0.7753,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T13:07:00Z",
-      "latest_at": "2026-09-29T13:07:00Z",
+      "earliest_at": "2026-09-29T00:00:00Z",
+      "latest_at": "2026-09-29T00:00:00Z",
       "primary_item": {
-        "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
-        "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-        "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-        "source": "Hugging Face Blog",
+        "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
+        "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_482046899a06",
+      "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标",
+      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+      "primary_url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9fce97be58f60d72003de8d3bdff78542ef4d6c2",
+          "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标",
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T14:22:31Z"
+        },
+        {
+          "id": "afc87fd38c1f88e9cf7daedecbc97ecf311a4223",
+          "title": "OpenAI表示，计划中的GPT-6.1因安全性不足而无法发布",
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T14:42:17.593000Z"
+        },
+        {
+          "id": "e053e18184fdc043c5dd7994d7f751c1a1746ed7",
+          "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标 / OpenAI says planned GPT-6.1 is too insecure to release",
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T14:22:31Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Ars Technica",
+        "Ars Technica：AI（RSS）",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "9fce97be58f60d72003de8d3bdff78542ef4d6c2",
+          "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标",
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T14:22:31Z"
+        },
+        {
+          "id": "afc87fd38c1f88e9cf7daedecbc97ecf311a4223",
+          "title": "OpenAI表示，计划中的GPT-6.1因安全性不足而无法发布",
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T14:42:17.593000Z"
+        },
+        {
+          "id": "e053e18184fdc043c5dd7994d7f751c1a1746ed7",
+          "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标 / OpenAI says planned GPT-6.1 is too insecure to release",
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T14:22:31Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8543,
+      "importance": 0.8543,
+      "importance_score": 0.8543,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.87,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9541,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T14:22:31Z",
+      "latest_at": "2026-09-29T14:42:17.593000Z",
+      "primary_item": {
+        "id": "9fce97be58f60d72003de8d3bdff78542ef4d6c2",
+        "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标",
+        "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_dd66acaed2a0",
+      "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "primary_url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "92a9c0512af0f1bd6f10b0ca495055ced2ee3480",
+          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T17:20:30.075000Z"
+        },
+        {
+          "id": "476791ea672f7f5d5323dc1c86416a98c0375b53",
+          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平 / GPT 6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T17:20:30.075000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "92a9c0512af0f1bd6f10b0ca495055ced2ee3480",
+          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T17:20:30.075000Z"
+        },
+        {
+          "id": "476791ea672f7f5d5323dc1c86416a98c0375b53",
+          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平 / GPT 6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T17:20:30.075000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.87,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9959,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T17:20:30.075000Z",
+      "latest_at": "2026-09-29T17:20:30.075000Z",
+      "primary_item": {
+        "id": "92a9c0512af0f1bd6f10b0ca495055ced2ee3480",
+        "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平",
+        "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -338,15 +538,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.8268,
+      "importance": 0.8268,
+      "importance_score": 0.8268,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7316,
+        "recency": 0.7213,
         "story_heat": 0.25
       },
       "category": "official",
@@ -367,121 +567,65 @@
       }
     },
     {
-      "story_id": "story_dcd4b5a345a6",
-      "title": "OpenAI 因多起智能体对齐事故暂停前沿模型训练",
-      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-      "primary_url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_984223f109f3",
+      "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "154080f8d59b1d4ff14bb3aee2622a1100d4b0ac",
-          "title": "OpenAI 因多起智能体对齐事故暂停前沿模型训练",
-          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T16:43:18Z"
-        },
-        {
-          "id": "0bf64889a787fbc056b176a548baf6f64f56cc86",
-          "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
-          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T16:43:18Z"
-        },
-        {
-          "id": "4cfff3e3943ceae86ec900d59a7bd4b2ff7e0622",
-          "title": "OpenAI 在接连发生多起智能体对齐失调事件后暂停了前沿模型的训练",
-          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T17:56:22.003000Z"
-        },
-        {
-          "id": "f6055ee860ca80f87f8373e85312b8526eef4ff0",
-          "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件 / OpenAI halts frontier-model training amid string of agent misalignment incidents",
-          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-28T16:43:18Z"
+          "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
+          "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T13:07:00Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Ars Technica (科技媒体)",
-        "Ars Technica：AI（RSS）",
-        "arstechnica.com"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "154080f8d59b1d4ff14bb3aee2622a1100d4b0ac",
-          "title": "OpenAI 因多起智能体对齐事故暂停前沿模型训练",
-          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T16:43:18Z"
-        },
-        {
-          "id": "0bf64889a787fbc056b176a548baf6f64f56cc86",
-          "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
-          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T16:43:18Z"
-        },
-        {
-          "id": "4cfff3e3943ceae86ec900d59a7bd4b2ff7e0622",
-          "title": "OpenAI 在接连发生多起智能体对齐失调事件后暂停了前沿模型的训练",
-          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T17:56:22.003000Z"
-        },
-        {
-          "id": "f6055ee860ca80f87f8373e85312b8526eef4ff0",
-          "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件 / OpenAI halts frontier-model training amid string of agent misalignment incidents",
-          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-28T16:43:18Z"
+          "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
+          "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T13:07:00Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8567,
+      "importance": 0.8567,
+      "importance_score": 0.8567,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.708,
-        "story_heat": 0.75
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.937,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T16:43:18Z",
-      "latest_at": "2026-09-28T17:56:22.003000Z",
+      "earliest_at": "2026-09-29T13:07:00Z",
+      "latest_at": "2026-09-29T13:07:00Z",
       "primary_item": {
-        "id": "154080f8d59b1d4ff14bb3aee2622a1100d4b0ac",
-        "title": "OpenAI 因多起智能体对齐事故暂停前沿模型训练",
-        "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
+        "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
+        "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -519,15 +663,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7218,
+        "recency": 0.7116,
         "story_heat": 0.0
       },
       "category": "official",
@@ -637,15 +781,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8389,
-      "importance": 0.8389,
-      "importance_score": 0.8389,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8964,
+        "recency": 0.8837,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -699,15 +843,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
+      "score": 0.8048,
+      "importance": 0.8048,
+      "importance_score": 0.8048,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9874,
+        "recency": 0.9734,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -722,125 +866,6 @@
         "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
         "url": "https://x.com/ClementDelangue/status/2104960836796342729",
         "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4d987bc13622",
-      "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-      "primary_url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:09:02Z"
-        },
-        {
-          "id": "b87a6cba950200715e49e25edf4a1148e9a6bba2",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-28T17:09:02Z"
-        },
-        {
-          "id": "3a467d1e38166c5c48b06046924a1291c0490419",
-          "title": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T23:56:18.714000Z"
-        },
-        {
-          "id": "fc7867808731988abf48c62ad212309149c37749",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-28T17:33:34Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）",
-        "techcrunch.com"
-      ],
-      "items": [
-        {
-          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:09:02Z"
-        },
-        {
-          "id": "b87a6cba950200715e49e25edf4a1148e9a6bba2",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-28T17:09:02Z"
-        },
-        {
-          "id": "3a467d1e38166c5c48b06046924a1291c0490419",
-          "title": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T23:56:18.714000Z"
-        },
-        {
-          "id": "fc7867808731988abf48c62ad212309149c37749",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-28T17:33:34Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7124,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T17:09:02Z",
-      "latest_at": "2026-09-28T23:56:18.714000Z",
-      "primary_item": {
-        "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
-        "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-        "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -879,15 +904,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.7316,
+        "recency": 0.7213,
         "story_heat": 0.0
       },
       "category": "official",
@@ -960,15 +985,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7955,
-      "importance": 0.7955,
-      "importance_score": 0.7955,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7828,
+        "recency": 0.7717,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1041,15 +1066,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7935,
-      "importance": 0.7935,
-      "importance_score": 0.7935,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8884,
+        "recency": 0.8758,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1141,15 +1166,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
+      "score": 0.7884,
+      "importance": 0.7884,
+      "importance_score": 0.7884,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7654,
+        "recency": 0.7546,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1241,15 +1266,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7895,
-      "importance": 0.7895,
-      "importance_score": 0.7895,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7275,
+        "recency": 0.7171,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1322,15 +1347,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7849,
-      "importance": 0.7849,
-      "importance_score": 0.7849,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1347,6 +1372,148 @@
         "url": "https://www.aibase.com/news/31411",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4b4cfee992d3",
+      "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+      "primary_url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bdd7bc28505792431b1428622a88a476b358f177",
+          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:39:33Z"
+        },
+        {
+          "id": "a01680d2b7928d9bd0faff13e805824b90de9560",
+          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-28T20:39:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "bdd7bc28505792431b1428622a88a476b358f177",
+          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:39:33Z"
+        },
+        {
+          "id": "a01680d2b7928d9bd0faff13e805824b90de9560",
+          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-28T20:39:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7388,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T20:39:33Z",
+      "latest_at": "2026-09-28T20:39:33Z",
+      "primary_item": {
+        "id": "bdd7bc28505792431b1428622a88a476b358f177",
+        "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+        "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_04392c500deb",
+      "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择",
+      "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+      "primary_url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+      "source": "Pragmatic Engineer（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "769744b4811cbcd30d59b376764ddc3e05388ad6",
+          "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择",
+          "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+          "source": "Pragmatic Engineer（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T15:53:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Pragmatic Engineer（RSS）"
+      ],
+      "items": [
+        {
+          "id": "769744b4811cbcd30d59b376764ddc3e05388ad6",
+          "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择",
+          "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+          "source": "Pragmatic Engineer（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T15:53:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7811,
+      "importance": 0.7811,
+      "importance_score": 0.7811,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9752,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T15:53:19Z",
+      "latest_at": "2026-09-29T15:53:19Z",
+      "primary_item": {
+        "id": "769744b4811cbcd30d59b376764ddc3e05388ad6",
+        "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择",
+        "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+        "source": "Pragmatic Engineer（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1403,15 +1570,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7588,
+        "recency": 0.7481,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1465,15 +1632,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7791,
-      "importance": 0.7791,
-      "importance_score": 0.7791,
+      "score": 0.777,
+      "importance": 0.777,
+      "importance_score": 0.777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8136,
+        "recency": 0.8021,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1489,211 +1656,6 @@
         "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cf468ec39dd6",
-      "title": "前沿人工智能训练的安全案例 / Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "primary_url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c1f808e273524bad08492a038dae36a455e222a3",
-          "title": "前沿人工智能训练的安全案例 / Towards safety cases for frontier AI training",
-          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c1f808e273524bad08492a038dae36a455e222a3",
-          "title": "前沿人工智能训练的安全案例 / Towards safety cases for frontier AI training",
-          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7316,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T19:00:00Z",
-      "latest_at": "2026-09-28T19:00:00Z",
-      "primary_item": {
-        "id": "c1f808e273524bad08492a038dae36a455e222a3",
-        "title": "前沿人工智能训练的安全案例 / Towards safety cases for frontier AI training",
-        "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ace69cc3aaa0",
-      "title": "自托管运行程序版本的实施日期已更改 / Self-hosted runner version enforcement date has moved",
-      "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
-      "primary_url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
-          "title": "自托管运行程序版本的实施日期已更改 / Self-hosted runner version enforcement date has moved",
-          "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T19:22:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
-          "title": "自托管运行程序版本的实施日期已更改 / Self-hosted runner version enforcement date has moved",
-          "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T19:22:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7964,
-      "importance": 0.7964,
-      "importance_score": 0.7964,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7357,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T19:22:46Z",
-      "latest_at": "2026-09-28T19:22:46Z",
-      "primary_item": {
-        "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
-        "title": "自托管运行程序版本的实施日期已更改 / Self-hosted runner version enforcement date has moved",
-        "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a2ca0e373fa2",
-      "title": "英伟达发布 AI 智能体安全工具 OpenShell，称可阻止 Hugging Face 入侵事件重演",
-      "url": "https://www.aibase.com/news/31409",
-      "primary_url": "https://www.aibase.com/news/31409",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3e79abad4ed016e8e6c769035c64ee6d50834219",
-          "title": "英伟达发布 AI 智能体安全工具 OpenShell，称可阻止 Hugging Face 入侵事件重演",
-          "url": "https://www.aibase.com/news/31409",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T13:37:35.651623Z"
-        },
-        {
-          "id": "75b6aa0f36f5f062587ded9cf25efc76af818175",
-          "title": "英伟达发布 AI 智能体安全工具 OpenShell，称可阻止 Hugging Face 入侵事件重演",
-          "url": "https://www.aibase.com/zh/news/31409",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3e79abad4ed016e8e6c769035c64ee6d50834219",
-          "title": "英伟达发布 AI 智能体安全工具 OpenShell，称可阻止 Hugging Face 入侵事件重演",
-          "url": "https://www.aibase.com/news/31409",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T13:37:35.651623Z"
-        },
-        {
-          "id": "75b6aa0f36f5f062587ded9cf25efc76af818175",
-          "title": "英伟达发布 AI 智能体安全工具 OpenShell，称可阻止 Hugging Face 入侵事件重演",
-          "url": "https://www.aibase.com/zh/news/31409",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7849,
-      "importance": 0.7849,
-      "importance_score": 0.7849,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9574,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T13:37:35.651623Z",
-      "latest_at": "2026-09-29T13:37:35.651623Z",
-      "primary_item": {
-        "id": "3e79abad4ed016e8e6c769035c64ee6d50834219",
-        "title": "英伟达发布 AI 智能体安全工具 OpenShell，称可阻止 Hugging Face 入侵事件重演",
-        "url": "https://www.aibase.com/news/31409",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
