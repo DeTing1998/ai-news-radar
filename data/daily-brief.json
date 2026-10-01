@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-10-01T14:37:46.676113Z",
+  "generated_at": "2026-10-01T15:37:42.264917Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_0bf00b70dbd7",
+      "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "primary_url": "https://huggingface.co/blog/allenai/olmocore3",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T15:01:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T15:01:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8584,
+      "importance": 0.8584,
+      "importance_score": 0.8584,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9914,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T15:01:43Z",
+      "latest_at": "2026-10-01T15:01:43Z",
+      "primary_item": {
+        "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+        "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "url": "https://huggingface.co/blog/allenai/olmocore3",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_2bced9c6e490",
       "title": "GitHub 异步合并 API 正式可用 / GitHub async merge API generally available",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8424,
-      "importance": 0.8424,
-      "importance_score": 0.8424,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9912,
+        "recency": 0.977,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8346,
-      "importance": 0.8346,
-      "importance_score": 0.8346,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7644,
+        "recency": 0.7535,
         "story_heat": 0.25
       },
       "category": "official",
@@ -182,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8399,
-      "importance": 0.8399,
-      "importance_score": 0.8399,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9771,
+        "recency": 0.9631,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,15 +325,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8011,
-      "importance": 0.8011,
-      "importance_score": 0.8011,
+      "score": 0.7987,
+      "importance": 0.7987,
+      "importance_score": 0.7987,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9641,
+        "recency": 0.9503,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -363,15 +425,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7918,
+      "importance": 0.7918,
+      "importance_score": 0.7918,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7508,
+        "recency": 0.7401,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -388,88 +450,6 @@
         "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_396b95f3429c",
-      "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio",
-      "primary_url": "https://deepmind.google/blog/introducing-synthid-bio",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
-          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-          "url": "https://deepmind.google/blog/introducing-synthid-bio",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T15:03:07Z"
-        },
-        {
-          "id": "d227a7e21209de44cca6245c5f4df093f1ef374f",
-          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-          "url": "https://deepmind.google/blog/introducing-synthid-bio",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T15:03:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google DeepMind",
-        "Google DeepMind：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
-          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-          "url": "https://deepmind.google/blog/introducing-synthid-bio",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T15:03:07Z"
-        },
-        {
-          "id": "d227a7e21209de44cca6245c5f4df093f1ef374f",
-          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-          "url": "https://deepmind.google/blog/introducing-synthid-bio",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T15:03:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7114,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T15:03:07Z",
-      "latest_at": "2026-09-30T15:03:07Z",
-      "primary_item": {
-        "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
-        "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-        "url": "https://deepmind.google/blog/introducing-synthid-bio",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -526,15 +506,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.867,
+        "recency": 0.8545,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -588,15 +568,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7819,
+        "recency": 0.7707,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -648,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.777,
+        "recency": 0.7659,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -708,15 +688,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8036,
-      "importance": 0.8036,
-      "importance_score": 0.8036,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7758,
+        "recency": 0.7647,
         "story_heat": 0.0
       },
       "category": "official",
@@ -789,15 +769,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7247,
+        "recency": 0.7144,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -851,15 +831,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9038,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -911,15 +891,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7342,
-      "importance": 0.7342,
-      "importance_score": 0.7342,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9476,
+        "recency": 0.934,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -933,66 +913,6 @@
         "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
         "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
         "source": "Ethan Mollick：One Useful Thing（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c943108bbbb2",
-      "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-      "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-      "primary_url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
-          "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-          "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
-          "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-          "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7213,
-      "importance": 0.7213,
-      "importance_score": 0.7213,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8096,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T00:00:00Z",
-      "latest_at": "2026-10-01T00:00:00Z",
-      "primary_item": {
-        "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
-        "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-        "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-        "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1031,15 +951,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7297,
+        "recency": 0.7192,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1201,15 +1121,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.6579,
-      "importance": 0.6579,
-      "importance_score": 0.6579,
+      "score": 0.6556,
+      "importance": 0.6556,
+      "importance_score": 0.6556,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.8909,
+        "recency": 0.8781,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1280,15 +1200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6195,
-      "importance": 0.6195,
-      "importance_score": 0.6195,
+      "score": 0.6175,
+      "importance": 0.6175,
+      "importance_score": 0.6175,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5544,
         "source_tier": 0.62,
         "ai_relevance": 0.77,
-        "recency": 0.7652,
+        "recency": 0.7543,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1358,15 +1278,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5869,
-      "importance": 0.5869,
-      "importance_score": 0.5869,
+      "score": 0.5849,
+      "importance": 0.5849,
+      "importance_score": 0.5849,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7718,
+        "recency": 0.7608,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1381,6 +1301,202 @@
         "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
         "source": "The Verge",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_651ee7f27edc",
+      "title": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
+      "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "primary_url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "source": "www.nytimes.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a71ad219a49b1b4022bf271d2381c61d825e4557",
+          "title": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
+          "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T15:10:06.125000Z"
+        },
+        {
+          "id": "5a790dad2e0196d33a4c0aed642727e0636733ed",
+          "title": "Meta利用人工智能数据中心规避数十亿美元的联邦税款 / Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+          "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-01T13:05:51Z"
+        },
+        {
+          "id": "a164494fe55c6b0f1243f39360b992a60f43698c",
+          "title": "Meta 使用人工智能数据中心可避免数十亿联邦税 / Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+          "url": "https://news.ycombinator.com/item?id=49921118",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T13:05:51Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.nytimes.com"
+      ],
+      "items": [
+        {
+          "id": "a71ad219a49b1b4022bf271d2381c61d825e4557",
+          "title": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
+          "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T15:10:06.125000Z"
+        },
+        {
+          "id": "5a790dad2e0196d33a4c0aed642727e0636733ed",
+          "title": "Meta利用人工智能数据中心规避数十亿美元的联邦税款 / Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+          "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-01T13:05:51Z"
+        },
+        {
+          "id": "a164494fe55c6b0f1243f39360b992a60f43698c",
+          "title": "Meta 使用人工智能数据中心可避免数十亿联邦税 / Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+          "url": "https://news.ycombinator.com/item?id=49921118",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T13:05:51Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5696,
+      "importance": 0.5696,
+      "importance_score": 0.5696,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9934,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T13:05:51Z",
+      "latest_at": "2026-10-01T15:10:06.125000Z",
+      "primary_item": {
+        "id": "a71ad219a49b1b4022bf271d2381c61d825e4557",
+        "title": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
+        "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+        "source": "www.nytimes.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_caab970345b9",
+      "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "primary_url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "source": "news.synopsys.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f87ceaf89f6e86edfe3eb1fcb6bd709b8b09a8b1",
+          "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+          "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+          "source": "news.synopsys.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T14:54:06.176000Z"
+        },
+        {
+          "id": "3a32d8b901b2185d0d68900620f088ba222077ca",
+          "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-01T10:21:36Z"
+        },
+        {
+          "id": "94029b37e9dcdb1b334a06eaef11d5efd7fd5405",
+          "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "url": "https://news.ycombinator.com/item?id=49919910",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T10:21:36Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "news.synopsys.com"
+      ],
+      "items": [
+        {
+          "id": "f87ceaf89f6e86edfe3eb1fcb6bd709b8b09a8b1",
+          "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+          "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+          "source": "news.synopsys.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T14:54:06.176000Z"
+        },
+        {
+          "id": "3a32d8b901b2185d0d68900620f088ba222077ca",
+          "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-01T10:21:36Z"
+        },
+        {
+          "id": "94029b37e9dcdb1b334a06eaef11d5efd7fd5405",
+          "title": "GPT-Synopsys：前沿智能革新芯片设计 / GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "url": "https://news.ycombinator.com/item?id=49919910",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T10:21:36Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5689,
+      "importance": 0.5689,
+      "importance_score": 0.5689,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9896,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T10:21:36Z",
+      "latest_at": "2026-10-01T14:54:06.176000Z",
+      "primary_item": {
+        "id": "f87ceaf89f6e86edfe3eb1fcb6bd709b8b09a8b1",
+        "title": "GPT-Synopsys：Frontier Intelligence 将彻底改变芯片设计",
+        "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+        "source": "news.synopsys.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1454,15 +1570,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5642,
-      "importance": 0.5642,
-      "importance_score": 0.5642,
+      "score": 0.5617,
+      "importance": 0.5617,
+      "importance_score": 0.5617,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9633,
+        "recency": 0.9495,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1476,123 +1592,6 @@
         "title": "人工智能支出激增提振了全球制造业活动",
         "url": "https://www.reuters.com/world/china/global-economy-asian-factory-activity-expands-thanks-global-ai-boom-2026-10-01",
         "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7e0697890e70",
-      "title": "Show HN: Strata——一个富有表现力的语义层，能够对你的大语言模型说“不”",
-      "url": "https://strata.do/try",
-      "primary_url": "https://strata.do/try",
-      "source": "strata.do",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a6c392fff4711b4d839d22c8235e582177f26b9f",
-          "title": "Show HN: Strata——一个富有表现力的语义层，能够对你的大语言模型说“不”",
-          "url": "https://strata.do/try",
-          "source": "strata.do",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-30T17:58:05.156000Z"
-        },
-        {
-          "id": "662c508446290925735227cc53e45c1f02ab0072",
-          "title": "Show HN：Strata——一个可以对你的法学硕士说“不”的表达语义层 / Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "url": "https://strata.do",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-30T14:59:57Z"
-        },
-        {
-          "id": "8284fb91b98ecc9ffec76421aea80794c33a6dcd",
-          "title": "Show HN: Strata——一个富有表现力的语义层，能够对你的大语言模型说“不” / Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "url": "https://strata.do/try",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-30T14:59:57Z"
-        },
-        {
-          "id": "98d3ab24273ef17096a7f30521cde7a358564846",
-          "title": "Show HN：Strata——一个可以对你的法学硕士说“不”的表达语义层 / Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "url": "https://news.ycombinator.com/item?id=49909913",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-30T14:59:57Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "strata.do"
-      ],
-      "items": [
-        {
-          "id": "a6c392fff4711b4d839d22c8235e582177f26b9f",
-          "title": "Show HN: Strata——一个富有表现力的语义层，能够对你的大语言模型说“不”",
-          "url": "https://strata.do/try",
-          "source": "strata.do",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-30T17:58:05.156000Z"
-        },
-        {
-          "id": "662c508446290925735227cc53e45c1f02ab0072",
-          "title": "Show HN：Strata——一个可以对你的法学硕士说“不”的表达语义层 / Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "url": "https://strata.do",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-30T14:59:57Z"
-        },
-        {
-          "id": "8284fb91b98ecc9ffec76421aea80794c33a6dcd",
-          "title": "Show HN: Strata——一个富有表现力的语义层，能够对你的大语言模型说“不” / Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "url": "https://strata.do/try",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-30T14:59:57Z"
-        },
-        {
-          "id": "98d3ab24273ef17096a7f30521cde7a358564846",
-          "title": "Show HN：Strata——一个可以对你的法学硕士说“不”的表达语义层 / Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-          "url": "https://news.ycombinator.com/item?id=49909913",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-30T14:59:57Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5494,
-      "importance": 0.5494,
-      "importance_score": 0.5494,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.742,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-30T14:59:57Z",
-      "latest_at": "2026-09-30T17:58:05.156000Z",
-      "primary_item": {
-        "id": "a6c392fff4711b4d839d22c8235e582177f26b9f",
-        "title": "Show HN: Strata——一个富有表现力的语义层，能够对你的大语言模型说“不”",
-        "url": "https://strata.do/try",
-        "source": "strata.do",
         "source_name": "Buzzing"
       }
     }
