@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T23:37:35.516021Z",
+  "generated_at": "2026-10-02T00:37:38.487538Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8408,
-      "importance": 0.8408,
-      "importance_score": 0.8408,
+      "score": 0.8384,
+      "importance": 0.8384,
+      "importance_score": 0.8384,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.938,
+        "recency": 0.9245,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8832,
+        "recency": 0.8706,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8356,
-      "importance": 0.8356,
-      "importance_score": 0.8356,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9087,
+        "recency": 0.8957,
         "story_heat": 0.0
       },
       "category": "official",
@@ -186,68 +186,6 @@
         "title": "永恒的补充 / The eternal complement",
         "url": "https://openai.com/index/the-eternal-complement",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.160.0 / Codex CLI 0.160.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "50178a3a79848cac2d6d54e21d710e40b8ffd343",
-          "title": "法典 CLI 0.160.0 / Codex CLI 0.160.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "50178a3a79848cac2d6d54e21d710e40b8ffd343",
-          "title": "法典 CLI 0.160.0 / Codex CLI 0.160.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7109,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T00:00:00Z",
-      "latest_at": "2026-10-01T00:00:00Z",
-      "primary_item": {
-        "id": "50178a3a79848cac2d6d54e21d710e40b8ffd343",
-        "title": "法典 CLI 0.160.0 / Codex CLI 0.160.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -286,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9374,
+        "recency": 0.924,
         "story_heat": 0.0
       },
       "category": "official",
@@ -311,6 +249,87 @@
         "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b163633ce906",
+      "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
+      "url": "https://www.ithome.com/1/009/204.htm",
+      "primary_url": "https://www.ithome.com/1/009/204.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2dcb91b6fb8784c240443a70c0e3dd97f4cbb2f2",
+          "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
+          "url": "https://www.ithome.com/1/009/204.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T00:06:15Z"
+        },
+        {
+          "id": "8068561e26cce15992559c4140312ae3ee1b5529",
+          "title": "加州检察长向 OpenAI 发出传票，调查 AI 网络安全风险",
+          "url": "https://www.ithome.com/1/009/204.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家（RSS）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2dcb91b6fb8784c240443a70c0e3dd97f4cbb2f2",
+          "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
+          "url": "https://www.ithome.com/1/009/204.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T00:06:15Z"
+        },
+        {
+          "id": "8068561e26cce15992559c4140312ae3ee1b5529",
+          "title": "加州检察长向 OpenAI 发出传票，调查 AI 网络安全风险",
+          "url": "https://www.ithome.com/1/009/204.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9925,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T00:06:15Z",
+      "latest_at": "2026-10-02T00:37:38.487538Z",
+      "primary_item": {
+        "id": "2dcb91b6fb8784c240443a70c0e3dd97f4cbb2f2",
+        "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
+        "url": "https://www.ithome.com/1/009/204.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -348,15 +367,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
+      "score": 0.8309,
+      "importance": 0.8309,
+      "importance_score": 0.8309,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8957,
+        "recency": 0.8829,
         "story_heat": 0.0
       },
       "category": "official",
@@ -373,6 +392,87 @@
         "url": "https://openai.com/index/albertsons-reimagining-retail",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9128069ece23",
+      "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
+      "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+      "primary_url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e874f23f6b419b05e0da8c0a5789ba4223e709f9",
+          "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
+          "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T23:44:13Z"
+        },
+        {
+          "id": "6baa6dc87e964f2578b15cf9fad1167283f3d343",
+          "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI's GPT-6 Astra Ultrafast",
+          "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "NVIDIA Blog（RSS）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e874f23f6b419b05e0da8c0a5789ba4223e709f9",
+          "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
+          "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T23:44:13Z"
+        },
+        {
+          "id": "6baa6dc87e964f2578b15cf9fad1167283f3d343",
+          "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI's GPT-6 Astra Ultrafast",
+          "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7813,
+      "importance": 0.7813,
+      "importance_score": 0.7813,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9872,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T23:44:13Z",
+      "latest_at": "2026-10-02T00:37:38.487538Z",
+      "primary_item": {
+        "id": "e874f23f6b419b05e0da8c0a5789ba4223e709f9",
+        "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
+        "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -429,15 +529,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8466,
+        "recency": 0.8345,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -491,15 +591,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
+      "score": 0.8323,
+      "importance": 0.8323,
+      "importance_score": 0.8323,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9484,
+        "recency": 0.9348,
         "story_heat": 0.0
       },
       "category": "official",
@@ -516,6 +616,67 @@
         "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_848558d9e862",
+      "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
+      "url": "https://x.com/ArtificialAnlys/status/2105814318294114720",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2105814318294114720",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0dde5101f760376bcf6b3203694e0dec223140bd",
+          "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
+          "url": "https://x.com/ArtificialAnlys/status/2105814318294114720",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T00:17:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "0dde5101f760376bcf6b3203694e0dec223140bd",
+          "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
+          "url": "https://x.com/ArtificialAnlys/status/2105814318294114720",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T00:17:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9951,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T00:17:12Z",
+      "latest_at": "2026-10-02T00:17:12Z",
+      "primary_item": {
+        "id": "0dde5101f760376bcf6b3203694e0dec223140bd",
+        "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
+        "url": "https://x.com/ArtificialAnlys/status/2105814318294114720",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -553,15 +714,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -580,49 +741,49 @@
       }
     },
     {
-      "story_id": "story_e2222d31e665",
-      "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
-      "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "story_id": "story_9506769ef6ff",
+      "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+      "url": "https://suno.com/blog/introducing-speech-beta",
+      "primary_url": "https://suno.com/blog/introducing-speech-beta",
+      "source": "Suno：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8e18fbe70daa6a142ef1934895750767f733646e",
-          "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
-          "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
+          "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+          "url": "https://suno.com/blog/introducing-speech-beta",
+          "source": "Suno：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-01T22:43:17Z"
+          "published_at": "2026-10-01T20:35:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
+        "Suno：Blog（网页）"
       ],
       "items": [
         {
-          "id": "8e18fbe70daa6a142ef1934895750767f733646e",
-          "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
-          "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
+          "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+          "url": "https://suno.com/blog/introducing-speech-beta",
+          "source": "Suno：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-01T22:43:17Z"
+          "published_at": "2026-10-01T20:35:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.69,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.987,
+        "recency": 0.9433,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -630,13 +791,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T22:43:17Z",
-      "latest_at": "2026-10-01T22:43:17Z",
+      "earliest_at": "2026-10-01T20:35:00Z",
+      "latest_at": "2026-10-01T20:35:00Z",
       "primary_item": {
-        "id": "8e18fbe70daa6a142ef1934895750767f733646e",
-        "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
-        "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
+        "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+        "url": "https://suno.com/blog/introducing-speech-beta",
+        "source": "Suno：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -675,15 +836,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9672,
+        "recency": 0.9533,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -699,68 +860,6 @@
         "url": "https://x.com/krea_ai/status/2105769469880799716",
         "source": "X：Krea AI (@krea_ai)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3bba52758573",
-      "title": "通过 ChatGPT Work，The Den 每周可以腾出 10-15 个小时来发展 / The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "url": "https://openai.com/index/the-den-family-social",
-      "primary_url": "https://openai.com/index/the-den-family-social",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "578444e4a2df2df57825356e147087c84916b1f5",
-          "title": "通过 ChatGPT Work，The Den 每周可以腾出 10-15 个小时来发展 / The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-          "url": "https://openai.com/index/the-den-family-social",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "578444e4a2df2df57825356e147087c84916b1f5",
-          "title": "通过 ChatGPT Work，The Den 每周可以腾出 10-15 个小时来发展 / The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-          "url": "https://openai.com/index/the-den-family-social",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7109,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T00:00:00Z",
-      "latest_at": "2026-10-01T00:00:00Z",
-      "primary_item": {
-        "id": "578444e4a2df2df57825356e147087c84916b1f5",
-        "title": "通过 ChatGPT Work，The Den 每周可以腾出 10-15 个小时来发展 / The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-        "url": "https://openai.com/index/the-den-family-social",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -798,15 +897,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9068,
+        "recency": 0.8938,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -858,15 +957,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
+      "score": 0.8323,
+      "importance": 0.8323,
+      "importance_score": 0.8323,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9484,
+        "recency": 0.9348,
         "story_heat": 0.0
       },
       "category": "official",
@@ -920,15 +1019,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9091,
+        "recency": 0.896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -980,15 +1079,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9238,
+        "recency": 0.9105,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1002,6 +1101,66 @@
         "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
         "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
         "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f6a9762ac724",
+      "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
+      "url": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing",
+      "primary_url": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fb9183eb893f9756b431e52634014151fad46e04",
+          "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
+          "url": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "fb9183eb893f9756b431e52634014151fad46e04",
+          "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
+          "url": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.991,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-02T00:00:00Z",
+      "latest_at": "2026-10-02T00:00:00Z",
+      "primary_item": {
+        "id": "fb9183eb893f9756b431e52634014151fad46e04",
+        "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
+        "url": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing",
+        "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1059,15 +1218,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7613,
+        "recency": 0.7504,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1120,15 +1279,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7278,
-      "importance": 0.7278,
-      "importance_score": 0.7278,
+      "score": 0.7256,
+      "importance": 0.7256,
+      "importance_score": 0.7256,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8454,
+        "recency": 0.8333,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1143,128 +1302,6 @@
         "url": "https://claude.dev/blog/getting-started-with-claude-code-mods",
         "source": "Anthropic：Claude.dev 开发者博客（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2d696cb76d76",
-      "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
-      "url": "https://x.com/arena/status/2105733983250301224",
-      "primary_url": "https://x.com/arena/status/2105733983250301224",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "39b203bef17eae3f8d7f26f6b089fd3a9dc2439f",
-          "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
-          "url": "https://x.com/arena/status/2105733983250301224",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T18:57:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "39b203bef17eae3f8d7f26f6b089fd3a9dc2439f",
-          "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
-          "url": "https://x.com/arena/status/2105733983250301224",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T18:57:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9349,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T18:57:58Z",
-      "latest_at": "2026-10-01T18:57:58Z",
-      "primary_item": {
-        "id": "39b203bef17eae3f8d7f26f6b089fd3a9dc2439f",
-        "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
-        "url": "https://x.com/arena/status/2105733983250301224",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_90b9985c3923",
-      "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
-      "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
-          "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
-          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T16:30:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
-          "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
-          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T16:30:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9022,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T16:30:10Z",
-      "latest_at": "2026-10-01T16:30:10Z",
-      "primary_item": {
-        "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
-        "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
-        "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     }
   ]
