@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T19:37:36.916723Z",
+  "generated_at": "2026-10-03T20:37:32.510804Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
+      "score": 0.7944,
+      "importance": 0.7944,
+      "importance_score": 0.7944,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.735,
+        "recency": 0.7245,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7821,
-      "importance": 0.7821,
-      "importance_score": 0.7821,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8251,
+        "recency": 0.8132,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -181,15 +181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -334,15 +334,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6023,
-      "importance": 0.6023,
-      "importance_score": 0.6023,
+      "score": 0.6,
+      "importance": 0.6,
+      "importance_score": 0.6,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8974,
+        "recency": 0.8846,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -505,15 +505,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.5993,
-      "importance": 0.5993,
-      "importance_score": 0.5993,
+      "score": 0.5971,
+      "importance": 0.5971,
+      "importance_score": 0.5971,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8807,
+        "recency": 0.8681,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -531,30 +531,109 @@
       }
     },
     {
-      "story_id": "story_810f091c82ef",
-      "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-      "primary_url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+      "story_id": "story_5f57051b63cd",
+      "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献",
+      "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+      "primary_url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2080d936c1819f46fd25670f1c25124c49b75be8",
+          "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献",
+          "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T19:57:53.515000Z"
+        },
+        {
+          "id": "8221a55e5df868c8dfa529edede0a880d2d6db7a",
+          "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献 / OpenAI leader who quit says he can do more for safety from outside the company",
+          "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T19:01:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "2080d936c1819f46fd25670f1c25124c49b75be8",
+          "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献",
+          "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T19:57:53.515000Z"
+        },
+        {
+          "id": "8221a55e5df868c8dfa529edede0a880d2d6db7a",
+          "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献 / OpenAI leader who quit says he can do more for safety from outside the company",
+          "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T19:01:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5441,
+      "importance": 0.5441,
+      "importance_score": 0.5441,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9905,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T19:01:53Z",
+      "latest_at": "2026-10-03T19:57:53.515000Z",
+      "primary_item": {
+        "id": "2080d936c1819f46fd25670f1c25124c49b75be8",
+        "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献",
+        "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_fc994d69ad09",
+      "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+      "primary_url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "2f5b6f59a640c66062d519737a3fbf50426f8ef5",
-          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
+          "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-03T17:57:03Z"
+          "published_at": "2026-10-03T18:29:30Z"
         },
         {
-          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
-          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://news.ycombinator.com/item?id=49946321",
+          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
+          "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://news.ycombinator.com/item?id=49946567",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-03T17:57:03Z"
+          "published_at": "2026-10-03T18:29:30Z"
         }
       ],
       "source_count": 2,
@@ -564,47 +643,47 @@
       ],
       "items": [
         {
-          "id": "2f5b6f59a640c66062d519737a3fbf50426f8ef5",
-          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
+          "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-03T17:57:03Z"
+          "published_at": "2026-10-03T18:29:30Z"
         },
         {
-          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
-          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://news.ycombinator.com/item?id=49946321",
+          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
+          "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://news.ycombinator.com/item?id=49946567",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-03T17:57:03Z"
+          "published_at": "2026-10-03T18:29:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9761,
+        "recency": 0.9697,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T17:57:03Z",
-      "latest_at": "2026-10-03T17:57:03Z",
+      "earliest_at": "2026-10-03T18:29:30Z",
+      "latest_at": "2026-10-03T18:29:30Z",
       "primary_item": {
-        "id": "2f5b6f59a640c66062d519737a3fbf50426f8ef5",
-        "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-        "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+        "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
+        "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
@@ -662,15 +741,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5342,
+      "importance": 0.5342,
+      "importance_score": 0.5342,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9492,
+        "recency": 0.9356,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -741,15 +820,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5312,
-      "importance": 0.5312,
-      "importance_score": 0.5312,
+      "score": 0.5288,
+      "importance": 0.5288,
+      "importance_score": 0.5288,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.919,
+        "recency": 0.9058,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -820,15 +899,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -899,15 +978,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.5239,
+      "importance": 0.5239,
+      "importance_score": 0.5239,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8911,
+        "recency": 0.8783,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -925,180 +1004,82 @@
       }
     },
     {
-      "story_id": "story_4d668566c7c8",
-      "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维",
-      "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
-      "primary_url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_810f091c82ef",
+      "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+      "primary_url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "9c168a0f87df704e40ad02515e70c79949900843",
-          "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维",
-          "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T10:17:54.194000Z"
+          "id": "2f5b6f59a640c66062d519737a3fbf50426f8ef5",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T17:57:03Z"
         },
         {
-          "id": "77e3fcef1f15427808992e04ab279421f20a32df",
-          "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维 / 2 AI habits that can weaken your critical thinking, according to a BCG exec",
-          "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T09:50:01Z"
+          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://news.ycombinator.com/item?id=49946321",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:57:03Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "9c168a0f87df704e40ad02515e70c79949900843",
-          "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维",
-          "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T10:17:54.194000Z"
+          "id": "2f5b6f59a640c66062d519737a3fbf50426f8ef5",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T17:57:03Z"
         },
         {
-          "id": "77e3fcef1f15427808992e04ab279421f20a32df",
-          "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维 / 2 AI habits that can weaken your critical thinking, according to a BCG exec",
-          "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T09:50:01Z"
+          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://news.ycombinator.com/item?id=49946321",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:57:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5231,
-      "importance": 0.5231,
-      "importance_score": 0.5231,
+      "score": 0.539,
+      "importance": 0.539,
+      "importance_score": 0.539,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.874,
+        "recency": 0.9621,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T09:50:01Z",
-      "latest_at": "2026-10-03T10:17:54.194000Z",
+      "earliest_at": "2026-10-03T17:57:03Z",
+      "latest_at": "2026-10-03T17:57:03Z",
       "primary_item": {
-        "id": "9c168a0f87df704e40ad02515e70c79949900843",
-        "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维",
-        "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e35138269f8b",
-      "title": "Show HN: 开发了一个开源的乐高AI生成器",
-      "url": "https://github.com/anteloc/ldraw-nova",
-      "primary_url": "https://github.com/anteloc/ldraw-nova",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
-          "title": "Show HN: 开发了一个开源的乐高AI生成器",
-          "url": "https://github.com/anteloc/ldraw-nova",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T20:13:45.012000Z"
-        },
-        {
-          "id": "c24639a6187c2d76a863de1d12cb2ae83dbdf20e",
-          "title": "Show HN: 开发了一个开源的乐高AI生成器 / Show HN: Made an open-source Lego AI generator",
-          "url": "https://github.com/anteloc/ldraw-nova",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T20:00:15Z"
-        },
-        {
-          "id": "a666c1a00df38beccd91fc3b866760e75714ab81",
-          "title": "Show HN：制作了一个开源乐高人工智能生成器 / Show HN: Made an open-source Lego AI generator",
-          "url": "https://news.ycombinator.com/item?id=49937916",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T20:00:15Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
-          "title": "Show HN: 开发了一个开源的乐高AI生成器",
-          "url": "https://github.com/anteloc/ldraw-nova",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T20:13:45.012000Z"
-        },
-        {
-          "id": "c24639a6187c2d76a863de1d12cb2ae83dbdf20e",
-          "title": "Show HN: 开发了一个开源的乐高AI生成器 / Show HN: Made an open-source Lego AI generator",
-          "url": "https://github.com/anteloc/ldraw-nova",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T20:00:15Z"
-        },
-        {
-          "id": "a666c1a00df38beccd91fc3b866760e75714ab81",
-          "title": "Show HN：制作了一个开源乐高人工智能生成器 / Show HN: Made an open-source Lego AI generator",
-          "url": "https://news.ycombinator.com/item?id=49937916",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T20:00:15Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5192,
-      "importance": 0.5192,
-      "importance_score": 0.5192,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7133,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-02T20:00:15Z",
-      "latest_at": "2026-10-02T20:13:45.012000Z",
-      "primary_item": {
-        "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
-        "title": "Show HN: 开发了一个开源的乐高AI生成器",
-        "url": "https://github.com/anteloc/ldraw-nova",
-        "source": "github.com",
-        "source_name": "Buzzing"
+        "id": "2f5b6f59a640c66062d519737a3fbf50426f8ef5",
+        "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+        "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1155,15 +1136,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5083,
-      "importance": 0.5083,
-      "importance_score": 0.5083,
+      "score": 0.5063,
+      "importance": 0.5063,
+      "importance_score": 0.5063,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7918,
+        "recency": 0.7805,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1234,15 +1215,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5069,
-      "importance": 0.5069,
-      "importance_score": 0.5069,
+      "score": 0.5048,
+      "importance": 0.5048,
+      "importance_score": 0.5048,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7837,
+        "recency": 0.7725,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1312,15 +1293,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5024,
-      "importance": 0.5024,
-      "importance_score": 0.5024,
+      "score": 0.5005,
+      "importance": 0.5005,
+      "importance_score": 0.5005,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7591,
+        "recency": 0.7482,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1391,15 +1372,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5022,
-      "importance": 0.5022,
-      "importance_score": 0.5022,
+      "score": 0.5002,
+      "importance": 0.5002,
+      "importance_score": 0.5002,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7577,
+        "recency": 0.7469,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1470,15 +1451,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5307,
-      "importance": 0.5307,
-      "importance_score": 0.5307,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9163,
+        "recency": 0.9032,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1496,30 +1477,30 @@
       }
     },
     {
-      "story_id": "story_5981ed276f26",
-      "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
-      "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
-      "primary_url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+      "story_id": "story_4d668566c7c8",
+      "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维",
+      "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
+      "primary_url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "8d43c5b22543b8a6cedc31ad16d4f536b569c8f6",
-          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
-          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+          "id": "9c168a0f87df704e40ad02515e70c79949900843",
+          "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维",
+          "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-03T09:47:55.404000Z"
+          "published_at": "2026-10-03T10:17:54.194000Z"
         },
         {
-          "id": "adea3472cbdd1d29c89c1fd961aa3c52b1a08034",
-          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。 / AI slop is coming for Hollywood. Some of it is already better.",
-          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+          "id": "77e3fcef1f15427808992e04ab279421f20a32df",
+          "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维 / 2 AI habits that can weaken your critical thinking, according to a BCG exec",
+          "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-03T09:30:02Z"
+          "published_at": "2026-10-03T09:50:01Z"
         }
       ],
       "source_count": 2,
@@ -1529,47 +1510,47 @@
       ],
       "items": [
         {
-          "id": "8d43c5b22543b8a6cedc31ad16d4f536b569c8f6",
-          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
-          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+          "id": "9c168a0f87df704e40ad02515e70c79949900843",
+          "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维",
+          "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-03T09:47:55.404000Z"
+          "published_at": "2026-10-03T10:17:54.194000Z"
         },
         {
-          "id": "adea3472cbdd1d29c89c1fd961aa3c52b1a08034",
-          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。 / AI slop is coming for Hollywood. Some of it is already better.",
-          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+          "id": "77e3fcef1f15427808992e04ab279421f20a32df",
+          "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维 / 2 AI habits that can weaken your critical thinking, according to a BCG exec",
+          "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-03T09:30:02Z"
+          "published_at": "2026-10-03T09:50:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.522,
-      "importance": 0.522,
-      "importance_score": 0.522,
+      "score": 0.5209,
+      "importance": 0.5209,
+      "importance_score": 0.5209,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8677,
+        "recency": 0.8615,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T09:30:02Z",
-      "latest_at": "2026-10-03T09:47:55.404000Z",
+      "earliest_at": "2026-10-03T09:50:01Z",
+      "latest_at": "2026-10-03T10:17:54.194000Z",
       "primary_item": {
-        "id": "8d43c5b22543b8a6cedc31ad16d4f536b569c8f6",
-        "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
-        "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+        "id": "9c168a0f87df704e40ad02515e70c79949900843",
+        "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维",
+        "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1627,15 +1608,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
+      "score": 0.515,
+      "importance": 0.515,
+      "importance_score": 0.515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8409,
+        "recency": 0.8288,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1706,15 +1687,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5227,
-      "importance": 0.5227,
-      "importance_score": 0.5227,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8717,
+        "recency": 0.8592,
         "story_heat": 0.25
       },
       "category": "watch",
