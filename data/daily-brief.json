@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:37:32.739971Z",
+  "generated_at": "2026-10-04T11:37:34.972048Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8571,
-      "importance": 0.8571,
-      "importance_score": 0.8571,
+      "score": 0.8549,
+      "importance": 0.8549,
+      "importance_score": 0.8549,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8448,
+        "recency": 0.8327,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8318,
+        "recency": 0.8198,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -181,15 +181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.76,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -296,15 +296,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.576,
-      "importance": 0.576,
-      "importance_score": 0.576,
+      "score": 0.5737,
+      "importance": 0.5737,
+      "importance_score": 0.5737,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8902,
+        "recency": 0.8774,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -394,15 +394,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5686,
-      "importance": 0.5686,
-      "importance_score": 0.5686,
+      "score": 0.566,
+      "importance": 0.566,
+      "importance_score": 0.566,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9877,
+        "recency": 0.9735,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -492,15 +492,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5686,
-      "importance": 0.5686,
-      "importance_score": 0.5686,
+      "score": 0.566,
+      "importance": 0.566,
+      "importance_score": 0.566,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9877,
+        "recency": 0.9735,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -518,174 +518,82 @@
       }
     },
     {
-      "story_id": "story_9a14422b82b9",
-      "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-      "url": "https://tej.as/blog/aleph-alpha-kolibri",
-      "primary_url": "https://tej.as/blog/aleph-alpha-kolibri",
-      "source": "tej.as",
-      "source_name": "Buzzing",
+      "story_id": "story_26c664897667",
+      "title": "迈克尔-丹耶 / 普斯塔克-克劳德 / michael-denyer /      pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "primary_url": "https://github.com/michael-denyer/pstack-claude",
+      "source": "github",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "947672c54a94c9809a1dcfa2c8088bdf28fa6f50",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "tej.as",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T10:49:44.714000Z"
-        },
-        {
-          "id": "01fce6e6b411020afe24d51738d173a332dc30d7",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Aleph Alpha Kolibri: How the sovereign German LLM works",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T10:43:51Z"
-        },
-        {
-          "id": "b50d14afd42fe6e23d6b17231e9a41d48f54dc0b",
-          "title": "Aleph Alpha Kolibri：德国主权法学硕士如何运作 / Aleph Alpha Kolibri: How the sovereign German LLM works",
-          "url": "https://news.ycombinator.com/item?id=49943034",
-          "source": "hackernews",
+          "id": "371e55aee4fef35ddb7feb5df4130ca7c17d8781",
+          "title": "迈克尔-丹耶 / 普斯塔克-克劳德 / michael-denyer /      pstack-claude",
+          "url": "https://github.com/michael-denyer/pstack-claude",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-03T10:43:51Z"
+          "published_at": "2026-10-04T11:38:55.080000Z"
         },
         {
-          "id": "b84a8375a5247ee3a46c762700baee7461309647",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T10:43:51Z"
-        },
-        {
-          "id": "5f7984ca8cdccfbf2491fffa10ad31289bb805c4",
-          "title": "Kolibri 是 Aleph Alpha 的德语和英语开放式法学硕士 / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-          "url": "https://news.ycombinator.com/item?id=49943034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T10:43:51Z"
-        },
-        {
-          "id": "e5c743595cf257acfe8010606f8a822da65f5b7e",
-          "title": "Show HN：德国新的主权人工智能模型Kolibri / Show HN: Germany's new sovereign AI model Kolibri",
-          "url": "https://news.ycombinator.com/item?id=49943034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T10:43:51Z"
-        },
-        {
-          "id": "43d0d8fde5a5cd7e0497e1833d363aee6e5906b6",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Show HN: Germany's new sovereign AI model Kolibri",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T10:43:51Z"
+          "id": "1a723581782a918446b0d68d55ffb7a4b205b052",
+          "title": "迈克尔-丹耶 / 普斯塔克-克劳德 / michael-denyer / pstack-claude",
+          "url": "https://github.com/michael-denyer/pstack-claude",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 7,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "tej.as"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "947672c54a94c9809a1dcfa2c8088bdf28fa6f50",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "tej.as",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T10:49:44.714000Z"
-        },
-        {
-          "id": "01fce6e6b411020afe24d51738d173a332dc30d7",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Aleph Alpha Kolibri: How the sovereign German LLM works",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T10:43:51Z"
-        },
-        {
-          "id": "b50d14afd42fe6e23d6b17231e9a41d48f54dc0b",
-          "title": "Aleph Alpha Kolibri：德国主权法学硕士如何运作 / Aleph Alpha Kolibri: How the sovereign German LLM works",
-          "url": "https://news.ycombinator.com/item?id=49943034",
-          "source": "hackernews",
+          "id": "371e55aee4fef35ddb7feb5df4130ca7c17d8781",
+          "title": "迈克尔-丹耶 / 普斯塔克-克劳德 / michael-denyer /      pstack-claude",
+          "url": "https://github.com/michael-denyer/pstack-claude",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-03T10:43:51Z"
+          "published_at": "2026-10-04T11:38:55.080000Z"
         },
         {
-          "id": "b84a8375a5247ee3a46c762700baee7461309647",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T10:43:51Z"
-        },
-        {
-          "id": "5f7984ca8cdccfbf2491fffa10ad31289bb805c4",
-          "title": "Kolibri 是 Aleph Alpha 的德语和英语开放式法学硕士 / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-          "url": "https://news.ycombinator.com/item?id=49943034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T10:43:51Z"
-        },
-        {
-          "id": "e5c743595cf257acfe8010606f8a822da65f5b7e",
-          "title": "Show HN：德国新的主权人工智能模型Kolibri / Show HN: Germany's new sovereign AI model Kolibri",
-          "url": "https://news.ycombinator.com/item?id=49943034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T10:43:51Z"
-        },
-        {
-          "id": "43d0d8fde5a5cd7e0497e1833d363aee6e5906b6",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Show HN: Germany's new sovereign AI model Kolibri",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T10:43:51Z"
+          "id": "1a723581782a918446b0d68d55ffb7a4b205b052",
+          "title": "迈克尔-丹耶 / 普斯塔克-克劳德 / michael-denyer / pstack-claude",
+          "url": "https://github.com/michael-denyer/pstack-claude",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 7,
-      "duplicate_count": 7,
-      "score": 0.5685,
-      "importance": 0.5685,
-      "importance_score": 0.5685,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7092,
-        "story_heat": 1.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T10:43:51Z",
-      "latest_at": "2026-10-03T10:49:44.714000Z",
+      "earliest_at": "2026-10-04T11:37:34.972048Z",
+      "latest_at": "2026-10-04T11:38:55.080000Z",
       "primary_item": {
-        "id": "947672c54a94c9809a1dcfa2c8088bdf28fa6f50",
-        "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-        "url": "https://tej.as/blog/aleph-alpha-kolibri",
-        "source": "tej.as",
-        "source_name": "Buzzing"
+        "id": "371e55aee4fef35ddb7feb5df4130ca7c17d8781",
+        "title": "迈克尔-丹耶 / 普斯塔克-克劳德 / michael-denyer /      pstack-claude",
+        "url": "https://github.com/michael-denyer/pstack-claude",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -742,15 +650,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9877,
+        "recency": 0.9735,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -821,15 +729,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9877,
+        "recency": 0.9736,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -900,15 +808,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -998,15 +906,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8398,
+        "recency": 0.8277,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1077,15 +985,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9634,
+        "recency": 0.9496,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1155,15 +1063,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5246,
-      "importance": 0.5246,
-      "importance_score": 0.5246,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.882,
+        "recency": 0.8693,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1177,85 +1085,6 @@
         "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
         "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
         "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9dd1927e63f0",
-      "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-      "url": "https://getjpm.sh",
-      "primary_url": "https://getjpm.sh",
-      "source": "getjpm.sh",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-          "url": "https://getjpm.sh",
-          "source": "getjpm.sh",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T00:36:52.982000Z"
-        },
-        {
-          "id": "add12be6da1864ce4936e3937a27451d8330d778",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
-          "url": "https://getjpm.sh",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T00:11:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "getjpm.sh"
-      ],
-      "items": [
-        {
-          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-          "url": "https://getjpm.sh",
-          "source": "getjpm.sh",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T00:36:52.982000Z"
-        },
-        {
-          "id": "add12be6da1864ce4936e3937a27451d8330d778",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
-          "url": "https://getjpm.sh",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T00:11:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8654,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T00:11:58Z",
-      "latest_at": "2026-10-04T00:36:52.982000Z",
-      "primary_item": {
-        "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
-        "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-        "url": "https://getjpm.sh",
-        "source": "getjpm.sh",
         "source_name": "Buzzing"
       }
     },
@@ -1313,15 +1142,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
+      "score": 0.5194,
+      "importance": 0.5194,
+      "importance_score": 0.5194,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8655,
+        "recency": 0.8531,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1336,6 +1165,85 @@
         "url": "https://www.36kr.com/p/4009610454093960",
         "source": "36氪 · 24小时热榜",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_9dd1927e63f0",
+      "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+      "url": "https://getjpm.sh",
+      "primary_url": "https://getjpm.sh",
+      "source": "getjpm.sh",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+          "url": "https://getjpm.sh",
+          "source": "getjpm.sh",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T00:36:52.982000Z"
+        },
+        {
+          "id": "add12be6da1864ce4936e3937a27451d8330d778",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
+          "url": "https://getjpm.sh",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T00:11:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "getjpm.sh"
+      ],
+      "items": [
+        {
+          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+          "url": "https://getjpm.sh",
+          "source": "getjpm.sh",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T00:36:52.982000Z"
+        },
+        {
+          "id": "add12be6da1864ce4936e3937a27451d8330d778",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
+          "url": "https://getjpm.sh",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T00:11:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5193,
+      "importance": 0.5193,
+      "importance_score": 0.5193,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.853,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T00:11:58Z",
+      "latest_at": "2026-10-04T00:36:52.982000Z",
+      "primary_item": {
+        "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
+        "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+        "url": "https://getjpm.sh",
+        "source": "getjpm.sh",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1410,15 +1318,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5209,
-      "importance": 0.5209,
-      "importance_score": 0.5209,
+      "score": 0.519,
+      "importance": 0.519,
+      "importance_score": 0.519,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7227,
+        "recency": 0.7123,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1489,15 +1397,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1515,87 +1423,8 @@
       }
     },
     {
-      "story_id": "story_b8da10635efb",
-      "title": "塞多马克 / 克劳德·梅姆 / thedotmack /      claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "primary_url": "https://github.com/thedotmack/claude-mem",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "7f62c55e9f5c0009e755898f3bbfde7347288cd5",
-          "title": "塞多马克 / 克劳德·梅姆 / thedotmack /      claude-mem",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T11:38:21.765000Z"
-        },
-        {
-          "id": "d15dffa69886b6928cdb7167cbfb27dfa8d74691",
-          "title": "塞多马克 / 克劳德·梅姆 / thedotmack / claude-mem",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "7f62c55e9f5c0009e755898f3bbfde7347288cd5",
-          "title": "塞多马克 / 克劳德·梅姆 / thedotmack /      claude-mem",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T11:38:21.765000Z"
-        },
-        {
-          "id": "d15dffa69886b6928cdb7167cbfb27dfa8d74691",
-          "title": "塞多马克 / 克劳德·梅姆 / thedotmack / claude-mem",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.495,
-      "importance": 0.495,
-      "importance_score": 0.495,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7175,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T11:37:36.507499Z",
-      "latest_at": "2026-10-03T11:38:21.765000Z",
-      "primary_item": {
-        "id": "7f62c55e9f5c0009e755898f3bbfde7347288cd5",
-        "title": "塞多马克 / 克劳德·梅姆 / thedotmack /      claude-mem",
-        "url": "https://github.com/thedotmack/claude-mem",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
       "story_id": "story_956aebcec474",
-      "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+      "title": "我退出 OpenAI 因为它的文化已经被打破 / I Quit OpenAI Because Its Culture Is Broken",
       "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
       "primary_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
       "source": "Hacker News · 24h最热",
@@ -1603,7 +1432,7 @@
       "sources": [
         {
           "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+          "title": "我退出 OpenAI 因为它的文化已经被打破 / I Quit OpenAI Because Its Culture Is Broken",
           "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1620,25 +1449,25 @@
           "published_at": "2026-10-03T13:46:34Z"
         },
         {
-          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "www.theatlantic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T11:05:53.668000Z"
+          "id": "28ea3d71f39a25c0a3fb19c32113942d883602c8",
+          "title": "我退出 OpenAI 因为它的文化已经被打破 / I quit OpenAI because its culture is broken",
+          "url": "https://news.ycombinator.com/item?id=49944227",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T13:46:34Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
         "Hacker News · 24h最热",
-        "www.theatlantic.com"
+        "hackernews"
       ],
       "items": [
         {
           "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+          "title": "我退出 OpenAI 因为它的文化已经被打破 / I Quit OpenAI Because Its Culture Is Broken",
           "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1655,37 +1484,37 @@
           "published_at": "2026-10-03T13:46:34Z"
         },
         {
-          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "www.theatlantic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T11:05:53.668000Z"
+          "id": "28ea3d71f39a25c0a3fb19c32113942d883602c8",
+          "title": "我退出 OpenAI 因为它的文化已经被打破 / I quit OpenAI because its culture is broken",
+          "url": "https://news.ycombinator.com/item?id=49944227",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T13:46:34Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.524,
-      "importance": 0.524,
-      "importance_score": 0.524,
+      "score": 0.5221,
+      "importance": 0.5221,
+      "importance_score": 0.5221,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.74,
+        "recency": 0.7294,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T11:05:53.668000Z",
+      "earliest_at": "2026-10-03T13:46:34Z",
       "latest_at": "2026-10-03T13:46:34Z",
       "primary_item": {
         "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-        "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+        "title": "我退出 OpenAI 因为它的文化已经被打破 / I Quit OpenAI Because Its Culture Is Broken",
         "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
@@ -1745,15 +1574,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5153,
-      "importance": 0.5153,
-      "importance_score": 0.5153,
+      "score": 0.5131,
+      "importance": 0.5131,
+      "importance_score": 0.5131,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8305,
+        "recency": 0.8186,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1767,6 +1596,84 @@
         "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我”",
         "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
         "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5ee2f82da6e6",
+      "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "09480281198b4c130f985b3d235d1ca8240eabcb",
+          "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T16:00:49.051000Z"
+        },
+        {
+          "id": "8203ce7f4eb02f4fb64f082a256c4b1f1d97b5f6",
+          "title": "OpenAI安全部门员工辞职，呼吁采取“核级”安全保障措施",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T13:27:52.389000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "09480281198b4c130f985b3d235d1ca8240eabcb",
+          "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T16:00:49.051000Z"
+        },
+        {
+          "id": "8203ce7f4eb02f4fb64f082a256c4b1f1d97b5f6",
+          "title": "OpenAI安全部门员工辞职，呼吁采取“核级”安全保障措施",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T13:27:52.389000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5014,
+      "importance": 0.5014,
+      "importance_score": 0.5014,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7534,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T13:27:52.389000Z",
+      "latest_at": "2026-10-03T16:00:49.051000Z",
+      "primary_item": {
+        "id": "09480281198b4c130f985b3d235d1ca8240eabcb",
+        "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
     }
