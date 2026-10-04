@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T13:37:31.756372Z",
+  "generated_at": "2026-10-04T14:37:33.103158Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8506,
-      "importance": 0.8506,
-      "importance_score": 0.8506,
+      "score": 0.8485,
+      "importance": 0.8485,
+      "importance_score": 0.8485,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.809,
+        "recency": 0.7974,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7965,
+        "recency": 0.7851,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -180,15 +180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7384,
+        "recency": 0.7278,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -314,15 +314,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6191,
-      "importance": 0.6191,
-      "importance_score": 0.6191,
+      "score": 0.6165,
+      "importance": 0.6165,
+      "importance_score": 0.6165,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9903,
+        "recency": 0.9761,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -340,100 +340,98 @@
       }
     },
     {
-      "story_id": "story_567a67be4150",
-      "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
-      "url": "https://github.com/allenv0/SCM",
-      "primary_url": "https://github.com/allenv0/SCM",
-      "source": "github.com",
+      "story_id": "story_d354e4a5c9be",
+      "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+      "source": "www.bloomberg.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "7312b7a41fcce818e682ba9f56b3b68ed2dc8b4b",
-          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
-          "url": "https://github.com/allenv0/SCM",
-          "source": "github.com",
+          "id": "307750a9a9f6793d14bfe1718775e3dbdbfd24ee",
+          "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+          "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:09.708000Z"
+          "published_at": "2026-10-04T14:15:01.403000Z"
         },
         {
-          "id": "d582d31ccbbc56a64fd182e2a1bacd0ee9ecda8f",
-          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索 / Show HN: AI search for every photo and every frame of video on macOS",
-          "url": "https://github.com/allenv0/SCM",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T09:24:52Z"
+          "id": "7936d0093c30da16bc9e02c58384f7e9d1c0d61c",
+          "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T01:55:40.527000Z"
         },
         {
-          "id": "176ef01f259d1e32254ce46c8e25df5d8cd04011",
-          "title": "Show HN：AI 搜索 macOS 上的每张照片和每一帧视频 / Show HN: AI search for every photo and every frame of video on macOS",
-          "url": "https://news.ycombinator.com/item?id=49952111",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T09:24:52Z"
+          "id": "4b5c51cf27185145e4182eb917492e7d1c6858f2",
+          "title": "《华尔街日报》报道：美国人工智能工作组将就该技术带来的风险提交报告",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T00:04:47.898000Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
+        "www.bloomberg.com"
       ],
       "items": [
         {
-          "id": "7312b7a41fcce818e682ba9f56b3b68ed2dc8b4b",
-          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
-          "url": "https://github.com/allenv0/SCM",
-          "source": "github.com",
+          "id": "307750a9a9f6793d14bfe1718775e3dbdbfd24ee",
+          "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+          "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:09.708000Z"
+          "published_at": "2026-10-04T14:15:01.403000Z"
         },
         {
-          "id": "d582d31ccbbc56a64fd182e2a1bacd0ee9ecda8f",
-          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索 / Show HN: AI search for every photo and every frame of video on macOS",
-          "url": "https://github.com/allenv0/SCM",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T09:24:52Z"
+          "id": "7936d0093c30da16bc9e02c58384f7e9d1c0d61c",
+          "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T01:55:40.527000Z"
         },
         {
-          "id": "176ef01f259d1e32254ce46c8e25df5d8cd04011",
-          "title": "Show HN：AI 搜索 macOS 上的每张照片和每一帧视频 / Show HN: AI search for every photo and every frame of video on macOS",
-          "url": "https://news.ycombinator.com/item?id=49952111",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T09:24:52Z"
+          "id": "4b5c51cf27185145e4182eb917492e7d1c6858f2",
+          "title": "《华尔街日报》报道：美国人工智能工作组将就该技术带来的风险提交报告",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T00:04:47.898000Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5611,
-      "importance": 0.5611,
-      "importance_score": 0.5611,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9458,
+        "recency": 0.9946,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T09:24:52Z",
-      "latest_at": "2026-10-04T09:46:09.708000Z",
+      "earliest_at": "2026-10-04T00:04:47.898000Z",
+      "latest_at": "2026-10-04T14:15:01.403000Z",
       "primary_item": {
-        "id": "7312b7a41fcce818e682ba9f56b3b68ed2dc8b4b",
-        "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
-        "url": "https://github.com/allenv0/SCM",
-        "source": "github.com",
+        "id": "307750a9a9f6793d14bfe1718775e3dbdbfd24ee",
+        "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
     },
@@ -510,15 +508,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.561,
-      "importance": 0.561,
-      "importance_score": 0.561,
+      "score": 0.5586,
+      "importance": 0.5586,
+      "importance_score": 0.5586,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9458,
+        "recency": 0.9323,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -608,15 +606,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.561,
-      "importance": 0.561,
-      "importance_score": 0.561,
+      "score": 0.5586,
+      "importance": 0.5586,
+      "importance_score": 0.5586,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9458,
+        "recency": 0.9323,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -634,55 +632,153 @@
       }
     },
     {
-      "story_id": "story_d21f7ff36018",
-      "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
-      "url": "https://www.ithome.com/1/009/701.htm",
-      "primary_url": "https://www.ithome.com/1/009/701.htm",
+      "story_id": "story_567a67be4150",
+      "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
+      "url": "https://github.com/allenv0/SCM",
+      "primary_url": "https://github.com/allenv0/SCM",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7312b7a41fcce818e682ba9f56b3b68ed2dc8b4b",
+          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
+          "url": "https://github.com/allenv0/SCM",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:09.708000Z"
+        },
+        {
+          "id": "d582d31ccbbc56a64fd182e2a1bacd0ee9ecda8f",
+          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索 / Show HN: AI search for every photo and every frame of video on macOS",
+          "url": "https://github.com/allenv0/SCM",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T09:24:52Z"
+        },
+        {
+          "id": "176ef01f259d1e32254ce46c8e25df5d8cd04011",
+          "title": "Show HN：AI 搜索 macOS 上的每张照片和每一帧视频 / Show HN: AI search for every photo and every frame of video on macOS",
+          "url": "https://news.ycombinator.com/item?id=49952111",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T09:24:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7312b7a41fcce818e682ba9f56b3b68ed2dc8b4b",
+          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
+          "url": "https://github.com/allenv0/SCM",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:09.708000Z"
+        },
+        {
+          "id": "d582d31ccbbc56a64fd182e2a1bacd0ee9ecda8f",
+          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索 / Show HN: AI search for every photo and every frame of video on macOS",
+          "url": "https://github.com/allenv0/SCM",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T09:24:52Z"
+        },
+        {
+          "id": "176ef01f259d1e32254ce46c8e25df5d8cd04011",
+          "title": "Show HN：AI 搜索 macOS 上的每张照片和每一帧视频 / Show HN: AI search for every photo and every frame of video on macOS",
+          "url": "https://news.ycombinator.com/item?id=49952111",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T09:24:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5586,
+      "importance": 0.5586,
+      "importance_score": 0.5586,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9323,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T09:24:52Z",
+      "latest_at": "2026-10-04T09:46:09.708000Z",
+      "primary_item": {
+        "id": "7312b7a41fcce818e682ba9f56b3b68ed2dc8b4b",
+        "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
+        "url": "https://github.com/allenv0/SCM",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_864d878d48f9",
+      "title": "AI 军事化的两条路线：美国在拆刹车，中国在踩刹车",
+      "url": "https://www.huxiu.com/article/4895378.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4895378.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "ab7a5dfa9effface16bf09975dbf6d979e97f148",
-          "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
-          "url": "https://www.ithome.com/1/009/701.htm",
+          "id": "8d300bc012bcc0201f57278a1e4b86b81047d673",
+          "title": "AI 军事化的两条路线：美国在拆刹车，中国在踩刹车",
+          "url": "https://www.huxiu.com/article/4895378.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f70c9722c1da4994f3287562016eac4d453fe1a1",
-          "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
-          "url": "https://www.ithome.com/1/009/701.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "932cf70c4e5fbfb8f9c5cef6f0d8b92a690be1c1",
+          "title": "AI军事化的两条路线：美国在拆刹车，中国在踩刹车",
+          "url": "https://www.huxiu.com/article/4895378.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-04T12:27:24Z"
+          "published_at": "2026-10-04T13:41:04Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "ab7a5dfa9effface16bf09975dbf6d979e97f148",
-          "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
-          "url": "https://www.ithome.com/1/009/701.htm",
+          "id": "8d300bc012bcc0201f57278a1e4b86b81047d673",
+          "title": "AI 军事化的两条路线：美国在拆刹车，中国在踩刹车",
+          "url": "https://www.huxiu.com/article/4895378.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f70c9722c1da4994f3287562016eac4d453fe1a1",
-          "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
-          "url": "https://www.ithome.com/1/009/701.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "932cf70c4e5fbfb8f9c5cef6f0d8b92a690be1c1",
+          "title": "AI军事化的两条路线：美国在拆刹车，中国在踩刹车",
+          "url": "https://www.huxiu.com/article/4895378.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-04T12:27:24Z"
+          "published_at": "2026-10-04T13:41:04Z"
         }
       ],
       "item_count": 2,
@@ -702,14 +798,92 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T12:27:24Z",
-      "latest_at": "2026-10-04T13:37:31.756372Z",
+      "earliest_at": "2026-10-04T13:41:04Z",
+      "latest_at": "2026-10-04T14:37:33.103158Z",
       "primary_item": {
-        "id": "ab7a5dfa9effface16bf09975dbf6d979e97f148",
-        "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
-        "url": "https://www.ithome.com/1/009/701.htm",
+        "id": "8d300bc012bcc0201f57278a1e4b86b81047d673",
+        "title": "AI 军事化的两条路线：美国在拆刹车，中国在踩刹车",
+        "url": "https://www.huxiu.com/article/4895378.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_e808fbfdb386",
+      "title": "特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
+      "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+      "primary_url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bdb184e7d55b76b55220c03a90fd339c2f7b958a",
+          "title": "特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
+          "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T13:43:45.683000Z"
+        },
+        {
+          "id": "2462d055f13afb2f7a2b6c59069667aacfabef16",
+          "title": "据《华尔街日报》报道，特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
+          "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T02:11:02.276000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "bdb184e7d55b76b55220c03a90fd339c2f7b958a",
+          "title": "特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
+          "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T13:43:45.683000Z"
+        },
+        {
+          "id": "2462d055f13afb2f7a2b6c59069667aacfabef16",
+          "title": "据《华尔街日报》报道，特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
+          "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T02:11:02.276000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9871,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T02:11:02.276000Z",
+      "latest_at": "2026-10-04T13:43:45.683000Z",
+      "primary_item": {
+        "id": "bdb184e7d55b76b55220c03a90fd339c2f7b958a",
+        "title": "特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
+        "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -766,15 +940,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5427,
-      "importance": 0.5427,
-      "importance_score": 0.5427,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9829,
+        "recency": 0.9688,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -845,15 +1019,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9719,
+        "recency": 0.9579,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -924,15 +1098,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.536,
-      "importance": 0.536,
-      "importance_score": 0.536,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9458,
+        "recency": 0.9323,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1022,15 +1196,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5356,
-      "importance": 0.5356,
-      "importance_score": 0.5356,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8042,
+        "recency": 0.7926,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1101,15 +1275,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5319,
-      "importance": 0.5319,
-      "importance_score": 0.5319,
+      "score": 0.5295,
+      "importance": 0.5295,
+      "importance_score": 0.5295,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9225,
+        "recency": 0.9093,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1127,81 +1301,82 @@
       }
     },
     {
-      "story_id": "story_d354e4a5c9be",
-      "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
+      "story_id": "story_d21f7ff36018",
+      "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
+      "url": "https://www.ithome.com/1/009/701.htm",
+      "primary_url": "https://www.ithome.com/1/009/701.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "7936d0093c30da16bc9e02c58384f7e9d1c0d61c",
-          "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T01:55:40.527000Z"
+          "id": "ab7a5dfa9effface16bf09975dbf6d979e97f148",
+          "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
+          "url": "https://www.ithome.com/1/009/701.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "4b5c51cf27185145e4182eb917492e7d1c6858f2",
-          "title": "《华尔街日报》报道：美国人工智能工作组将就该技术带来的风险提交报告",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T00:04:47.898000Z"
+          "id": "f70c9722c1da4994f3287562016eac4d453fe1a1",
+          "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
+          "url": "https://www.ithome.com/1/009/701.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T12:27:24Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "www.bloomberg.com"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "7936d0093c30da16bc9e02c58384f7e9d1c0d61c",
-          "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T01:55:40.527000Z"
+          "id": "ab7a5dfa9effface16bf09975dbf6d979e97f148",
+          "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
+          "url": "https://www.ithome.com/1/009/701.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "4b5c51cf27185145e4182eb917492e7d1c6858f2",
-          "title": "《华尔街日报》报道：美国人工智能工作组将就该技术带来的风险提交报告",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T00:04:47.898000Z"
+          "id": "f70c9722c1da4994f3287562016eac4d453fe1a1",
+          "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
+          "url": "https://www.ithome.com/1/009/701.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T12:27:24Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5178,
-      "importance": 0.5178,
-      "importance_score": 0.5178,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8446,
+        "recency": 0.9857,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T00:04:47.898000Z",
-      "latest_at": "2026-10-04T01:55:40.527000Z",
+      "earliest_at": "2026-10-04T12:27:24Z",
+      "latest_at": "2026-10-04T13:37:31.756372Z",
       "primary_item": {
-        "id": "7936d0093c30da16bc9e02c58384f7e9d1c0d61c",
-        "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
+        "id": "ab7a5dfa9effface16bf09975dbf6d979e97f148",
+        "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
+        "url": "https://www.ithome.com/1/009/701.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1258,15 +1433,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.515,
-      "importance": 0.515,
-      "importance_score": 0.515,
+      "score": 0.5128,
+      "importance": 0.5128,
+      "importance_score": 0.5128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8287,
+        "recency": 0.8168,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1337,15 +1512,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5342,
+      "importance": 0.5342,
+      "importance_score": 0.5342,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.949,
+        "recency": 0.9353,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1363,178 +1538,80 @@
       }
     },
     {
-      "story_id": "story_998f37525252",
-      "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交 AI 辅助完成的代码",
-      "url": "https://www.ithome.com/1/009/669.htm",
-      "primary_url": "https://www.ithome.com/1/009/669.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_83913d49e914",
+      "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "primary_url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "42087b2d7661f2a1b5c645d9c41161aa8b60d19b",
-          "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交 AI 辅助完成的代码",
-          "url": "https://www.ithome.com/1/009/669.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T22:18:13Z"
         },
         {
-          "id": "40f2b37088e0965325e758b79019e74d3413eee5",
-          "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交利用 AI 辅助完成的代码",
-          "url": "https://www.ithome.com/1/009/669.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T08:35:59Z"
+          "id": "9c76212040bfb9302bd27231c6f65a445bcc8b95",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范”",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T19:57:53.505000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Hacker News · 24h最热",
+        "www.theguardian.com"
       ],
       "items": [
         {
-          "id": "42087b2d7661f2a1b5c645d9c41161aa8b60d19b",
-          "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交 AI 辅助完成的代码",
-          "url": "https://www.ithome.com/1/009/669.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T22:18:13Z"
         },
         {
-          "id": "40f2b37088e0965325e758b79019e74d3413eee5",
-          "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交利用 AI 辅助完成的代码",
-          "url": "https://www.ithome.com/1/009/669.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T08:35:59Z"
+          "id": "9c76212040bfb9302bd27231c6f65a445bcc8b95",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范”",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T19:57:53.505000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.508,
+      "importance": 0.508,
+      "importance_score": 0.508,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9439,
+        "recency": 0.79,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T08:35:59Z",
-      "latest_at": "2026-10-04T09:37:34.401611Z",
+      "earliest_at": "2026-10-03T19:57:53.505000Z",
+      "latest_at": "2026-10-03T22:18:13Z",
       "primary_item": {
-        "id": "42087b2d7661f2a1b5c645d9c41161aa8b60d19b",
-        "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交 AI 辅助完成的代码",
-        "url": "https://www.ithome.com/1/009/669.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_956aebcec474",
-      "title": "我退出 OpenAI 因为它的文化已经被打破 / I Quit OpenAI Because Its Culture Is Broken",
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-      "primary_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-          "title": "我退出 OpenAI 因为它的文化已经被打破 / I Quit OpenAI Because Its Culture Is Broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T13:46:34Z"
-        },
-        {
-          "id": "c3ee0afbacf1cce8cf2907700d59c4a6690de2d4",
-          "title": "我退出 OpenAI 因为它的文化已经被打破 / I quit OpenAI because its culture is broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T13:46:34Z"
-        },
-        {
-          "id": "28ea3d71f39a25c0a3fb19c32113942d883602c8",
-          "title": "我退出 OpenAI 因为它的文化已经被打破 / I quit OpenAI because its culture is broken",
-          "url": "https://news.ycombinator.com/item?id=49944227",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T13:46:34Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-          "title": "我退出 OpenAI 因为它的文化已经被打破 / I Quit OpenAI Because Its Culture Is Broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T13:46:34Z"
-        },
-        {
-          "id": "c3ee0afbacf1cce8cf2907700d59c4a6690de2d4",
-          "title": "我退出 OpenAI 因为它的文化已经被打破 / I quit OpenAI because its culture is broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T13:46:34Z"
-        },
-        {
-          "id": "28ea3d71f39a25c0a3fb19c32113942d883602c8",
-          "title": "我退出 OpenAI 因为它的文化已经被打破 / I quit OpenAI because its culture is broken",
-          "url": "https://news.ycombinator.com/item?id=49944227",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T13:46:34Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5184,
-      "importance": 0.5184,
-      "importance_score": 0.5184,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7086,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T13:46:34Z",
-      "latest_at": "2026-10-03T13:46:34Z",
-      "primary_item": {
-        "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-        "title": "我退出 OpenAI 因为它的文化已经被打破 / I Quit OpenAI Because Its Culture Is Broken",
-        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+        "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
+        "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -1593,15 +1670,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9459,
+        "recency": 0.9323,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1616,85 +1693,6 @@
         "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_597ec4ea88c9",
-      "title": "大量 AI「幻觉」报告压垮维护团队，谷歌暂停部分开源漏洞奖励计划",
-      "url": "https://www.ithome.com/1/009/673.htm",
-      "primary_url": "https://www.ithome.com/1/009/673.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "d8cb5363e55cf10e628e25a805851028100006b0",
-          "title": "大量 AI「幻觉」报告压垮维护团队，谷歌暂停部分开源漏洞奖励计划",
-          "url": "https://www.ithome.com/1/009/673.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "75fb89412b3681e6b9de3c2c2e948454085eb1f6",
-          "title": "大量 AI“幻觉”报告压垮维护团队，谷歌暂停部分开源漏洞奖励计划",
-          "url": "https://www.ithome.com/1/009/673.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T08:46:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d8cb5363e55cf10e628e25a805851028100006b0",
-          "title": "大量 AI「幻觉」报告压垮维护团队，谷歌暂停部分开源漏洞奖励计划",
-          "url": "https://www.ithome.com/1/009/673.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "75fb89412b3681e6b9de3c2c2e948454085eb1f6",
-          "title": "大量 AI“幻觉”报告压垮维护团队，谷歌暂停部分开源漏洞奖励计划",
-          "url": "https://www.ithome.com/1/009/673.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T08:46:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9439,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T08:46:29Z",
-      "latest_at": "2026-10-04T09:37:34.401611Z",
-      "primary_item": {
-        "id": "d8cb5363e55cf10e628e25a805851028100006b0",
-        "title": "大量 AI「幻觉」报告压垮维护团队，谷歌暂停部分开源漏洞奖励计划",
-        "url": "https://www.ithome.com/1/009/673.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
