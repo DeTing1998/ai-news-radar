@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:37:32.955602Z",
+  "generated_at": "2026-10-04T18:37:40.305017Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8424,
-      "importance": 0.8424,
-      "importance_score": 0.8424,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7636,
+        "recency": 0.7526,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7518,
+        "recency": 0.741,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -147,13 +147,22 @@
     },
     {
       "story_id": "story_cb4cee0e9eb9",
-      "title": "NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
+      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
       "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
       "source": "The Verge",
       "source_name": "Curated Media",
       "sources": [
         {
+          "id": "af0d9658ed88e51ee495bd2337dcf600e6d4510d",
+          "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-04T16:16:04Z"
+        },
+        {
           "id": "110f82ef94d838cd086197b4d34da1c1c6a1890b",
           "title": "NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
@@ -172,12 +181,21 @@
           "published_at": "2026-10-04T16:16:04Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "The Verge"
       ],
       "items": [
         {
+          "id": "af0d9658ed88e51ee495bd2337dcf600e6d4510d",
+          "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-04T16:16:04Z"
+        },
+        {
           "id": "110f82ef94d838cd086197b4d34da1c1c6a1890b",
           "title": "NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
@@ -196,28 +214,28 @@
           "published_at": "2026-10-04T16:16:04Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.612,
-      "importance": 0.612,
-      "importance_score": 0.612,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6344,
+      "importance": 0.6344,
+      "importance_score": 0.6344,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9806,
-        "story_heat": 0.25
+        "recency": 0.9665,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-10-04T16:16:04Z",
       "latest_at": "2026-10-04T16:16:04Z",
       "primary_item": {
-        "id": "110f82ef94d838cd086197b4d34da1c1c6a1890b",
-        "title": "NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
+        "id": "af0d9658ed88e51ee495bd2337dcf600e6d4510d",
+        "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
         "source": "The Verge",
         "source_name": "Curated Media"
@@ -332,15 +350,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6091,
-      "importance": 0.6091,
-      "importance_score": 0.6091,
+      "score": 0.6066,
+      "importance": 0.6066,
+      "importance_score": 0.6066,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9347,
+        "recency": 0.9213,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -428,15 +446,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5622,
-      "importance": 0.5622,
-      "importance_score": 0.5622,
+      "score": 0.5598,
+      "importance": 0.5598,
+      "importance_score": 0.5598,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9524,
+        "recency": 0.9387,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -450,202 +468,6 @@
         "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
         "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
         "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8b1e323a2293",
-      "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-      "primary_url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-      "source": "fortune.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "06f280d3a3d0ed5d8e8167d0587b4474792660ae",
-          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-          "source": "fortune.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:05.311000Z"
-        },
-        {
-          "id": "24b8aa8c0897da384ed00bb0969528ba0abc8b55",
-          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T17:44:29Z"
-        },
-        {
-          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
-          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "url": "https://news.ycombinator.com/item?id=49946228",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T17:44:29Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "fortune.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "06f280d3a3d0ed5d8e8167d0587b4474792660ae",
-          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-          "source": "fortune.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:05.311000Z"
-        },
-        {
-          "id": "24b8aa8c0897da384ed00bb0969528ba0abc8b55",
-          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T17:44:29Z"
-        },
-        {
-          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
-          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "url": "https://news.ycombinator.com/item?id=49946228",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T17:44:29Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5515,
-      "importance": 0.5515,
-      "importance_score": 0.5515,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8927,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T17:44:29Z",
-      "latest_at": "2026-10-04T09:46:05.311000Z",
-      "primary_item": {
-        "id": "06f280d3a3d0ed5d8e8167d0587b4474792660ae",
-        "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-        "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-        "source": "fortune.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_810f091c82ef",
-      "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-      "primary_url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-      "source": "www.neowin.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "71d962531003070bc0b40a780ef1e5181b7ab33a",
-          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-          "source": "www.neowin.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:05.315000Z"
-        },
-        {
-          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
-          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T17:57:03Z"
-        },
-        {
-          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
-          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://news.ycombinator.com/item?id=49946321",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T17:57:03Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.neowin.net"
-      ],
-      "items": [
-        {
-          "id": "71d962531003070bc0b40a780ef1e5181b7ab33a",
-          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-          "source": "www.neowin.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:05.315000Z"
-        },
-        {
-          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
-          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T17:57:03Z"
-        },
-        {
-          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
-          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://news.ycombinator.com/item?id=49946321",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T17:57:03Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5515,
-      "importance": 0.5515,
-      "importance_score": 0.5515,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8927,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T17:57:03Z",
-      "latest_at": "2026-10-04T09:46:05.315000Z",
-      "primary_item": {
-        "id": "71d962531003070bc0b40a780ef1e5181b7ab33a",
-        "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-        "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-        "source": "www.neowin.net",
         "source_name": "Buzzing"
       }
     },
@@ -722,15 +544,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5515,
-      "importance": 0.5515,
-      "importance_score": 0.5515,
+      "score": 0.5492,
+      "importance": 0.5492,
+      "importance_score": 0.5492,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8927,
+        "recency": 0.8799,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -745,6 +567,85 @@
         "url": "https://github.com/allenv0/SCM",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9ab71769474a",
+      "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
+      "url": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
+      "primary_url": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "59468fb8fec07dd79478d310d0f4c8e3a36d8a98",
+          "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
+          "url": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T17:21:26Z"
+        },
+        {
+          "id": "be16e9373d1ecb2a695d4f53e4b8865fd7d949df",
+          "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
+          "url": "https://news.ycombinator.com/item?id=49955839",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T17:21:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "59468fb8fec07dd79478d310d0f4c8e3a36d8a98",
+          "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
+          "url": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T17:21:26Z"
+        },
+        {
+          "id": "be16e9373d1ecb2a695d4f53e4b8865fd7d949df",
+          "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
+          "url": "https://news.ycombinator.com/item?id=49955839",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T17:21:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9818,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T17:21:26Z",
+      "latest_at": "2026-10-04T17:21:26Z",
+      "primary_item": {
+        "id": "59468fb8fec07dd79478d310d0f4c8e3a36d8a98",
+        "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
+        "url": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -801,15 +702,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9716,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -824,85 +725,6 @@
         "url": "https://www.techradar.com/pro/phone-communications/the-agent-itself-has-become-its-own-entity-to-secure-bitdefenders-new-free-mac-tool-goes-after-flaws-that-let-attackers-fool-ai-models",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_cff0599cd6bb",
-      "title": "RuneScape's Position on Gen AI",
-      "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
-      "primary_url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "8e2ae9d689d9cc80c1f09d0f976b3ee5d215a23f",
-          "title": "RuneScape's Position on Gen AI",
-          "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T15:29:14Z"
-        },
-        {
-          "id": "f6a9b2dd9fad9da596e7cfd90e5639b430bc3daf",
-          "title": "RuneScape's Position on Gen AI",
-          "url": "https://news.ycombinator.com/item?id=49954745",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T15:29:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8e2ae9d689d9cc80c1f09d0f976b3ee5d215a23f",
-          "title": "RuneScape's Position on Gen AI",
-          "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T15:29:14Z"
-        },
-        {
-          "id": "f6a9b2dd9fad9da596e7cfd90e5639b430bc3daf",
-          "title": "RuneScape's Position on Gen AI",
-          "url": "https://news.ycombinator.com/item?id=49954745",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T15:29:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9696,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T15:29:14Z",
-      "latest_at": "2026-10-04T15:29:14Z",
-      "primary_item": {
-        "id": "8e2ae9d689d9cc80c1f09d0f976b3ee5d215a23f",
-        "title": "RuneScape's Position on Gen AI",
-        "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -958,15 +780,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.536,
-      "importance": 0.536,
-      "importance_score": 0.536,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9453,
+        "recency": 0.9317,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1037,15 +859,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
+      "score": 0.5304,
+      "importance": 0.5304,
+      "importance_score": 0.5304,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9278,
+        "recency": 0.9144,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1116,15 +938,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9173,
+        "recency": 0.9041,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1139,104 +961,6 @@
         "url": "https://github.com/michael-denyer/pstack-claude",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_fc994d69ad09",
-      "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-      "primary_url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-      "source": "claude.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "claude.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T22:31:58.644000Z"
-        },
-        {
-          "id": "a6ebe19ce64fac6dad1acfb7519ab11a6823e313",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T18:29:30Z"
-        },
-        {
-          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
-          "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "url": "https://news.ycombinator.com/item?id=49946567",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T18:29:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "claude.dev",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "claude.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T22:31:58.644000Z"
-        },
-        {
-          "id": "a6ebe19ce64fac6dad1acfb7519ab11a6823e313",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T18:29:30Z"
-        },
-        {
-          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
-          "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "url": "https://news.ycombinator.com/item?id=49946567",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T18:29:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.759,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T18:29:30Z",
-      "latest_at": "2026-10-03T22:31:58.644000Z",
-      "primary_item": {
-        "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
-        "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-        "source": "claude.dev",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1293,15 +1017,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8927,
+        "recency": 0.8799,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1372,15 +1096,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5225,
-      "importance": 0.5225,
-      "importance_score": 0.5225,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8708,
+        "recency": 0.8583,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1395,6 +1119,85 @@
         "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_cff0599cd6bb",
+      "title": "RuneScape's Position on Gen AI",
+      "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
+      "primary_url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "8e2ae9d689d9cc80c1f09d0f976b3ee5d215a23f",
+          "title": "RuneScape's Position on Gen AI",
+          "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T15:29:14Z"
+        },
+        {
+          "id": "f6a9b2dd9fad9da596e7cfd90e5639b430bc3daf",
+          "title": "RuneScape's Position on Gen AI",
+          "url": "https://news.ycombinator.com/item?id=49954745",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T15:29:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8e2ae9d689d9cc80c1f09d0f976b3ee5d215a23f",
+          "title": "RuneScape's Position on Gen AI",
+          "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T15:29:14Z"
+        },
+        {
+          "id": "f6a9b2dd9fad9da596e7cfd90e5639b430bc3daf",
+          "title": "RuneScape's Position on Gen AI",
+          "url": "https://news.ycombinator.com/item?id=49954745",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T15:29:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5378,
+      "importance": 0.5378,
+      "importance_score": 0.5378,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9557,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T15:29:14Z",
+      "latest_at": "2026-10-04T15:29:14Z",
+      "primary_item": {
+        "id": "8e2ae9d689d9cc80c1f09d0f976b3ee5d215a23f",
+        "title": "RuneScape's Position on Gen AI",
+        "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1451,15 +1254,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9576,
+        "recency": 0.9438,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1530,15 +1333,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5066,
-      "importance": 0.5066,
-      "importance_score": 0.5066,
+      "score": 0.5046,
+      "importance": 0.5046,
+      "importance_score": 0.5046,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7822,
+        "recency": 0.771,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1609,15 +1412,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
+      "score": 0.5247,
+      "importance": 0.5247,
+      "importance_score": 0.5247,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8957,
+        "recency": 0.8828,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1635,82 +1438,240 @@
       }
     },
     {
-      "story_id": "story_e6dc84249acd",
-      "title": "What's the Future for Pure Math Research in the Age of AI?",
-      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-      "primary_url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_d21f7ff36018",
+      "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
+      "url": "https://www.ithome.com/1/009/701.htm",
+      "primary_url": "https://www.ithome.com/1/009/701.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
-          "title": "What's the Future for Pure Math Research in the Age of AI?",
-          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T07:53:45Z"
+          "id": "ab7a5dfa9effface16bf09975dbf6d979e97f148",
+          "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
+          "url": "https://www.ithome.com/1/009/701.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
-          "title": "What's the Future for Pure Math Research in the Age of AI?",
-          "url": "https://news.ycombinator.com/item?id=49951641",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T07:53:45Z"
+          "id": "f70c9722c1da4994f3287562016eac4d453fe1a1",
+          "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
+          "url": "https://www.ithome.com/1/009/701.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T12:27:24Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
-          "title": "What's the Future for Pure Math Research in the Age of AI?",
-          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T07:53:45Z"
+          "id": "ab7a5dfa9effface16bf09975dbf6d979e97f148",
+          "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
+          "url": "https://www.ithome.com/1/009/701.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
-          "title": "What's the Future for Pure Math Research in the Age of AI?",
-          "url": "https://news.ycombinator.com/item?id=49951641",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T07:53:45Z"
+          "id": "f70c9722c1da4994f3287562016eac4d453fe1a1",
+          "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
+          "url": "https://www.ithome.com/1/009/701.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T12:27:24Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5222,
-      "importance": 0.5222,
-      "importance_score": 0.5222,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8689,
+        "recency": 0.9303,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T07:53:45Z",
-      "latest_at": "2026-10-04T07:53:45Z",
+      "earliest_at": "2026-10-04T12:27:24Z",
+      "latest_at": "2026-10-04T13:37:31.756372Z",
       "primary_item": {
-        "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
-        "title": "What's the Future for Pure Math Research in the Age of AI?",
-        "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "id": "ab7a5dfa9effface16bf09975dbf6d979e97f148",
+        "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
+        "url": "https://www.ithome.com/1/009/701.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_83913d49e914",
+      "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "primary_url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T22:18:13Z"
+        },
+        {
+          "id": "9c76212040bfb9302bd27231c6f65a445bcc8b95",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范”",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T19:57:53.505000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.theguardian.com"
+      ],
+      "items": [
+        {
+          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T22:18:13Z"
+        },
+        {
+          "id": "9c76212040bfb9302bd27231c6f65a445bcc8b95",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范”",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T19:57:53.505000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5,
+      "importance": 0.5,
+      "importance_score": 0.5,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7457,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T19:57:53.505000Z",
+      "latest_at": "2026-10-03T22:18:13Z",
+      "primary_item": {
+        "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
+        "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_bc13922e0b6b",
+      "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。",
+      "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+      "primary_url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fe2819875a2cd109d20c1c84c74a340053ab5f1b",
+          "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。",
+          "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:19.059000Z"
+        },
+        {
+          "id": "e52d258d0df5bfc89d0747baab179f169272d3d8",
+          "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。 / AI was supposed to kill tech jobs. The data on job openings says otherwise.",
+          "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T09:15:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "fe2819875a2cd109d20c1c84c74a340053ab5f1b",
+          "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。",
+          "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:19.059000Z"
+        },
+        {
+          "id": "e52d258d0df5bfc89d0747baab179f169272d3d8",
+          "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。 / AI was supposed to kill tech jobs. The data on job openings says otherwise.",
+          "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T09:15:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.88,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T09:15:01Z",
+      "latest_at": "2026-10-04T09:46:19.059000Z",
+      "primary_item": {
+        "id": "fe2819875a2cd109d20c1c84c74a340053ab5f1b",
+        "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。",
+        "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
