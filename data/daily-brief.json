@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T12:37:38.248216Z",
+  "generated_at": "2026-10-05T13:37:35.123186Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8953,
-      "importance": 0.8953,
-      "importance_score": 0.8953,
+      "score": 0.8928,
+      "importance": 0.8928,
+      "importance_score": 0.8928,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9628,
+        "recency": 0.949,
         "story_heat": 0.5
       },
       "category": "official",
@@ -102,66 +102,6 @@
         "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ff878e799710",
-      "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
-      "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
-      "primary_url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
-      "source": "PromptArmor：Threat Intelligence",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "06be24552591ac18a92e2ce2d2535b549e19817d",
-          "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
-          "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
-          "source": "PromptArmor：Threat Intelligence",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-05T00:24:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "PromptArmor：Threat Intelligence"
-      ],
-      "items": [
-        {
-          "id": "06be24552591ac18a92e2ce2d2535b549e19817d",
-          "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
-          "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
-          "source": "PromptArmor：Threat Intelligence",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-05T00:24:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8381,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-05T00:24:02Z",
-      "latest_at": "2026-10-05T00:24:02Z",
-      "primary_item": {
-        "id": "06be24552591ac18a92e2ce2d2535b549e19817d",
-        "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
-        "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
-        "source": "PromptArmor：Threat Intelligence",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -235,15 +175,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5946,
-      "importance": 0.5946,
-      "importance_score": 0.5946,
+      "score": 0.5927,
+      "importance": 0.5927,
+      "importance_score": 0.5927,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7453,
+        "recency": 0.7346,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -351,15 +291,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5893,
-      "importance": 0.5893,
-      "importance_score": 0.5893,
+      "score": 0.5868,
+      "importance": 0.5868,
+      "importance_score": 0.5868,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9636,
+        "recency": 0.9498,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -377,8 +317,106 @@
       }
     },
     {
+      "story_id": "story_d0c0677e9fe0",
+      "title": "萨姆·阿尔特曼表示，应接受人工智能带来的“负面影响”，以换取其带来的好处",
+      "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+      "primary_url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+      "source": "www.theguardian.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e4154b27074d62a82954e744ab4324eb729f5d2c",
+          "title": "萨姆·阿尔特曼表示，应接受人工智能带来的“负面影响”，以换取其带来的好处",
+          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T13:01:27.999000Z"
+        },
+        {
+          "id": "313441ca5855513a5033a46fa780b72ba31e092c",
+          "title": "萨姆·阿尔特曼表示，应接受人工智能带来的“负面影响”，以换取其带来的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T12:56:18Z"
+        },
+        {
+          "id": "e00066523d9d4c82b121d7adb81af77584db9e33",
+          "title": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "url": "https://news.ycombinator.com/item?id=49964248",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T12:56:18Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.theguardian.com"
+      ],
+      "items": [
+        {
+          "id": "e4154b27074d62a82954e744ab4324eb729f5d2c",
+          "title": "萨姆·阿尔特曼表示，应接受人工智能带来的“负面影响”，以换取其带来的好处",
+          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T13:01:27.999000Z"
+        },
+        {
+          "id": "313441ca5855513a5033a46fa780b72ba31e092c",
+          "title": "萨姆·阿尔特曼表示，应接受人工智能带来的“负面影响”，以换取其带来的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T12:56:18Z"
+        },
+        {
+          "id": "e00066523d9d4c82b121d7adb81af77584db9e33",
+          "title": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "url": "https://news.ycombinator.com/item?id=49964248",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T12:56:18Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5692,
+      "importance": 0.5692,
+      "importance_score": 0.5692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9913,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T12:56:18Z",
+      "latest_at": "2026-10-05T13:01:27.999000Z",
+      "primary_item": {
+        "id": "e4154b27074d62a82954e744ab4324eb729f5d2c",
+        "title": "萨姆·阿尔特曼表示，应接受人工智能带来的“负面影响”，以换取其带来的好处",
+        "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+        "source": "www.theguardian.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
       "story_id": "story_4c94ef1906d2",
-      "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "title": "欧洲新晋机器人领域独角兽：德国RobCo估值突破10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
       "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
       "primary_url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
       "source": "Hacker News (黑客新闻)",
@@ -386,7 +424,7 @@
       "sources": [
         {
           "id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
-          "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "title": "欧洲新晋机器人领域独角兽：德国RobCo估值突破10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
           "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -411,7 +449,7 @@
       "items": [
         {
           "id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
-          "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "title": "欧洲新晋机器人领域独角兽：德国RobCo估值突破10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
           "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -430,15 +468,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.98,
+        "recency": 0.966,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -449,7 +487,7 @@
       "latest_at": "2026-10-05T11:13:51Z",
       "primary_item": {
         "id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
-        "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+        "title": "欧洲新晋机器人领域独角兽：德国RobCo估值突破10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
         "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
@@ -528,15 +566,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.5379,
+      "importance": 0.5379,
+      "importance_score": 0.5379,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8289,
+        "recency": 0.8171,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -607,15 +645,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5298,
-      "importance": 0.5298,
-      "importance_score": 0.5298,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9113,
+        "recency": 0.8983,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -630,6 +668,85 @@
         "url": "https://www.bloomberg.com/news/articles/2026-10-05/schneider-electric-to-acquire-ptc-for-more-than-20-billion",
         "source": "www.bloomberg.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_489333482e18",
+      "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "4a384b11a4fc9ae29008146ef699806023668585",
+          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T05:37:40Z"
+        },
+        {
+          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
+          "title": "佛罗里达州一名女子将克劳德用作日记，然后 Anthropic 向警方报告了一条记录 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T21:29:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "4a384b11a4fc9ae29008146ef699806023668585",
+          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T05:37:40Z"
+        },
+        {
+          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
+          "title": "佛罗里达州一名女子将克劳德用作日记，然后 Anthropic 向警方报告了一条记录 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T21:29:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8909,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T21:29:59Z",
+      "latest_at": "2026-10-05T05:37:40Z",
+      "primary_item": {
+        "id": "4a384b11a4fc9ae29008146ef699806023668585",
+        "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -686,15 +803,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.528,
-      "importance": 0.528,
-      "importance_score": 0.528,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9012,
+        "recency": 0.8883,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -764,15 +881,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5249,
-      "importance": 0.5249,
-      "importance_score": 0.5249,
+      "score": 0.5227,
+      "importance": 0.5227,
+      "importance_score": 0.5227,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8841,
+        "recency": 0.8715,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -842,15 +959,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5238,
-      "importance": 0.5238,
-      "importance_score": 0.5238,
+      "score": 0.5216,
+      "importance": 0.5216,
+      "importance_score": 0.5216,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8779,
+        "recency": 0.8653,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -921,15 +1038,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5176,
-      "importance": 0.5176,
-      "importance_score": 0.5176,
+      "score": 0.5155,
+      "importance": 0.5155,
+      "importance_score": 0.5155,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8436,
+        "recency": 0.8315,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1000,15 +1117,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.515,
-      "importance": 0.515,
-      "importance_score": 0.515,
+      "score": 0.5129,
+      "importance": 0.5129,
+      "importance_score": 0.5129,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8291,
+        "recency": 0.8172,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1023,84 +1140,6 @@
         "url": "https://www.editui.app",
         "source": "www.editui.app",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9a204364d01b",
-      "title": "随着该机构关闭，一个包含动画素材的数字档案库在网上亮相 / In the wake of Tippett Studios’ closure, a digital archive appears online",
-      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
-      "primary_url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "5ca286ebc9f983c6533ce63b8562e4172339371f",
-          "title": "随着该机构关闭，一个包含动画素材的数字档案库在网上亮相 / In the wake of Tippett Studios’ closure, a digital archive appears online",
-          "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T21:01:28Z"
-        },
-        {
-          "id": "ba2d8f7bcc03375272356e9f7651fdfc2a0b3350",
-          "title": "随着该机构关闭，一个包含动画素材的数字档案库在网上亮相 / In the wake of closure, a digital archive of animated materials appears online",
-          "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T21:01:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "5ca286ebc9f983c6533ce63b8562e4172339371f",
-          "title": "随着该机构关闭，一个包含动画素材的数字档案库在网上亮相 / In the wake of Tippett Studios’ closure, a digital archive appears online",
-          "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T21:01:28Z"
-        },
-        {
-          "id": "ba2d8f7bcc03375272356e9f7651fdfc2a0b3350",
-          "title": "随着该机构关闭，一个包含动画素材的数字档案库在网上亮相 / In the wake of closure, a digital archive of animated materials appears online",
-          "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T21:01:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5095,
-      "importance": 0.5095,
-      "importance_score": 0.5095,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7983,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T21:01:28Z",
-      "latest_at": "2026-10-04T21:01:28Z",
-      "primary_item": {
-        "id": "5ca286ebc9f983c6533ce63b8562e4172339371f",
-        "title": "随着该机构关闭，一个包含动画素材的数字档案库在网上亮相 / In the wake of Tippett Studios’ closure, a digital archive appears online",
-        "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1157,15 +1196,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9038,
+        "recency": 0.8909,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1235,15 +1274,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5243,
-      "importance": 0.5243,
-      "importance_score": 0.5243,
+      "score": 0.5221,
+      "importance": 0.5221,
+      "importance_score": 0.5221,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8807,
+        "recency": 0.8681,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1313,15 +1352,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5229,
-      "importance": 0.5229,
-      "importance_score": 0.5229,
+      "score": 0.5207,
+      "importance": 0.5207,
+      "importance_score": 0.5207,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.873,
+        "recency": 0.8605,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1392,15 +1431,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5128,
-      "importance": 0.5128,
-      "importance_score": 0.5128,
+      "score": 0.5107,
+      "importance": 0.5107,
+      "importance_score": 0.5107,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8166,
+        "recency": 0.8049,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1471,15 +1510,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5101,
-      "importance": 0.5101,
-      "importance_score": 0.5101,
+      "score": 0.508,
+      "importance": 0.508,
+      "importance_score": 0.508,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8014,
+        "recency": 0.79,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1497,80 +1536,79 @@
       }
     },
     {
-      "story_id": "story_98975a35904d",
-      "title": "我要求克劳德建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-      "url": "https://island-three.gruberbuilds.workers.dev",
-      "primary_url": "https://island-three.gruberbuilds.workers.dev",
+      "story_id": "story_9a204364d01b",
+      "title": "随着该机构关闭，一个包含动画素材的数字档案库在网上亮相 / In the wake of Tippett Studios’ closure, a digital archive appears online",
+      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
+      "primary_url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "63759581d3eb1671c6fe5cd4408d3a6a30ba22f4",
-          "title": "我要求克劳德建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "url": "https://island-three.gruberbuilds.workers.dev",
+          "id": "5ca286ebc9f983c6533ce63b8562e4172339371f",
+          "title": "随着该机构关闭，一个包含动画素材的数字档案库在网上亮相 / In the wake of Tippett Studios’ closure, a digital archive appears online",
+          "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-04T19:49:12Z"
+          "published_at": "2026-10-04T21:01:28Z"
         },
         {
-          "id": "8e5c93739117dec7748c659a4be670160d933ebc",
-          "title": "我要求克劳德建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "url": "https://news.ycombinator.com/item?id=49957191",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T19:49:12Z"
+          "id": "ba2d8f7bcc03375272356e9f7651fdfc2a0b3350",
+          "title": "随着该机构关闭，一个包含动画素材的数字档案库在网上亮相 / In the wake of closure, a digital archive of animated materials appears online",
+          "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T21:01:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "63759581d3eb1671c6fe5cd4408d3a6a30ba22f4",
-          "title": "我要求克劳德建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "url": "https://island-three.gruberbuilds.workers.dev",
+          "id": "5ca286ebc9f983c6533ce63b8562e4172339371f",
+          "title": "随着该机构关闭，一个包含动画素材的数字档案库在网上亮相 / In the wake of Tippett Studios’ closure, a digital archive appears online",
+          "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-04T19:49:12Z"
+          "published_at": "2026-10-04T21:01:28Z"
         },
         {
-          "id": "8e5c93739117dec7748c659a4be670160d933ebc",
-          "title": "我要求克劳德建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "url": "https://news.ycombinator.com/item?id=49957191",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T19:49:12Z"
+          "id": "ba2d8f7bcc03375272356e9f7651fdfc2a0b3350",
+          "title": "随着该机构关闭，一个包含动画素材的数字档案库在网上亮相 / In the wake of closure, a digital archive of animated materials appears online",
+          "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T21:01:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.507,
-      "importance": 0.507,
-      "importance_score": 0.507,
+      "score": 0.5074,
+      "importance": 0.5074,
+      "importance_score": 0.5074,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7845,
+        "recency": 0.7868,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T19:49:12Z",
-      "latest_at": "2026-10-04T19:49:12Z",
+      "earliest_at": "2026-10-04T21:01:28Z",
+      "latest_at": "2026-10-04T21:01:28Z",
       "primary_item": {
-        "id": "63759581d3eb1671c6fe5cd4408d3a6a30ba22f4",
-        "title": "我要求克劳德建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-        "url": "https://island-three.gruberbuilds.workers.dev",
+        "id": "5ca286ebc9f983c6533ce63b8562e4172339371f",
+        "title": "随着该机构关闭，一个包含动画素材的数字档案库在网上亮相 / In the wake of Tippett Studios’ closure, a digital archive appears online",
+        "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -1629,15 +1667,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
+      "score": 0.515,
+      "importance": 0.515,
+      "importance_score": 0.515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8409,
+        "recency": 0.8289,
         "story_heat": 0.25
       },
       "category": "watch",
