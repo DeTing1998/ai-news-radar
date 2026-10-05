@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T20:37:53.937719Z",
+  "generated_at": "2026-10-05T21:37:44.532434Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8879,
-      "importance": 0.8879,
-      "importance_score": 0.8879,
+      "score": 0.8856,
+      "importance": 0.8856,
+      "importance_score": 0.8856,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9219,
+        "recency": 0.9087,
         "story_heat": 0.5
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8764,
-      "importance": 0.8764,
-      "importance_score": 0.8764,
+      "score": 0.8742,
+      "importance": 0.8742,
+      "importance_score": 0.8742,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8577,
+        "recency": 0.8454,
         "story_heat": 0.5
       },
       "category": "official",
@@ -240,15 +240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8383,
-      "importance": 0.8383,
-      "importance_score": 0.8383,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9352,
+        "recency": 0.9219,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,15 +340,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8286,
-      "importance": 0.8286,
-      "importance_score": 0.8286,
+      "score": 0.8261,
+      "importance": 0.8261,
+      "importance_score": 0.8261,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9612,
+        "recency": 0.9475,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -402,15 +402,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8196,
-      "importance": 0.8196,
-      "importance_score": 0.8196,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7424,
+        "recency": 0.7317,
         "story_heat": 0.0
       },
       "category": "official",
@@ -427,6 +427,67 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ebdbe868a594",
+      "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+      "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+      "primary_url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+      "source": "SemiAnalysis 长文 RSS（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+          "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+          "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+          "source": "SemiAnalysis 长文 RSS（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T20:01:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "SemiAnalysis 长文 RSS（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+          "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+          "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+          "source": "SemiAnalysis 长文 RSS（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T20:01:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.977,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T20:01:09Z",
+      "latest_at": "2026-10-05T20:01:09Z",
+      "primary_item": {
+        "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+        "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+        "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+        "source": "SemiAnalysis 长文 RSS（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -483,15 +544,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.622,
-      "importance": 0.622,
-      "importance_score": 0.622,
+      "score": 0.6197,
+      "importance": 0.6197,
+      "importance_score": 0.6197,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.8978,
+        "recency": 0.8849,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -599,15 +660,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5703,
-      "importance": 0.5703,
-      "importance_score": 0.5703,
+      "score": 0.5681,
+      "importance": 0.5681,
+      "importance_score": 0.5681,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8584,
+        "recency": 0.8462,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -651,19 +712,19 @@
           "published_at": "2026-10-05T05:37:40Z"
         },
         {
-          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T21:29:59Z"
+          "id": "089b77b1224aad2ab4c95eba86c6c0b58b9ca2a6",
+          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "url": "https://news.ycombinator.com/item?id=49961057",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T05:37:40Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "HN Algolia · AI 24h",
         "Hacker News · 24h最热",
+        "hackernews",
         "www.techspot.com"
       ],
       "items": [
@@ -686,33 +747,33 @@
           "published_at": "2026-10-05T05:37:40Z"
         },
         {
-          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T21:29:59Z"
+          "id": "089b77b1224aad2ab4c95eba86c6c0b58b9ca2a6",
+          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "url": "https://news.ycombinator.com/item?id=49961057",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T05:37:40Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5616,
-      "importance": 0.5616,
-      "importance_score": 0.5616,
+      "score": 0.5592,
+      "importance": 0.5592,
+      "importance_score": 0.5592,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9489,
+        "recency": 0.9354,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T21:29:59Z",
+      "earliest_at": "2026-10-05T05:37:40Z",
       "latest_at": "2026-10-05T17:00:08.955000Z",
       "primary_item": {
         "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
@@ -795,15 +856,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5603,
-      "importance": 0.5603,
-      "importance_score": 0.5603,
+      "score": 0.5579,
+      "importance": 0.5579,
+      "importance_score": 0.5579,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9416,
+        "recency": 0.9282,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -822,15 +883,24 @@
     },
     {
       "story_id": "story_f54841473b3f",
-      "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” / Altman: The world should accept some bad things happening for the benefits of AI",
-      "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
-      "primary_url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+      "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
+      "primary_url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
+      "source": "Slashdot (科技资讯)",
+      "source_name": "Info Flow",
       "sources": [
         {
+          "id": "16d92f2aea97814b8c54699f4ce4c63c9d50be58",
+          "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+          "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
+          "source": "Slashdot (科技资讯)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T16:00:00Z"
+        },
+        {
           "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
-          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” / Altman: The world should accept some bad things happening for the benefits of AI",
+          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
           "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -838,34 +908,34 @@
           "published_at": "2026-10-05T15:03:32Z"
         },
         {
-          "id": "9e2b31cea340a5d9b1d96baa9307d16547903fe7",
-          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” - Politico",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T22:35:54.184000Z"
-        },
-        {
-          "id": "1cbf93d365f8b0a78be644de7d1c6be7db8ffe79",
-          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生”",
-          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
-          "source": "www.politico.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T21:01:58.777000Z"
+          "id": "5a1831d6cb36560bec99b0c2378326fe74fc9a2f",
+          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
+          "url": "https://news.ycombinator.com/item?id=49965786",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T15:03:32Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News · 24h最热",
-        "news.google.com",
-        "www.politico.com"
+        "Slashdot (科技资讯)",
+        "hackernews"
       ],
       "items": [
         {
+          "id": "16d92f2aea97814b8c54699f4ce4c63c9d50be58",
+          "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+          "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
+          "source": "Slashdot (科技资讯)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T16:00:00Z"
+        },
+        {
           "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
-          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” / Altman: The world should accept some bad things happening for the benefits of AI",
+          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
           "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -873,49 +943,40 @@
           "published_at": "2026-10-05T15:03:32Z"
         },
         {
-          "id": "9e2b31cea340a5d9b1d96baa9307d16547903fe7",
-          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” - Politico",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T22:35:54.184000Z"
-        },
-        {
-          "id": "1cbf93d365f8b0a78be644de7d1c6be7db8ffe79",
-          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生”",
-          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
-          "source": "www.politico.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T21:01:58.777000Z"
+          "id": "5a1831d6cb36560bec99b0c2378326fe74fc9a2f",
+          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
+          "url": "https://news.ycombinator.com/item?id=49965786",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T15:03:32Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5569,
-      "importance": 0.5569,
-      "importance_score": 0.5569,
+      "score": 0.5567,
+      "importance": 0.5567,
+      "importance_score": 0.5567,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9227,
+        "recency": 0.9219,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T21:01:58.777000Z",
-      "latest_at": "2026-10-05T15:03:32Z",
+      "earliest_at": "2026-10-05T15:03:32Z",
+      "latest_at": "2026-10-05T16:00:00Z",
       "primary_item": {
-        "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
-        "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” / Altman: The world should accept some bad things happening for the benefits of AI",
-        "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "16d92f2aea97814b8c54699f4ce4c63c9d50be58",
+        "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+        "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
+        "source": "Slashdot (科技资讯)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -991,15 +1052,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5521,
-      "importance": 0.5521,
-      "importance_score": 0.5521,
+      "score": 0.5498,
+      "importance": 0.5498,
+      "importance_score": 0.5498,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.896,
+        "recency": 0.8832,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1089,15 +1150,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5457,
+      "importance": 0.5457,
+      "importance_score": 0.5457,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8731,
+        "recency": 0.8606,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1112,6 +1173,85 @@
         "url": "https://news.ycombinator.com/item?id=49963366",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_ec9915c4fbdd",
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "primary_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "59eb8333c9559d98d3ce3c22f939e80069c7862f",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T21:00:21Z"
+        },
+        {
+          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "url": "https://news.ycombinator.com/item?id=49970667",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:00:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "59eb8333c9559d98d3ce3c22f939e80069c7862f",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T21:00:21Z"
+        },
+        {
+          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "url": "https://news.ycombinator.com/item?id=49970667",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:00:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5442,
+      "importance": 0.5442,
+      "importance_score": 0.5442,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.991,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T21:00:21Z",
+      "latest_at": "2026-10-05T21:00:21Z",
+      "primary_item": {
+        "id": "59eb8333c9559d98d3ce3c22f939e80069c7862f",
+        "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1168,15 +1308,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9963,
+        "recency": 0.9821,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1191,6 +1331,84 @@
         "url": "https://reflection.ai/blog/introducing-beam",
         "source": "reflection.ai",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c261b367674c",
+      "title": "GitHub Actions Has Problems",
+      "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+      "primary_url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "a10f6d0fbbeade6fb6f7537474e90263b164410a",
+          "title": "GitHub Actions Has Problems",
+          "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T20:09:12Z"
+        },
+        {
+          "id": "b9cce64702b428ed6b77b6eb564b9ff76d066eb2",
+          "title": "行动事件 / Incident with Actions",
+          "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T20:09:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "a10f6d0fbbeade6fb6f7537474e90263b164410a",
+          "title": "GitHub Actions Has Problems",
+          "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T20:09:12Z"
+        },
+        {
+          "id": "b9cce64702b428ed6b77b6eb564b9ff76d066eb2",
+          "title": "行动事件 / Incident with Actions",
+          "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T20:09:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9789,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T20:09:12Z",
+      "latest_at": "2026-10-05T20:09:12Z",
+      "primary_item": {
+        "id": "a10f6d0fbbeade6fb6f7537474e90263b164410a",
+        "title": "GitHub Actions Has Problems",
+        "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1247,15 +1465,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9635,
+        "recency": 0.9497,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1270,85 +1488,6 @@
         "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7820fa1638a7",
-      "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-      "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
-      "primary_url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
-      "source": "Slashdot (科技资讯)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "16d92f2aea97814b8c54699f4ce4c63c9d50be58",
-          "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-          "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T16:00:00Z"
-        },
-        {
-          "id": "5a1831d6cb36560bec99b0c2378326fe74fc9a2f",
-          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
-          "url": "https://news.ycombinator.com/item?id=49965786",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T15:03:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Slashdot (科技资讯)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "16d92f2aea97814b8c54699f4ce4c63c9d50be58",
-          "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-          "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T16:00:00Z"
-        },
-        {
-          "id": "5a1831d6cb36560bec99b0c2378326fe74fc9a2f",
-          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
-          "url": "https://news.ycombinator.com/item?id=49965786",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T15:03:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9353,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T15:03:32Z",
-      "latest_at": "2026-10-05T16:00:00Z",
-      "primary_item": {
-        "id": "16d92f2aea97814b8c54699f4ce4c63c9d50be58",
-        "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-        "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
-        "source": "Slashdot (科技资讯)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1405,15 +1544,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.534,
-      "importance": 0.534,
-      "importance_score": 0.534,
+      "score": 0.5316,
+      "importance": 0.5316,
+      "importance_score": 0.5316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9345,
+        "recency": 0.9211,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1484,15 +1623,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5119,
-      "importance": 0.5119,
-      "importance_score": 0.5119,
+      "score": 0.5098,
+      "importance": 0.5098,
+      "importance_score": 0.5098,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8119,
+        "recency": 0.8002,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1510,237 +1649,79 @@
       }
     },
     {
-      "story_id": "story_adebaf99ef7a",
-      "title": "美国佛州一女子把 AI 当「日记本」用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
-      "url": "https://www.ithome.com/1/009/795.htm",
-      "primary_url": "https://www.ithome.com/1/009/795.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "17da319aa1f133f4178df36831153d44d5ef8751",
-          "title": "美国佛州一女子把 AI 当「日记本」用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
-          "url": "https://www.ithome.com/1/009/795.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "11be5a2e9a5386c748d81fd01ef75e74eb7586cd",
-          "title": "美国佛州一女子把 AI 当“日记本”用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
-          "url": "https://www.ithome.com/1/009/795.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T05:00:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "17da319aa1f133f4178df36831153d44d5ef8751",
-          "title": "美国佛州一女子把 AI 当「日记本」用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
-          "url": "https://www.ithome.com/1/009/795.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "11be5a2e9a5386c748d81fd01ef75e74eb7586cd",
-          "title": "美国佛州一女子把 AI 当“日记本”用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
-          "url": "https://www.ithome.com/1/009/795.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T05:00:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8052,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T05:00:25Z",
-      "latest_at": "2026-10-05T05:37:35.908232Z",
-      "primary_item": {
-        "id": "17da319aa1f133f4178df36831153d44d5ef8751",
-        "title": "美国佛州一女子把 AI 当「日记本」用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
-        "url": "https://www.ithome.com/1/009/795.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_895ef76f7c78",
-      "title": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-      "url": "https://www.v2ex.com/t/1246477",
-      "primary_url": "https://www.v2ex.com/t/1246477",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "7ce0cbe597c4517c3762667f68bca558ebda5f9a",
-          "title": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-          "url": "https://www.v2ex.com/t/1246477",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T03:36:22Z"
-        },
-        {
-          "id": "b81d9d08564ef32e7c3930c26e468663acdfec31",
-          "title": "[程序员] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-          "url": "https://www.v2ex.com/t/1246477",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T03:36:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "7ce0cbe597c4517c3762667f68bca558ebda5f9a",
-          "title": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-          "url": "https://www.v2ex.com/t/1246477",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T03:36:22Z"
-        },
-        {
-          "id": "b81d9d08564ef32e7c3930c26e468663acdfec31",
-          "title": "[程序员] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-          "url": "https://www.v2ex.com/t/1246477",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T03:36:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5066,
-      "importance": 0.5066,
-      "importance_score": 0.5066,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.782,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T03:36:22Z",
-      "latest_at": "2026-10-05T03:36:22Z",
-      "primary_item": {
-        "id": "7ce0cbe597c4517c3762667f68bca558ebda5f9a",
-        "title": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-        "url": "https://www.v2ex.com/t/1246477",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_24622c08c0f8",
-      "title": "佛罗里达州女子因涉嫌在人工智能聊天中发出威胁而被捕 / Florida woman arrested for allegedly making threats in an AI chat",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+      "story_id": "story_194d07064adc",
+      "title": "One person can now be a quorum at the SEC",
+      "url": "https://www.ft.com/content/3120782c-1ea0-4fdc-9462-0a4b4658f70f",
+      "primary_url": "https://www.ft.com/content/3120782c-1ea0-4fdc-9462-0a4b4658f70f",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "460d4914135ed0473e6912ed952980e00c125ceb",
-          "title": "佛罗里达州女子因涉嫌在人工智能聊天中发出威胁而被捕 / Florida woman arrested for allegedly making threats in an AI chat",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+          "id": "5fa57aaea4d886f9626e76a1fd785ada30e70787",
+          "title": "One person can now be a quorum at the SEC",
+          "url": "https://www.ft.com/content/3120782c-1ea0-4fdc-9462-0a4b4658f70f",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-05T15:11:36Z"
+          "published_at": "2026-10-05T19:06:37Z"
         },
         {
-          "id": "6848f995984c7c3845d2cf47b9620960cb786da8",
-          "title": "佛罗里达州女子因涉嫌在人工智能聊天中发出威胁而被捕 / Florida woman arrested for allegedly making threats in an AI chat",
-          "url": "https://news.ycombinator.com/item?id=49965895",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T15:11:36Z"
+          "id": "10c503b16882750cb6f512fe6a467917929b3b3b",
+          "title": "One person is now a quorum at the SEC",
+          "url": "https://www.ft.com/content/3120782c-1ea0-4fdc-9462-0a4b4658f70f",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T19:06:37Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "460d4914135ed0473e6912ed952980e00c125ceb",
-          "title": "佛罗里达州女子因涉嫌在人工智能聊天中发出威胁而被捕 / Florida woman arrested for allegedly making threats in an AI chat",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+          "id": "5fa57aaea4d886f9626e76a1fd785ada30e70787",
+          "title": "One person can now be a quorum at the SEC",
+          "url": "https://www.ft.com/content/3120782c-1ea0-4fdc-9462-0a4b4658f70f",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-05T15:11:36Z"
+          "published_at": "2026-10-05T19:06:37Z"
         },
         {
-          "id": "6848f995984c7c3845d2cf47b9620960cb786da8",
-          "title": "佛罗里达州女子因涉嫌在人工智能聊天中发出威胁而被捕 / Florida woman arrested for allegedly making threats in an AI chat",
-          "url": "https://news.ycombinator.com/item?id=49965895",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T15:11:36Z"
+          "id": "10c503b16882750cb6f512fe6a467917929b3b3b",
+          "title": "One person is now a quorum at the SEC",
+          "url": "https://www.ft.com/content/3120782c-1ea0-4fdc-9462-0a4b4658f70f",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T19:06:37Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9245,
+        "recency": 0.9643,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-05T15:11:36Z",
-      "latest_at": "2026-10-05T15:11:36Z",
+      "earliest_at": "2026-10-05T19:06:37Z",
+      "latest_at": "2026-10-05T19:06:37Z",
       "primary_item": {
-        "id": "460d4914135ed0473e6912ed952980e00c125ceb",
-        "title": "佛罗里达州女子因涉嫌在人工智能聊天中发出威胁而被捕 / Florida woman arrested for allegedly making threats in an AI chat",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+        "id": "5fa57aaea4d886f9626e76a1fd785ada30e70787",
+        "title": "One person can now be a quorum at the SEC",
+        "url": "https://www.ft.com/content/3120782c-1ea0-4fdc-9462-0a4b4658f70f",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
