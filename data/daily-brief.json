@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T18:37:36.314731Z",
+  "generated_at": "2026-10-05T20:37:53.937719Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8928,
-      "importance": 0.8928,
-      "importance_score": 0.8928,
+      "score": 0.8879,
+      "importance": 0.8879,
+      "importance_score": 0.8879,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.949,
+        "recency": 0.9219,
         "story_heat": 0.5
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8809,
-      "importance": 0.8809,
-      "importance_score": 0.8809,
+      "score": 0.8764,
+      "importance": 0.8764,
+      "importance_score": 0.8764,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8829,
+        "recency": 0.8577,
         "story_heat": 0.5
       },
       "category": "official",
@@ -240,15 +240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8433,
-      "importance": 0.8433,
-      "importance_score": 0.8433,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9627,
+        "recency": 0.9352,
         "story_heat": 0.0
       },
       "category": "official",
@@ -264,6 +264,168 @@
         "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
         "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
         "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_deeb3d35a36b",
+      "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "primary_url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
+          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T17:53:35Z"
+        },
+        {
+          "id": "945a7163f87a0c0bb3f289c5df41b7aa6cb530ce",
+          "title": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "diff.wikimedia.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T19:20:27.931000Z"
+        },
+        {
+          "id": "d1903069c17288859b86767395e2aa9402e96dae",
+          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T17:53:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News：AI 热帖",
+        "diff.wikimedia.org"
+      ],
+      "items": [
+        {
+          "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
+          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T17:53:35Z"
+        },
+        {
+          "id": "945a7163f87a0c0bb3f289c5df41b7aa6cb530ce",
+          "title": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "diff.wikimedia.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T19:20:27.931000Z"
+        },
+        {
+          "id": "d1903069c17288859b86767395e2aa9402e96dae",
+          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T17:53:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9612,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T17:53:35Z",
+      "latest_at": "2026-10-05T19:20:27.931000Z",
+      "primary_item": {
+        "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
+        "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "Codex CLI 0.160.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8f32195906ba9e98320fafbd78d04e63a6e16758",
+          "title": "Codex CLI 0.160.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "8f32195906ba9e98320fafbd78d04e63a6e16758",
+          "title": "Codex CLI 0.160.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8196,
+      "importance": 0.8196,
+      "importance_score": 0.8196,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7424,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T00:00:00Z",
+      "latest_at": "2026-10-05T00:00:00Z",
+      "primary_item": {
+        "id": "8f32195906ba9e98320fafbd78d04e63a6e16758",
+        "title": "Codex CLI 0.160.1",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -321,15 +483,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6268,
-      "importance": 0.6268,
-      "importance_score": 0.6268,
+      "score": 0.622,
+      "importance": 0.622,
+      "importance_score": 0.622,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9241,
+        "recency": 0.8978,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -437,15 +599,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5749,
-      "importance": 0.5749,
-      "importance_score": 0.5749,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8836,
+        "recency": 0.8584,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -535,15 +697,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5666,
-      "importance": 0.5666,
-      "importance_score": 0.5666,
+      "score": 0.5616,
+      "importance": 0.5616,
+      "importance_score": 0.5616,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9768,
+        "recency": 0.9489,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -633,15 +795,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5653,
-      "importance": 0.5653,
-      "importance_score": 0.5653,
+      "score": 0.5603,
+      "importance": 0.5603,
+      "importance_score": 0.5603,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9693,
+        "recency": 0.9416,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -731,15 +893,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5618,
-      "importance": 0.5618,
-      "importance_score": 0.5618,
+      "score": 0.5569,
+      "importance": 0.5569,
+      "importance_score": 0.5569,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9498,
+        "recency": 0.9227,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -829,15 +991,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5568,
-      "importance": 0.5568,
-      "importance_score": 0.5568,
+      "score": 0.5521,
+      "importance": 0.5521,
+      "importance_score": 0.5521,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9223,
+        "recency": 0.896,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -927,15 +1089,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5526,
-      "importance": 0.5526,
-      "importance_score": 0.5526,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8987,
+        "recency": 0.8731,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -953,82 +1115,161 @@
       }
     },
     {
-      "story_id": "story_deeb3d35a36b",
-      "title": "维基媒体项目中发现 OpenAI“流氓”代理活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-      "primary_url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_7ded5c03aba5",
+      "title": "Beam：Reflection 501B 无重量限制款",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "primary_url": "https://reflection.ai/blog/introducing-beam",
+      "source": "reflection.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d1903069c17288859b86767395e2aa9402e96dae",
-          "title": "维基媒体项目中发现 OpenAI“流氓”代理活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
+          "title": "Beam：Reflection 501B 无重量限制款",
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "reflection.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T20:22:29.758000Z"
+        },
+        {
+          "id": "bd24c604cb73683d730ccb49bffde32d4521fd30",
+          "title": "Beam：Reflection 501B 无重量限制款 / Beam: Reflection's 501B open-weight model",
+          "url": "https://reflection.ai/blog/introducing-beam",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-05T17:53:35Z"
-        },
-        {
-          "id": "cc2a0a5b5cb445cf705317e878fdb953e55be6a8",
-          "title": "维基媒体项目中发现 OpenAI“流氓”代理活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "url": "https://news.ycombinator.com/item?id=49968105",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T17:53:35Z"
+          "published_at": "2026-10-05T19:16:35Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "hackernews"
+        "reflection.ai"
       ],
       "items": [
         {
-          "id": "d1903069c17288859b86767395e2aa9402e96dae",
-          "title": "维基媒体项目中发现 OpenAI“流氓”代理活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
+          "title": "Beam：Reflection 501B 无重量限制款",
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "reflection.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T20:22:29.758000Z"
+        },
+        {
+          "id": "bd24c604cb73683d730ccb49bffde32d4521fd30",
+          "title": "Beam：Reflection 501B 无重量限制款 / Beam: Reflection's 501B open-weight model",
+          "url": "https://reflection.ai/blog/introducing-beam",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-05T17:53:35Z"
-        },
-        {
-          "id": "cc2a0a5b5cb445cf705317e878fdb953e55be6a8",
-          "title": "维基媒体项目中发现 OpenAI“流氓”代理活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "url": "https://news.ycombinator.com/item?id=49968105",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T17:53:35Z"
+          "published_at": "2026-10-05T19:16:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9895,
+        "recency": 0.9963,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-05T17:53:35Z",
-      "latest_at": "2026-10-05T17:53:35Z",
+      "earliest_at": "2026-10-05T19:16:35Z",
+      "latest_at": "2026-10-05T20:22:29.758000Z",
       "primary_item": {
-        "id": "d1903069c17288859b86767395e2aa9402e96dae",
-        "title": "维基媒体项目中发现 OpenAI“流氓”代理活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
+        "title": "Beam：Reflection 501B 无重量限制款",
+        "url": "https://reflection.ai/blog/introducing-beam",
+        "source": "reflection.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d4a655292722",
+      "title": "亚马逊聘请了微软前Copilot首席技术官",
+      "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
+      "primary_url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ccc5c68253bf3d8bb6856a9b13c33c2c1e226439",
+          "title": "亚马逊聘请了微软前Copilot首席技术官",
+          "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T18:03:29.958000Z"
+        },
+        {
+          "id": "9fd9fffac6b0fff00e7ef9c446e55768f06c360c",
+          "title": "亚马逊聘请了微软前Copilot首席技术官 / Amazon hires Microsoft's former Copilot CTO",
+          "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T17:45:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "ccc5c68253bf3d8bb6856a9b13c33c2c1e226439",
+          "title": "亚马逊聘请了微软前Copilot首席技术官",
+          "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T18:03:29.958000Z"
+        },
+        {
+          "id": "9fd9fffac6b0fff00e7ef9c446e55768f06c360c",
+          "title": "亚马逊聘请了微软前Copilot首席技术官 / Amazon hires Microsoft's former Copilot CTO",
+          "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T17:45:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9635,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T17:45:01Z",
+      "latest_at": "2026-10-05T18:03:29.958000Z",
+      "primary_item": {
+        "id": "ccc5c68253bf3d8bb6856a9b13c33c2c1e226439",
+        "title": "亚马逊聘请了微软前Copilot首席技术官",
+        "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1085,15 +1326,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.5342,
+      "importance": 0.5342,
+      "importance_score": 0.5342,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9628,
+        "recency": 0.9353,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1164,15 +1405,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9619,
+        "recency": 0.9345,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1187,201 +1428,6 @@
         "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown",
         "source": "arstechnica.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "乔纳森·海特：人工智能是“教育的中子弹”[视频] / Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-      "url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
-      "primary_url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "82f3cc4beff94a8e225978e87a1ecb048670e683",
-          "title": "乔纳森·海特：人工智能是“教育的中子弹”[视频] / Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-          "url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T14:02:38Z"
-        },
-        {
-          "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
-          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T19:42:25Z"
-        },
-        {
-          "id": "9e486460324147a03e5d58cce165a51ef198aaed",
-          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-          "url": "https://news.ycombinator.com/item?id=49957117",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T19:42:25Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "82f3cc4beff94a8e225978e87a1ecb048670e683",
-          "title": "乔纳森·海特：人工智能是“教育的中子弹”[视频] / Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-          "url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T14:02:38Z"
-        },
-        {
-          "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
-          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T19:42:25Z"
-        },
-        {
-          "id": "9e486460324147a03e5d58cce165a51ef198aaed",
-          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-          "url": "https://news.ycombinator.com/item?id=49957117",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T19:42:25Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5593,
-      "importance": 0.5593,
-      "importance_score": 0.5593,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.936,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T19:42:25Z",
-      "latest_at": "2026-10-05T14:02:38Z",
-      "primary_item": {
-        "id": "82f3cc4beff94a8e225978e87a1ecb048670e683",
-        "title": "乔纳森·海特：人工智能是“教育的中子弹”[视频] / Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-        "url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_59a5f75bd272",
-      "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "url": "https://github.com/omlahore/RemoveMacAI",
-      "primary_url": "https://github.com/omlahore/RemoveMacAI",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "4ff0d9fc11863ca9b3c5a0bec9bf88a76a8d466e",
-          "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
-          "url": "https://github.com/omlahore/RemoveMacAI",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "616fd0f7ca6e770bf86b0a7b24e8d0d96b4625bf",
-          "title": "删除并禁用 Apple Macos27 AI 模型工具 / Remove and Disable Apple Macos27 AI Models Tool",
-          "url": "https://news.ycombinator.com/item?id=49957116",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T19:42:25Z"
-        },
-        {
-          "id": "3204d89818ae0e321bf29df0677918ad81a947b5",
-          "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Remove and Disable Apple Macos27 AI Models Tool",
-          "url": "https://github.com/omlahore/RemoveMacAI",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T19:42:25Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Readhub · AI",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4ff0d9fc11863ca9b3c5a0bec9bf88a76a8d466e",
-          "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
-          "url": "https://github.com/omlahore/RemoveMacAI",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "616fd0f7ca6e770bf86b0a7b24e8d0d96b4625bf",
-          "title": "删除并禁用 Apple Macos27 AI 模型工具 / Remove and Disable Apple Macos27 AI Models Tool",
-          "url": "https://news.ycombinator.com/item?id=49957116",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T19:42:25Z"
-        },
-        {
-          "id": "3204d89818ae0e321bf29df0677918ad81a947b5",
-          "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Remove and Disable Apple Macos27 AI Models Tool",
-          "url": "https://github.com/omlahore/RemoveMacAI",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T19:42:25Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5276,
-      "importance": 0.5276,
-      "importance_score": 0.5276,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7602,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T19:42:25Z",
-      "latest_at": "2026-10-04T23:38:10.293145Z",
-      "primary_item": {
-        "id": "4ff0d9fc11863ca9b3c5a0bec9bf88a76a8d466e",
-        "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
-        "url": "https://github.com/omlahore/RemoveMacAI",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1438,15 +1484,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5162,
-      "importance": 0.5162,
-      "importance_score": 0.5162,
+      "score": 0.5119,
+      "importance": 0.5119,
+      "importance_score": 0.5119,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8357,
+        "recency": 0.8119,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1464,160 +1510,82 @@
       }
     },
     {
-      "story_id": "story_bfb56c87b6ad",
-      "title": "本·阿弗莱克表示，当他第一次看到人工智能能做什么时，简直“惊得心脏都要停了”——随后，他便在自己的电影中运用了这项技术",
-      "url": "https://www.businessinsider.com/ben-affleck-used-ai-latest-film-movie-netflix-interpositive-2026-10",
-      "primary_url": "https://www.businessinsider.com/ben-affleck-used-ai-latest-film-movie-netflix-interpositive-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_adebaf99ef7a",
+      "title": "美国佛州一女子把 AI 当「日记本」用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
+      "url": "https://www.ithome.com/1/009/795.htm",
+      "primary_url": "https://www.ithome.com/1/009/795.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "6fe189c7607959514cc4950a5c3c000ea1afe32a",
-          "title": "本·阿弗莱克表示，当他第一次看到人工智能能做什么时，简直“惊得心脏都要停了”——随后，他便在自己的电影中运用了这项技术",
-          "url": "https://www.businessinsider.com/ben-affleck-used-ai-latest-film-movie-netflix-interpositive-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T05:25:16.667000Z"
+          "id": "17da319aa1f133f4178df36831153d44d5ef8751",
+          "title": "美国佛州一女子把 AI 当「日记本」用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
+          "url": "https://www.ithome.com/1/009/795.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "900166b961220a3e99837eb955fab25d9ee16a50",
-          "title": "本·阿弗莱克表示，当他第一次看到人工智能能做什么时，简直“惊得心脏都要停了”——随后，他便在自己的电影中运用了这项技术 / Ben Affleck says he had a ‘heart attack’ when he first saw what AI could do — then he used it in his movie",
-          "url": "https://www.businessinsider.com/ben-affleck-used-ai-latest-film-movie-netflix-interpositive-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T05:06:05Z"
+          "id": "11be5a2e9a5386c748d81fd01ef75e74eb7586cd",
+          "title": "美国佛州一女子把 AI 当“日记本”用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
+          "url": "https://www.ithome.com/1/009/795.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T05:00:25Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "6fe189c7607959514cc4950a5c3c000ea1afe32a",
-          "title": "本·阿弗莱克表示，当他第一次看到人工智能能做什么时，简直“惊得心脏都要停了”——随后，他便在自己的电影中运用了这项技术",
-          "url": "https://www.businessinsider.com/ben-affleck-used-ai-latest-film-movie-netflix-interpositive-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T05:25:16.667000Z"
+          "id": "17da319aa1f133f4178df36831153d44d5ef8751",
+          "title": "美国佛州一女子把 AI 当「日记本」用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
+          "url": "https://www.ithome.com/1/009/795.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "900166b961220a3e99837eb955fab25d9ee16a50",
-          "title": "本·阿弗莱克表示，当他第一次看到人工智能能做什么时，简直“惊得心脏都要停了”——随后，他便在自己的电影中运用了这项技术 / Ben Affleck says he had a ‘heart attack’ when he first saw what AI could do — then he used it in his movie",
-          "url": "https://www.businessinsider.com/ben-affleck-used-ai-latest-film-movie-netflix-interpositive-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T05:06:05Z"
+          "id": "11be5a2e9a5386c748d81fd01ef75e74eb7586cd",
+          "title": "美国佛州一女子把 AI 当“日记本”用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
+          "url": "https://www.ithome.com/1/009/795.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T05:00:25Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
+      "score": 0.5107,
+      "importance": 0.5107,
+      "importance_score": 0.5107,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8264,
+        "recency": 0.8052,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-05T05:06:05Z",
-      "latest_at": "2026-10-05T05:25:16.667000Z",
+      "earliest_at": "2026-10-05T05:00:25Z",
+      "latest_at": "2026-10-05T05:37:35.908232Z",
       "primary_item": {
-        "id": "6fe189c7607959514cc4950a5c3c000ea1afe32a",
-        "title": "本·阿弗莱克表示，当他第一次看到人工智能能做什么时，简直“惊得心脏都要停了”——随后，他便在自己的电影中运用了这项技术",
-        "url": "https://www.businessinsider.com/ben-affleck-used-ai-latest-film-movie-netflix-interpositive-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_608e442f2368",
-      "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T04:05:55.362000Z"
-        },
-        {
-          "id": "b86d05d8da844c2812b0ea307cd8086bab7554e9",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T19:58:49.689000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com"
-      ],
-      "items": [
-        {
-          "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T04:05:55.362000Z"
-        },
-        {
-          "id": "b86d05d8da844c2812b0ea307cd8086bab7554e9",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T19:58:49.689000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5117,
-      "importance": 0.5117,
-      "importance_score": 0.5117,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8108,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T19:58:49.689000Z",
-      "latest_at": "2026-10-05T04:05:55.362000Z",
-      "primary_item": {
-        "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
-        "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
+        "id": "17da319aa1f133f4178df36831153d44d5ef8751",
+        "title": "美国佛州一女子把 AI 当「日记本」用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
+        "url": "https://www.ithome.com/1/009/795.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1673,15 +1641,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
+      "score": 0.5066,
+      "importance": 0.5066,
+      "importance_score": 0.5066,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.805,
+        "recency": 0.782,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1699,82 +1667,82 @@
       }
     },
     {
-      "story_id": "story_443efc02a512",
-      "title": "Show HN: EditUI – 直接在浏览器中进行 Cursor/Claude 风格的用户界面编辑",
-      "url": "https://www.editui.app",
-      "primary_url": "https://www.editui.app",
-      "source": "www.editui.app",
-      "source_name": "Buzzing",
+      "story_id": "story_24622c08c0f8",
+      "title": "佛罗里达州女子因涉嫌在人工智能聊天中发出威胁而被捕 / Florida woman arrested for allegedly making threats in an AI chat",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "1a7a8b8e5e96e1de0d4cf9b84ef593b7782893d5",
-          "title": "Show HN: EditUI – 直接在浏览器中进行 Cursor/Claude 风格的用户界面编辑",
-          "url": "https://www.editui.app",
-          "source": "www.editui.app",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T23:38:44.334000Z"
+          "id": "460d4914135ed0473e6912ed952980e00c125ceb",
+          "title": "佛罗里达州女子因涉嫌在人工智能聊天中发出威胁而被捕 / Florida woman arrested for allegedly making threats in an AI chat",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T15:11:36Z"
         },
         {
-          "id": "084aea3b4fbd61a1dd818df6c377612ce030cff4",
-          "title": "Show HN: EditUI – 直接在浏览器中进行 Cursor/Claude 风格的用户界面编辑 / Show HN: EditUI – Cursor/Claude Design-style UI editing directly in the browser",
-          "url": "https://www.editui.app",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T23:33:02Z"
+          "id": "6848f995984c7c3845d2cf47b9620960cb786da8",
+          "title": "佛罗里达州女子因涉嫌在人工智能聊天中发出威胁而被捕 / Florida woman arrested for allegedly making threats in an AI chat",
+          "url": "https://news.ycombinator.com/item?id=49965895",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T15:11:36Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "www.editui.app"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "1a7a8b8e5e96e1de0d4cf9b84ef593b7782893d5",
-          "title": "Show HN: EditUI – 直接在浏览器中进行 Cursor/Claude 风格的用户界面编辑",
-          "url": "https://www.editui.app",
-          "source": "www.editui.app",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T23:38:44.334000Z"
+          "id": "460d4914135ed0473e6912ed952980e00c125ceb",
+          "title": "佛罗里达州女子因涉嫌在人工智能聊天中发出威胁而被捕 / Florida woman arrested for allegedly making threats in an AI chat",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T15:11:36Z"
         },
         {
-          "id": "084aea3b4fbd61a1dd818df6c377612ce030cff4",
-          "title": "Show HN: EditUI – 直接在浏览器中进行 Cursor/Claude 风格的用户界面编辑 / Show HN: EditUI – Cursor/Claude Design-style UI editing directly in the browser",
-          "url": "https://www.editui.app",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T23:33:02Z"
+          "id": "6848f995984c7c3845d2cf47b9620960cb786da8",
+          "title": "佛罗里达州女子因涉嫌在人工智能聊天中发出威胁而被捕 / Florida woman arrested for allegedly making threats in an AI chat",
+          "url": "https://news.ycombinator.com/item?id=49965895",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T15:11:36Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5026,
-      "importance": 0.5026,
-      "importance_score": 0.5026,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7603,
+        "recency": 0.9245,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T23:33:02Z",
-      "latest_at": "2026-10-04T23:38:44.334000Z",
+      "earliest_at": "2026-10-05T15:11:36Z",
+      "latest_at": "2026-10-05T15:11:36Z",
       "primary_item": {
-        "id": "1a7a8b8e5e96e1de0d4cf9b84ef593b7782893d5",
-        "title": "Show HN: EditUI – 直接在浏览器中进行 Cursor/Claude 风格的用户界面编辑",
-        "url": "https://www.editui.app",
-        "source": "www.editui.app",
-        "source_name": "Buzzing"
+        "id": "460d4914135ed0473e6912ed952980e00c125ceb",
+        "title": "佛罗里达州女子因涉嫌在人工智能聊天中发出威胁而被捕 / Florida woman arrested for allegedly making threats in an AI chat",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
