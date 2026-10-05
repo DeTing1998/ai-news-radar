@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T01:37:32.998282Z",
+  "generated_at": "2026-10-05T02:37:36.073048Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9825,
+        "recency": 0.9684,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -134,15 +134,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6177,
-      "importance": 0.6177,
-      "importance_score": 0.6177,
+      "score": 0.6155,
+      "importance": 0.6155,
+      "importance_score": 0.6155,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8736,
+        "recency": 0.8611,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -157,140 +157,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
         "source": "The Verge",
         "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_c83b565fc251",
-      "title": "宗教学者与Anthropic公司进行了会面",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "primary_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "source": "www.nytimes.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
-          "title": "宗教学者与Anthropic公司进行了会面",
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T12:57:08.561000Z"
-        },
-        {
-          "id": "c0eb21667ab5f8fb733a7208e76ac835ef506472",
-          "title": "宗教学者与Anthropic公司进行了会面 / Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T02:34:22Z"
-        },
-        {
-          "id": "77e82a7aac2c2fc2c585b57f15a0c351de15a7e3",
-          "title": "Anthropic 向人工智能灌输道德的探索型号 / Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
-          "url": "https://news.ycombinator.com/item?id=49950052",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T02:34:22Z"
-        },
-        {
-          "id": "86b6b5719f328b1fe17c994864d38a678bed98ae",
-          "title": "宗教学者与Anthropic公司进行了会面 / Religious scholars met with Anthropic",
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T02:34:22Z"
-        },
-        {
-          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
-          "title": "宗教学者会见人类 / Religious scholars met with Anthropic",
-          "url": "https://news.ycombinator.com/item?id=49950052",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T02:34:22Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.nytimes.com"
-      ],
-      "items": [
-        {
-          "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
-          "title": "宗教学者与Anthropic公司进行了会面",
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T12:57:08.561000Z"
-        },
-        {
-          "id": "c0eb21667ab5f8fb733a7208e76ac835ef506472",
-          "title": "宗教学者与Anthropic公司进行了会面 / Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T02:34:22Z"
-        },
-        {
-          "id": "77e82a7aac2c2fc2c585b57f15a0c351de15a7e3",
-          "title": "Anthropic 向人工智能灌输道德的探索型号 / Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
-          "url": "https://news.ycombinator.com/item?id=49950052",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T02:34:22Z"
-        },
-        {
-          "id": "86b6b5719f328b1fe17c994864d38a678bed98ae",
-          "title": "宗教学者与Anthropic公司进行了会面 / Religious scholars met with Anthropic",
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T02:34:22Z"
-        },
-        {
-          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
-          "title": "宗教学者会见人类 / Religious scholars met with Anthropic",
-          "url": "https://news.ycombinator.com/item?id=49950052",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T02:34:22Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5907,
-      "importance": 0.5907,
-      "importance_score": 0.5907,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8328,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T02:34:22Z",
-      "latest_at": "2026-10-04T12:57:08.561000Z",
-      "primary_item": {
-        "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
-        "title": "宗教学者与Anthropic公司进行了会面",
-        "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-        "source": "www.nytimes.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -366,15 +232,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5657,
-      "importance": 0.5657,
-      "importance_score": 0.5657,
+      "score": 0.5632,
+      "importance": 0.5632,
+      "importance_score": 0.5632,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9717,
+        "recency": 0.9577,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -463,15 +329,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5561,
-      "importance": 0.5561,
-      "importance_score": 0.5561,
+      "score": 0.5537,
+      "importance": 0.5537,
+      "importance_score": 0.5537,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9181,
+        "recency": 0.9049,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -542,15 +408,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9572,
+        "recency": 0.9435,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -621,15 +487,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9394,
+        "recency": 0.926,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -719,15 +585,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.534,
-      "importance": 0.534,
-      "importance_score": 0.534,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7953,
+        "recency": 0.7839,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -798,15 +664,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5313,
-      "importance": 0.5313,
-      "importance_score": 0.5313,
+      "score": 0.5289,
+      "importance": 0.5289,
+      "importance_score": 0.5289,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9196,
+        "recency": 0.9064,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -821,241 +687,6 @@
         "url": "https://island-three.gruberbuilds.workers.dev",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_d354e4a5c9be",
-      "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "307750a9a9f6793d14bfe1718775e3dbdbfd24ee",
-          "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T14:15:01.403000Z"
-        },
-        {
-          "id": "7936d0093c30da16bc9e02c58384f7e9d1c0d61c",
-          "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T01:55:40.527000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "307750a9a9f6793d14bfe1718775e3dbdbfd24ee",
-          "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T14:15:01.403000Z"
-        },
-        {
-          "id": "7936d0093c30da16bc9e02c58384f7e9d1c0d61c",
-          "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T01:55:40.527000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5185,
-      "importance": 0.5185,
-      "importance_score": 0.5185,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8485,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T01:55:40.527000Z",
-      "latest_at": "2026-10-04T14:15:01.403000Z",
-      "primary_item": {
-        "id": "307750a9a9f6793d14bfe1718775e3dbdbfd24ee",
-        "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e808fbfdb386",
-      "title": "特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
-      "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
-      "primary_url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bdb184e7d55b76b55220c03a90fd339c2f7b958a",
-          "title": "特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
-          "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T13:43:45.683000Z"
-        },
-        {
-          "id": "2462d055f13afb2f7a2b6c59069667aacfabef16",
-          "title": "据《华尔街日报》报道，特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
-          "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T02:11:02.276000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "bdb184e7d55b76b55220c03a90fd339c2f7b958a",
-          "title": "特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
-          "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T13:43:45.683000Z"
-        },
-        {
-          "id": "2462d055f13afb2f7a2b6c59069667aacfabef16",
-          "title": "据《华尔街日报》报道，特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
-          "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T02:11:02.276000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5174,
-      "importance": 0.5174,
-      "importance_score": 0.5174,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8422,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T02:11:02.276000Z",
-      "latest_at": "2026-10-04T13:43:45.683000Z",
-      "primary_item": {
-        "id": "bdb184e7d55b76b55220c03a90fd339c2f7b958a",
-        "title": "特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
-        "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1767d40bc2ab",
-      "title": "我们盘点了半年数据，发现 22 万部 AI 短剧，播放量破亿的不到千分之五",
-      "url": "https://www.huxiu.com/article/4895398.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4895398.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "7f98fd0006e59bf69e355ef82b8a9f566a9b7519",
-          "title": "我们盘点了半年数据，发现 22 万部 AI 短剧，播放量破亿的不到千分之五",
-          "url": "https://www.huxiu.com/article/4895398.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "58f8bb496d9ee0c9750d857ba47934373fa4974b",
-          "title": "我们盘点了半年数据，发现22万部AI短剧，播放量破亿的不到千分之五",
-          "url": "https://www.huxiu.com/article/4895398.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T00:01:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "7f98fd0006e59bf69e355ef82b8a9f566a9b7519",
-          "title": "我们盘点了半年数据，发现 22 万部 AI 短剧，播放量破亿的不到千分之五",
-          "url": "https://www.huxiu.com/article/4895398.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "58f8bb496d9ee0c9750d857ba47934373fa4974b",
-          "title": "我们盘点了半年数据，发现22万部AI短剧，播放量破亿的不到千分之五",
-          "url": "https://www.huxiu.com/article/4895398.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T00:01:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9857,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T00:01:56Z",
-      "latest_at": "2026-10-05T00:37:39.028058Z",
-      "primary_item": {
-        "id": "7f98fd0006e59bf69e355ef82b8a9f566a9b7519",
-        "title": "我们盘点了半年数据，发现 22 万部 AI 短剧，播放量破亿的不到千分之五",
-        "url": "https://www.huxiu.com/article/4895398.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1112,15 +743,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5129,
-      "importance": 0.5129,
-      "importance_score": 0.5129,
+      "score": 0.5108,
+      "importance": 0.5108,
+      "importance_score": 0.5108,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8172,
+        "recency": 0.8055,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1135,6 +766,85 @@
         "url": "https://github.com/michael-denyer/pstack-claude",
         "source": "github",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1767d40bc2ab",
+      "title": "我们盘点了半年数据，发现 22 万部 AI 短剧，播放量破亿的不到千分之五",
+      "url": "https://www.huxiu.com/article/4895398.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4895398.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7f98fd0006e59bf69e355ef82b8a9f566a9b7519",
+          "title": "我们盘点了半年数据，发现 22 万部 AI 短剧，播放量破亿的不到千分之五",
+          "url": "https://www.huxiu.com/article/4895398.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "58f8bb496d9ee0c9750d857ba47934373fa4974b",
+          "title": "我们盘点了半年数据，发现22万部AI短剧，播放量破亿的不到千分之五",
+          "url": "https://www.huxiu.com/article/4895398.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T00:01:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "7f98fd0006e59bf69e355ef82b8a9f566a9b7519",
+          "title": "我们盘点了半年数据，发现 22 万部 AI 短剧，播放量破亿的不到千分之五",
+          "url": "https://www.huxiu.com/article/4895398.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "58f8bb496d9ee0c9750d857ba47934373fa4974b",
+          "title": "我们盘点了半年数据，发现22万部AI短剧，播放量破亿的不到千分之五",
+          "url": "https://www.huxiu.com/article/4895398.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T00:01:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9715,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T00:01:56Z",
+      "latest_at": "2026-10-05T00:37:39.028058Z",
+      "primary_item": {
+        "id": "7f98fd0006e59bf69e355ef82b8a9f566a9b7519",
+        "title": "我们盘点了半年数据，发现 22 万部 AI 短剧，播放量破亿的不到千分之五",
+        "url": "https://www.huxiu.com/article/4895398.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1190,15 +900,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5105,
-      "importance": 0.5105,
-      "importance_score": 0.5105,
+      "score": 0.5084,
+      "importance": 0.5084,
+      "importance_score": 0.5084,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8039,
+        "recency": 0.7923,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1269,15 +979,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.509,
-      "importance": 0.509,
-      "importance_score": 0.509,
+      "score": 0.5069,
+      "importance": 0.5069,
+      "importance_score": 0.5069,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7953,
+        "recency": 0.7839,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1348,15 +1058,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5317,
-      "importance": 0.5317,
-      "importance_score": 0.5317,
+      "score": 0.5293,
+      "importance": 0.5293,
+      "importance_score": 0.5293,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9217,
+        "recency": 0.9085,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1427,15 +1137,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5255,
-      "importance": 0.5255,
-      "importance_score": 0.5255,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8874,
+        "recency": 0.8747,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1506,15 +1216,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1585,15 +1295,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.528,
-      "importance": 0.528,
-      "importance_score": 0.528,
+      "score": 0.5256,
+      "importance": 0.5256,
+      "importance_score": 0.5256,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9009,
+        "recency": 0.888,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1664,15 +1374,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5213,
-      "importance": 0.5213,
-      "importance_score": 0.5213,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8638,
+        "recency": 0.8514,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1687,6 +1397,241 @@
         "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_45fceba848ec",
+      "title": "AI 数据中心成本每 12 个月就会翻一番——行业需要 6 万亿美元的年收入才能避免严重崩溃 / AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
+      "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+      "primary_url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e0cb8c31c3d3d8e1896f6afbce4723e7329866d6",
+          "title": "AI 数据中心成本每 12 个月就会翻一番——行业需要 6 万亿美元的年收入才能避免严重崩溃 / AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
+          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e7359ffa3af8a3694c4101ea37c8503d8cc36ea6",
+          "title": "年收入达 6 万亿美元，否则将面临重大崩溃——AI 数据中心成本每 12 个月翻一番 / Generate $6 trillion in annual revenue or face a major collapse — AI data center costs are doubling every 12 months",
+          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e0cb8c31c3d3d8e1896f6afbce4723e7329866d6",
+          "title": "AI 数据中心成本每 12 个月就会翻一番——行业需要 6 万亿美元的年收入才能避免严重崩溃 / AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
+          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e7359ffa3af8a3694c4101ea37c8503d8cc36ea6",
+          "title": "年收入达 6 万亿美元，否则将面临重大崩溃——AI 数据中心成本每 12 个月翻一番 / Generate $6 trillion in annual revenue or face a major collapse — AI data center costs are doubling every 12 months",
+          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9039,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T18:37:40.305017Z",
+      "latest_at": "2026-10-04T19:37:34.242421Z",
+      "primary_item": {
+        "id": "e0cb8c31c3d3d8e1896f6afbce4723e7329866d6",
+        "title": "AI 数据中心成本每 12 个月就会翻一番——行业需要 6 万亿美元的年收入才能避免严重崩溃 / AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
+        "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_15746db54804",
+      "title": "利他主义如何有效地征服了世界（并且可能会结束它） / How effective altruism conquered the world (and might yet end it)",
+      "url": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
+      "primary_url": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "510eb6c2c98818daa79422ee8869f57f9d8a3cb7",
+          "title": "利他主义如何有效地征服了世界（并且可能会结束它） / How effective altruism conquered the world (and might yet end it)",
+          "url": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T13:30:49Z"
+        },
+        {
+          "id": "586f6ede7864b316d30001566c0553dfd4d20785",
+          "title": "有效利他主义的演变 / The evolution of effective altruism",
+          "url": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T13:30:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "510eb6c2c98818daa79422ee8869f57f9d8a3cb7",
+          "title": "利他主义如何有效地征服了世界（并且可能会结束它） / How effective altruism conquered the world (and might yet end it)",
+          "url": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T13:30:49Z"
+        },
+        {
+          "id": "586f6ede7864b316d30001566c0553dfd4d20785",
+          "title": "有效利他主义的演变 / The evolution of effective altruism",
+          "url": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T13:30:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5147,
+      "importance": 0.5147,
+      "importance_score": 0.5147,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8275,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T13:30:49Z",
+      "latest_at": "2026-10-04T13:30:49Z",
+      "primary_item": {
+        "id": "510eb6c2c98818daa79422ee8869f57f9d8a3cb7",
+        "title": "利他主义如何有效地征服了世界（并且可能会结束它） / How effective altruism conquered the world (and might yet end it)",
+        "url": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_ece8c53ee233",
+      "title": "ChatGPT 想要取代试衣间。我让它经历了一场“衣橱压力测试”。",
+      "url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10",
+      "primary_url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f423a3a75317396fc599b5992fe6499665e1876e",
+          "title": "ChatGPT 想要取代试衣间。我让它经历了一场“衣橱压力测试”。",
+          "url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T12:26:00.681000Z"
+        },
+        {
+          "id": "f26ea58eb69ee6e26e7213a60dfbf29dc7290fc8",
+          "title": "ChatGPT 想要取代试衣间。我让它经历了一场“衣橱压力测试”。 / I tried ChatGPT’s new try-it-on shopping function. It worked for daily outfits, but couldn't handle a Halloween costume.",
+          "url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T08:11:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "f423a3a75317396fc599b5992fe6499665e1876e",
+          "title": "ChatGPT 想要取代试衣间。我让它经历了一场“衣橱压力测试”。",
+          "url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T12:26:00.681000Z"
+        },
+        {
+          "id": "f26ea58eb69ee6e26e7213a60dfbf29dc7290fc8",
+          "title": "ChatGPT 想要取代试衣间。我让它经历了一场“衣橱压力测试”。 / I tried ChatGPT’s new try-it-on shopping function. It worked for daily outfits, but couldn't handle a Halloween costume.",
+          "url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T08:11:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5124,
+      "importance": 0.5124,
+      "importance_score": 0.5124,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8147,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T08:11:01Z",
+      "latest_at": "2026-10-04T12:26:00.681000Z",
+      "primary_item": {
+        "id": "f423a3a75317396fc599b5992fe6499665e1876e",
+        "title": "ChatGPT 想要取代试衣间。我让它经历了一场“衣橱压力测试”。",
+        "url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
