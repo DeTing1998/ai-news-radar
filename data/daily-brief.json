@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:37:42.004708Z",
+  "generated_at": "2026-10-05T15:37:36.112623Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8904,
-      "importance": 0.8904,
-      "importance_score": 0.8904,
+      "score": 0.888,
+      "importance": 0.888,
+      "importance_score": 0.888,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9353,
+        "recency": 0.922,
         "story_heat": 0.5
       },
       "category": "official",
@@ -105,97 +105,162 @@
       }
     },
     {
-      "story_id": "story_cb4cee0e9eb9",
-      "title": "新泽西州前副州长正在使用人工智能说他没有性骚扰 / NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "story_id": "story_78ad53815846",
+      "title": "OpenAI 阐述其应对欧盟文本溯源规则的方法 / Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "primary_url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "41383479c4a10511f043979bc4fd02e409189d41",
+          "title": "OpenAI 阐述其应对欧盟文本溯源规则的方法 / Our approach to EU text provenance rules",
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:00:00Z"
+        },
+        {
+          "id": "481f7872df54cf106c4cdf04ce110faeae35075a",
+          "title": "OpenAI 阐述其应对欧盟文本溯源规则的方法",
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "41383479c4a10511f043979bc4fd02e409189d41",
+          "title": "OpenAI 阐述其应对欧盟文本溯源规则的方法 / Our approach to EU text provenance rules",
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:00:00Z"
+        },
+        {
+          "id": "481f7872df54cf106c4cdf04ce110faeae35075a",
+          "title": "OpenAI 阐述其应对欧盟文本溯源规则的方法",
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8754,
+      "importance": 0.8754,
+      "importance_score": 0.8754,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.991,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T15:00:00Z",
+      "latest_at": "2026-10-05T15:37:36.112623Z",
+      "primary_item": {
+        "id": "41383479c4a10511f043979bc4fd02e409189d41",
+        "title": "OpenAI 阐述其应对欧盟文本溯源规则的方法 / Our approach to EU text provenance rules",
+        "url": "https://openai.com/index/eu-text-provenance",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ec6a33d8c160",
+      "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
       "source": "The Verge",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "af0d9658ed88e51ee495bd2337dcf600e6d4510d",
-          "title": "新泽西州前副州长正在使用人工智能说他没有性骚扰 / NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+          "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
+          "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
           "source": "The Verge",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-04T16:16:04Z"
+          "published_at": "2026-10-05T13:09:48Z"
         },
         {
-          "id": "110f82ef94d838cd086197b4d34da1c1c6a1890b",
-          "title": "新泽西州副州长告诉 PBS，AI 称他没有实施性骚扰 / NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-04T16:16:04Z"
-        },
-        {
-          "id": "95c2661ef45a2a96dfe84f12bed1c23c7d801117",
-          "title": "嗯，既然AI这么说了，那一定是真的 / Well, if AI said it, it must be true",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-04T16:16:04Z"
+          "id": "b4e193360f4f349951d9bd8fd059a31e76865917",
+          "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
+          "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T14:38:31Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
+        "Engadget",
         "The Verge"
       ],
       "items": [
         {
-          "id": "af0d9658ed88e51ee495bd2337dcf600e6d4510d",
-          "title": "新泽西州前副州长正在使用人工智能说他没有性骚扰 / NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+          "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
+          "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
           "source": "The Verge",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-04T16:16:04Z"
+          "published_at": "2026-10-05T13:09:48Z"
         },
         {
-          "id": "110f82ef94d838cd086197b4d34da1c1c6a1890b",
-          "title": "新泽西州副州长告诉 PBS，AI 称他没有实施性骚扰 / NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-04T16:16:04Z"
-        },
-        {
-          "id": "95c2661ef45a2a96dfe84f12bed1c23c7d801117",
-          "title": "嗯，既然AI这么说了，那一定是真的 / Well, if AI said it, it must be true",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-04T16:16:04Z"
+          "id": "b4e193360f4f349951d9bd8fd059a31e76865917",
+          "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
+          "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T14:38:31Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5908,
-      "importance": 0.5908,
-      "importance_score": 0.5908,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6341,
+      "importance": 0.6341,
+      "importance_score": 0.6341,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.4896,
+        "editorial": 0.5328,
         "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.724,
-        "story_heat": 0.5
+        "ai_relevance": 0.74,
+        "recency": 0.9651,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T16:16:04Z",
-      "latest_at": "2026-10-04T16:16:04Z",
+      "earliest_at": "2026-10-05T13:09:48Z",
+      "latest_at": "2026-10-05T14:38:31Z",
       "primary_item": {
-        "id": "af0d9658ed88e51ee495bd2337dcf600e6d4510d",
-        "title": "新泽西州前副州长正在使用人工智能说他没有性骚扰 / NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+        "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
+        "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
         "source": "The Verge",
         "source_name": "Curated Media"
       }
@@ -291,15 +356,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5843,
-      "importance": 0.5843,
-      "importance_score": 0.5843,
+      "score": 0.5819,
+      "importance": 0.5819,
+      "importance_score": 0.5819,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9362,
+        "recency": 0.9228,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -314,6 +379,104 @@
         "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News (世界新闻)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_f54841473b3f",
+      "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” / Altman: The world should accept some bad things happening for the benefits of AI",
+      "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+      "primary_url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
+          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” / Altman: The world should accept some bad things happening for the benefits of AI",
+          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T15:03:32Z"
+        },
+        {
+          "id": "9e2b31cea340a5d9b1d96baa9307d16547903fe7",
+          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” - Politico",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T22:35:54.184000Z"
+        },
+        {
+          "id": "1cbf93d365f8b0a78be644de7d1c6be7db8ffe79",
+          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生”",
+          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+          "source": "www.politico.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T21:01:58.777000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "news.google.com",
+        "www.politico.com"
+      ],
+      "items": [
+        {
+          "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
+          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” / Altman: The world should accept some bad things happening for the benefits of AI",
+          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T15:03:32Z"
+        },
+        {
+          "id": "9e2b31cea340a5d9b1d96baa9307d16547903fe7",
+          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” - Politico",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T22:35:54.184000Z"
+        },
+        {
+          "id": "1cbf93d365f8b0a78be644de7d1c6be7db8ffe79",
+          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生”",
+          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+          "source": "www.politico.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T21:01:58.777000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5693,
+      "importance": 0.5693,
+      "importance_score": 0.5693,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9918,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T21:01:58.777000Z",
+      "latest_at": "2026-10-05T15:03:32Z",
+      "primary_item": {
+        "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
+        "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” / Altman: The world should accept some bad things happening for the benefits of AI",
+        "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -389,15 +552,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5693,
-      "importance": 0.5693,
-      "importance_score": 0.5693,
+      "score": 0.5667,
+      "importance": 0.5667,
+      "importance_score": 0.5667,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9916,
+        "recency": 0.9774,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -487,15 +650,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5667,
-      "importance": 0.5667,
-      "importance_score": 0.5667,
+      "score": 0.5642,
+      "importance": 0.5642,
+      "importance_score": 0.5642,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9771,
+        "recency": 0.9631,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -510,6 +673,102 @@
         "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
         "source": "www.theguardian.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cb4cee0e9eb9",
+      "title": "新泽西州前副州长正在使用人工智能说他没有性骚扰 / NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "af0d9658ed88e51ee495bd2337dcf600e6d4510d",
+          "title": "新泽西州前副州长正在使用人工智能说他没有性骚扰 / NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-04T16:16:04Z"
+        },
+        {
+          "id": "110f82ef94d838cd086197b4d34da1c1c6a1890b",
+          "title": "新泽西州副州长告诉 PBS，AI 称他没有实施性骚扰 / NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-04T16:16:04Z"
+        },
+        {
+          "id": "95c2661ef45a2a96dfe84f12bed1c23c7d801117",
+          "title": "嗯，既然AI这么说了，那一定是真的 / Well, if AI said it, it must be true",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-04T16:16:04Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "af0d9658ed88e51ee495bd2337dcf600e6d4510d",
+          "title": "新泽西州前副州长正在使用人工智能说他没有性骚扰 / NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-04T16:16:04Z"
+        },
+        {
+          "id": "110f82ef94d838cd086197b4d34da1c1c6a1890b",
+          "title": "新泽西州副州长告诉 PBS，AI 称他没有实施性骚扰 / NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-04T16:16:04Z"
+        },
+        {
+          "id": "95c2661ef45a2a96dfe84f12bed1c23c7d801117",
+          "title": "嗯，既然AI这么说了，那一定是真的 / Well, if AI said it, it must be true",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-04T16:16:04Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5889,
+      "importance": 0.5889,
+      "importance_score": 0.5889,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.7137,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T16:16:04Z",
+      "latest_at": "2026-10-04T16:16:04Z",
+      "primary_item": {
+        "id": "af0d9658ed88e51ee495bd2337dcf600e6d4510d",
+        "title": "新泽西州前副州长正在使用人工智能说他没有性骚扰 / NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -585,15 +844,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5337,
+      "importance": 0.5337,
+      "importance_score": 0.5337,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8053,
+        "recency": 0.7938,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -664,15 +923,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5252,
-      "importance": 0.5252,
-      "importance_score": 0.5252,
+      "score": 0.5229,
+      "importance": 0.5229,
+      "importance_score": 0.5229,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8854,
+        "recency": 0.8727,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -687,85 +946,6 @@
         "url": "https://www.bloomberg.com/news/articles/2026-10-05/schneider-electric-to-acquire-ptc-for-more-than-20-billion",
         "source": "www.bloomberg.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_489333482e18",
-      "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "4a384b11a4fc9ae29008146ef699806023668585",
-          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T05:37:40Z"
-        },
-        {
-          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
-          "title": "佛罗里达州一名女子将克劳德用作日记，然后 Anthropic 向警方报告了一条记录 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T21:29:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "4a384b11a4fc9ae29008146ef699806023668585",
-          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T05:37:40Z"
-        },
-        {
-          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
-          "title": "佛罗里达州一名女子将克劳德用作日记，然后 Anthropic 向警方报告了一条记录 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T21:29:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8781,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T21:29:59Z",
-      "latest_at": "2026-10-05T05:37:40Z",
-      "primary_item": {
-        "id": "4a384b11a4fc9ae29008146ef699806023668585",
-        "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -822,15 +1002,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5234,
-      "importance": 0.5234,
-      "importance_score": 0.5234,
+      "score": 0.5211,
+      "importance": 0.5211,
+      "importance_score": 0.5211,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8755,
+        "recency": 0.863,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -900,15 +1080,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5204,
-      "importance": 0.5204,
-      "importance_score": 0.5204,
+      "score": 0.5182,
+      "importance": 0.5182,
+      "importance_score": 0.5182,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8589,
+        "recency": 0.8466,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -978,15 +1158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5193,
-      "importance": 0.5193,
-      "importance_score": 0.5193,
+      "score": 0.5171,
+      "importance": 0.5171,
+      "importance_score": 0.5171,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8529,
+        "recency": 0.8406,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1057,15 +1237,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5133,
-      "importance": 0.5133,
-      "importance_score": 0.5133,
+      "score": 0.5112,
+      "importance": 0.5112,
+      "importance_score": 0.5112,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8196,
+        "recency": 0.8078,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1136,15 +1316,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9821,
+        "recency": 0.968,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1215,15 +1395,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5108,
-      "importance": 0.5108,
-      "importance_score": 0.5108,
+      "score": 0.5087,
+      "importance": 0.5087,
+      "importance_score": 0.5087,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8054,
+        "recency": 0.7939,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1238,6 +1418,85 @@
         "url": "https://www.editui.app",
         "source": "www.editui.app",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_489333482e18",
+      "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "4a384b11a4fc9ae29008146ef699806023668585",
+          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T05:37:40Z"
+        },
+        {
+          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
+          "title": "佛罗里达州一名女子将克劳德用作日记，然后 Anthropic 向警方报告了一条记录 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T21:29:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "4a384b11a4fc9ae29008146ef699806023668585",
+          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T05:37:40Z"
+        },
+        {
+          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
+          "title": "佛罗里达州一名女子将克劳德用作日记，然后 Anthropic 向警方报告了一条记录 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T21:29:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5216,
+      "importance": 0.5216,
+      "importance_score": 0.5216,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8656,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T21:29:59Z",
+      "latest_at": "2026-10-05T05:37:40Z",
+      "primary_item": {
+        "id": "4a384b11a4fc9ae29008146ef699806023668585",
+        "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1294,15 +1553,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
+      "score": 0.5216,
+      "importance": 0.5216,
+      "importance_score": 0.5216,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8781,
+        "recency": 0.8655,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1372,15 +1631,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5198,
-      "importance": 0.5198,
-      "importance_score": 0.5198,
+      "score": 0.5176,
+      "importance": 0.5176,
+      "importance_score": 0.5176,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8556,
+        "recency": 0.8434,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1450,15 +1709,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5185,
-      "importance": 0.5185,
-      "importance_score": 0.5185,
+      "score": 0.5163,
+      "importance": 0.5163,
+      "importance_score": 0.5163,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8481,
+        "recency": 0.836,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1473,243 +1732,6 @@
         "url": "https://www.v2ex.com/t/1246473",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_f54841473b3f",
-      "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9e2b31cea340a5d9b1d96baa9307d16547903fe7",
-          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” - Politico",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T22:35:54.184000Z"
-        },
-        {
-          "id": "1cbf93d365f8b0a78be644de7d1c6be7db8ffe79",
-          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生”",
-          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
-          "source": "www.politico.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T21:01:58.777000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com",
-        "www.politico.com"
-      ],
-      "items": [
-        {
-          "id": "9e2b31cea340a5d9b1d96baa9307d16547903fe7",
-          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” - Politico",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T22:35:54.184000Z"
-        },
-        {
-          "id": "1cbf93d365f8b0a78be644de7d1c6be7db8ffe79",
-          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生”",
-          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
-          "source": "www.politico.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T21:01:58.777000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5086,
-      "importance": 0.5086,
-      "importance_score": 0.5086,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7934,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T21:01:58.777000Z",
-      "latest_at": "2026-10-04T22:35:54.184000Z",
-      "primary_item": {
-        "id": "9e2b31cea340a5d9b1d96baa9307d16547903fe7",
-        "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” - Politico",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4c94ef1906d2",
-      "title": "欧洲新晋机器人领域独角兽：德国RobCo估值突破10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
-      "primary_url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
-          "title": "欧洲新晋机器人领域独角兽：德国RobCo估值突破10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T11:13:51Z"
-        },
-        {
-          "id": "734f4d6c940895063ba652a764e19dd600662efb",
-          "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "url": "https://news.ycombinator.com/item?id=49963366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T11:13:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
-          "title": "欧洲新晋机器人领域独角兽：德国RobCo估值突破10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T11:13:51Z"
-        },
-        {
-          "id": "734f4d6c940895063ba652a764e19dd600662efb",
-          "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "url": "https://news.ycombinator.com/item?id=49963366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T11:13:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9521,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T11:13:51Z",
-      "latest_at": "2026-10-05T11:13:51Z",
-      "primary_item": {
-        "id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
-        "title": "欧洲新晋机器人领域独角兽：德国RobCo估值突破10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-        "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_d009543e2257",
-      "title": "萨姆·奥尔特曼表示，为了人工智能的发展，世界“应该接受一些坏事发生”",
-      "url": "https://www.businessinsider.com/sam-altman-says-ai-benefits-outweigh-some-bad-things-happening-2026-10",
-      "primary_url": "https://www.businessinsider.com/sam-altman-says-ai-benefits-outweigh-some-bad-things-happening-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d614fa85713d25d33c1a9320035eeed90cf51241",
-          "title": "萨姆·奥尔特曼表示，为了人工智能的发展，世界“应该接受一些坏事发生”",
-          "url": "https://www.businessinsider.com/sam-altman-says-ai-benefits-outweigh-some-bad-things-happening-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T21:17:56.527000Z"
-        },
-        {
-          "id": "3f7cc9813ec8b0f5589eb6ca51e6ead0fbe249d8",
-          "title": "萨姆·奥尔特曼表示，为了人工智能的发展，世界“应该接受一些坏事发生” / Sam Altman said 'the world should accept some bad things happening' for the benefits of AI",
-          "url": "https://www.businessinsider.com/sam-altman-says-ai-benefits-outweigh-some-bad-things-happening-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-04T21:01:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "d614fa85713d25d33c1a9320035eeed90cf51241",
-          "title": "萨姆·奥尔特曼表示，为了人工智能的发展，世界“应该接受一些坏事发生”",
-          "url": "https://www.businessinsider.com/sam-altman-says-ai-benefits-outweigh-some-bad-things-happening-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T21:17:56.527000Z"
-        },
-        {
-          "id": "3f7cc9813ec8b0f5589eb6ca51e6ead0fbe249d8",
-          "title": "萨姆·奥尔特曼表示，为了人工智能的发展，世界“应该接受一些坏事发生” / Sam Altman said 'the world should accept some bad things happening' for the benefits of AI",
-          "url": "https://www.businessinsider.com/sam-altman-says-ai-benefits-outweigh-some-bad-things-happening-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-04T21:01:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5059,
-      "importance": 0.5059,
-      "importance_score": 0.5059,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7786,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T21:01:01Z",
-      "latest_at": "2026-10-04T21:17:56.527000Z",
-      "primary_item": {
-        "id": "d614fa85713d25d33c1a9320035eeed90cf51241",
-        "title": "萨姆·奥尔特曼表示，为了人工智能的发展，世界“应该接受一些坏事发生”",
-        "url": "https://www.businessinsider.com/sam-altman-says-ai-benefits-outweigh-some-bad-things-happening-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
