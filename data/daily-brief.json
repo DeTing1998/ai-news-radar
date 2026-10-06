@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T03:37:32.700369Z",
+  "generated_at": "2026-10-06T04:37:33.219884Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.872,
-      "importance": 0.872,
-      "importance_score": 0.872,
+      "score": 0.8698,
+      "importance": 0.8698,
+      "importance_score": 0.8698,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8333,
+        "recency": 0.8214,
         "story_heat": 0.5
       },
       "category": "official",
@@ -101,68 +101,6 @@
         "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules",
         "url": "https://openai.com/index/eu-text-provenance",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_33658ec816ee",
-      "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T22:42:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T22:42:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9314,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-05T22:42:14Z",
-      "latest_at": "2026-10-05T22:42:14Z",
-      "primary_item": {
-        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-        "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -239,15 +177,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8616,
-      "importance": 0.8616,
-      "importance_score": 0.8616,
+      "score": 0.8596,
+      "importance": 0.8596,
+      "importance_score": 0.8596,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7753,
+        "recency": 0.7642,
         "story_heat": 0.5
       },
       "category": "official",
@@ -264,6 +202,68 @@
         "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
         "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_33658ec816ee",
+      "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.918,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T22:42:14Z",
+      "latest_at": "2026-10-05T22:42:14Z",
+      "primary_item": {
+        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+        "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -302,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
+      "score": 0.82,
+      "importance": 0.82,
+      "importance_score": 0.82,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8454,
+        "recency": 0.8333,
         "story_heat": 0.0
       },
       "category": "official",
@@ -402,15 +402,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8098,
+      "importance": 0.8098,
+      "importance_score": 0.8098,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8689,
+        "recency": 0.8564,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -483,15 +483,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.896,
+        "recency": 0.8831,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -545,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.7622,
+      "importance": 0.7622,
+      "importance_score": 0.7622,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9843,
+        "recency": 0.9702,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -606,15 +606,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9531,
+        "recency": 0.9394,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -686,22 +686,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9483,
+        "recency": 0.9347,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-05T23:56:47Z",
       "latest_at": "2026-10-06T00:37:35.243414Z",
@@ -766,15 +765,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6167,
-      "importance": 0.6167,
-      "importance_score": 0.6167,
+      "score": 0.6143,
+      "importance": 0.6143,
+      "importance_score": 0.6143,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9376,
+        "recency": 0.9242,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -845,15 +844,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6065,
-      "importance": 0.6065,
-      "importance_score": 0.6065,
+      "score": 0.6044,
+      "importance": 0.6044,
+      "importance_score": 0.6044,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.8115,
+        "recency": 0.7999,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -943,15 +942,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.567,
-      "importance": 0.567,
-      "importance_score": 0.567,
+      "score": 0.5644,
+      "importance": 0.5644,
+      "importance_score": 0.5644,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9787,
+        "recency": 0.9646,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1041,15 +1040,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5624,
-      "importance": 0.5624,
-      "importance_score": 0.5624,
+      "score": 0.56,
+      "importance": 0.56,
+      "importance_score": 0.56,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9535,
+        "recency": 0.9398,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1139,15 +1138,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5572,
-      "importance": 0.5572,
-      "importance_score": 0.5572,
+      "score": 0.5549,
+      "importance": 0.5549,
+      "importance_score": 0.5549,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9247,
+        "recency": 0.9114,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1161,6 +1160,84 @@
         "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
         "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
         "source": "www.vals.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_bcc8dc586a6b",
+      "title": "Anthropic 向澳大利亚方面表示，该公司对要求报告人工智能代理遭黑客攻击的法律持开放态度",
+      "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+      "primary_url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8390f1510db62bb98c349eb4d4ddf5923f26d070",
+          "title": "Anthropic 向澳大利亚方面表示，该公司对要求报告人工智能代理遭黑客攻击的法律持开放态度",
+          "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T03:44:01.906000Z"
+        },
+        {
+          "id": "858a34398eb0617ee018966044eb2a8b662253b9",
+          "title": "澳大利亚ABC电视台拒绝接受针对人工智能的版权豁免条款，认为该条款已被废除",
+          "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T00:19:39.724000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "8390f1510db62bb98c349eb4d4ddf5923f26d070",
+          "title": "Anthropic 向澳大利亚方面表示，该公司对要求报告人工智能代理遭黑客攻击的法律持开放态度",
+          "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T03:44:01.906000Z"
+        },
+        {
+          "id": "858a34398eb0617ee018966044eb2a8b662253b9",
+          "title": "澳大利亚ABC电视台拒绝接受针对人工智能的版权豁免条款，认为该条款已被废除",
+          "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T00:19:39.724000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9872,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T00:19:39.724000Z",
+      "latest_at": "2026-10-06T03:44:01.906000Z",
+      "primary_item": {
+        "id": "8390f1510db62bb98c349eb4d4ddf5923f26d070",
+        "title": "Anthropic 向澳大利亚方面表示，该公司对要求报告人工智能代理遭黑客攻击的法律持开放态度",
+        "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+        "source": "www.reuters.com",
         "source_name": "Buzzing"
       }
     },
@@ -1237,15 +1314,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8578,
+        "recency": 0.8455,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1335,15 +1412,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.544,
-      "importance": 0.544,
-      "importance_score": 0.544,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8512,
+        "recency": 0.839,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1433,15 +1510,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.5408,
+      "importance": 0.5408,
+      "importance_score": 0.5408,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8455,
+        "recency": 0.8333,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1512,15 +1589,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1535,85 +1612,6 @@
         "url": "https://www.huxiu.com/article/4895490.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_a350ea261050",
-      "title": "AI tutoring with Khanmigo in a two-year school experiment",
-      "url": "https://edworkingpapers.com/ai26-1551",
-      "primary_url": "https://edworkingpapers.com/ai26-1551",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "e2399e6edde98fba848c3ff490a06f209f3cba34",
-          "title": "AI tutoring with Khanmigo in a two-year school experiment",
-          "url": "https://edworkingpapers.com/ai26-1551",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-06T00:00:45Z"
-        },
-        {
-          "id": "524dc7139f27489f87eb2f98f304fb9e3e0e35d4",
-          "title": "AI tutoring with Khanmigo in a two-year school experiment",
-          "url": "https://news.ycombinator.com/item?id=49972419",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T00:00:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e2399e6edde98fba848c3ff490a06f209f3cba34",
-          "title": "AI tutoring with Khanmigo in a two-year school experiment",
-          "url": "https://edworkingpapers.com/ai26-1551",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-06T00:00:45Z"
-        },
-        {
-          "id": "524dc7139f27489f87eb2f98f304fb9e3e0e35d4",
-          "title": "AI tutoring with Khanmigo in a two-year school experiment",
-          "url": "https://news.ycombinator.com/item?id=49972419",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T00:00:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9492,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-06T00:00:45Z",
-      "latest_at": "2026-10-06T00:00:45Z",
-      "primary_item": {
-        "id": "e2399e6edde98fba848c3ff490a06f209f3cba34",
-        "title": "AI tutoring with Khanmigo in a two-year school experiment",
-        "url": "https://edworkingpapers.com/ai26-1551",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1689,15 +1687,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8099,
+        "recency": 0.7983,
         "story_heat": 0.5
       },
       "category": "multi_source",
