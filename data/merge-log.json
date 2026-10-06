@@ -1,22 +1,8 @@
 {
-  "generated_at": "2026-10-06T09:37:34.940596Z",
+  "generated_at": "2026-10-06T10:37:37.364358Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 45,
+  "total_events": 42,
   "events": [
-    {
-      "story_id": "story_3cbec84de8bf",
-      "item_id": "482a94c9a2f5ac0861875dee9f7762bffeb78af5",
-      "merged_into": "story_3cbec84de8bf",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_167cd458b675",
-      "item_id": "51f23ad70b7cf3d68c3eca6c3ad4060308b4e374",
-      "merged_into": "story_167cd458b675",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
     {
       "story_id": "story_bcde6fb3496e",
       "item_id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
@@ -28,13 +14,6 @@
       "story_id": "story_bcde6fb3496e",
       "item_id": "df0933b217a6a24df270d279da5b6902e306e78b",
       "merged_into": "story_bcde6fb3496e",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_3cbec84de8bf",
-      "item_id": "d151d9421c1a5d0ee339a004743b10c8eb02dcc3",
-      "merged_into": "story_3cbec84de8bf",
       "reason": "canonical_url",
       "similarity": 1.0
     },
@@ -179,13 +158,6 @@
       "similarity": 1.0
     },
     {
-      "story_id": "story_ebdbe868a594",
-      "item_id": "539723ae370c4e3ff112321bee8d539ee4a84d52",
-      "merged_into": "story_ebdbe868a594",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
       "story_id": "story_c261b367674c",
       "item_id": "b9cce64702b428ed6b77b6eb564b9ff76d066eb2",
       "merged_into": "story_c261b367674c",
@@ -308,6 +280,13 @@
       "story_id": "story_e0fecada5899",
       "item_id": "1f0dc42561415124bab43cb6716493cc4f1f41c1",
       "merged_into": "story_e0fecada5899",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_ebdbe868a594",
+      "item_id": "401d9cf4a13d6bdd85d9b3b347b74ce445ea5f9f",
+      "merged_into": "story_ebdbe868a594",
       "reason": "canonical_url",
       "similarity": 1.0
     },
