@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T05:37:33.935051Z",
+  "generated_at": "2026-10-06T06:37:39.501431Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8677,
-      "importance": 0.8677,
-      "importance_score": 0.8677,
+      "score": 0.8656,
+      "importance": 0.8656,
+      "importance_score": 0.8656,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8096,
+        "recency": 0.798,
         "story_heat": 0.5
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8576,
-      "importance": 0.8576,
-      "importance_score": 0.8576,
+      "score": 0.8556,
+      "importance": 0.8556,
+      "importance_score": 0.8556,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7532,
+        "recency": 0.7424,
         "story_heat": 0.5
       },
       "category": "official",
@@ -240,15 +240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
+      "score": 0.8245,
+      "importance": 0.8245,
+      "importance_score": 0.8245,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9049,
+        "recency": 0.8919,
         "story_heat": 0.0
       },
       "category": "official",
@@ -302,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8178,
-      "importance": 0.8178,
-      "importance_score": 0.8178,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8213,
+        "recency": 0.8095,
         "story_heat": 0.0
       },
       "category": "official",
@@ -402,15 +402,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
+      "score": 0.8054,
+      "importance": 0.8054,
+      "importance_score": 0.8054,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8441,
+        "recency": 0.832,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -426,6 +426,128 @@
         "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
         "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
         "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9bac19027c44",
+      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+      "url": "https://www.ithome.com/1/009/990.htm",
+      "primary_url": "https://www.ithome.com/1/009/990.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
+          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "url": "https://www.ithome.com/1/009/990.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:25:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
+          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "url": "https://www.ithome.com/1/009/990.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:25:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7911,
+      "importance": 0.7911,
+      "importance_score": 0.7911,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.997,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T06:25:15Z",
+      "latest_at": "2026-10-06T06:25:15Z",
+      "primary_item": {
+        "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
+        "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+        "url": "https://www.ithome.com/1/009/990.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f4d22d610773",
+      "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+      "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
+          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T05:47:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
+          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T05:47:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9879,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T05:47:05Z",
+      "latest_at": "2026-10-06T05:47:05Z",
+      "primary_item": {
+        "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
+        "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+        "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -483,15 +605,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8705,
+        "recency": 0.858,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -545,15 +667,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9563,
+        "recency": 0.9426,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -606,21 +728,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.926,
+        "recency": 0.9127,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-06T00:18:00Z",
       "latest_at": "2026-10-06T00:18:00Z",
@@ -686,15 +807,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9213,
+        "recency": 0.908,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -765,15 +886,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6119,
-      "importance": 0.6119,
-      "importance_score": 0.6119,
+      "score": 0.6096,
+      "importance": 0.6096,
+      "importance_score": 0.6096,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9109,
+        "recency": 0.8978,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -844,15 +965,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6024,
-      "importance": 0.6024,
-      "importance_score": 0.6024,
+      "score": 0.6003,
+      "importance": 0.6003,
+      "importance_score": 0.6003,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.7884,
+        "recency": 0.7771,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -867,6 +988,102 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
         "source": "The Verge",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_bcc8dc586a6b",
+      "title": "OpenAI 和 Anthropic 向澳大利亚方面表示，它们欢迎制定数据泄露相关规定",
+      "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+      "primary_url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "109b8444f09297fb8671475ef0b81db8019b74d0",
+          "title": "OpenAI 和 Anthropic 向澳大利亚方面表示，它们欢迎制定数据泄露相关规定",
+          "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T06:06:12.799000Z"
+        },
+        {
+          "id": "8390f1510db62bb98c349eb4d4ddf5923f26d070",
+          "title": "Anthropic 向澳大利亚方面表示，该公司对要求报告人工智能代理遭黑客攻击的法律持开放态度",
+          "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T03:44:01.906000Z"
+        },
+        {
+          "id": "858a34398eb0617ee018966044eb2a8b662253b9",
+          "title": "澳大利亚ABC电视台拒绝接受针对人工智能的版权豁免条款，认为该条款已被废除",
+          "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T00:19:39.724000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "109b8444f09297fb8671475ef0b81db8019b74d0",
+          "title": "OpenAI 和 Anthropic 向澳大利亚方面表示，它们欢迎制定数据泄露相关规定",
+          "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T06:06:12.799000Z"
+        },
+        {
+          "id": "8390f1510db62bb98c349eb4d4ddf5923f26d070",
+          "title": "Anthropic 向澳大利亚方面表示，该公司对要求报告人工智能代理遭黑客攻击的法律持开放态度",
+          "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T03:44:01.906000Z"
+        },
+        {
+          "id": "858a34398eb0617ee018966044eb2a8b662253b9",
+          "title": "澳大利亚ABC电视台拒绝接受针对人工智能的版权豁免条款，认为该条款已被废除",
+          "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T00:19:39.724000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5694,
+      "importance": 0.5694,
+      "importance_score": 0.5694,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9925,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T00:19:39.724000Z",
+      "latest_at": "2026-10-06T06:06:12.799000Z",
+      "primary_item": {
+        "id": "109b8444f09297fb8671475ef0b81db8019b74d0",
+        "title": "OpenAI 和 Anthropic 向澳大利亚方面表示，它们欢迎制定数据泄露相关规定",
+        "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -942,15 +1159,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5619,
-      "importance": 0.5619,
-      "importance_score": 0.5619,
+      "score": 0.5595,
+      "importance": 0.5595,
+      "importance_score": 0.5595,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9508,
+        "recency": 0.9371,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1040,15 +1257,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5575,
-      "importance": 0.5575,
-      "importance_score": 0.5575,
+      "score": 0.5551,
+      "importance": 0.5551,
+      "importance_score": 0.5551,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9263,
+        "recency": 0.913,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1138,15 +1355,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5525,
-      "importance": 0.5525,
-      "importance_score": 0.5525,
+      "score": 0.5502,
+      "importance": 0.5502,
+      "importance_score": 0.5502,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8983,
+        "recency": 0.8854,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1164,275 +1381,80 @@
       }
     },
     {
-      "story_id": "story_bcc8dc586a6b",
-      "title": "Anthropic 向澳大利亚方面表示，该公司对要求报告人工智能代理遭黑客攻击的法律持开放态度",
-      "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
-      "primary_url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
-      "source": "www.reuters.com",
+      "story_id": "story_e0fecada5899",
+      "title": "OpenAI承认对澳大利亚政府黑客攻击事件的应对“不够好”",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+      "source": "www.bbc.co.uk",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "8390f1510db62bb98c349eb4d4ddf5923f26d070",
-          "title": "Anthropic 向澳大利亚方面表示，该公司对要求报告人工智能代理遭黑客攻击的法律持开放态度",
-          "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
-          "source": "www.reuters.com",
+          "id": "1f0dc42561415124bab43cb6716493cc4f1f41c1",
+          "title": "OpenAI承认对澳大利亚政府黑客攻击事件的应对“不够好”",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-06T03:44:01.906000Z"
+          "published_at": "2026-10-06T06:22:15.872000Z"
         },
         {
-          "id": "858a34398eb0617ee018966044eb2a8b662253b9",
-          "title": "澳大利亚ABC电视台拒绝接受针对人工智能的版权豁免条款，认为该条款已被废除",
-          "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T00:19:39.724000Z"
+          "id": "54da330ee2a8b4110deb1b9015435b7b4b68e81c",
+          "title": "OpenAI承认对澳大利亚政府黑客攻击事件的应对“不够好” / OpenAI admits response to Australian government hacks 'not good enough'",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-06T06:00:53Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "www.reuters.com"
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
       ],
       "items": [
         {
-          "id": "8390f1510db62bb98c349eb4d4ddf5923f26d070",
-          "title": "Anthropic 向澳大利亚方面表示，该公司对要求报告人工智能代理遭黑客攻击的法律持开放态度",
-          "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
-          "source": "www.reuters.com",
+          "id": "1f0dc42561415124bab43cb6716493cc4f1f41c1",
+          "title": "OpenAI承认对澳大利亚政府黑客攻击事件的应对“不够好”",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-06T03:44:01.906000Z"
+          "published_at": "2026-10-06T06:22:15.872000Z"
         },
         {
-          "id": "858a34398eb0617ee018966044eb2a8b662253b9",
-          "title": "澳大利亚ABC电视台拒绝接受针对人工智能的版权豁免条款，认为该条款已被废除",
-          "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T00:19:39.724000Z"
+          "id": "54da330ee2a8b4110deb1b9015435b7b4b68e81c",
+          "title": "OpenAI承认对澳大利亚政府黑客攻击事件的应对“不够好” / OpenAI admits response to Australian government hacks 'not good enough'",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-06T06:00:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.973,
+        "recency": 0.9963,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-06T00:19:39.724000Z",
-      "latest_at": "2026-10-06T03:44:01.906000Z",
+      "earliest_at": "2026-10-06T06:00:53Z",
+      "latest_at": "2026-10-06T06:22:15.872000Z",
       "primary_item": {
-        "id": "8390f1510db62bb98c349eb4d4ddf5923f26d070",
-        "title": "Anthropic 向澳大利亚方面表示，该公司对要求报告人工智能代理遭黑客攻击的法律持开放态度",
-        "url": "https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_489333482e18",
-      "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "source": "www.techspot.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "www.techspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T17:00:08.955000Z"
-        },
-        {
-          "id": "4a384b11a4fc9ae29008146ef699806023668585",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T05:37:40Z"
-        },
-        {
-          "id": "089b77b1224aad2ab4c95eba86c6c0b58b9ca2a6",
-          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "url": "https://news.ycombinator.com/item?id=49961057",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T05:37:40Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.techspot.com"
-      ],
-      "items": [
-        {
-          "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "www.techspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T17:00:08.955000Z"
-        },
-        {
-          "id": "4a384b11a4fc9ae29008146ef699806023668585",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T05:37:40Z"
-        },
-        {
-          "id": "089b77b1224aad2ab4c95eba86c6c0b58b9ca2a6",
-          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "url": "https://news.ycombinator.com/item?id=49961057",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T05:37:40Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5408,
-      "importance": 0.5408,
-      "importance_score": 0.5408,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8334,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T05:37:40Z",
-      "latest_at": "2026-10-05T17:00:08.955000Z",
-      "primary_item": {
-        "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
-        "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-        "source": "www.techspot.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_964c991e5a59",
-      "title": "据BBC报道，五角大楼在将Anthropic公司列入黑名单数月后，已停止使用其人工智能工具",
-      "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c8208047e8bc88404f3572c3c14217c3daff65b6",
-          "title": "据BBC报道，五角大楼在将Anthropic公司列入黑名单数月后，已停止使用其人工智能工具",
-          "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T16:28:00.581000Z"
-        },
-        {
-          "id": "b34d07a64d5b4918b1823d255ffb424bb54171de",
-          "title": "据BBC报道，五角大楼在将Anthropic公司列入黑名单数月后，已停止使用其人工智能工具 / Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-          "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T16:13:21Z"
-        },
-        {
-          "id": "c4305713a3635c5bc2347c28d4cfe1c45ae752d1",
-          "title": "据BBC报道，五角大楼在将Anthropic公司列入黑名单数月后，已停止使用其人工智能工具 / Pentagon stops using Anthropic AI tools months after blacklisting company, BBC told",
-          "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T16:13:21Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BBC News",
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "c8208047e8bc88404f3572c3c14217c3daff65b6",
-          "title": "据BBC报道，五角大楼在将Anthropic公司列入黑名单数月后，已停止使用其人工智能工具",
-          "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T16:28:00.581000Z"
-        },
-        {
-          "id": "b34d07a64d5b4918b1823d255ffb424bb54171de",
-          "title": "据BBC报道，五角大楼在将Anthropic公司列入黑名单数月后，已停止使用其人工智能工具 / Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-          "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T16:13:21Z"
-        },
-        {
-          "id": "c4305713a3635c5bc2347c28d4cfe1c45ae752d1",
-          "title": "据BBC报道，五角大楼在将Anthropic公司列入黑名单数月后，已停止使用其人工智能工具 / Pentagon stops using Anthropic AI tools months after blacklisting company, BBC told",
-          "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T16:13:21Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8269,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T16:13:21Z",
-      "latest_at": "2026-10-05T16:28:00.581000Z",
-      "primary_item": {
-        "id": "c8208047e8bc88404f3572c3c14217c3daff65b6",
-        "title": "据BBC报道，五角大楼在将Anthropic公司列入黑名单数月后，已停止使用其人工智能工具",
-        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+        "id": "1f0dc42561415124bab43cb6716493cc4f1f41c1",
+        "title": "OpenAI承认对澳大利亚政府黑客攻击事件的应对“不够好”",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
         "source": "www.bbc.co.uk",
         "source_name": "Buzzing"
       }
@@ -1510,15 +1532,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8214,
+        "recency": 0.8096,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1589,15 +1611,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1612,104 +1634,6 @@
         "url": "https://www.huxiu.com/article/4895490.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_d0c0677e9fe0",
-      "title": "萨姆·阿尔特曼表示，应接受人工智能带来的“负面影响”，以换取其带来的好处",
-      "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-      "primary_url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-      "source": "www.theguardian.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e4154b27074d62a82954e744ab4324eb729f5d2c",
-          "title": "萨姆·阿尔特曼表示，应接受人工智能带来的“负面影响”，以换取其带来的好处",
-          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T13:01:27.999000Z"
-        },
-        {
-          "id": "313441ca5855513a5033a46fa780b72ba31e092c",
-          "title": "萨姆·阿尔特曼表示，应接受人工智能带来的“负面影响”，以换取其带来的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T12:56:18Z"
-        },
-        {
-          "id": "e00066523d9d4c82b121d7adb81af77584db9e33",
-          "title": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "url": "https://news.ycombinator.com/item?id=49964248",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T12:56:18Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "e4154b27074d62a82954e744ab4324eb729f5d2c",
-          "title": "萨姆·阿尔特曼表示，应接受人工智能带来的“负面影响”，以换取其带来的好处",
-          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T13:01:27.999000Z"
-        },
-        {
-          "id": "313441ca5855513a5033a46fa780b72ba31e092c",
-          "title": "萨姆·阿尔特曼表示，应接受人工智能带来的“负面影响”，以换取其带来的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T12:56:18Z"
-        },
-        {
-          "id": "e00066523d9d4c82b121d7adb81af77584db9e33",
-          "title": "萨姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "url": "https://news.ycombinator.com/item?id=49964248",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T12:56:18Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5324,
-      "importance": 0.5324,
-      "importance_score": 0.5324,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7868,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T12:56:18Z",
-      "latest_at": "2026-10-05T13:01:27.999000Z",
-      "primary_item": {
-        "id": "e4154b27074d62a82954e744ab4324eb729f5d2c",
-        "title": "萨姆·阿尔特曼表示，应接受人工智能带来的“负面影响”，以换取其带来的好处",
-        "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-        "source": "www.theguardian.com",
-        "source_name": "Buzzing"
       }
     }
   ]
