@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T15:37:37.500816Z",
+  "generated_at": "2026-10-07T16:37:36.901775Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8777,
-      "importance": 0.8777,
-      "importance_score": 0.8777,
+      "score": 0.8752,
+      "importance": 0.8752,
+      "importance_score": 0.8752,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9594,
+        "recency": 0.9457,
         "story_heat": 0.25
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8598,
-      "importance": 0.8598,
-      "importance_score": 0.8598,
+      "score": 0.8574,
+      "importance": 0.8574,
+      "importance_score": 0.8574,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.949,
+        "recency": 0.9354,
         "story_heat": 0.25
       },
       "category": "official",
@@ -183,9 +183,18 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-10-07T00:00:00Z"
+        },
+        {
+          "id": "00bae69e5124297b2dbc3de160b8f39638600310",
+          "title": "Codex CLI 0.161.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T00:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
         "OpenAI Codex Changelog"
       ],
@@ -198,24 +207,34 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-10-07T00:00:00Z"
+        },
+        {
+          "id": "00bae69e5124297b2dbc3de160b8f39638600310",
+          "title": "Codex CLI 0.161.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T00:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8566,
+      "importance": 0.8566,
+      "importance_score": 0.8566,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.798,
-        "story_heat": 0.0
+        "recency": 0.7865,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
@@ -230,7 +249,7 @@
       }
     },
     {
-      "story_id": "story_2435ebd74585",
+      "story_id": "story_0a7d6e8e8b6e",
       "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
       "primary_url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
@@ -254,12 +273,22 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-10-06T19:57:04Z"
+        },
+        {
+          "id": "4364d812d06656a784274b876c0552eae192480b",
+          "title": "嵌入 Gemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Google DeepMind",
-        "Google DeepMind：Blog（RSS）"
+        "Google DeepMind：Blog（RSS）",
+        "Readhub · AI"
       ],
       "items": [
         {
@@ -279,20 +308,29 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-10-06T19:57:04Z"
+        },
+        {
+          "id": "4364d812d06656a784274b876c0552eae192480b",
+          "title": "嵌入 Gemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8475,
+      "importance": 0.8475,
+      "importance_score": 0.8475,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7527,
-        "story_heat": 0.25
+        "recency": 0.7419,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
@@ -301,13 +339,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-06T19:57:04Z",
+      "earliest_at": "2026-10-06T16:37:39.322103Z",
       "latest_at": "2026-10-06T19:57:04Z",
       "primary_item": {
         "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
         "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
         "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
         "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ad4e14640e35",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "primary_url": "https://openai.com/index/teens-learn-and-plan",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
+          "title": "Helping teens learn, plan, and shape the future of AI",
+          "url": "https://openai.com/index/teens-learn-and-plan",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
+          "title": "Helping teens learn, plan, and shape the future of AI",
+          "url": "https://openai.com/index/teens-learn-and-plan",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9354,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T12:00:00Z",
+      "latest_at": "2026-10-07T12:00:00Z",
+      "primary_item": {
+        "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
+        "title": "Helping teens learn, plan, and shape the future of AI",
+        "url": "https://openai.com/index/teens-learn-and-plan",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -346,15 +446,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8151,
-      "importance": 0.8151,
-      "importance_score": 0.8151,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7947,
+        "recency": 0.7833,
         "story_heat": 0.0
       },
       "category": "official",
@@ -370,68 +470,6 @@
         "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
         "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_60ef2af305e7",
-      "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "primary_url": "https://openai.com/index/atlassian-partnership",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
-          "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "url": "https://openai.com/index/atlassian-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
-          "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "url": "https://openai.com/index/atlassian-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7109,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T16:00:00Z",
-      "latest_at": "2026-10-06T16:00:00Z",
-      "primary_item": {
-        "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
-        "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-        "url": "https://openai.com/index/atlassian-partnership",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -488,15 +526,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7975,
-      "importance": 0.7975,
-      "importance_score": 0.7975,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9772,
+        "recency": 0.9632,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -606,15 +644,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7865,
-      "importance": 0.7865,
-      "importance_score": 0.7865,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7217,
+        "recency": 0.7114,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -668,15 +706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9877,
+        "recency": 0.9736,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -713,7 +751,7 @@
         },
         {
           "id": "5dafa34c0f3b685ee17b7091f4f4cb94fee1eaf6",
-          "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+          "title": "分享人工智能在数学领域的进展 / Sharing AI progress in mathematics",
           "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
           "source": "Readhub · AI",
           "source_name": "TopHub",
@@ -748,7 +786,7 @@
         },
         {
           "id": "5dafa34c0f3b685ee17b7091f4f4cb94fee1eaf6",
-          "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+          "title": "分享人工智能在数学领域的进展 / Sharing AI progress in mathematics",
           "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
           "source": "Readhub · AI",
           "source_name": "TopHub",
@@ -767,15 +805,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7762,
-      "importance": 0.7762,
-      "importance_score": 0.7762,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7868,
+        "recency": 0.7755,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -829,15 +867,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7562,
+        "recency": 0.7454,
         "story_heat": 0.0
       },
       "category": "official",
@@ -854,6 +892,67 @@
         "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c7de22c7db25",
+      "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
+      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+      "primary_url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+      "source": "Microsoft Research 博客（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "74ccba7acc445f10a7295fa2758bf445780c47b6",
+          "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
+          "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+          "source": "Microsoft Research 博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Microsoft Research 博客（RSS）"
+      ],
+      "items": [
+        {
+          "id": "74ccba7acc445f10a7295fa2758bf445780c47b6",
+          "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
+          "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+          "source": "Microsoft Research 博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.991,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T16:00:00Z",
+      "latest_at": "2026-10-07T16:00:00Z",
+      "primary_item": {
+        "id": "74ccba7acc445f10a7295fa2758bf445780c47b6",
+        "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
+        "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+        "source": "Microsoft Research 博客（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -891,21 +990,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9797,
+        "recency": 0.9656,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-07T14:12:16Z",
       "latest_at": "2026-10-07T14:12:16Z",
@@ -952,15 +1050,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7269,
+        "recency": 0.7164,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1012,15 +1110,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7329,
-      "importance": 0.7329,
-      "importance_score": 0.7329,
+      "score": 0.7307,
+      "importance": 0.7307,
+      "importance_score": 0.7307,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8741,
+        "recency": 0.8615,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1072,15 +1170,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7278,
-      "importance": 0.7278,
-      "importance_score": 0.7278,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.779,
+        "recency": 0.7678,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1151,15 +1249,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5746,
-      "importance": 0.5746,
-      "importance_score": 0.5746,
+      "score": 0.5725,
+      "importance": 0.5725,
+      "importance_score": 0.5725,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8012,
+        "recency": 0.7897,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1177,217 +1275,161 @@
       }
     },
     {
-      "story_id": "story_dabfa79f68b8",
-      "title": "人工智能现已具备自主开发推理硬件的能力",
-      "url": "https://github.com/FeSens/openTPU",
-      "primary_url": "https://github.com/FeSens/openTPU",
-      "source": "github.com",
+      "story_id": "story_808e4891f6cc",
+      "title": "学习AI/ML知识的最佳书籍/课程/频道，助你实现跨越式进步",
+      "url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
+      "primary_url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
+      "source": "lobste.rs",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "3ede777bc6d0b520f5ec5d83137837e17d982673",
-          "title": "人工智能现已具备自主开发推理硬件的能力",
-          "url": "https://github.com/FeSens/openTPU",
-          "source": "github.com",
+          "id": "3001a6eaff3a2ed2d76b2b0a3baccfdb83879db7",
+          "title": "学习AI/ML知识的最佳书籍/课程/频道，助你实现跨越式进步",
+          "url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
+          "source": "lobste.rs",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-06T18:01:39.389000Z"
+          "published_at": "2026-10-07T16:07:00.425000Z"
         },
         {
-          "id": "1f643356d4cdebecfdd70f7418de8d91b15f02d2",
-          "title": "人工智能现已具备自主开发推理硬件的能力 / AI is now capable of developing its own inference hardware",
-          "url": "https://github.com/FeSens/openTPU",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T16:23:25Z"
-        },
-        {
-          "id": "0037790cff8d48387ebf03de29405516e8ea6128",
-          "title": "人工智能现在能够开发自己的推理硬件 / AI is now capable of developing its own inference hardware",
-          "url": "https://news.ycombinator.com/item?id=49980715",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T16:23:25Z"
-        },
-        {
-          "id": "731d73c763c63e5b5ecfa6fdbc9e0a62d06c3d38",
-          "title": "人工智能现已具备自主开发推理硬件的能力 / OpenTPU – An open-source AI accelerator, developed by AI",
-          "url": "https://github.com/FeSens/openTPU",
-          "source": "Hacker News (黑客新闻)",
+          "id": "ba0decc739adb27e932fe6b067fe57af8117cba1",
+          "title": "学习AI/ML知识的最佳书籍/课程/频道，助你实现跨越式进步 / Best Books/Courses/Channels to Leapfrog on AI/ML Material",
+          "url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
+          "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-06T16:23:25Z"
-        },
-        {
-          "id": "c5bb1d457e33ae23c569768bcaff837dd8bd1191",
-          "title": "OpenTPU – 开源人工智能加速器，由 AI 开发 / OpenTPU – An open-source AI accelerator, developed by AI",
-          "url": "https://news.ycombinator.com/item?id=49980715",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T16:23:25Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3ede777bc6d0b520f5ec5d83137837e17d982673",
-          "title": "人工智能现已具备自主开发推理硬件的能力",
-          "url": "https://github.com/FeSens/openTPU",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T18:01:39.389000Z"
-        },
-        {
-          "id": "1f643356d4cdebecfdd70f7418de8d91b15f02d2",
-          "title": "人工智能现已具备自主开发推理硬件的能力 / AI is now capable of developing its own inference hardware",
-          "url": "https://github.com/FeSens/openTPU",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T16:23:25Z"
-        },
-        {
-          "id": "0037790cff8d48387ebf03de29405516e8ea6128",
-          "title": "人工智能现在能够开发自己的推理硬件 / AI is now capable of developing its own inference hardware",
-          "url": "https://news.ycombinator.com/item?id=49980715",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T16:23:25Z"
-        },
-        {
-          "id": "731d73c763c63e5b5ecfa6fdbc9e0a62d06c3d38",
-          "title": "人工智能现已具备自主开发推理硬件的能力 / OpenTPU – An open-source AI accelerator, developed by AI",
-          "url": "https://github.com/FeSens/openTPU",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-06T16:23:25Z"
-        },
-        {
-          "id": "c5bb1d457e33ae23c569768bcaff837dd8bd1191",
-          "title": "OpenTPU – 开源人工智能加速器，由 AI 开发 / OpenTPU – An open-source AI accelerator, developed by AI",
-          "url": "https://news.ycombinator.com/item?id=49980715",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T16:23:25Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5726,
-      "importance": 0.5726,
-      "importance_score": 0.5726,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.732,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-06T16:23:25Z",
-      "latest_at": "2026-10-06T18:01:39.389000Z",
-      "primary_item": {
-        "id": "3ede777bc6d0b520f5ec5d83137837e17d982673",
-        "title": "人工智能现已具备自主开发推理硬件的能力",
-        "url": "https://github.com/FeSens/openTPU",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_083b4a0cd473",
-      "title": "Mistral表示，“Le Chonk”能够与最顶尖的AI模型一较高下",
-      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models",
-      "primary_url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e11f17d1ddffd846f33ef6774b909e33178738bb",
-          "title": "Mistral表示，“Le Chonk”能够与最顶尖的AI模型一较高下",
-          "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-07T15:03:27.244000Z"
-        },
-        {
-          "id": "26c7cb04b21cff364e65c444396d3d1b5234b906",
-          "title": "Mistral表示，“Le Chonk”能够与最顶尖的AI模型一较高下 / Mistral says \"Le Chonk\" can challenge the best AI models",
-          "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-07T14:12:37Z"
+          "published_at": "2026-10-07T14:12:02Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
+        "Lobsters (技术社区)",
+        "lobste.rs"
       ],
       "items": [
         {
-          "id": "e11f17d1ddffd846f33ef6774b909e33178738bb",
-          "title": "Mistral表示，“Le Chonk”能够与最顶尖的AI模型一较高下",
-          "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models",
-          "source": "arstechnica.com",
+          "id": "3001a6eaff3a2ed2d76b2b0a3baccfdb83879db7",
+          "title": "学习AI/ML知识的最佳书籍/课程/频道，助你实现跨越式进步",
+          "url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
+          "source": "lobste.rs",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-07T15:03:27.244000Z"
+          "published_at": "2026-10-07T16:07:00.425000Z"
         },
         {
-          "id": "26c7cb04b21cff364e65c444396d3d1b5234b906",
-          "title": "Mistral表示，“Le Chonk”能够与最顶尖的AI模型一较高下 / Mistral says \"Le Chonk\" can challenge the best AI models",
-          "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-07T14:12:37Z"
+          "id": "ba0decc739adb27e932fe6b067fe57af8117cba1",
+          "title": "学习AI/ML知识的最佳书籍/课程/频道，助你实现跨越式进步 / Best Books/Courses/Channels to Leapfrog on AI/ML Material",
+          "url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-07T14:12:02Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5443,
-      "importance": 0.5443,
-      "importance_score": 0.5443,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9918,
+        "recency": 0.9927,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-07T14:12:37Z",
-      "latest_at": "2026-10-07T15:03:27.244000Z",
+      "earliest_at": "2026-10-07T14:12:02Z",
+      "latest_at": "2026-10-07T16:07:00.425000Z",
       "primary_item": {
-        "id": "e11f17d1ddffd846f33ef6774b909e33178738bb",
-        "title": "Mistral表示，“Le Chonk”能够与最顶尖的AI模型一较高下",
-        "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models",
-        "source": "arstechnica.com",
+        "id": "3001a6eaff3a2ed2d76b2b0a3baccfdb83879db7",
+        "title": "学习AI/ML知识的最佳书籍/课程/频道，助你实现跨越式进步",
+        "url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
+        "source": "lobste.rs",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6598f51df759",
+      "title": "研究显示：Claude、ChatGPT和AI聊天机器人会根据用户财富状况提供不同的购物价格 / Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+      "primary_url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "a051256055d5f765909a28d9e2ce091b56bfeeda",
+          "title": "研究显示：Claude、ChatGPT和AI聊天机器人会根据用户财富状况提供不同的购物价格 / Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-07T16:07:08Z"
+        },
+        {
+          "id": "474b2eeb383fb8ca7c935e1fcbf1fc345035fed7",
+          "title": "研究显示：Claude、ChatGPT和AI聊天机器人会根据用户财富状况提供不同的购物价格",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-07T11:25:09.025000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "a051256055d5f765909a28d9e2ce091b56bfeeda",
+          "title": "研究显示：Claude、ChatGPT和AI聊天机器人会根据用户财富状况提供不同的购物价格 / Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-07T16:07:08Z"
+        },
+        {
+          "id": "474b2eeb383fb8ca7c935e1fcbf1fc345035fed7",
+          "title": "研究显示：Claude、ChatGPT和AI聊天机器人会根据用户财富状况提供不同的购物价格",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-07T11:25:09.025000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9927,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-07T11:25:09.025000Z",
+      "latest_at": "2026-10-07T16:07:08Z",
+      "primary_item": {
+        "id": "a051256055d5f765909a28d9e2ce091b56bfeeda",
+        "title": "研究显示：Claude、ChatGPT和AI聊天机器人会根据用户财富状况提供不同的购物价格 / Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1463,15 +1505,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5442,
-      "importance": 0.5442,
-      "importance_score": 0.5442,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8521,
+        "recency": 0.8399,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1485,104 +1527,6 @@
         "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
         "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
         "source": "www.techspot.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_63dd83a9c459",
-      "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
-      "url": "https://penguin-mail.com",
-      "primary_url": "https://penguin-mail.com",
-      "source": "penguin-mail.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8ae6c107b4a091bb41a84ca2be3e2d0b27176237",
-          "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
-          "url": "https://penguin-mail.com",
-          "source": "penguin-mail.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-07T03:59:52.382000Z"
-        },
-        {
-          "id": "d4ea091e5aff571c131f685fd6b011d10381eb70",
-          "title": "Penguin Mail – 适用于 Linux 且具有 AI 功能的开源 Rust 电子邮件客户端 / Penguin Mail – open-source Rust email client for Linux with AI",
-          "url": "https://news.ycombinator.com/item?id=49984716",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T21:59:43Z"
-        },
-        {
-          "id": "7c02a171a8ae2ef7adb0a24cbbf5940c2f8295c6",
-          "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能 / Penguin Mail – open-source Rust email client for Linux with AI",
-          "url": "https://penguin-mail.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T21:59:43Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "penguin-mail.com"
-      ],
-      "items": [
-        {
-          "id": "8ae6c107b4a091bb41a84ca2be3e2d0b27176237",
-          "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
-          "url": "https://penguin-mail.com",
-          "source": "penguin-mail.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-07T03:59:52.382000Z"
-        },
-        {
-          "id": "d4ea091e5aff571c131f685fd6b011d10381eb70",
-          "title": "Penguin Mail – 适用于 Linux 且具有 AI 功能的开源 Rust 电子邮件客户端 / Penguin Mail – open-source Rust email client for Linux with AI",
-          "url": "https://news.ycombinator.com/item?id=49984716",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T21:59:43Z"
-        },
-        {
-          "id": "7c02a171a8ae2ef7adb0a24cbbf5940c2f8295c6",
-          "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能 / Penguin Mail – open-source Rust email client for Linux with AI",
-          "url": "https://penguin-mail.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T21:59:43Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8454,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-06T21:59:43Z",
-      "latest_at": "2026-10-07T03:59:52.382000Z",
-      "primary_item": {
-        "id": "8ae6c107b4a091bb41a84ca2be3e2d0b27176237",
-        "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
-        "url": "https://penguin-mail.com",
-        "source": "penguin-mail.com",
         "source_name": "Buzzing"
       }
     }
