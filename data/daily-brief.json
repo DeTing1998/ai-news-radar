@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:37:35.717714Z",
+  "generated_at": "2026-10-08T16:37:39.488434Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -113,15 +113,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8703,
-      "importance": 0.8703,
-      "importance_score": 0.8703,
+      "score": 0.8685,
+      "importance": 0.8685,
+      "importance_score": 0.8685,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7319,
+        "recency": 0.7214,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -141,21 +141,122 @@
       }
     },
     {
-      "story_id": "story_351ffe6737f3",
-      "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-      "primary_url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+      "story_id": "story_077dea1e8a7a",
+      "title": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群 / Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "primary_url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "595f5594a8cd13b83071f2d99b296e326515563a",
+          "title": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群 / Disrupting AI-enabled “false front” operations",
+          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T00:00:00Z"
+        },
+        {
+          "id": "ab3285ce4a0b575ecedef7fb5d86cda44d77b262",
+          "title": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群",
+          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T00:00:00Z"
+        },
+        {
+          "id": "f5ec05aed2a7d10bc79933bcfe36c9e3e1338ad8",
+          "title": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群 / OpenAI disrupts AI-enabled 'false front' influence operations",
+          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "595f5594a8cd13b83071f2d99b296e326515563a",
+          "title": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群 / Disrupting AI-enabled “false front” operations",
+          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T00:00:00Z"
+        },
+        {
+          "id": "ab3285ce4a0b575ecedef7fb5d86cda44d77b262",
+          "title": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群",
+          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T00:00:00Z"
+        },
+        {
+          "id": "f5ec05aed2a7d10bc79933bcfe36c9e3e1338ad8",
+          "title": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群 / OpenAI disrupts AI-enabled 'false front' influence operations",
+          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8636,
+      "importance": 0.8636,
+      "importance_score": 0.8636,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7865,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T00:00:00Z",
+      "latest_at": "2026-10-08T16:37:39.488434Z",
+      "primary_item": {
+        "id": "595f5594a8cd13b83071f2d99b296e326515563a",
+        "title": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群 / Disrupting AI-enabled “false front” operations",
+        "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_71ebc92c009c",
+      "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+      "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+      "primary_url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
-          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+          "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
+          "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+          "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T14:25:53Z"
+          "published_at": "2026-10-08T16:00:56Z"
         }
       ],
       "source_count": 1,
@@ -164,26 +265,26 @@
       ],
       "items": [
         {
-          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
-          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+          "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
+          "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+          "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T14:25:53Z"
+          "published_at": "2026-10-08T16:00:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8409,
-      "importance": 0.8409,
-      "importance_score": 0.8409,
+      "score": 0.8424,
+      "importance": 0.8424,
+      "importance_score": 0.8424,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9829,
+        "recency": 0.9912,
         "story_heat": 0.0
       },
       "category": "official",
@@ -192,12 +293,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T14:25:53Z",
-      "latest_at": "2026-10-08T14:25:53Z",
+      "earliest_at": "2026-10-08T16:00:56Z",
+      "latest_at": "2026-10-08T16:00:56Z",
       "primary_item": {
-        "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
-        "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-        "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+        "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
+        "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+        "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -292,15 +393,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8069,
+        "recency": 0.7953,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -354,15 +455,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 1.0,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8214,
+        "recency": 0.8096,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -381,49 +482,49 @@
       }
     },
     {
-      "story_id": "story_077dea1e8a7a",
-      "title": "破坏人工智能支持的“假面”操作 / Disrupting AI-enabled “false front” operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "primary_url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "source": "OpenAI News",
+      "story_id": "story_351ffe6737f3",
+      "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+      "primary_url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "595f5594a8cd13b83071f2d99b296e326515563a",
-          "title": "破坏人工智能支持的“假面”操作 / Disrupting AI-enabled “false front” operations",
-          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-          "source": "OpenAI News",
+          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
+          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T00:00:00Z"
+          "published_at": "2026-10-08T14:25:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "595f5594a8cd13b83071f2d99b296e326515563a",
-          "title": "破坏人工智能支持的“假面”操作 / Disrupting AI-enabled “false front” operations",
-          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-          "source": "OpenAI News",
+          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
+          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T00:00:00Z"
+          "published_at": "2026-10-08T14:25:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8384,
+      "importance": 0.8384,
+      "importance_score": 0.8384,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.798,
+        "ai_relevance": 0.87,
+        "recency": 0.9688,
         "story_heat": 0.0
       },
       "category": "official",
@@ -432,13 +533,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T00:00:00Z",
-      "latest_at": "2026-10-08T00:00:00Z",
+      "earliest_at": "2026-10-08T14:25:53Z",
+      "latest_at": "2026-10-08T14:25:53Z",
       "primary_item": {
-        "id": "595f5594a8cd13b83071f2d99b296e326515563a",
-        "title": "破坏人工智能支持的“假面”操作 / Disrupting AI-enabled “false front” operations",
-        "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-        "source": "OpenAI News",
+        "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
+        "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+        "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0825a4897dea",
+      "title": "边缘的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3b76b7e104965e4445c3db517168d5090ab13a54",
+          "title": "边缘的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge",
+          "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T16:54:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "3b76b7e104965e4445c3db517168d5090ab13a54",
+          "title": "边缘的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge",
+          "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T16:54:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.71,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T16:54:33Z",
+      "latest_at": "2026-10-07T16:54:33Z",
+      "primary_item": {
+        "id": "3b76b7e104965e4445c3db517168d5090ab13a54",
+        "title": "边缘的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge",
+        "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -496,15 +659,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.963,
+        "recency": 0.9492,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -521,68 +684,6 @@
         "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0825a4897dea",
-      "title": "边缘的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge",
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3b76b7e104965e4445c3db517168d5090ab13a54",
-          "title": "边缘的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge",
-          "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T16:54:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "3b76b7e104965e4445c3db517168d5090ab13a54",
-          "title": "边缘的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge",
-          "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T16:54:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8097,
-      "importance": 0.8097,
-      "importance_score": 0.8097,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7203,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T16:54:33Z",
-      "latest_at": "2026-10-07T16:54:33Z",
-      "primary_item": {
-        "id": "3b76b7e104965e4445c3db517168d5090ab13a54",
-        "title": "边缘的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge",
-        "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -620,15 +721,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
+      "score": 0.7934,
+      "importance": 0.7934,
+      "importance_score": 0.7934,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7292,
+        "recency": 0.7188,
         "story_heat": 0.0
       },
       "category": "official",
@@ -644,68 +745,6 @@
         "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
         "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_86f546df6fb1",
-      "title": "GitHub Copilot 中的克劳德俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
-          "title": "GitHub Copilot 中的克劳德俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T20:12:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
-          "title": "GitHub Copilot 中的克劳德俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T20:12:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.816,
-      "importance": 0.816,
-      "importance_score": 0.816,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7554,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T20:12:18Z",
-      "latest_at": "2026-10-07T20:12:18Z",
-      "primary_item": {
-        "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
-        "title": "GitHub Copilot 中的克劳德俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -781,15 +820,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7398,
+        "recency": 0.7292,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -862,15 +901,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -943,15 +982,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8071,
-      "importance": 0.8071,
-      "importance_score": 0.8071,
+      "score": 0.8048,
+      "importance": 0.8048,
+      "importance_score": 0.8048,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9141,
+        "recency": 0.901,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -971,21 +1010,21 @@
       }
     },
     {
-      "story_id": "story_87f43b6934de",
-      "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-      "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+      "story_id": "story_86f546df6fb1",
+      "title": "GitHub Copilot 中的克劳德俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
-          "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-          "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+          "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
+          "title": "GitHub Copilot 中的克劳德俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:17Z"
+          "published_at": "2026-10-07T20:12:18Z"
         }
       ],
       "source_count": 1,
@@ -994,26 +1033,26 @@
       ],
       "items": [
         {
-          "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
-          "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-          "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+          "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
+          "title": "GitHub Copilot 中的克劳德俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:17Z"
+          "published_at": "2026-10-07T20:12:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7086,
+        "ai_relevance": 0.95,
+        "recency": 0.7446,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1022,14 +1061,194 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-07T15:46:17Z",
-      "latest_at": "2026-10-07T15:46:17Z",
+      "earliest_at": "2026-10-07T20:12:18Z",
+      "latest_at": "2026-10-07T20:12:18Z",
       "primary_item": {
-        "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
-        "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-        "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+        "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
+        "title": "GitHub Copilot 中的克劳德俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a49cf4f91473",
+      "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
+      "url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
+      "primary_url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
+      "source": "Claude：YouTube（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1a3a4140130097b5826407cc03271420f5e3c849",
+          "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
+          "url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
+          "source": "Claude：YouTube（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T15:53:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：YouTube（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1a3a4140130097b5826407cc03271420f5e3c849",
+          "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
+          "url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
+          "source": "Claude：YouTube（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T15:53:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9894,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T15:53:13Z",
+      "latest_at": "2026-10-08T15:53:13Z",
+      "primary_item": {
+        "id": "1a3a4140130097b5826407cc03271420f5e3c849",
+        "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
+        "url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
+        "source": "Claude：YouTube（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_50827233e7bf",
+      "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+      "url": "https://claude.dev/blog/building-effective-agent-automations",
+      "primary_url": "https://claude.dev/blog/building-effective-agent-automations",
+      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
+          "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+          "url": "https://claude.dev/blog/building-effective-agent-automations",
+          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Claude.dev 开发者博客（RSS）"
+      ],
+      "items": [
+        {
+          "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
+          "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+          "url": "https://claude.dev/blog/building-effective-agent-automations",
+          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9354,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T12:00:00Z",
+      "latest_at": "2026-10-08T12:00:00Z",
+      "primary_item": {
+        "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
+        "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+        "url": "https://claude.dev/blog/building-effective-agent-automations",
+        "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2059346474e3",
+      "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
+      "url": "https://x.com/thsottiaux/status/2108040921044639779",
+      "primary_url": "https://x.com/thsottiaux/status/2108040921044639779",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b9798e6758a5964a01c7b0d7599574e0b4e4d825",
+          "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
+          "url": "https://x.com/thsottiaux/status/2108040921044639779",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T03:44:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "b9798e6758a5964a01c7b0d7599574e0b4e4d825",
+          "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
+          "url": "https://x.com/thsottiaux/status/2108040921044639779",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T03:44:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8303,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T03:44:55Z",
+      "latest_at": "2026-10-08T03:44:55Z",
+      "primary_item": {
+        "id": "b9798e6758a5964a01c7b0d7599574e0b4e4d825",
+        "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
+        "url": "https://x.com/thsottiaux/status/2108040921044639779",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1086,15 +1305,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8909,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1111,66 +1330,6 @@
         "url": "https://www.aibase.com/news/31475",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2059346474e3",
-      "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
-      "url": "https://x.com/thsottiaux/status/2108040921044639779",
-      "primary_url": "https://x.com/thsottiaux/status/2108040921044639779",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b9798e6758a5964a01c7b0d7599574e0b4e4d825",
-          "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
-          "url": "https://x.com/thsottiaux/status/2108040921044639779",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T03:44:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "b9798e6758a5964a01c7b0d7599574e0b4e4d825",
-          "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
-          "url": "https://x.com/thsottiaux/status/2108040921044639779",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T03:44:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8424,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T03:44:55Z",
-      "latest_at": "2026-10-08T03:44:55Z",
-      "primary_item": {
-        "id": "b9798e6758a5964a01c7b0d7599574e0b4e4d825",
-        "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
-        "url": "https://x.com/thsottiaux/status/2108040921044639779",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1208,15 +1367,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7285,
-      "importance": 0.7285,
-      "importance_score": 0.7285,
+      "score": 0.7262,
+      "importance": 0.7262,
+      "importance_score": 0.7262,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8829,
+        "recency": 0.8702,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1268,15 +1427,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7276,
-      "importance": 0.7276,
-      "importance_score": 0.7276,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7446,
+        "recency": 0.7339,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1347,15 +1506,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
+      "score": 0.7215,
+      "importance": 0.7215,
+      "importance_score": 0.7215,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.732,
+        "recency": 0.7215,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1371,149 +1530,6 @@
         "url": "https://x.com/claudeai/status/2107894060229034197",
         "source": "X：Claude (@claudeai)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bed5c0dc5940",
-      "title": "谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频",
-      "url": "https://www.aibase.com/news/31476",
-      "primary_url": "https://www.aibase.com/news/31476",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ac8c03bf081f0cf3adffbee7a7867937bb049dd2",
-          "title": "谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频",
-          "url": "https://www.aibase.com/news/31476",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-08T08:37:37.253266Z"
-        },
-        {
-          "id": "03070758f6784a443202c382c76cbf347481a0d1",
-          "title": "谷歌把 AI 搜索塞进手机：EmbeddingGemma2 开源，不到 600MB 断网照样搜图文音视频",
-          "url": "https://www.aibase.com/zh/news/31476",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ac8c03bf081f0cf3adffbee7a7867937bb049dd2",
-          "title": "谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频",
-          "url": "https://www.aibase.com/news/31476",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-08T08:37:37.253266Z"
-        },
-        {
-          "id": "03070758f6784a443202c382c76cbf347481a0d1",
-          "title": "谷歌把 AI 搜索塞进手机：EmbeddingGemma2 开源，不到 600MB 断网照样搜图文音视频",
-          "url": "https://www.aibase.com/zh/news/31476",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T08:37:37.253266Z",
-      "latest_at": "2026-10-08T09:37:38.687163Z",
-      "primary_item": {
-        "id": "ac8c03bf081f0cf3adffbee7a7867937bb049dd2",
-        "title": "谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频",
-        "url": "https://www.aibase.com/news/31476",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cfd130b4e19f",
-      "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
-      "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-      "primary_url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b2ee605dc8cba7b47fafb515839143263ce95ea9",
-          "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
-          "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b2ee605dc8cba7b47fafb515839143263ce95ea9",
-          "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
-          "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7086,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T15:46:13Z",
-      "latest_at": "2026-10-07T15:46:13Z",
-      "primary_item": {
-        "id": "b2ee605dc8cba7b47fafb515839143263ce95ea9",
-        "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
-        "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     }
   ]
