@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T01:37:32.769092Z",
+  "generated_at": "2026-10-08T03:37:34.559022Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -113,15 +113,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8999,
-      "importance": 0.8999,
-      "importance_score": 0.8999,
+      "score": 0.8953,
+      "importance": 0.8953,
+      "importance_score": 0.8953,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8959,
+        "recency": 0.8704,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -194,15 +194,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8545,
-      "importance": 0.8545,
-      "importance_score": 0.8545,
+      "score": 0.8502,
+      "importance": 0.8502,
+      "importance_score": 0.8502,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8304,
+        "recency": 0.8068,
         "story_heat": 0.25
       },
       "category": "official",
@@ -220,6 +220,67 @@
         "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_44905e5e9aed",
+      "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
+      "url": "https://aihot.news/agent?tab=api",
+      "primary_url": "https://aihot.news/agent?tab=api",
+      "source": "AIHOT",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b23efb1ac1501010c365eae2e54ffb4cf0dda3dd",
+          "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
+          "url": "https://aihot.news/agent?tab=api",
+          "source": "AIHOT",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T02:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIHOT"
+      ],
+      "items": [
+        {
+          "id": "b23efb1ac1501010c365eae2e54ffb4cf0dda3dd",
+          "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
+          "url": "https://aihot.news/agent?tab=api",
+          "source": "AIHOT",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T02:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 1.0,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9768,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T02:00:00Z",
+      "latest_at": "2026-10-08T02:00:00Z",
+      "primary_item": {
+        "id": "b23efb1ac1501010c365eae2e54ffb4cf0dda3dd",
+        "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
+        "url": "https://aihot.news/agent?tab=api",
+        "source": "AIHOT",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -257,15 +318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8464,
-      "importance": 0.8464,
-      "importance_score": 0.8464,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9247,
+        "recency": 0.8984,
         "story_heat": 0.0
       },
       "category": "official",
@@ -338,15 +399,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8368,
-      "importance": 0.8368,
-      "importance_score": 0.8368,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8214,
+        "recency": 0.798,
         "story_heat": 0.25
       },
       "category": "official",
@@ -401,15 +462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8926,
+        "recency": 0.8672,
         "story_heat": 0.0
       },
       "category": "official",
@@ -463,15 +524,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8214,
+        "recency": 0.798,
         "story_heat": 0.0
       },
       "category": "official",
@@ -562,15 +623,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.805,
+      "importance": 0.805,
+      "importance_score": 0.805,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9056,
+        "recency": 0.8798,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -624,15 +685,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8817,
+        "recency": 0.8566,
         "story_heat": 0.0
       },
       "category": "official",
@@ -686,15 +747,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8341,
-      "importance": 0.8341,
-      "importance_score": 0.8341,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8674,
+        "recency": 0.8427,
         "story_heat": 0.0
       },
       "category": "official",
@@ -714,26 +775,26 @@
       }
     },
     {
-      "story_id": "story_2d89f70f8a26",
-      "title": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
-      "url": "https://www.aibase.com/news/31448",
-      "primary_url": "https://www.aibase.com/news/31448",
+      "story_id": "story_9a0358c5cce4",
+      "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
+      "url": "https://www.aibase.com/news/31462",
+      "primary_url": "https://www.aibase.com/news/31462",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "709add3cf994b2b37f43e02ea0a8be46de11c76b",
-          "title": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
-          "url": "https://www.aibase.com/news/31448",
+          "id": "dbad19fab84c245daf5823011ebd374e4cbc7d84",
+          "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
+          "url": "https://www.aibase.com/news/31462",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-08T01:37:32.769092Z"
+          "published_at": "2026-10-08T03:37:34.559022Z"
         },
         {
-          "id": "be1ad6549c58b6897334f0369c5ba503a9da0e1d",
-          "title": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超 660 万次",
-          "url": "https://www.aibase.com/zh/news/31448",
+          "id": "a3585e4b48b1e9a1371f83c0760bf83312477839",
+          "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠 AI Agent 收割企业级市场？",
+          "url": "https://www.aibase.com/zh/news/31462",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -747,18 +808,18 @@
       ],
       "items": [
         {
-          "id": "709add3cf994b2b37f43e02ea0a8be46de11c76b",
-          "title": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
-          "url": "https://www.aibase.com/news/31448",
+          "id": "dbad19fab84c245daf5823011ebd374e4cbc7d84",
+          "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
+          "url": "https://www.aibase.com/news/31462",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-08T01:37:32.769092Z"
+          "published_at": "2026-10-08T03:37:34.559022Z"
         },
         {
-          "id": "be1ad6549c58b6897334f0369c5ba503a9da0e1d",
-          "title": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超 660 万次",
-          "url": "https://www.aibase.com/zh/news/31448",
+          "id": "a3585e4b48b1e9a1371f83c0760bf83312477839",
+          "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠 AI Agent 收割企业级市场？",
+          "url": "https://www.aibase.com/zh/news/31462",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -784,12 +845,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T01:37:32.769092Z",
-      "latest_at": "2026-10-08T01:37:32.769092Z",
+      "earliest_at": "2026-10-08T03:37:34.559022Z",
+      "latest_at": "2026-10-08T03:37:34.559022Z",
       "primary_item": {
-        "id": "709add3cf994b2b37f43e02ea0a8be46de11c76b",
-        "title": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
-        "url": "https://www.aibase.com/news/31448",
+        "id": "dbad19fab84c245daf5823011ebd374e4cbc7d84",
+        "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
+        "url": "https://www.aibase.com/news/31462",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -829,15 +890,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7642,
+        "recency": 0.7424,
         "story_heat": 0.0
       },
       "category": "official",
@@ -909,15 +970,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8458,
+        "recency": 0.8217,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -971,15 +1032,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.8237,
+      "importance": 0.8237,
+      "importance_score": 0.8237,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8673,
+        "recency": 0.8426,
         "story_heat": 0.0
       },
       "category": "official",
@@ -999,68 +1060,68 @@
       }
     },
     {
-      "story_id": "story_256862d8f378",
-      "title": "OpenAI首份青少年报告出炉：日均使用不足 15 分钟，家长提醒机制遭质疑",
-      "url": "https://www.aibase.com/news/31454",
-      "primary_url": "https://www.aibase.com/news/31454",
+      "story_id": "story_2d89f70f8a26",
+      "title": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
+      "url": "https://www.aibase.com/news/31448",
+      "primary_url": "https://www.aibase.com/news/31448",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f084f833bc2b153bb1245ae31b8d853f48629d09",
-          "title": "OpenAI首份青少年报告出炉：日均使用不足 15 分钟，家长提醒机制遭质疑",
-          "url": "https://www.aibase.com/news/31454",
+          "id": "709add3cf994b2b37f43e02ea0a8be46de11c76b",
+          "title": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
+          "url": "https://www.aibase.com/news/31448",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-10-08T01:37:32.769092Z"
         },
         {
-          "id": "8febc07b4a30be3e48e5773dd7e73ec068219938",
-          "title": "OpenAI 首份青少年报告：日均使用不足 15 分钟，安全提醒机制遭质疑",
-          "url": "https://www.ithome.com/1/010/358.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-07T23:38:15Z"
+          "id": "be1ad6549c58b6897334f0369c5ba503a9da0e1d",
+          "title": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超 660 万次",
+          "url": "https://www.aibase.com/zh/news/31448",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
         "AIbase",
-        "IT之家 (ITHome)"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "f084f833bc2b153bb1245ae31b8d853f48629d09",
-          "title": "OpenAI首份青少年报告出炉：日均使用不足 15 分钟，家长提醒机制遭质疑",
-          "url": "https://www.aibase.com/news/31454",
+          "id": "709add3cf994b2b37f43e02ea0a8be46de11c76b",
+          "title": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
+          "url": "https://www.aibase.com/news/31448",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-10-08T01:37:32.769092Z"
         },
         {
-          "id": "8febc07b4a30be3e48e5773dd7e73ec068219938",
-          "title": "OpenAI 首份青少年报告：日均使用不足 15 分钟，安全提醒机制遭质疑",
-          "url": "https://www.ithome.com/1/010/358.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-07T23:38:15Z"
+          "id": "be1ad6549c58b6897334f0369c5ba503a9da0e1d",
+          "title": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超 660 万次",
+          "url": "https://www.aibase.com/zh/news/31448",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9715,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1069,12 +1130,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-07T23:38:15Z",
+      "earliest_at": "2026-10-08T01:37:32.769092Z",
       "latest_at": "2026-10-08T01:37:32.769092Z",
       "primary_item": {
-        "id": "f084f833bc2b153bb1245ae31b8d853f48629d09",
-        "title": "OpenAI首份青少年报告出炉：日均使用不足 15 分钟，家长提醒机制遭质疑",
-        "url": "https://www.aibase.com/news/31454",
+        "id": "709add3cf994b2b37f43e02ea0a8be46de11c76b",
+        "title": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
+        "url": "https://www.aibase.com/news/31448",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1114,15 +1175,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8549,
+        "recency": 0.8306,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1175,15 +1236,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9114,
+        "recency": 0.8855,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1236,15 +1297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8988,
+        "recency": 0.8732,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1296,15 +1357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8976,
+        "recency": 0.8721,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1375,15 +1436,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.898,
+        "recency": 0.8724,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1398,66 +1459,6 @@
         "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
         "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
         "source": "Claude Code：GitHub Releases（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2a0372ac5678",
-      "title": "GPT-6 Luna Decisions 上架 OpenRouter",
-      "url": "https://x.com/OpenRouter/status/2107929204142874759",
-      "primary_url": "https://x.com/OpenRouter/status/2107929204142874759",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5f6ad1411daca1cfdaa088277b17c6467c921709",
-          "title": "GPT-6 Luna Decisions 上架 OpenRouter",
-          "url": "https://x.com/OpenRouter/status/2107929204142874759",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T20:21:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "5f6ad1411daca1cfdaa088277b17c6467c921709",
-          "title": "GPT-6 Luna Decisions 上架 OpenRouter",
-          "url": "https://x.com/OpenRouter/status/2107929204142874759",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T20:21:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9266,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-07T20:21:00Z",
-      "latest_at": "2026-10-07T20:21:00Z",
-      "primary_item": {
-        "id": "5f6ad1411daca1cfdaa088277b17c6467c921709",
-        "title": "GPT-6 Luna Decisions 上架 OpenRouter",
-        "url": "https://x.com/OpenRouter/status/2107929204142874759",
-        "source": "X：OpenRouter (@OpenRouter)",
         "source_name": "AI HOT"
       }
     }
