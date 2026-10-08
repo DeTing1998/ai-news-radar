@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T19:37:33.069095Z",
+  "generated_at": "2026-10-08T20:37:34.309757Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8588,
-      "importance": 0.8588,
-      "importance_score": 0.8588,
+      "score": 0.8564,
+      "importance": 0.8564,
+      "importance_score": 0.8564,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.949,
+        "recency": 0.9354,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,87 @@
         "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
         "url": "https://openai.com/index/oracle",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "GPT-6.1 Sol 在 Codex 和 ChatGPT 工作中超快 / GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8bb2bcca184f0ae24fe38357a52ce8612602279b",
+          "title": "法典 CLI 0.162.0 / Codex CLI 0.162.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T00:00:00Z"
+        },
+        {
+          "id": "ea853af1899fb409377ae777f6ac3a71ef793f5f",
+          "title": "GPT-6.1 Sol 在 Codex 和 ChatGPT 工作中超快 / GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "8bb2bcca184f0ae24fe38357a52ce8612602279b",
+          "title": "法典 CLI 0.162.0 / Codex CLI 0.162.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T00:00:00Z"
+        },
+        {
+          "id": "ea853af1899fb409377ae777f6ac3a71ef793f5f",
+          "title": "GPT-6.1 Sol 在 Codex 和 ChatGPT 工作中超快 / GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8486,
+      "importance": 0.8486,
+      "importance_score": 0.8486,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7424,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T00:00:00Z",
+      "latest_at": "2026-10-08T00:00:00Z",
+      "primary_item": {
+        "id": "ea853af1899fb409377ae777f6ac3a71ef793f5f",
+        "title": "GPT-6.1 Sol 在 Codex 和 ChatGPT 工作中超快 / GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -174,15 +255,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8367,
-      "importance": 0.8367,
-      "importance_score": 0.8367,
+      "score": 0.8347,
+      "importance": 0.8347,
+      "importance_score": 0.8347,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7616,
+        "recency": 0.7507,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -236,15 +317,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8349,
-      "importance": 0.8349,
-      "importance_score": 0.8349,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9492,
+        "recency": 0.9356,
         "story_heat": 0.0
       },
       "category": "official",
@@ -336,15 +417,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8576,
-      "importance": 0.8576,
-      "importance_score": 0.8576,
+      "score": 0.8556,
+      "importance": 0.8556,
+      "importance_score": 0.8556,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7532,
+        "recency": 0.7424,
         "story_heat": 0.5
       },
       "category": "official",
@@ -361,68 +442,6 @@
         "title": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群 / Disrupting AI-enabled “false front” operations",
         "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "GPT-6.1 Sol 在 Codex 和 ChatGPT 工作中超快 / GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ea853af1899fb409377ae777f6ac3a71ef793f5f",
-          "title": "GPT-6.1 Sol 在 Codex 和 ChatGPT 工作中超快 / GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "ea853af1899fb409377ae777f6ac3a71ef793f5f",
-          "title": "GPT-6.1 Sol 在 Codex 和 ChatGPT 工作中超快 / GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7532,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T00:00:00Z",
-      "latest_at": "2026-10-08T00:00:00Z",
-      "primary_item": {
-        "id": "ea853af1899fb409377ae777f6ac3a71ef793f5f",
-        "title": "GPT-6.1 Sol 在 Codex 和 ChatGPT 工作中超快 / GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -480,15 +499,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9808,
+        "recency": 0.9668,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -542,15 +561,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.8091,
+      "importance": 0.8091,
+      "importance_score": 0.8091,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 1.0,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7753,
+        "recency": 0.7642,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -603,15 +622,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.831,
-      "importance": 0.831,
-      "importance_score": 0.831,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9277,
+        "recency": 0.9144,
         "story_heat": 0.0
       },
       "category": "official",
@@ -665,15 +684,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
+      "score": 0.8309,
+      "importance": 0.8309,
+      "importance_score": 0.8309,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8957,
+        "recency": 0.8829,
         "story_heat": 0.0
       },
       "category": "official",
@@ -746,15 +765,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
+      "score": 0.7979,
+      "importance": 0.7979,
+      "importance_score": 0.7979,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.909,
+        "recency": 0.8959,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -808,15 +827,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9588,
+        "recency": 0.945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -888,15 +907,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -913,6 +932,67 @@
         "url": "https://www.aibase.com/news/31478",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_170716cf4b08",
+      "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名",
+      "url": "https://x.com/arena/status/2108286973119230096",
+      "primary_url": "https://x.com/arena/status/2108286973119230096",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cb70444289d225259185e111775704de9937833a",
+          "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名",
+          "url": "https://x.com/arena/status/2108286973119230096",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T20:02:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "cb70444289d225259185e111775704de9937833a",
+          "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名",
+          "url": "https://x.com/arena/status/2108286973119230096",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T20:02:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9916,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T20:02:39Z",
+      "latest_at": "2026-10-08T20:02:39Z",
+      "primary_item": {
+        "id": "cb70444289d225259185e111775704de9937833a",
+        "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名",
+        "url": "https://x.com/arena/status/2108286973119230096",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -950,21 +1030,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7598,
+        "recency": 0.7489,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-08T00:36:00Z",
       "latest_at": "2026-10-08T00:36:00Z",
@@ -974,129 +1053,6 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686908&idx=1&sn=29a97b5ff695871a7bf219d3d6bd6487",
         "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_640a55126a35",
-      "title": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index",
-      "url": "https://x.com/arena/status/2108269048467513429",
-      "primary_url": "https://x.com/arena/status/2108269048467513429",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "54131903dfb48d1c0b72245c71ac4111348ce8c7",
-          "title": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index",
-          "url": "https://x.com/arena/status/2108269048467513429",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T18:51:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "54131903dfb48d1c0b72245c71ac4111348ce8c7",
-          "title": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index",
-          "url": "https://x.com/arena/status/2108269048467513429",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T18:51:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.989,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T18:51:25Z",
-      "latest_at": "2026-10-08T18:51:25Z",
-      "primary_item": {
-        "id": "54131903dfb48d1c0b72245c71ac4111348ce8c7",
-        "title": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index",
-        "url": "https://x.com/arena/status/2108269048467513429",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_86f546df6fb1",
-      "title": "GitHub Copilot 中的克劳德俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
-          "title": "GitHub Copilot 中的克劳德俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T20:12:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
-          "title": "GitHub Copilot 中的克劳德俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T20:12:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8083,
-      "importance": 0.8083,
-      "importance_score": 0.8083,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.713,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T20:12:18Z",
-      "latest_at": "2026-10-07T20:12:18Z",
-      "primary_item": {
-        "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
-        "title": "GitHub Copilot 中的克劳德俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1134,15 +1090,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9913,
+        "recency": 0.9771,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1194,15 +1150,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9474,
+        "recency": 0.9339,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1273,15 +1229,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7957,
+      "importance": 0.7957,
+      "importance_score": 0.7957,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8628,
+        "recency": 0.8504,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1297,66 +1253,6 @@
         "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
         "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_50827233e7bf",
-      "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
-      "url": "https://claude.dev/blog/building-effective-agent-automations",
-      "primary_url": "https://claude.dev/blog/building-effective-agent-automations",
-      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
-          "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
-          "url": "https://claude.dev/blog/building-effective-agent-automations",
-          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Claude.dev 开发者博客（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
-          "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
-          "url": "https://claude.dev/blog/building-effective-agent-automations",
-          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8957,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T12:00:00Z",
-      "latest_at": "2026-10-08T12:00:00Z",
-      "primary_item": {
-        "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
-        "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
-        "url": "https://claude.dev/blog/building-effective-agent-automations",
-        "source": "Anthropic：Claude.dev 开发者博客（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1395,15 +1291,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7951,
+        "recency": 0.7837,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1418,6 +1314,147 @@
         "url": "https://x.com/thsottiaux/status/2108040921044639779",
         "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_50827233e7bf",
+      "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+      "url": "https://claude.dev/blog/building-effective-agent-automations",
+      "primary_url": "https://claude.dev/blog/building-effective-agent-automations",
+      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
+          "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+          "url": "https://claude.dev/blog/building-effective-agent-automations",
+          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Claude.dev 开发者博客（RSS）"
+      ],
+      "items": [
+        {
+          "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
+          "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+          "url": "https://claude.dev/blog/building-effective-agent-automations",
+          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7345,
+      "importance": 0.7345,
+      "importance_score": 0.7345,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8829,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T12:00:00Z",
+      "latest_at": "2026-10-08T12:00:00Z",
+      "primary_item": {
+        "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
+        "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+        "url": "https://claude.dev/blog/building-effective-agent-automations",
+        "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a3dfe12459c2",
+      "title": "德国环保搜索引擎Ecosia弃用Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+      "url": "https://www.aibase.com/news/31475",
+      "primary_url": "https://www.aibase.com/news/31475",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2a2f32348124de46ca2daa141e77720879ffa92d",
+          "title": "德国环保搜索引擎Ecosia弃用Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+          "url": "https://www.aibase.com/news/31475",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T08:37:37.253266Z"
+        },
+        {
+          "id": "ba7d15cb96e2197a3f9d50b68e4d12458c927e01",
+          "title": "德国环保搜索引擎 Ecosia 弃用 Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+          "url": "https://www.aibase.com/zh/news/31475",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2a2f32348124de46ca2daa141e77720879ffa92d",
+          "title": "德国环保搜索引擎Ecosia弃用Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+          "url": "https://www.aibase.com/news/31475",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T08:37:37.253266Z"
+        },
+        {
+          "id": "ba7d15cb96e2197a3f9d50b68e4d12458c927e01",
+          "title": "德国环保搜索引擎 Ecosia 弃用 Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+          "url": "https://www.aibase.com/zh/news/31475",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8409,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T08:37:37.253266Z",
+      "latest_at": "2026-10-08T08:37:37.253266Z",
+      "primary_item": {
+        "id": "2a2f32348124de46ca2daa141e77720879ffa92d",
+        "title": "德国环保搜索引擎Ecosia弃用Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+        "url": "https://www.aibase.com/news/31475",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
